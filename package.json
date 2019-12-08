@@ -1,0 +1,22 @@
+{
+  "name": "duolingo-vocab-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "xml2js": "^0.4.22"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "core-js": "^3.4.7",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "scripts": {
+    "build": "npx babel src -d lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
