@@ -7,14 +7,14 @@ tasa,"tax, assess the value of!, (he/she/it) assesses the value of"
 comercio,"trade, business, (I) trade"
 valor,"value, any value, cheek"
 industria,"industry, diligence, ingenuity"
-ejecutivo,"executive"
-deuda,"debt"
+ejecutivo,executive
+deuda,debt
 venta,"sale, hostelry, inn"
-crédito,"credit"
-porcentaje,"percentage"
+crédito,credit
+porcentaje,percentage
 cuentas,"(you) count on, accounts, bills"
 ingresos,"income, admission, admissions"
-fortuna,"fortune"
+fortuna,fortune
 promoción,"promotion, play-off"
 costos,"hashes, costs"
 productos,"products, results"
@@ -26,4 +26,4 @@ economía,"economy, economics, finances"
 económico,"cheaper, economic, inexpensive"
 inversión,"investment, inversion, reversal"
 negociación,"negotiation, deal"
-inflación,"inflation"
+inflación,inflation

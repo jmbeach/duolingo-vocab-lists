@@ -8,7 +8,11 @@ for (let partName in EnglishSpanish) {
         const skill = part[skillName];
         for (let word in skill.words) {
             const data = skill.words[word];
-            csvText += `\n${word},"${data.translations.join(', ')}"`
+            if (data.translations.length === 1) {
+                csvText += `\n${word},${data.translations.join(', ')}`;
+            } else {
+                csvText += `\n${word},"${data.translations.join(', ')}"`;
+            }
         }
 
         fs.writeFileSync('./english-spanish/english-spanish-' + partName + '-' + skillName + '.csv', csvText);
