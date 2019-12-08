@@ -17,6 +17,7 @@
     "regenerator-runtime": "^0.13.3"
   },
   "scripts": {
+    "build": "npx babel src -d lib",
     "start": "npx babel src -d lib && node lib/index.js"
   },
   "keywords": [],
