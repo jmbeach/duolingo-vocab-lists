@@ -6,6 +6,8 @@ Currently, the only course is Spanish (learned from English) in the "english-spa
 
 The list of words for a course can be downloaded in JSON and CSV format.
 
+The main purpose of this project is to provide a means of getting the vocab in a format that is easy to import into a memorization tool. Tinycards does not seem to be maintained that well anymore (sadface).
+
 # Parsing other courses
 
 I wrote a NodeJS program to parse the words in the Spanish course from [an awesome post in a Duolingo discussion](https://forum.duolingo.com/comment/31508369). Thank you so much [FieryCat](https://www.duolingo.com/profile/FieryCat)!
