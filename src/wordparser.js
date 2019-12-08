@@ -54,7 +54,7 @@ class WordParser {
                 {
                     const skillName = innerChild.innerHTML;
                     parts[partTitle][skillName] = {
-                        words: []
+                        words: {}
                     };
                     i = this.parseSkill(skillName, partTitle, parts, comment, i + 1);
                 }
@@ -74,7 +74,7 @@ class WordParser {
                     bulletText = bulletText.replace('Words: ', '');
                     const words = bulletText.split(',');
                     for (let word of words) {
-                        parts[partTitle][skillName].words.push(word.replace('\n', '').trim());
+                        parts[partTitle][skillName].words[word.replace('\n', '').trim().replace(/\s\s+/g, ' ')] = {translations: []};
                     }
                 }
             }
