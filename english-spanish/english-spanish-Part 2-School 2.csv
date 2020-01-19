@@ -1,29 +1,20 @@
 Word,Translations
-cero,"zero, 0"
-uno,"1, one, uno"
-tres,"3, third, three"
-dos,"two, 2, both"
+cero,zero
 bolígrafos,pens
-libro,"book, books, textbook"
-libros,"books, textbooks"
-cuatro,"four, 4, 4th"
+libros,books
+cuatro,four
 biblioteca,library
-universidad,"university, college"
-computadoras,"computers, computer"
-comprar,"buy, (to) buy, (to) get"
+computadoras,computers
 bibliotecas,libraries
-pregunta,"question, (she) asks, questions"
-aprendo,"(I) learn, (I) am learning"
-aprendes,"(?) are you learning, (you) learn"
-aprende,"(?) is she learning, (he) is learning, (he) learns"
-cinco,"five, 5, 5th"
-este,"this, east"
-aprender,"(to) learn, learning, learn"
+aprendo,I learn
+aprendes,you learn
+aprende,he learns
+cinco,five
+aprender,to learn
 esta,this
-preguntas,"questions, (you) ask, question"
-seis,"6, six, sixth"
-clase,"class, classroom, classes"
-clases,"classes, class, kind"
-siete,"7, seven, seventh"
-ocho,"8, eight, eighth"
+preguntas,questions
+seis,six
+clases,classes
+siete,seven
+ocho,eight
 estudiantes,students
