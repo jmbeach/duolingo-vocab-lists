@@ -1,28 +1,23 @@
 Word,Translations
 mujeres,women
 hombres,men
-nosotros,"we, us"
-nosotras,"we, us"
-somos,"(we) are, (?) are we, we're"
-estudiamos,"(we) study, (we) studied"
-hablamos,"(we) speak, (we) spoke, (we) talk"
-ellos,"they, them"
-ellas,"they, them"
-son,"are, (?) are they, (they) are"
-hablan,"(?) do they speak, (they) are speaking, (they) are talking"
-estudian,"(?) do they study, (?) do you study, (they) are studying"
+nosotros,we
+somos,we are
+estudiamos,we study
+hablamos,we speak
+ellos,they
+son,they are
+hablan,they speak
+estudian,they study
 ciudades,cities
 universidades,universities
-ustedes,"you, you all, you guys"
-amigo,friend
-muchas,"many, a lot of"
-muchos,"many, a lot of, much"
+ustedes,you all
+muchas,many
 jugador,player
-fines de semana,"weekends, weekend"
-señores,"gentlemen, sirs, Mr."
-señoras,"ladies, Mrs."
-cuánto,"how much, what"
+fines de semana,weekends
+señores,gentlemen
+señoras,ladies
+cuánto,how much
 cuántas,how many
-unos,"some, a few"
-unas,"a, some"
-vacaciones,"vacation, vacations"
+unos,some
+vacaciones,vacations
