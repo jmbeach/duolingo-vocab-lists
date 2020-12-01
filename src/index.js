@@ -1,47 +1,52 @@
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
-import WordParser from './wordparser';
-import DuolingoClient from './duolingoclient';
-import GoogleTranslate from 'google-translate';
-import fs from 'fs';
 import dotenv from 'dotenv';
+import TranslationDownloader from './translation-downloader';
+import yargs from 'yargs';
+import CsvCreator from './csv-creator';
+import CsvCombiner from './csv-combiner';
+import {hideBin} from 'yargs/helpers';
 
 dotenv.config();
 
-const fileBody = fs.readFileSync('./english-spanish/duolingo-spanish.html', {
-    encoding: 'utf8'
-});
-const parser = new WordParser(fileBody);
-const client = new DuolingoClient();
-const parsedCourse = parser.parse(fileBody);
-const translateClient = GoogleTranslate(process.env.GOOGLE_TRANSLATE_API_KEY);
+const argv = yargs(hideBin(process.argv)).command('download', 'Downloads translations using vocab html page. Saves as json file.', {
+  vocabHtmlFile: {
+    description: 'Path to the vocab html file',
+    alias: 'f',
+    type: 'string',
+    demandOption: true
+  },
+  googleApiKey: {
+    description: 'Google API key',
+    alias: 'a',
+    type: 'string',
+    demandOption: false
+  }
+})
+.command('create', 'Creates CSV\'s after they are downloaded.', {
+  jsonFilePath: {
+    description: 'Path to JSON file created by download command',
+    alias: 'f',
+    type: 'string',
+    demandOption: true
+  }
+})
+.command('combine', 'Combines all vocab CSV\'s into one', {
+  languagePath: {
+    description: 'The path to the folder containing the CSV\'s. Ex: ./english-spanish',
+    alias: 'p',
+    type: 'string',
+    demandOption: true
+  }
+}).help().alias('help', 'h').argv;
 
-const translate = async () => {
-    for (let partName in parsedCourse) {
-        const part = parsedCourse[partName];
-        for (let skillName in part) {
-            const skill = part[skillName];
-            for (let word in skill.words) {
-                const translation = await client.getDefinition('es', 'en', encodeURI(word))
-                    .catch(err => {
-                        console.error('could not translate word from duolingo. trying google translate', word);
-                        const p = new Promise((resolve, reject) => {
-                        translateClient.translate(word, 'es', 'en', (err, result) => {
-                                let translations = [];
-                                translations.push(result.translatedText);
-                                resolve(translations);
-                            });
-                        });
-                        
-                        return p;
-                    });
-                console.log(word, translation);
-                parsedCourse[partName][skillName].words[word].translations = translation;
-            }
-        }
-    }
-
-    fs.writeFileSync('english-spanish/english-spanish.json', JSON.stringify(parsedCourse));
+if (argv._.includes('download')) {
+  const downloader = new TranslationDownloader(argv.vocabHtmlFile, process.env.GOOGLE_TRANSLATE_API_KEY || argv.googleApiKey);
+  downloader.downloadTranslation();
+} else if (argv._.includes('create')) {
+  const creator = new CsvCreator(argv.jsonFilePath);
+  creator.create();
+} else if (argv._.includes('combine')) {
+  const combiner = new CsvCombiner(argv.languagePath.toString());
+  combiner.combine();
+} else {
+  yargs.showHelp();
 }
-
-translate();
