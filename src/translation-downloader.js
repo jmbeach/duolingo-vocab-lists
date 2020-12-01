@@ -20,7 +20,7 @@ export default class TranslationDownloader {
         const client = new DuolingoClient();
         const parsedCourse = parser.parse();
         const translateClient = GoogleTranslate(this.googleApiKey);
-        
+
         const translate = async () => {
             for (let partName in parsedCourse) {
                 const part = parsedCourse[partName];
@@ -31,13 +31,18 @@ export default class TranslationDownloader {
                             .catch(err => {
                                 console.error('could not translate word from duolingo. trying google translate', word);
                                 const p = new Promise((resolve, reject) => {
-                                translateClient.translate(word, 'es', 'en', (err, result) => {
+                                    translateClient.translate(word, 'es', 'en', (err, result) => {
+                                        if (err) {
+                                            console.error(err);
+                                            throw err;
+                                        }
+
                                         let translations = [];
                                         translations.push(result.translatedText);
                                         resolve(translations);
                                     });
                                 });
-                                
+
                                 return p;
                             });
                         console.log(word, translation);
@@ -45,7 +50,7 @@ export default class TranslationDownloader {
                     }
                 }
             }
-        
+
             fs.writeFileSync(this.htmlPagePath.replace('.html', '.json'), JSON.stringify(parsedCourse));
         }
 

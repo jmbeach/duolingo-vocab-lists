@@ -11,13 +11,19 @@ class WordParser {
     parse() {
         const dom = JSDOM.fragment(this.htmlString);
         const comment = dom.querySelector('._2povu');
-        const comment2 = dom.querySelector('._3e8fY._2povu');
+        const comment2 = dom.querySelectorAll('._3e8fY._2povu');
         const parts = {};
         this.parseComment(comment, parts);
-        this.parseComment(comment2, parts);
+        for (const comment of comment2) {
+            this.parseComment(comment, parts);
+        }
         return parts;
     }
 
+    /**
+     * @param {Element} comment
+     * @param {any} parts
+     */
     parseComment (comment, parts) {
         for (let i = 0; i < comment.children.length; i++) {
             const child = comment.children[i];
@@ -52,7 +58,7 @@ class WordParser {
                 // if this is a skill header
                 if (innerChild.tagName === 'A')
                 {
-                    const skillName = innerChild.innerHTML;
+                    const skillName = innerChild.textContent;
                     parts[partTitle][skillName] = {
                         words: {}
                     };
@@ -64,13 +70,25 @@ class WordParser {
         }
     }
 
+    /**
+     * @param {string | number} skillName
+     * @param {string | number} partTitle
+     * @param {Element} comment
+     * @param {string | number} i
+     */
     parseSkill (skillName, partTitle, parts, comment, i) {
-        const child = comment.children[i];
-        if (child.tagName === 'UL') {
-            for (let bullet of child.children) {
+        /** @type {Element} */
+        let ul = comment.children[i];
+        if (ul.tagName === 'UL') {
+            let ol = ul.children[ul.children.length - 1];
+            while (ol.tagName !== 'OL') {
+                ol = ol.children[ol.children.length - 1];
+            }
+
+            for (let bullet of ol.children) {
                 /** @type {string} */
-                let bulletText = bullet.innerHTML;
-                if (bulletText.indexOf('Words') === 0) {
+                let bulletText = bullet.textContent;
+                if (bulletText.indexOf(',') > -1) {
                     bulletText = bulletText.replace('Words: ', '');
                     const words = bulletText.split(',');
                     for (let word of words) {
