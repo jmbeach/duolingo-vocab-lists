@@ -10,18 +10,22 @@ export default class CsvCreator {
         for (let partName in downloadData) {
             const part = downloadData[partName];
             for (let skillName in part) {
-                let csvText = 'Word,Translations';
+                let csvText = '';
                 const skill = part[skillName];
+                let isFirst = true;
                 for (let word in skill.words) {
                     const data = skill.words[word];
+                    const beginning = isFirst ? '' : '\n';
                     if (data.translations.length === 1) {
-                        csvText += `\n${word},${data.translations.join(', ')}`;
+                        csvText += `${beginning}${word},${data.translations.join(', ')}`;
                     } else {
-                        csvText += `\n${word},"${data.translations.join(', ')}"`;
+                        csvText += `${beginning}${word},"${data.translations.join(', ')}"`;
                     }
+
+                    isFirst = false;
                 }
         
-                fs.writeFileSync(outFileBase + partName + '-' + skillName + '.csv', csvText);
+                fs.writeFileSync(outFileBase + partName.replace(/[\n]/g, '').trim() + '-' + skillName + '.csv', csvText);
             }
         }
     }
