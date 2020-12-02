@@ -47,6 +47,7 @@ if (argv._.includes('download')) {
 } else if (argv._.includes('combine')) {
   const combiner = new CsvCombiner(argv.languagePath.toString());
   combiner.combine();
+  combiner.combineParts();
 } else {
   yargs.showHelp();
 }
