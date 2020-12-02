@@ -18,7 +18,7 @@ To use the provided NodeJS code, clone it.
 
 Run `yarn install`.
 
-Go to [this list of vocabularies](https://forum.duolingo.com/comment/31074292/List-of-Vocabularies-for-Language-Courses-of-Duolingo) (English only. Hopefully others exist for other language learners) and find the language you're interested in.
+Go to [this list of vocabularies](https://forum.duolingo.com/comment/31074292/List-of-Vocabularies-for-Language-Courses-of-Duolingo) and find the language you are interested in.
 
 Save the page to an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
 
