@@ -34,7 +34,7 @@ Save the page to an HTML file. **NOTE**: you may have to clean the html file to 
 
 Run `yarn build` to build the code.
 
-Then run `node lib/index.js download -f <path-to-vocab-file> [-a <google-api-key>]` to download the translations to a JSON file.
+Then run `node lib/index.js download -f <path-to-vocab-html-file> [-a <google-api-key>]` to download the translations to a JSON file.
 
 The translator defaults to finding transaltions of words on Duolingo.com. However, if it can't find one, it uses Google Translate. To use google translate you'll have to get an API key and then put your API key into a .env file like this:
 
