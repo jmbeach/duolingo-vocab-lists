@@ -14,13 +14,23 @@ I wrote a NodeJS program to parse the words in the Spanish course from [an aweso
 
 There are similar posts for other languages that could be processed in the same way to generate these files.
 
-To use the provided NodeJS code, clone it.
+To use the provided NodeJS code:
+
+## Step 1: Clone it.
+
+Run `git clone git@github.com:jmbeach/duolingo-vocab-lists.git`
+
+## Step 2: Install Dependencies
 
 Run `yarn install`.
+
+## Step 3: Get Vocab List HTML
 
 Go to [this list of vocabularies](https://forum.duolingo.com/comment/31074292/List-of-Vocabularies-for-Language-Courses-of-Duolingo) and find the language you are interested in.
 
 Save the page to an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
+
+## Step 4: Download Translations
 
 Run `yarn build` to build the code.
 
@@ -32,4 +42,8 @@ The translator defaults to finding transaltions of words on Duolingo.com. Howeve
 GOOGLE_TRANSLATE_API_KEY=<my-api-key>
 ```
 
-Then run `node lib/lindex.js create -f <path-to-json-file>` to turn the translations into CSV's.
+## Step 5: Generate CSV Files
+
+Finally, run `node lib/lindex.js create -f <path-to-json-file>` to turn the translations into CSV's.
+
+If the new CSV's aren't in this repository yet, please feel free to create a pull request to add them. Currently, I've only processed Spanish (for English speakers), but would love to get other languages in here.
