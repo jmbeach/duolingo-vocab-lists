@@ -1,4 +1,4 @@
-# Duolingo Vocab Lists
+# Duolingo Vocab Lists ![Node.js CI](https://github.com/jmbeach/duolingo-vocab-lists/workflows/Node.js%20CI/badge.svg)
 
 This repository is a collection of Duolingo courses' vocabs.
 
