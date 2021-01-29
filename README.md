@@ -22,7 +22,7 @@ Go to [this list of vocabularies](https://forum.duolingo.com/comment/31074292/Li
 
 Save the page to an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
 
-Run `yarn compile` to build the code.
+Run `yarn build` to build the code.
 
 Then run `node lib/index.js download -f <path-to-vocab-file> [-a <google-api-key>]` to download the translations to a JSON file.
 
