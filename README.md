@@ -44,6 +44,10 @@ GOOGLE_TRANSLATE_API_KEY=<my-api-key>
 
 ## Step 5: Generate CSV Files
 
-Finally, run `node lib/lindex.js create -f <path-to-json-file>` to turn the translations into CSV's.
+Finally, run `node lib/index.js create -f <path-to-json-file>` to turn the translations into CSV's.
 
 If the new CSV's aren't in this repository yet, please feel free to create a pull request to add them. Currently, I've only processed Spanish (for English speakers), but would love to get other languages in here.
+
+## Step 6 (Optional): Create Combined CSV Files
+
+It might be preferable for some people to have all of the CSV files for each section combined into one file. To generate these, run `node lib/index.js combine -p <path to language directory>`.
