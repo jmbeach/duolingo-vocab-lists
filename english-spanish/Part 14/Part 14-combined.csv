@@ -528,9 +528,7 @@ pendiente,"pending, incline, hanging"
 previa,"previous, preliminary, prior"
 mínimo,"minimum, floor, little"
 mínima,"minimum, minimum temperature, minimal"
-vivas,"(you) live, (you) cheer, (you) be alive"
 vivos,"alive, bright, brights"
-viva,"live, alive, live!"
 vivo,"(I) live, bright"
 privadas,"private, private road, ex-directory"
 privado,"private, been in, been fashionable"
@@ -540,7 +538,7 @@ formal,"formal, dependable, firm"
 sencillo,"simple, change, change (money)"
 sencilla,"simple, modest, one-way"
 femenino,"feminine, female, ladies'"
-legal,"legal, fair, far out"
+legal,"legal, fairs, far out"
 legales,"legal, fairs, far out"
 libres,"free, off"
 libre,"free, off"
@@ -755,8 +753,6 @@ decidido,decided
 dado,"given, given on to, die"
 producido,"produced, caused, generated"
 tomado,"taken, had, drunk"
-oídos,"ears, hearings, inner ears"
-oído,"heard, ear"
 partido,"game, match, departed"
 partidos,"matches, games"
 ganado,won
@@ -767,7 +763,6 @@ abiertos,open
 abierta,open
 abierto,"open, made, opened"
 abiertas,open
-supuesto,"supposed, assumed"
 quedado,stayed
 escrito,written
 cerrada,closed
@@ -776,94 +771,45 @@ cerradas,closed
 cerrado,closed
 sufrido,"suffered, born, borne"
 habrá,"there will be, will be"
-encontrado,found
 alcanzado,"reached, caught, caught up with"
-llamada,call
-llamadas,calls
-llamado,"called, call, got"
 vuelto,"returned, again, come back"
-muertos,"dead, dead beat, death"
-muertas,"dead, dead beat, disused"
-muerta,dead
-muerto,"died, dead, finished"
 enviado,sent
 recibido,"received, got"
 utilizado,"used, utilized, run"
 creado,"created, brought, caused"
 llevado,"taken, worn, born"
 elegido,"chosen, chosen one, elected"
-decidido,decided
 previsto,"foreseen, anticipated, forecasted/forecast"
 sido,"been, made"
 dejado,"left, let, abandoned"
 tocado,"played, touched"
-llamada,call
-llamado,"called, call, got"
-llamadas,calls
 estados,"been, state"
 sabido,"known, tasted, told"
 haber,"(to) have, (to) be, be"
 pasada,last
 pasado,"last, past, given"
-perdido,"lost, missing"
-perdida,"lost, missing"
-perdidas,"lost, missing"
-perdidos,"lost, missing"
-venido,"come, arrived"
 preparado,"prepared, brewed, coached"
 leído,read
-conocida,"well-known, familiar"
-conocidas,"well-known, familiars, famous"
-conocidos,"known, well-known, acquaintance"
 llovido,"rained, lank, leaked"
-seguido,"followed, often, continued"
-seguida,"followed, consecutive, continued"
-pagada,paid
-pagado,paid
-dado,"given, given on to, die"
 salida,exit
 salidas,exits
 salido,"gone out, come out, leaked out"
-enviado,sent
-demostrado,"demonstrated, proved/proven, showed/shown"
 permitido,"allowed, permitted"
 reducido,"reduced, cut, cut down on"
-recibido,"received, got"
 obligado,"forced, bound, required"
 nacido,"born, been born, arrived"
 terminado,finished
 presentado,"introduced, presented, introduced oneself"
 caminado,walked
-tomado,"taken, had, drunk"
-oído,"heard, ear"
-oídos,"ears, hearings, inner ears"
-llevado,"taken, worn, born"
 realizado,"made, accomplished, carried out"
 citado,"cited, incited, quoted"
-ganado,won
 desarrollado,developed
 logrado,"been able to, managed, achieved"
-elegido,"chosen, chosen one, elected"
-cerrada,closed
-cerrado,closed
-cerrados,closed
-cerradas,closed
-producido,"produced, caused, generated"
 tenido,"had, gotten"
-hablado,"spoken, talked, talked about"
-sentido,"felt, sense, direction"
 cocinado,"cooked, baked, boiled"
-sufrido,"suffered, born, borne"
-puestos,"places, positions, jobs"
 puesta,"places, positions, jobs"
 puestas,"wear, wears"
-previsto,"foreseen, anticipated, forecasted/forecast"
-establecido,"established, laid down, set up"
-supuesto,"supposed, assumed"
-llegada,"arrival, arrived, been enough"
-llegado,"arrived, come, gotten"
 determinado,"determined, established, stated"
-utilizado,"used, utilized, run"
 cambiado,changed
 puerto,"port, harbor, gate"
 instituciones,"institutions, establishments"
@@ -982,7 +928,7 @@ salvo,"(I) save, safe, (I) cover"
 pedís,"(?) are you asking for, (you) ask for"
 regresáis,"return, (?) do you return"
 preguntáis,"ask, (you) ask, (?) can you ask"
-continuáis,continue
+continuáis,you continue
 posee,"(he/she/it) owns, own!, (you-formal) own"
 poseen,"(they/you-plural) possess, (they/you-plural) have, (they/you-plural) own"
 mezclo,"(I) mix, (I) mix up, (I) merge"
@@ -998,7 +944,6 @@ añadís,"(you) add, add, (?) do you add"
 considera,"consider, thinks, consider!"
 consideran,"(they/you-plural) consider, (they/you-plural) consider oneself, (they/you-plural) weigh up"
 considero,"(I) consider, (I) consider oneself, (I) give … consideration"
-consideramos,"(we) consider, (we) consider oneself, (we) considered"
 utilizan,"use, (they/you-plural) use, (they/you-plural) utilize"
 utiliza,"used, (he/she/it) utilizes, utilize!"
 valen,"worth, (they/you-plural) are worth, (they/you-plural) OK"
@@ -1018,7 +963,6 @@ rechazo,"(I) reject, rejection, (I) repel"
 deja,"(she) lets, (you) put down, (you) stop"
 dejan,"let, (they/you-plural) let, (they/you-plural) abandon"
 dejo,"let, leave, (I) leave"
-dejamos,"let, (we) let, (we) allowed"
 afecta,"affect!, (he/she/it) affects, (you-formal) affect"
 afectan,"(they/you-plural) affect, (they/you-plural) feign, (they/you-plural) encumber"
 mejora,"better, (he/she/it) improves, (he/she/it) gets better"
@@ -1026,7 +970,6 @@ desean,"(they) want, (they) wish, (?) do they wish"
 desea,"want, (he/she/it) desires, (he/she/it) wants"
 deseamos,"We, (we) wish, (we) wanted"
 deseas,"(?) do you wish, (you) wish"
-deseo,"wish, (I) wish, (I) want"
 alcanza,"catch, (he/she/it) reaches, catch up with!"
 observo,"(I) observe, (I) remark, (I) abide by"
 observa,"(he/she/it) observes, (he/she/it) remarks, (he/she/it) abides by"
@@ -1140,9 +1083,7 @@ liga,"league, give … the eye!, (he/she/it) gives … the eye"
 habré,"have, (I) will have"
 habrán,"will, have, (they/you-plural) will have"
 habremos,"have, we will, (we) will have"
-habías,"had, (you) had, (you) is (past)"
 habrás,"have, (you) will have, (you) will is"
-habíamos,"had, (we) had, (we) is (past)"
 haya,"be, there are, there is"
 participar,"(to) participate, (to) announce, (to) provide"
 desarrollar,"(to) develop, (to) expound, (to) explain"
@@ -1225,7 +1166,7 @@ hablabais,"(you) used to talk, (?) did you talk, talk"
 conocíais,"knew, (you) used to know, (?) did you know"
 pasaba,"(I/he/she/it/you) used to pass (on), (I/he/she/it/you) used to spend, (I/he/she/it/you) used to happen"
 pasábamos,"(we) passed (on), (we) happened, (we) used to happen"
-pasaban,met
+pasaban,"play, show, spend"
 dejaba,"let, (I/he/she/it/you) used to let, (I/he/she/it/you) used to leave"
 mirabais,"watch, (you) watched, (?) did you use to watch"
 necesitabais,"(you) needed, (?) did you need"
@@ -1240,28 +1181,12 @@ hiciera,"(I/he/she/it/you) make, (I/he/she/it/you) do, (I/he/she/it/you) become"
 tuviera,"had, (I/he/she/it/you) have"
 tuvieras,"(you) have, HAD"
 tuviéramos,(we) have
-quisiera,(I) would like
-quisieran,"like, (they/you-plural) want, wanted"
-quisieras,"would you like, (you) wanted, (you) want"
 habrías,"have, (you) would have, (you) would is"
 habrían,"would, have, (they/you-plural) would have"
 habría,"would, have, had"
 habríamos,"have, (we) would have, had"
-abiertas,open
-abierta,open
-abierto,"open, made, opened"
-abiertos,open
-descubierto,"discovered, found, found out"
-vuelto,"returned, again, come back"
-utilizado,"used, utilized, run"
 considerado,"considered, considered oneself, given … consideration"
 dicho,"told, said"
-dirigido,"directed, managed, headed"
-logrado,"been able to, managed, achieved"
-cambiado,changed
-formado,"formed, made, made up"
-escrito,written
-elegido,"chosen, chosen one, elected"
 partir,"leave, (to) leave, leaving"
 realizar,"(to) carry out, (to) be realized, (to) realize"
 dejar,"let, (to) leave, (to) allow"

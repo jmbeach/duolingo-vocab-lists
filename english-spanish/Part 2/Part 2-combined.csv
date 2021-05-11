@@ -123,7 +123,6 @@ conmigo,with me
 contigo,with you
 siempre,always
 triste,sad
-preocupado,worried
 por qué,why
 aburrido,bored
 enojado,angry
@@ -141,7 +140,6 @@ se siente,he feels
 otra vez,again
 un poco,somewhat
 bebé,baby
-sorprendido,surprised
 italiano,Italian
 su,"his, her, their"
 hijos,children
@@ -269,6 +267,34 @@ abrir,"open, (to) open, opened"
 verano,summer
 juntos,together
 mucho,"a lot, a lot of, much"
+camarero,waiter
+mesa,table
+quisiera,(I) would like
+pescado,fish
+frijol,"food, bean"
+cerveza,beer
+menú,menu
+puede traer,(?) can you bring
+cuchara,spoon
+cuchillo,knife
+tenedor,fork
+sal,salt
+plato,"plate, dish"
+vaso,glass
+un plato,a dish
+sin,"without, with no"
+bebida,drink
+blanca,"white, Blanca"
+tinto,red
+otro,"another, other, another one"
+botella,bottle
+pagar,"pay, (to) pay, (to) pay for"
+cuenta,"check, bill, account"
+sopa,soup
+patata,potato
+frito,fried
+pago,"(I) pay, (I) pay for, (I) am paying for"
+postre,dessert
 habla,he speaks
 francés,French
 estudia,he studies
@@ -289,7 +315,6 @@ vivir,to live
 Inglaterra,England
 Francia,France
 Europa,Europe
-camarero,waiter
 camarera,waitress
 maestra,teacher
 portugués,Portuguese
@@ -328,27 +353,6 @@ cuánto,how much
 cuántas,how many
 unos,some
 vacaciones,vacations
-me llamo,my name is
-americano,American
-americana,American
-de,"of, from, 's"
-estados unidos,"United States, the US, us"
-España,Spain
-China,"China, chinese"
-estudiante,student
-y,"and, past"
-mi,my
-nombre,"name, named"
-en,"in, at, on"
-vivo,"(I) live, bright"
-dónde,where
-México,Mexico
-Cuba,Cuba
-cubano,Cuban
-cubana,Cuban
-mexicano,Mexican
-mexicana,mexican
-interesante,interesting
 cuántos años,how old
 veintiún,"21, twenty-one"
 veintiuno,"21, twenty-one, twenty first"
@@ -423,34 +427,6 @@ pelota,ball
 corre,(she) runs
 río,river
 camina,"(she) walks, (you) walk"
-camarero,waiter
-mesa,table
-quisiera,(I) would like
-pescado,fish
-frijol,"food, bean"
-cerveza,beer
-menú,menu
-puede traer,(?) can you bring
-cuchara,spoon
-cuchillo,knife
-tenedor,fork
-sal,salt
-plato,"plate, dish"
-vaso,glass
-un plato,a dish
-sin,"without, with no"
-bebida,drink
-blanca,"white, Blanca"
-tinto,red
-otro,"another, other, another one"
-botella,bottle
-pagar,"pay, (to) pay, (to) pay for"
-cuenta,"check, bill, account"
-sopa,soup
-patata,potato
-frito,fried
-pago,"(I) pay, (I) pay for, (I) am paying for"
-postre,dessert
 hacer,"do, (to) do, (to) make"
 hago,"(I) make, (I) do, (I) am making"
 tarea,"homework, task"
@@ -474,7 +450,6 @@ ducharse,"shower, (to) take a shower, (to) shower"
 levantarse,"(to) get up, getting up"
 salgo,(I) leave
 temprano,early
-tarde,"late, afternoon, evening"
 semanas,"weeks, week"
 fácil,easy
 sale,sale
@@ -553,34 +528,6 @@ clases,classes
 siete,seven
 ocho,eight
 estudiantes,students
-clase,"class, classroom, classes"
-examen,"test, exam, examination"
-fácil,easy
-libro,"book, books, textbook"
-bolígrafo,pen
-escuela,"school, schools"
-maestro,teacher
-pregunta,"question, (she) asks, questions"
-estudiante,student
-difícil,"difficult, hard"
-problema,"problem, matter, problems"
-estudiar,"study, (to) study, studying"
-leer,"(to) read, reading"
-escribir,"write, (to) write, writing"
-estudio,"study, (I) study, (I) am studying"
-mucho,"a lot, a lot of, much"
-importante,important
-escribo,"(I) write, (I) am writing"
-leo,"(I) read, (I) am reading"
-comprendo,understand
-no,"no, any"
-universidad,"university, college"
-medicina,medicine
-estudias,"(you) study, (?) do you study, (you) are studying"
-profesor,"professor, teacher"
-escribes,"(you) write, (?) are you writing, (?) do you write"
-lees,"(you) read, (?) do you read, (you) are reading"
-computadora,computer
 de compras,shopping
 tienda,"store, shop, stores"
 buscar,"(to) look for, (to) search, (to) seek"

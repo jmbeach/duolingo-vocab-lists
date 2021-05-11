@@ -232,7 +232,6 @@ tenía,"(?) did she have, (I) used to have, (he) had"
 tenías,"(you) had, (you) were having, had"
 leía,"(she) was reading, (I) used to read, (she) read"
 leías,"(?) did you use to read, read, (you) were reading"
-estudiaba,"(I) studied, (she) would study, use to study"
 estudiabas,"(?) did you use to study, (you) used to study, (you) studied"
 patinetas,skateboards
 patineta,skateboard
@@ -338,14 +337,11 @@ habrá,"there will be, will be"
 encontrado,found
 alcanzado,"reached, caught, caught up with"
 llamado,"called, call, got"
-vuelto,"returned, again, come back"
 muerto,"died, dead, finished"
 enviado,sent
 recibido,"received, got"
-utilizado,"used, utilized, run"
 creado,"created, brought, caused"
 llevado,"taken, worn, born"
-elegido,"chosen, chosen one, elected"
 decidido,decided
 previsto,"foreseen, anticipated, forecasted/forecast"
 estaréis,"(you) were, were"
@@ -495,7 +491,6 @@ alfombra,carpet
 cómodas,"comfortable, dressers"
 cómoda,"comfortable, dresser"
 perder,"(to) lose, (to) miss, failed"
-dormir,"(to) sleep, sleeping"
 encender,(to) turn on
 lavadora,washing machine
 lavadoras,washing machines
@@ -549,18 +544,8 @@ regresar,"return, (to) return, (to) come back"
 analizar,"(to) analyze, (to) examine, go"
 mostrar,"(to) show, show"
 subir,"up, (to) get on, (to) get in"
-iniciar,"start, (to) initiate, (to) begin"
-permitir,"allow, (to) allow, (to) permit"
-definir,"(to) define, (to) make … sharp"
-colocar,"place, (to) place, (to) put"
-andar,"going, (to) walk, ride"
 aparecer,"(to) appear, (to) make … appear, (to) seem"
-cubrir,"(to) cover, (to) take cover, (to) cover oneself"
-asumir,"(to) assume, (to) adopt, take"
 atender,"(to) serve, tend to, (to) attend to"
-sufrir,"(to) suffer, (to) undergo, (to) bear"
-impedir,"(to) prevent, (to) hamper, (to) hinder"
-eliminar,"(to) eliminate, (to) remove, (to) delete"
 existir,"(to) exist, (to) live"
 verdad,"(?) are they, (?) aren't there, (?) is he"
 información,information
@@ -617,7 +602,6 @@ oído,"heard, ear"
 pecho,"chest, (I) shove, (I) jostle"
 piel,"skin, fur, leather"
 frente,"front, brow, facade"
-duele,"hurt, (?) does it hurt, (it) hurts"
 rodillas,knees
 codo,"elbow, elbow;, tightfisted"
 hombro,shoulder
@@ -714,7 +698,6 @@ juegos de mesa,board games
 debe,"(he) has to, (he) must, (he) should"
 podría,"might, (?) could I, (I) could"
 quería,"(he) wanted, (she) wanted"
-debería,"(I) should, (she) should, (you) should"
 deberá,(you) will have
 quise,"(I) wanted, (I) loved, I tried"
 podré,"(I) will be able to, can"
@@ -741,7 +724,6 @@ gas,"gasses, winds, gas"
 planeta,planet
 paisaje,"landscape, scenery"
 raíces,"roots, to put down roots, take hold"
-bosque,"forest, woods, wood"
 hueso,"bone, bones, cushy job"
 humo,"smoke, fumes"
 ambiente,"environment, (I/he/she/it/you) adjust, (I/he/she/it/you) adapt"
@@ -782,35 +764,24 @@ mirabais,"watch, (you) watched, (?) did you use to watch"
 queríais,"(you) loved, (you) wanted"
 necesitabais,"(you) needed, (?) did you need"
 había,"had, there was, it was"
-perdido,"lost, missing"
 comido,"eaten, had"
 ido,"gone, been to, been"
 venido,"come, arrived"
 llegado,"arrived, come, gotten"
 conseguido,"obtained, achieved, got"
 tratado,"tried, treated, treated oneself"
-encontrado,found
-llamado,"called, call, got"
-descubierto,"discovered, found, found out"
-formado,"formed, made, made up"
 establecido,"established, laid down, set up"
-dirigido,"directed, managed, headed"
-muerto,"died, dead, finished"
 conocido,"met, well-known, acquaintance"
-decidido,decided
 dado,"given, given on to, die"
 producido,"produced, caused, generated"
 tomado,"taken, had, drunk"
-oído,"heard, ear"
 partido,"game, match, departed"
 ganado,won
 demostrado,"demonstrated, proved/proven, showed/shown"
 hablado,"spoken, talked, talked about"
 sentido,"felt, sense, direction"
-abierto,"open, made, opened"
 supuesto,"supposed, assumed"
 quedado,stayed
-escrito,written
 cerrado,closed
 sufrido,"suffered, born, borne"
 fuerais,"(you) loved, (you) wanted"
@@ -818,7 +789,6 @@ hubiera,"had, (I/he/she/it/you) have, have"
 hiciera,"(I/he/she/it/you) make, (I/he/she/it/you) do, (I/he/she/it/you) become"
 tuviera,"had, (I/he/she/it/you) have"
 fuera,"out, were, (she) go"
-quisiera,(I) would like
 elección,"choice, election"
 gobierno,"government, (I) rule, (I) steer"
 ley,"law, acted, assay value"
@@ -885,20 +855,15 @@ sido,"been, made"
 estar,"be, (to) be, (to) stay"
 habéis,"(you-plural) is, (you-plural) have"
 comer,"eat, (to) eat, eating"
-beber,"drink, (to) drink, drinking"
 sabido,"known, tasted, told"
 vivir,"live, (to) live, living"
-ir,"(to) go, (to) go out, going"
 tratar,"(to) try, (to) treat, try"
 dejado,"left, let, abandoned"
 tocado,"played, touched"
-llamado,"called, call, got"
 querer,"(to) want, love, (to) love"
 hacer,"do, (to) do, (to) make"
 haber,"(to) have, (to) be, be"
 pasado,"last, past, given"
-perdido,"lost, missing"
-venido,"come, arrived"
 preparado,"prepared, brewed, coached"
 leído,read
 conocer,"meet, (to) meet, (to) get to know"
@@ -906,47 +871,24 @@ ocurrir,"(to) happen, (to) occur, come"
 llovido,"rained, lank, leaked"
 seguido,"followed, often, continued"
 pagado,paid
-dado,"given, given on to, die"
 salido,"gone out, come out, leaked out"
-enviado,sent
 decir,"(to) say, (to) talk, (to) tell"
-demostrado,"demonstrated, proved/proven, showed/shown"
 permitido,"allowed, permitted"
 reducido,"reduced, cut, cut down on"
-recibido,"received, got"
 obligado,"forced, bound, required"
 nacido,"born, been born, arrived"
 terminado,finished
 presentado,"introduced, presented, introduced oneself"
 caminado,walked
-tomado,"taken, had, drunk"
-oído,"heard, ear"
-llevado,"taken, worn, born"
 realizado,"made, accomplished, carried out"
 citado,"cited, incited, quoted"
-ganado,won
 desarrollado,developed
-logrado,"been able to, managed, achieved"
-elegido,"chosen, chosen one, elected"
 pedir,"ask, (to) ask for, (to) make"
-cerrado,closed
-producido,"produced, caused, generated"
 tenido,"had, gotten"
-hablado,"spoken, talked, talked about"
-sentido,"felt, sense, direction"
 cocinado,"cooked, baked, boiled"
-sufrido,"suffered, born, borne"
 poner,"put, (to) put, (to) set"
-previsto,"foreseen, anticipated, forecasted/forecast"
-establecido,"established, laid down, set up"
 abrir,"open, (to) open, opened"
-supuesto,"supposed, assumed"
 determinado,"determined, established, stated"
-escribir,"write, (to) write, writing"
-cambiado,changed
-ver,"(to) see, (to) look, (to) watch"
-llegado,"arrived, come, gotten"
-utilizado,"used, utilized, run"
 buenísimo,"good, really good, really great"
 buenísima,really good
 buenísimos,really good
@@ -979,7 +921,6 @@ aburridísimos,really boring
 hip-hop,hip-hop
 cómics,"comics, comic books"
 descansos,breaks
-descanso,"break, rest"
 teatro,"theater, movie theater, cinema"
 invita,"(she) invites, ask, (she) is inviting"
 invite,"invitation, invite"
@@ -1013,7 +954,6 @@ hobbies,"hobbies, pastimes, hobby"
 ciclismo,cycling
 motocicleta,motorcycle
 motocicletas,motorcycles
-pedir,"ask, (to) ask for, (to) make"
 servir,"(to) serve, (to) be useful, serve"
 champán,champagne
 champanes,champagnes
@@ -1112,7 +1052,6 @@ proporción,"proportion, proportions"
 descubrimiento,"discovery, find"
 observación,"observation, comment, note"
 núcleo,"nucleus, core, center"
-química,"chemistry, chemical"
 cómo te va,how's it going
 mira,"looks, (he) looks at, (she) watches"
 qué te parece,"What do you think, (?) How does it sound"
@@ -1195,7 +1134,6 @@ comamos,"let's eat, (we) eat"
 venir,"come, (to) come, coming"
 miren,"look!, look at!, look after!"
 llévate,"Take, take!, go!"
-jugaba,"(he) used to play, (I) played, (I) used to play"
 jugaban,"(they) used to play, (they) were playing, (?) did you use to play"
 visitaba,"(she) used to visit, (he) used to visit"
 visitaban,"(they) used to visit, (they) were visiting, (?) did you use to visit"
@@ -1203,16 +1141,12 @@ tradición,tradition
 tradiciones,traditions
 durante,"during, for, in"
 día de acción de gracias,Thanksgiving Day
-tenía,"(?) did she have, (I) used to have, (he) had"
 tenían,"(?) did you use to have, (they) had, (they) used to have"
 nochevieja,New Years Eve
-vivía,"(I) used to live, (he) used to live, (she) lived"
 vivían,"(?) did they use to live, (?) did they live, (?) did you use to live"
-comía,"(?) did she use to eat, (I) ate, (I) used to eat"
 comían,"(?) did you use to eat, (they) used to eat, (they) were eating"
 tarjetas,cards
 tarjeta,card
-era,"(?) did he use to be, (I) was, (he) was"
 eran,"(it) was, (they) were"
 especiales,special
 especial,special

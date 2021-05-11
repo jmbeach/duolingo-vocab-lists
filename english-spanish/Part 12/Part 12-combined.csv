@@ -46,14 +46,14 @@ se la,I know it
 se las,I know them
 aspiradora,vacuum cleaner
 grifos,grasosa
-grifo,tap
+grifo,faucet
 quitaré,(he) will take off
 quitar,(he) will take off
 quitaron,(to) take off
 quitaste,"(they/you-plural) come out, (they/you-plural) go, (they/you-plural) go away"
 hacer la cama,make the bed
 mancha,March
-manchas,spots
+manchas,stains
 sábana,"sheet, bedsheet"
 sábanas,"sheets, bedsheets"
 se,"you, are, each other"
@@ -62,7 +62,7 @@ pasamos,"spend, (we) spent, (we) are spending"
 pasé,"(I) spent, (I) passed, (I) had"
 pase,"pass (on)!, happen!, go through!"
 pasaron,(they) passed
-pasaban,met
+pasaban,"play, show, spend"
 pasar,"(to) pass, (to) spend, happen"
 pasa,"(he) is spending, happens"
 pasando,"happening, going on, having"
@@ -75,16 +75,16 @@ paso,"step, (I) spend, (I) am spending"
 planchaba,ironed
 planchar,plan
 plancharía,ironing
-nos la,us the
+nos la,us it
 nos lo,U.S
-nos las,we
+nos las,us them
 tareas domésticas,housework
 barrí,neighborhood
 barre,"drives, drive"
 barría,drove
 barrer,"drove, drives, drive"
 desordenada,messy
-desordenado,messy
+desordenado,untidy
 ordenando,"asked for, tidy"
 ordenaba,"clear, arrange, order"
 ordenaría,"clear, arrange, order"
@@ -145,7 +145,7 @@ entonces,"then, so"
 bien,"well, good, fine"
 clásicos,"classic, classical, standard"
 clásica,"classical, classic, standard"
-clásicas,"classical, classic, standard"
+clásicas,"classic, classical, standard"
 clásico,"classic, classical, standard"
 calculadoras,calculators
 calculadora,"calculator, calculating"
@@ -263,7 +263,7 @@ gemela,twin
 nos relajamos,we relax
 relajarme,relax
 se relajan,they relax
-relajarse,chill out
+relajarse,relax
 tiempo libre,spare time
 te diviertes,do you have fun
 se divierte,have fun
@@ -315,7 +315,7 @@ pondrían,"play, said, give"
 pondría,"would, put, (I/he/she/it/you) would put"
 se pondrían,they would put
 cocodrilos,crocodiles
-cocodrilo,crocodile
+cocodrilo,alligator
 saldríamos,go
 saldría,"(I/he/she/it/you) would come out, (I/he/she/it/you) would come up, (I/he/she/it/you) would log out"
 saldrían,"(they/you-plural) would quit, (they/you-plural) would go out, (they/you-plural) would be published"
@@ -530,7 +530,6 @@ crió,"crib, cradle"
 criamos,"raise, (we) raise, (we) reared"
 criar,"raise, (we) raise, (we) reared"
 criaron,"(they/you-plural) took care of oneself, (they/you-plural) cared for, (they/you-plural) looked after oneself"
-pasado,"last, past, given"
 paseaba,walked
 paseamos,"(we) go for a drive, (we) walk, (we) go for a walk"
 pasean,"(they/you-plural) walk, (they/you-plural) go for a walk, (they/you-plural) go cycling"
@@ -549,7 +548,6 @@ parecían,"(they/you-plural) seemed, (they/you-plural) used to seem, (they/you-p
 llamaba,"(I/he/she/it/you) used to call, (I/he/she/it/you) used to call out, (I/he/she/it/you) used to call up"
 visitaba,"(she) used to visit, (he) used to visit"
 del,"of the, from the, about the"
-de,"of, from, 's"
 ayuntamiento,"town/city hall, town/city council"
 centros,"centers, facilities"
 centro,"downtown, center"
@@ -587,7 +585,7 @@ elección,"choice, election"
 debates,"debates, (you) debate, (you) discuss"
 debate,"(he/she/it) debates, debate!, (you-formal) debate"
 demócrata,democratic
-demócratas,Democrats
+demócratas,democrats
 republicano,republican
 republicanos,republicans
 sociales,"undercover police officer, companies, society column/pages"
@@ -667,14 +665,10 @@ autor,"author, perpetrator, writer"
 autora,"author, perpetrator, writer"
 autoras,"perpetrator, writers, authors"
 ficción,science fiction
-llamándolo,calling him
 visitando,"visitors, visiting"
-visitándolos,visiting them
 solo,"only, alone, just"
 cocinando,cooking
 lentejas,lentils
-cocinándolas,cooking them
-poniéndola,putting it on
 atletas,athletes
 atleta,athlete
 árbitro,referee
@@ -704,8 +698,6 @@ hizo,"(?) did he do, (he) asked, (he) made"
 hiciste,"(you) did, (you) made, (?) did you do"
 hacen,"(?) are you doing, (they) do, (they) make"
 harán,"(they/you-plural) will do, (they/you-plural) will become, (they/you-plural) will work"
-público,"public, open, crowd"
-públicos,"public, publics, spectators"
 los años,the years
 histórica,"historical, historic"
 históricas,"historic, historical"
@@ -714,7 +706,7 @@ infancia,"childhood, infancy, children"
 personaje,"important figure, character, personage"
 personajes,"characters, important figure, personages"
 período,"period, spell"
-inventos,"(he/she/it/you) invented, (he/she/it/you) made up, (he/she/it/you) came up with"
+inventos,"(I) invent, invention, (I) make up"
 invento,"(I) invent, invention, (I) make up"
 regla,"ruler, rule, period"
 reglas,"rules, periods, rulers"
@@ -724,7 +716,7 @@ atención,"attention, attention!, hearing"
 universos,universe
 universo,universe
 qué le pasa,What happens
-qué les pasa,what's wrong with them
+qué les pasa,what happens to them
 qué te pasa,what's wrong
 emergencia,emergency
 emergencias,emergencies
@@ -735,7 +727,6 @@ pastillas,pills
 débiles,"weak, faints, feeble"
 débil,"weak, feeble"
 de ida y vuelta,"returns, return"
-comprándoles,buying them
 comerlas,(to) eat them
 perderte,(to) get lost
 comerlos,(to) eat them
@@ -749,7 +740,6 @@ preocuparnos,"(to) worry, worry"
 olvidarme,(to) forget
 verte,"(to) see you, (to) see yourself, look"
 preocuparme,"(to) worry, worrying, worry"
-lavarte,"wash, clean"
 comprarlas,(to) buy them
 comprarlos,(to) buy them
 preocuparte,"(to) worry, worry"
@@ -777,7 +767,6 @@ necesitarla,(to) need it
 abrirlo,(to) open it
 darme,(to) give me
 vernos,(to) look
-lavarme,"wash, clean"
 verlo,"(to) see (him/it), (to) see oneself (him/it), (to) imagine (him/it)"
 lavarlos,(to) wash them
 beberla,(to) drink it
@@ -800,7 +789,6 @@ invitarlos,(they) invited
 darte,give you
 lavarlas,(to) wash them
 pedirle,(to) order them
-quedarte,"(they/you-plural) be left, (they/you-plural) be located, (they/you-plural) keep"
 matarnos,"(to) kill (us), (to) kill oneself (us), (to) slaughter (us)"
 oírlos,"(to) hear (them), (to) listen to (them)"
 prepararlos,(to) prepare them
@@ -852,7 +840,6 @@ tour,tour
 distrito,district
 estado,"been, state"
 estados,"been, state"
-conociendo,"knowing, revealing, knowing of"
 conocía,"(I/he/she/it/you) knew, (I/he/she/it/you) used to know, (I/he/she/it/you) knew oneself"
 conocieron,"(?) did you meet, (they) met, meet"
 conocen,"(?) do you know, (they) are familiar with, (they) know"
@@ -865,7 +852,6 @@ conoces,"(you) know, (?) are you familiar with, (?) do you know"
 conocían,"met, knew"
 conozco,"(I) know, (?) do I know, (I) am familiar with"
 conoce,"(?) are you familiar with, (?) do you know, (?) does she know"
-conocernos,"(to) meet (us), (to) get to know (us), (to) know oneself (us)"
 conociste,"(you) met, (you) knew, (?) did you meet"
 conocimos,"(we) met, (we) knew, knew"
 conocer,"meet, (to) meet, (to) get to know"
@@ -902,7 +888,6 @@ taxistas,taxi drivers
 pongas,(you) put
 frágil,"breakable, fragile, delicate"
 frágiles,"breakable, fragile, delicate"
-hagas,"(you) do, (you) make, (you) ask"
 polvo,"dust, powder, face powder"
 suelo,"floor, ground, (I) usually"
 grupo,"group, band"
@@ -917,7 +902,6 @@ sentir,"feel, (to) feel, (to) hear"
 cruzar,"(to) cross, cross, crossing"
 caer,"fall, (to) fall down"
 sentar,set
-quitar,(he) will take off
 explorando,exploring
 casar,married
 vestir,"(to) wear, wears, (to) decorate"
@@ -935,7 +919,7 @@ vayas,(you) go
 eventos,"cases, events"
 evento,"case, event"
 costa,"coast, bank, costs"
-salida de emergencia,emergency exit
+salida de emergencia,Emergency exit
 desconocida,"unknown, stranger"
 desconocidos,"strangers, unknown"
 desconocidas,"unknown, strange, stranger"

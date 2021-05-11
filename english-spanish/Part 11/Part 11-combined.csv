@@ -80,7 +80,7 @@ lechuga,"lettuce, head of lettuce"
 batir,"beat, (to) beat, (to) beat against"
 brócoli,broccoli
 microondas,microwave
-deme,want
+deme,"(he) has to, (he) must, (he) should"
 meriendas,do you snack
 merienda,"snack, afternoon snack, have a snack in the afternoon!"
 sabores,"flavor, taste"
@@ -175,7 +175,7 @@ regala,"(he/she/it) sells things at bargain prices, sell things at bargain price
 regalé,"(I) gave, (I) sold things at bargain prices, (I) sold … at bargain prices"
 beso,"(I) kiss each other, (I) kiss"
 romance,romantic
-en el,at
+en el,in the
 sueño,"dream, sleepy, tired"
 sueños,"dreams, sleeps"
 amor,"love, darling, dear"
@@ -212,7 +212,7 @@ acepta,"(you-formal) accept, (he/she/it) accepts, take"
 aceptamos,"(we) accepted, (we) accept, take"
 aceptarte,(to) accept (you)
 aceptar,"(to) accept, agreed, fall"
-estado civil,marital status
+estado civil,civil status
 barrio,neighborhood
 barrios,neighborhood
 monumentos,monuments
@@ -259,21 +259,8 @@ a pie,walking
 cola,tail
 frutería,fruit store
 mayoría,"majority, most"
-lleva,"(it) takes, (she) carries, (she) is carrying"
-llevaste,"(you) took, (?) did you take, (you) wore"
-llevado,"taken, worn, born"
-llevas,"(?) can you carry, (?) do you carry, (you) are carrying"
-llevan,"(they) are carrying, (they) wear"
-llevaba,"Wearing, (I/he/she/it/you) was/were wearing, (I/he/she/it/you) was/were taking"
-llevaron,"(?) did you take, take, (they) carried"
 llevarnos,"(?) did you take, take, (they) carried"
-llevé,"(I) took, (I) drove, (I) wore"
-llevar,"take, (to) take, (to) bring"
-llevó,"(?) has he packed, (he) carried, (he) took"
 llevarle,"(to) drive (him/her/it), (to) lead (him/her/it), (to) wear (him/her/it)"
-llevo,"(I) wear, (I) take, (I) am carrying"
-llevamos,"(we) took, (we) are carrying"
-llevando,"taking, carrying, wearing"
 entero,"whole, whole number, (whole) lottery ticket"
 entera,"whole, (he/she/it) finds out, (he/she/it) pays"
 las afueras,the outskirts
@@ -331,7 +318,6 @@ recientemente,recently
 según,"according to, it depends, as"
 situaciones,"situations, locations, positions"
 situación,"situation, location, position"
-total,"total, in the end, resounding"
 actual,"materials, actual"
 actuales,"current, presents"
 actualmente,currently
@@ -347,7 +333,7 @@ creó,(she) created
 crearon,creation
 crear,"(to) create, create, thoughts"
 cree,"(?) does he think, (he) believes, (he) thinks"
-creé,(you) create
+creé,crepas
 creen,"(?) do they believe, (they) think"
 crean,"(they/you-plural) create, (they/you-plural) think, (they/you-plural) bring"
 creaste,(?) did you create
@@ -612,7 +598,6 @@ protagonista,"protagonist, leading actor, main character"
 protagonistas,"protagonist, leading actor, main character"
 usada,"used, worn"
 usados,"used, use, wear"
-amor,"love, darling, dear"
 leeremos,"read, (we) will read"
 leeré,"read, (I) will read"
 leerán,read
@@ -640,7 +625,7 @@ estudiará,"(he/she/it/you) will study, read, (he/she/it/you) will learn"
 estudiaré,"read, take"
 estudiaremos,(we) will study
 estudiarán,"read, study, take"
-hispanos,hispanic
+hispanos,Hispanics
 hispana,hispanic
 traduciré,"(to) translate, (to) convey"
 traducir,"(to) translate, (to) convey"
@@ -653,20 +638,6 @@ empezará,"(it) will begin, (she) will begin"
 empezarán,(they) will begin
 empezaremos,"start, open, we will start"
 empezaré,"(I) will start, (I) will begin, (I) will open"
-pasaba,"(I/he/she/it/you) used to pass (on), (I/he/she/it/you) used to spend, (I/he/she/it/you) used to happen"
-pasaban,"play, show, spend"
-pasas,"(you) spend, (?) are you spending, (?) can you pass"
-pasábamos,"(we) passed (on), (we) happened, (we) used to happen"
-pasa,"(he) is spending, happens"
-pasan,(they) are spending
-pasado,"last, past, given"
-pasar,"(to) pass, (to) spend, happen"
-pasamos,"spend, (we) spent, (we) are spending"
-pasé,"(I) spent, (I) passed, (I) had"
-pasando,"happening, going on, having"
-pasó,"happened, (?) did it happen, (he) had"
-paso,"step, (I) spend, (I) am spending"
-pasaron,(they) passed
 uso,"(I) use, (I) wear, (I) am wearing"
 agrega,"(you-formal) add, (he/she/it) adds, add!"
 asa,"(you) grill, (you) roast"
@@ -688,7 +659,7 @@ llene,"full, (you) fill out, crowded"
 regrese,(you) come back
 zapatos deportivos,sneakers
 a través del,through the
-a través de,through
+a través de,via
 licencia,license
 descanse,breaks
 estacione,park
@@ -717,16 +688,12 @@ apruebo,"touch, (I) try"
 aprueba,"(they) are trying, (they) try, touch"
 apruebas,"(they) are trying, (they) try, touch"
 aprobamos,(we) passed
-aprobarás,"(to) pass, get, pass"
 aprobar,"(to) pass, get, pass"
 aprobaron,pass
 recuerdan,(?) do you remember
-recordamos,"(we) remember, (we) remembered"
 recuerdas,"(you) remember, (?) do you remember"
-recordé,(I) remembered
 recordando,"recalling, reminding, remembering"
 recuerdo,"(I) remember, memory"
-recordó,"(he) remembered, (she) remembered"
 recordar,"remember, (to) remember, remembering"
 recuerda,"remember, (she) remembers"
 lecciones,"lessons, classes"
@@ -734,7 +701,6 @@ lección,lesson
 resultados,"results, performance"
 resultado,"result, worked"
 apuntes,"notes, prepared notes, (you) achieve"
-para,"for, to, (he) stops"
 memorizarla,memorize it
 memorizan,memorize
 memorizar,memorize
@@ -743,7 +709,6 @@ instructores,instructors
 instructor,instruction
 instructoras,instructors
 traduzco,i translate
-traducir,"(to) translate, (to) convey"
 traducirla,"(to) translate, (to) convey"
 traducen,"translated, conveyed"
 traduce,"translated, conveyed"
@@ -777,7 +742,7 @@ te caes,you fall
 cómo puedo ir,How can I go
 bajarte,(to) get off
 bajarnos,(they) went down
-al ver,seeing
+al ver,to see
 al escuchar,when listening
 nos reímos,"(we)  laughed, (we)  laugh"
 pidieron,"(they/you-plural) had dibs on, (they/you-plural) ordered, (they/you-plural) bags (past)"

@@ -8,10 +8,12 @@ export default class CsvCombiner {
   }
 
   _combineFiles(files) {
-    return files.reduce((text, file) => {
+    const combined = files.reduce((text, file) => {
       const fileText = fs.readFileSync(file.path, {encoding: 'utf-8'});
       return `${text}${fileText}\n`;
     }, '');
+    // remove duplicates
+    return [...new Set(combined.split('\n'))].join('\n');
   }
 
   // inspired by https://dev.to/leonard/get-files-recursive-with-the-node-js-file-system-fs-2n7o

@@ -176,7 +176,6 @@ pagaste,"pay, (?) did you pay for, (you) paid for"
 querer,"(to) want, love, (to) love"
 eliges,"(?) can you choose, (you) choose"
 oración,"sentence, prayer"
-compramos,"(we) buy, (we) bought, (?) are we buying"
 gracioso,funny
 usando,"wearing, (?) are you using, using"
 encontró,"find, (?) did he find, (he) found"
@@ -195,7 +194,6 @@ disculpa,excuse me
 gira,"(it) turns, (you) turn"
 derecho,"right, straight"
 sigue,"(you) continue, (you) follow, (you) go"
-toma,"(?) does it take, (he) drinks, (he) takes"
 enfrente,"in front, opposite, across"
 direcciones,"directions, addresses"
 detrás,"behind, after"
@@ -381,12 +379,10 @@ vivió,"(?) did he live, (he) lived, (she) lived"
 nosotros fuimos,we went
 practiqué,"play, (I) played, (I) practiced"
 novecientos,"nine hundred, 900"
-mandar,"(to) send, send"
 llegué,"(I) arrived, (I) came, (I) was"
 recordamos,"(we) remember, (we) remembered"
 practicó,"(he) played, (she) played, (you) played"
 invitar,"(to) invite, (to) ask, invite"
-esperar,"(to) wait, (to) hope, wait"
 comencé,"(I) started, (I) began"
 pensó,"(he) thought, (she) thought"
 llegó,"(he) arrived, (he) was, (she) came"
@@ -486,13 +482,11 @@ estanterías,bookcases
 estantería,"bookcase, bookshelf, shelf"
 compras,"shopping, (you) buy, (?) are you buying"
 compro,"(I) buy, (I) am buying, I'm buying"
-compra,"(?) are you buying, (?) does she buy, (?) is he buying"
 sillas,chairs
 silla,chair
 sobre,"about, on, on top of"
 esas,those
 esos,those
-pintar,"painting, (to) paint"
 limpiar,"clean, (to) clean, cleaned"
 jardín,"garden, yard"
 jardines,gardens
@@ -527,7 +521,6 @@ sabes cuándo,(?) do you know when
 sabe usted,(?) do you know
 cocinar,"cook, (to) cook, cooking"
 cocino,(I) cook
-nada,"nothing, anything, (he) swims"
 manejar,"(to) drive, driving"
 manejo,(I) drive
 sabes nadar,(you) know how to swim
@@ -547,7 +540,6 @@ ensaladas,salads
 dulce,"sweet, candy"
 chileno,Chilean
 cubano,Cuban
-italiano,Italian
 ojos,eyes
 flores,"flowers, Flores, flower"
 caliente,"hot, warm"
@@ -565,7 +557,6 @@ botas,boots
 lentes,glasses
 ambos,both
 color,"colorful, color, coloring"
-naranja,orange
 me interesa,"I am interested in, (it) interests me, I'm interested in"
 te interesa,"(?) does it interest you, (?) are you interested in"
 le interesa,"(he) is interested in, (she) is interested in"
@@ -583,7 +574,6 @@ artes,"arts, art"
 interesa jugar,interested play
 jugamos,"(we) played, (we) play, (we) are playing"
 básquetbol,basketball
-juego,"game, (I) play, games"
 practicar,"(to) play, (to) practice, play"
 preferir,"(to) prefer, prefer, preferring"
 cuáles,"which, what"
@@ -667,7 +657,6 @@ llover,"(to) rain, raining"
 caluroso,"hot, warm"
 frío,"cold, cold weather"
 comenzar,"start, starting, (to) begin"
-todo,"everything, all, whole"
 clima,weather
 nevando,snowing
 encantar,"(to) love, love"
@@ -724,20 +713,16 @@ unas,"a, some"
 vacaciones,"vacation, vacations"
 empiezas,"open, (you) start, (?) do you start"
 puedes,"(you) can, (?) can you, (?) could you"
-primero,"first, 1, 1st"
 que viene,next
 quedarse,"stay, (to) stay, staying"
 fecha,date
 plan,"plan, planned"
-sobre,"about, on, on top of"
 gustaría,"like, (?) would you like"
 todo el mundo,"everybody, everyone"
 vengo,"(I) come, I'm coming"
 venir,"come, (to) come, coming"
 me quedo,"(I)  stay, I'm staying"
 vuelvo,"(I) return, (I) go back"
-cambiar,"(to) change, (to) exchange"
-invitar,"(to) invite, (to) ask, invite"
 se queda,"remains, (he/she/it)  is, (he/she/it)  stays"
 viene,"(?) does she come, (he) comes, (she) is coming"
 gustar,"like, (to) like"
@@ -768,17 +753,16 @@ sombreros,"hats, hat"
 sombrero,hat
 faldas,skirts
 falda,skirt
-creo que,I believe that
+creo que,I think that
 pero,but
 algo,"something, anything, any"
 jugar,"(to) play, playing, play"
 correr,"run, (to) run, running"
-me encanta,I love it
+me encanta,I'm lovin 'it
 nadar,"swim, (to) swim, swimming"
 te encanta,(?) do you love
 piscinas,pools
 piscina,pool
-dibujar,"(to) draw, drawing, draw"
 música,music
 ropas,"clothes, clothing, wears"
 ropa,"clothes, clothing"
@@ -802,10 +786,8 @@ pasamos,"spend, (we) spent, (we) are spending"
 nieve,snow
 viajamos,"(we) travel, (we) traveled, we're traveling"
 practicamos,"(we) played, (we) practice, (we) practiced"
-salimos,"(we) went out, (we) go out, (we) are leaving"
 vimos,"(we) saw, (we) watched"
 bebimos,(we) drank
-dormimos,"(we) sleep, (we) slept"
 comimos,"(we) ate, (we) had"
 corrimos,"run, (we) went running, (we) ran"
 anoche,last night
@@ -818,8 +800,6 @@ visitamos,"(we) visit, (we) visited"
 cenamos,"(we) ate dinner, (we) eat dinner, (we) had dinner"
 estuvimos,(we) were
 conocimos,"(we) met, (we) knew, knew"
-escribimos,"(we) write, (we) wrote"
-abrimos,"open, (we) open, (we) opened"
 aprendimos,"(we) learned, learn"
 barco,"boat, ship"
 después,"after, later, next"
@@ -836,7 +816,6 @@ usted trabaja,you work
 trabaje,(you) work
 usted prueba,you test
 pruebe,(you) try
-alto,"tall, high, loud"
 tú vuelves,you return
 vuelve,"(?) are you coming back, (?) are you returning, (?) do you return"
 abres,"(?) can you open, (you) open, (you) are opening"
@@ -884,7 +863,6 @@ blanca,"white, Blanca"
 blancas,white
 tinto,red
 tintos,red
-otro,"another, other, another one"
 otra,"another, else, other"
 botella,bottle
 botellas,bottles
@@ -1006,17 +984,13 @@ olvidar,"(to) forget, forget, forgot"
 responder,"answer, (to) answer"
 ejemplos,examples
 vi,"(I) saw, see, (I) watched"
-comprender,"(to) understand, understand"
 cogí,"got, get, made"
 responde,"(he) answers, (he) is answering, (you) answer"
 respondió,"answer, (he) answered, (she) answered"
 viste,"(you) saw, (?) did you see, (?) did you watch"
-cantar,"singing, (to) sing, sing"
 me preocupo,"I'm worried, (I) worry"
-dibujar,"(to) draw, drawing, draw"
 encontramos,"(we) find, (we) found"
 tomó,"(?) did it take, (he) took, (it) took"
-me siento,I feel
 encuentra,(he) finds
 lo,"it, you, him"
 los,"the, them, her"
@@ -1045,7 +1019,6 @@ todo el tiempo,all the time
 cafés,"brown, cafés, coffees"
 gatos,cats
 imagen,"image, picture"
-todos,"all, all of, every"
 ninguno de,none
 nadie,"nobody, no one, anybody"
 alguno,"one, any, some (people)"
@@ -1066,14 +1039,11 @@ primer,first
 segundo,"second, 2"
 pagó,"(she) paid for, pay, (?) did you pay"
 tercero,third
-olvidar,"(to) forget, forget, forgot"
 tercer,third
 algún,"any, one, some"
 ningún,"no, any"
-pagamos,"(we) pay, (we) are paying for, (we) paid"
 doscientos,"200, two hundred"
 gran,"great, big, large"
-viajar,"(to) travel, travel, traveling"
 cerca de,nearest
 a,"a, some"
 tren,train
@@ -1137,7 +1107,6 @@ llega,"(?) does it arrive, (he) arrives, (it) arrives"
 minuto,minute
 cuarto,"room, bedroom, quarter"
 veintiocho,"28, twenty-eight"
-menos,"less, minus, fewer"
 cámara,camera
 veintinueve,"29, twenty-nine"
 treinta,"30, thirty"
@@ -1157,7 +1126,6 @@ nos vemos,see you
 fumar,"smoking, (to) smoke"
 quinientos,"500, five hundred"
 vinimos,"(we) came, (we) arrived, come"
-encontramos,"(we) find, (we) found"
 compraste,"buy, (?) did you buy, (?) did you get"
 vinieron,"(?) did you come, (they) came, come"
 entonces,"then, so"
@@ -1175,14 +1143,12 @@ disfruté,(I) enjoyed
 caminaste,"(?) did you walk, (you) walked, walk"
 disfrutó,"(he) enjoyed, (it) enjoyed, (she) enjoyed"
 visitaron,"(?) did you visit, visit, (they) visited"
-miramos,"look, (we) watched, (we) are looking"
 salí,"(I) went out, (I) left"
 saliste,"(?) did you leave, (you) went out, (?) did you go out"
 bebió,"(?) did you drink, (he) drank, (she) drank"
 conocieron,"(?) did you meet, (they) met, meet"
 abrí,"(I) opened, bored, get"
 abriste,"start, bored, open"
-vivimos,"(we) live, (we) lived, (we) have lived"
 hice,"(I) did, (I) made, (I) asked"
 hiciste,"(you) did, (you) made, (?) did you do"
 hicimos,"made, (we) made, (?) did we do"
@@ -1225,8 +1191,6 @@ septiembre,September
 octubre,October
 noviembre,November
 diciembre,December
-los,"the, them, her"
-las,"the, his, my"
 trabajos,jobs
 trabajo,"(I) work, job, jobs"
 jefa,boss
@@ -1244,7 +1208,6 @@ escribir,"write, (to) write, writing"
 escribo,"(I) write, (I) am writing"
 escribes,"(you) write, (?) are you writing, (?) do you write"
 escribe,"(?) are you writing, (?) do you write, (?) does she write"
-mucho,"a lot, a lot of, much"
 para,"for, to, (he) stops"
 tener,"have, (to) have, get"
 cartas,"letters, cards"
@@ -1262,4 +1225,3 @@ negocio,business
 leo,"(I) read, (I) am reading"
 lees,"(you) read, (?) do you read, (you) are reading"
 ahora,now
-lee,"(he) reads, (she) is reading, (she) reads"
