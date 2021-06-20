@@ -36,7 +36,7 @@ export default class AnkiUpdater {
         }
       }
       const newText = csvCards.reduce((a, b) => a + `\n${b.front},${b.back}`, '');
-      fs.writeFileSync(matchingCsv, newText);
+      fs.writeFileSync(matchingCsv, newText.trim());
     }
   }
 }
