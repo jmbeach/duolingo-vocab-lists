@@ -32,8 +32,11 @@ export default class AnkiUpdater {
         const csvCard = csvCardMatches[0];
         if (csvCard.back !== card.fields.Back.value) {
           console.log(`replacing [${csvCard.front}, ${csvCard.back}] with [${front}, ${card.fields.Back.value}]`)
+          csvCard.back = card.fields.Back.value;
         }
       }
+      const newText = csvCards.reduce((a, b) => a + `\n${b.front},${b.back}`, '');
+      fs.writeFileSync(matchingCsv, newText);
     }
   }
 }
