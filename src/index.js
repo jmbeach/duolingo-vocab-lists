@@ -4,6 +4,7 @@ import yargs from 'yargs';
 import CsvCreator from './csv-creator';
 import CsvCombiner from './csv-combiner';
 import {hideBin} from 'yargs/helpers';
+import AnkiUpdater from './anki-updater';
 
 dotenv.config();
 
@@ -36,7 +37,8 @@ const argv = yargs(hideBin(process.argv)).command('download', 'Downloads transla
     type: 'string',
     demandOption: true
   }
-}).help().alias('help', 'h').argv;
+})
+.command('anki', 'Updates vocab words using anki (really specific to author\'s setup)').help().alias('help', 'h').argv;
 
 if (argv._.includes('download')) {
   const downloader = new TranslationDownloader(argv.vocabHtmlFile, process.env.GOOGLE_TRANSLATE_API_KEY || argv.googleApiKey);
@@ -48,6 +50,11 @@ if (argv._.includes('download')) {
   const combiner = new CsvCombiner(argv.languagePath.toString());
   combiner.combine();
   combiner.combineParts();
+} else if (argv._.includes('anki')) {
+  const ankiUpdater = new AnkiUpdater();
+  ankiUpdater.run().then(x => {
+    console.log('done')
+  });
 } else {
   yargs.showHelp();
 }
