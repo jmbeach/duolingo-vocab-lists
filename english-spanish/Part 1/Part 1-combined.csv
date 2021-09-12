@@ -2,7 +2,7 @@ madre,mom
 padre,dad
 inteligente,intelligent
 elegante,elegant
-tiene,he has
+tiene,she has
 carro,car
 casa,house
 hermano,brother
@@ -10,7 +10,7 @@ hermana,sister
 muy,very
 perro,dog
 gato,cat
-bonito,pretty
+bonito,pretty (m)
 grande,big
 esposo,husband
 esposa,wife
@@ -22,7 +22,7 @@ familia,family
 bicicleta,bicycle
 vivo,I live
 tienes,you have
-hijo,son
+hijo,son (English)
 hija,daughter
 y,and
 interesante,interesting
@@ -31,7 +31,7 @@ hombre,man
 la,the
 mujer,woman
 yo,I
-un,a
+un,a (English)
 una,one
 soy,I am
 niño,boy
@@ -39,7 +39,7 @@ niña,girl
 él,he
 es,it is
 ella,she
-come,he eats
+come,she eats
 tú,you
 eres,you are
 manzanas,apples
@@ -48,7 +48,7 @@ como,I eat
 comes,you eat
 agua,water
 leche,milk
-bebe,he drinks
+bebe,she drinks
 bebo,I drink
 bebes,you drink
 me llamo,my name is
@@ -68,7 +68,7 @@ Cuba,Cuba
 cubano,Cuban
 cubana,Cuban
 mexicano,Mexican
-mexicana,mexican
+mexicana,Mexican (female)
 hola,hello
 adiós,goodbye
 gracias,thank you
