@@ -3,9 +3,19 @@
     "name": "Intro",
     "sectionNumber": 1
   },
+  "Introduction": {
+    "name": "Intro",
+    "sectionNumber": 1,
+    "alias": true
+  },
   "Phrases": {
     "name": "Phrases",
     "sectionNumber": 1
+  },
+  "Common Phrases": {
+    "name": "Phrases",
+    "sectionNumber": 1,
+    "alias": true
   },
   "Travel": {
     "name": "Travel",
@@ -183,8 +193,8 @@
     "name": "Travel 4",
     "sectionNumber": 3
   },
-  "Interest 2": {
-    "name": "Interest 2",
+  "Interests 2": {
+    "name": "Interests 2",
     "sectionNumber": 3
   },
   "Groceries": {
@@ -383,8 +393,8 @@
     "name": "Daily Life",
     "sectionNumber": 4
   },
-  "Grocery 2": {
-    "name": "Grocery 2",
+  "Groceries 2": {
+    "name": "Groceries 2",
     "sectionNumber": 4
   },
   "School 5": {
@@ -399,8 +409,8 @@
     "name": "Objects 2",
     "sectionNumber": 4
   },
-  "Experience": {
-    "name": "Experience",
+  "Experiences": {
+    "name": "Experiences",
     "sectionNumber": 5
   },
   "Work 4": {
@@ -455,8 +465,8 @@
     "name": "School 6",
     "sectionNumber": 5
   },
-  "Anecdote 2": {
-    "name": "Anecdote 2",
+  "Anecdotes 2": {
+    "name": "Anecdotes 2",
     "sectionNumber": 5
   },
   "Travel 7": {
@@ -1074,5 +1084,13 @@
   "Gotta go!": {
     "name": "Gotta go!",
     "sectionNumber": 10
+  },
+  "Flirting": {
+    "name": "Flirting",
+    "sectionNumber": "Bonus"
+  },
+  "Idioms and Proverbs": {
+    "name": "Idioms and Proverbs",
+    "sectionNumber": "Bonus"
   }
 }

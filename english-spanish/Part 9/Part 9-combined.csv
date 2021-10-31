@@ -1,866 +1,264 @@
-terminaste,"Did you finish...?, (you) finished, (you) ended"
-termino,"finished, (I) finish, I'm finishing"
-terminaron,"(?) did you finish, (they) finished, finish"
-terminas,"(you) finish, (?) do you finish"
-terminamos,"(we) finished, (we) finish, (?) do we finish"
-terminó,"finished, (?) did it end, (he) finished"
-terminan,"(?) do they finish, (they) finish"
-termina,"(?) does it finish, (he) finishes, (it) ends"
-terminar,"(to) finish, (to) end, finish"
-terminé,"(I) finished, (I) ended"
-cancelé,"pay, stopped"
-cancelaron,"stop, stopped"
-cancelar,"pull, pays, stop"
-vestirnos,"dress, (to) get dressed"
-vestirte,"dress, (to) get dressed"
-vestirme,"dress, (to) get dressed"
-acabo de,just
-acaba de,"have just, has just, finishes"
-acabamos de,we just
-acaban de,"have just, finish"
-acabas de,did you just...?
-estantes,shelves
-estante,"shelf, bookshelf"
-vestido,"dress, dressed"
-vestidos,"dresses, dressed"
-vestidas,dressed
-vestida,dressed
-techo,"ceiling, roof"
-techos,"ceiling, roof"
-recién,"just, recently, only just"
-ventilador,"ventilator, air vent, fan"
-ventiladores,fans
-garaje,garage
-tortilla,"omelet, tortilla, unleavened bread"
-tortillas,omelets
-secó,(she) dried
-secar,"dry, (to) dry, drying"
-secaste,"dry, (you) dried"
-seca,dry
-seco,"dry, (I) dry"
-secas,dry
-sequé,"dry, (I) dried"
-lavamanos,sink
-hablar de,talk about
-joyas,jewelry
-pararme,"(to) stand up, stop"
-pararnos,stand
-pararse,"stood up, stopped, stop"
-pararte,stand
-rosada,"pink, rosy, rosé"
-rosados,"pink, pinks, rosy"
-rosado,pink
-rosadas,pink
-cortinas,curtains
-boles,bowls
-bol,bowl
-melón,melon
-melones,melons
-programas,"programs, (you) draw up a program for, (you) timetable"
-programa,"program, show, software"
-práctica,"practice, teaching practice, experience"
-vendieron,(they) sold
-vendían,"sold, selling, moved"
-vendo,"(I) sell, (I) betray, (I) bandage"
-vendía,"sold, moved, carried"
-vendí,(I) sold
-vende,"(?) does he sell, (it) sells"
-vendiendo,selling
-vendió,"(he) sold, (she) sold"
-vendes,"sell, (you) sell … down the river, (you) betray"
-venden,"(?) do they sell, (they) sell"
-vender,"sell, (to) sell, selling"
-vendemos,"sell, (we) give … away, (we) sell … down the river"
-vendíamos,we sold
-grito,"scream, (I) shout, call"
-gritar,"shout, (to) shout, cry"
-gritando,"shouting, crying"
-grita,"shout, shout!, (you-formal) shout"
-gritan,"shouting, shout, cry"
-portón,"gate, front door, large door"
-pasillos,"hall, hallway, aisle"
-pasillo,"hall, hallway, aisle"
-fregadero,sink
-vestía,"dressed in, wore"
-vestir,"(to) wear, wears, (to) decorate"
-te ibas,you were leaving
-se iba,(he) was leaving
-me iba,I was leaving
-se iban,They were leaving
-nos íbamos,We were leaving
-vestíbulo,"foyer, halle, vestibule"
-doble,"twice, double!, (I/he/she/it/you) double"
-te fuiste,you went
-se fue,left
-nos fuimos,left
-me fui,I left
-nos iremos,we will go
-me iré,(I) will leave
-te irás,you will leave
-doradas,"golden, gold"
-dorada,"golden, browned, gilt/gilded"
-dorado,"golden, gold"
-anillos,bands
-anillo,ring
-enviábamos,we sent
-enviaron,sent
-envié,(I) sent
-enviado,sent
-enviamos,(we) sent
-enviando,sending
-enviaste,(?) did you send
-envió,"(he) sent, (she) sent"
-apagaba,"(she) turned off, killed, used to go out"
-apagábamos,(we) turned off
-apagaban,"cut, killed, (they) used to turn off"
-entrábamos,(we) were going into
-entraba,"(I/he/she/it/you) went in, (I/he/she/it/you) came in, (I/he/she/it/you) used to begin"
-entraban,"(they/you-plural) came in, (they/you-plural) get in the way of, (they/you-plural) started"
-conduces,"(you) drive, (you) ride"
-conducir,"(to) drive, (to) ride, driving"
-conduzco,(I) drive
-conduce,"(you) drive, (he) drives"
-conduciendo,"riding, driving"
-gasté,(I) spent
-gasto,"spend, (I) spend, (I) have"
-gastamos,(we) spent
-gasta,(she) spends
-gastaba,spend
-gastó,"(she) spent, (he) spent"
-gastaste,"(you) spent, use, (?) did you spend"
-me acostaba,I went to bed
-se acostaban,they lay down
-te acostabas,you lay down
-se acostaba,"went to bed, (she) used to go to bed"
-te acostarás,you will lie down
-nos acostaremos,we will lie down
-me acostaré,(I) will go to bed
-menos mal,luckily
-escuchábamos,(we) listened
-escucharemos,listen
-escuchabas,"(?) did you listen, listen"
-escuchaba,"(she) listened, (I) was listening"
-escuchará,"monitor, (he/she/it/you) will listen to, (he/she/it/you) will hear"
-rock,"rocks, rock"
-snowboarding,snowboarding
-nadando,swimming
-nadábamos,(we) were swimming
-nadaban,"(they/you-plural) swam, (they/you-plural) used to swim, (they/you-plural) were swimming"
-nadarás,"swim, (you) will swim"
-nadaba,"(I) used to swim, (I) was swimming, use to swim"
-nadaremos,"swim, (we) will swim"
-encendían,(they) used to turn on
-encendía,"(I) used to turn on, (she) turned on"
-encendías,(?) did you turn on
-encendido,"turned on, on, open"
-encendíamos,(we) used to turn on
-rap,rap
-fuertes,strong
-fuerte,"strong, bad, hard"
-bebíamos,"(we) were drinking, (we) used to drink, (we) drank"
-bebido,"drunk, had"
-bebían,"(they/you-plural) were drinking, (they/you-plural) used to drink, (they/you-plural) drank"
-bebía,"(I/he/she/it/you) was/were drinking, (I/he/she/it/you) used to drink, (I/he/she/it/you) drank"
-beberé,"drink, (I) will drink"
-bebías,"(you) were drinking, was drinking, (you) drank"
-beberán,"drink, (they/you-plural) will drink"
-beberás,"drink, (you) will drink"
-beberá,"(he/she/it/you-formal) will drink, drink"
-beberemos,"drink, (we) will drink"
-verdaderos,"real, true"
-verdadera,"true, real"
-verdaderas,"real, true"
-verdadero,"real, positive, true"
-cantaba,"performed, (I) was singing, gave"
-cantabas,(?) were you singing
-reales,real
-real,real
-esperaba,"(I/he/she/it/you) was/were waiting for, (I/he/she/it/you) was/were waiting, (I/he/she/it/you) was/were expecting"
-esperábamos,"(we) used to expect, (we) used to be expecting, (we) used to await"
-esperaré,"(I) will wait, I'll wait, keep"
-esperabas,"(you) awaited, (you) held on, (you) used to hope"
-atractivos,attractive
-atractivo,attractive
-atractivas,attractive
-esquiaba,(she) was skiing
-esquiábamos,(we) were skiing
-esquiaban,(they) were skiing
-esquiamos,we ski
-fumaba,"(he) smoked, (he) used to smoke"
-fuman,"(they/you-plural) blow, (they/you-plural) smoke, (they/you-plural) skip"
-fumó,smoke
-fumas,"(you) smoke, (you) blow, (you) skip"
-veía,"(I) saw, (I) used to see, (he) used to see"
-veías,"(you) used to see, (?) did you use to see"
-patines,"skates, skate"
-castaño,brown
-casi,"almost, nearly, most"
-luego,"then, later, after"
-amas de casa,homemakers
-ama de casa,"homemaker, housewife"
-escúter,scooter
-patinar,"skating, skate, to skate"
-liso,straight
-hacía,"(I) used to do it, (I) used to make, (it) was"
-hacían,"(they/you-plural) used to do, made, (they/you-plural) used to voice"
-hacías,"(you) were doing, (you) used to do, (you) used to work"
-hacíamos,"(we) used to make, (we) used to do, (we) used to pack"
-baterías,"batteries, drum kit, drums"
-batería,"battery, drums, drum kit"
-globo,"balloon, world"
-globos,balloons
-payaso,"clown, comedian, joker"
-payasos,"clowns, comedian, jokers"
-veíamos,"(we) used to watch, (we) used to see, (we) used to hear"
-veían,"(they) used to see, (they) watched"
-adolescente,"teenager, adolescent, teen"
-adolescentes,"teens, adolescents, teenagers"
-compartir,"(to) share, share, sharing"
-fútbol americano,football
-cita,"appointment, date"
-pósteres,posters
-póster,poster
-patinaba,"(she) used to skate, (I) would skate"
-patinábamos,(we) would skate
-patinaban,(they) were skating
-patinabas,(you) were skating
-patina,skates
-había,"had, there was, it was"
-zanahoria,carrot
-zanahorias,carrots
-armario,closet
-mientras,"while, as, as long as"
-compartían,(they) would share
-comparten,(they) share
-compartió,(she) shared
-compartiendo,sharing
-compartía,"(I) would share, (she) used to share"
-compartimos,"(we) shared, (we) share"
-compartías,"(you) used to share, share, (?) did you share"
-comparto,"(I) share, share"
-compartes,share
-tenido,"had, gotten"
-conocido,"met, well-known, acquaintance"
-pedido,"asked, asked for, ordered"
-tal,such
-multitud,crowd
-guía,"guidebook, guide, guide book"
-tales,"stories, tales"
-comprado,"bought, got, purchased"
-dicho,"told, said"
-hecho,"made, done, fact"
-cualquier lugar,any place
-negativa,"negative, denial, refusal"
-negativo,negative
-señales,"(you) distinguish oneself, (you) point out, signs"
-señal,sign
-vaya,"(I) go, (he) is going, (you) go"
-surfeamos,we surf
-surfeo,(I) surf
-surfea,surfs
-surfear,"surfing, (to) surf"
-surfean,(they) surf
-puesto,"put, (I) have on, (she) has on"
-escrito,written
-policía,"police, police officer, policeman"
-abierto,"open, made, opened"
-por cierto,by the way
-sonido,sound
-rutas,"routes, roads"
-ruta,"route, road"
-visto,"seen, (I) wear, watched"
-ocurrido,"occurred, happened"
-luna,moon
-estrellas,stars
-estrella,star
-biología,biology
-semestre,"semester, term"
-metas,"homes, goals"
-meta,"goal, (I/he/she/it/you) do, (I/he/she/it/you) get involved"
-he,"(I) have, I've"
-has,"(you) have, you've"
-trabajado,worked
-estado,"been, state"
-estudiado,studied
-antes,"before, previously, by"
-bastante,"pretty, quite, quite a lot"
-ha,"(he) has, (it) has, (she) has"
-comido,"eaten, had"
-aprendido,"learned, learns, learned/learnt"
-todavía,"still, yet, even"
-obrera,worker
-obrero,worker
-obreros,"workers, working-class"
-obreras,"worker bee, workers, worker ant"
-peligro,"danger, (I) am at risk, peril"
-robar,(to) steal
-robando,stolen
-robó,"(?) did he steal, (he) stole"
-hemos,"(we) have, we've"
-han,"(she) has, (they) have, they've"
-ido,"gone, been to, been"
-vivido,lived
-recibido,"received, got"
-policías,"police, police officers, policemen"
-salvaje,"wild, animal, brutal"
-salvajes,"wild, animals, brutal"
-fuego,fire
-robado,stolen
-terrible,"terrible, horrible"
-llegado,"arrived, come, gotten"
-extrañas,"(you) miss, (you) surprise, (you) are homesick"
-extraña,"strange, stranger, (she) misses"
-extraños,"strangers, odds, strange"
-extraño,"(I) miss, strange"
-electricidad,"electricity, electric"
-nacionales,"national, domestic, homes"
-nacional,"national, domestic, home"
-perrito,little dog
-perritos,"little dog, clothespin, clothes-peg"
-me llevaba bien,I got along well
-nos llevábamos bien,We got along well
-te llevabas bien,you got along
-se llevaban bien,they got along
-se llevaba bien,got along well
-nos llevamos bien,(we) get along
-se llevó bien,got along well
-me llevo bien,(I) get along
-se lleva bien,It gets along
-te llevas bien,(you) get along
-se llevan bien,(they) get along
-me casé,(I) got married
-casado,married
-me caso,I get married
-nos casamos,"(we) got married, (we) are getting married"
-se casó,(he) got married
-se casan,"(they)are getting married, get married"
-casaron,"(they) got married, (?) did they get married"
-te casas,do you get married
-soltera,single
-solteros,single
-soltero,single
-solteras,single
-hermanita,little sister
-hermanito,little brother
-hermanitos,little brothers
-adulto,adult
-adultas,adults
-adulta,adult
-adultos,"adults, adult"
-mesita,little table
-gatito,"little cat, kitten"
-llevarnos bien,to get along
-llevarme bien,get along
-llevarte bien,(to) get along
-llevarse bien,get along
-normal,normal
-ratones,mice
-ratón,mouse
-jalea,jelly
-aconseja,"advises, guide"
-aconsejo,(I) advise
-aconsejas,(you) advise
-aconsejan,"advise, guide"
-pequeñita,really small
-pequeñitos,really small
-pequeñito,"small, really small"
-bajito,"short, really short"
-bajitas,"short, really short"
-bajita,"short, really short"
-genial,"cool, great"
-miembro,"member, limb"
-miembros,"members, Member, limb"
-crecieron,"rose, (they) grew up"
-creciste,"grow up, (?) did you grow up, rose"
-crecí,"rose, (I) grew up"
-crecen,"(they/you-plural) grow, (they/you-plural) rise, (they/you-plural) spread"
-crecimos,(we) grew up
-crecer,"(to) grow, (to) rise, (to) spread"
-creció,"rose, (he) grew up, (?) did she grow up"
-graduada,graduate
-graduados,graduates
-graduado,graduate
-iguales,"same, the same, equal"
-igual,"is, anyway, as"
-poquito,"little, shot"
-abuelita,grandma
-pesca,fishing
-bistec,steak
-abuelitos,grandparents
-rosa,"pink, rosa"
-manta,blanket
-mantas,blankets
-hablarán,"(they) will talk, talk"
-hablaremos,"(we) will ring, (we) will speak, (we) will call"
-hablaré,"(I) will talk, (I) will speak, I'll talk"
-vivirás,"(you) will live, (you) will be alive, stay"
-viviremos,"live, (we) will live"
-vivirán,"live, (they/you-plural) will live, (they/you-plural) will be alive"
-viviré,"(I) will live, live, (I) will be alive"
-futuro,future
-título,"title, degree"
-títulos,"bonds, securities, headers"
-objetivo,"objective, aim, (I) objectify"
-objetivos,"goals, targets"
-suerte,"luck, lucky"
-errores,"mistakes, errors"
-error,"mistake, error, mistakes"
-comerás,"eat, (you) will eat, lunch"
-comerán,"(they) will eat, they'll eat"
-comeré,"eat, (I) will eat, I'll have"
-comeremos,"eat, (we) will eat, (we) will be having"
-comerá,"eat, (he) will eat, he'll eat"
-estaremos,"be, (we) will be, we'll"
-estará,"be, (?) will it be, (he) will be"
-estarán,"be, (?) will they be, (they) will be"
-estaré,"be, (I) will be, (I) will stay"
-estarás,"be, (you) will be, (?) will you be"
-posiblemente,possibly
-en realidad,actually
-etcétera,"etc, etc."
-después,"after, later, next"
-de moda,"in style, vogue, fashionable"
-adivinaremos,"guess, we will guess"
-irá,"(she) will be going, go, will be going"
-iremos,"(we) will leave, (we) will go, go"
-iré,"(I) will go, I'll be going, go"
-irán,"will go, (?) will you be going, go"
-irás,"(you) will go, (?) will you go, (?) will you leave"
-serás,"be, (you) will be, are"
-seré,"be, (I) will be, made"
-serán,(they) will be
-seremos,"be, (we) will be, are"
-será,"be, (he) will be, (it) will be"
-ganadora,winner
-ganador,winner
-finalmente,"finally, in the end, At last"
-competencia,competition
-competencias,competitions
-volverse,"turn, (to) become, (to) turn"
-volverme,"become, (to) become"
-volvernos,"become, (to) become"
-volverte,"(to) return (you), (to) turn … inside out (you), (to) turn over (you)"
-cierto,"true, (?) shouldn't they, (?) shouldn't we"
-tal vez,"perhaps, maybe"
-de todas formas,"in any case, anyway, time"
-mejorará,"better, (it) will improve"
-mejora,"better, (he/she/it) improves, (he/she/it) gets better"
-mejorarán,"better, (they) will improve"
-mejorar,"(to) improve, (to) get better"
-mejoramos,"(we) improved, (we) increased, (we) improve"
-mejoraremos,"(we) will improve, (we) will increase, (we) will give birth"
-eléctrico,"electric, electrical"
-eléctrica,"electric, electrical, electricity company"
-eléctricas,electric
-eléctricos,"electrical, electrics, electric"
-se volverán,they will turn
-se volverá,It will become in
-vuelves,"(you) come back, (you) return, (?) do you come back"
-me volveré,i will come back
-nos volveremos,we will return
-volvieron,"(they/you-plural) returned, (they/you-plural) turned, (they/you-plural) made"
-vuelvo,"(I) return, (I) go back"
-vuelven,"(?) are you going back, (they) are going back, (they) come back"
-volvemos,"(we) return, (we) are coming, (we) go"
-te volverás,you will come back
-vuelve,"(?) are you coming back, (?) are you returning, (?) do you return"
-volvió,"(he/she/it/you) returned, (he/she/it/you) went back, (he/she/it/you) came back"
-trata,"(he/she/it) tries, try!, (he/she/it) treats"
-trataba,"(I/he/she/it/you) was/were trying, (I/he/she/it/you) used to treat, (I/he/she/it/you) was/were treating"
-trataron,"(they/you-plural) tried, (they/you-plural) had / undergo treatment, (they/you-plural) treated"
-trato,"deal, (I) try, (I) treat"
-trataremos,"try, (we) will try"
-tratando,trying
-tratado,"tried, treated, treated oneself"
-tratar,"(to) try, (to) treat, try"
-trataré,"(I) will try, I'll try"
-tratará,"will, (he/she/it/you) will be about, (he/she/it/you) will treat"
-tratarás,try
-tratarán,"try, cover"
-trató,"(he) tried, (she) tried"
-horrible,"horror, horrible"
-alejado,far away
-alejadas,far away
-alejados,"far, removed"
-alejada,"remote, far away"
-usual,"normal, usual"
-nacer,"born, (to) be born, (to) hatch"
-cerebro,"brain, brains"
-molestos,upset
-molesta,"(you-formal) upset, (you-formal) disturb, (you-formal) bother"
-molesto,"(I) am a nuisance, (I) bother, (I) disturb"
-molestas,upset
-vendaje,"bandage, dressing"
-vendajes,dressings
-fácilmente,easily
-nacieron,"(they/you-plural) sprouted, (they/you-plural) was/were born, (they/you-plural) hatched"
-nací,(I) was born
-naciste,(you) were born
-nació,"(he) was born, (she) was born"
-auxilio,"(I) help, (I) attend, help"
-rápidamente,"quickly, rapidly, fast"
-gravemente,"gravely, seriously, badly"
-caernos,fall
-caerte,(to) fall
-caerse,"(to) drop (oneself), (to) goof (oneself), (to) fall over (oneself)"
-caerme,"(to) drop (me), (to) die out (me), (to) die (me)"
-verte,"(to) see you, (to) see yourself, look"
-vernos,(to) look
-verme,"(to) see (me), (to) see oneself (me), (to) hear (me)"
-verse,"look, show"
-muertos,"dead, dead beat, death"
-muerta,dead
-muertas,"dead, dead beat, disused"
-muerto,"died, dead, finished"
-comer mucho,eat a lot
-trabajar mucho,work a lot
-en forma,fit
-se ven,"(it) looks, (they) look"
-nos vemos,see you
-me veo,"(I)  imagine, (I)  see, (I)  watch"
-te ves,"(you)  imagine, (you)  see, (you)  watch"
-se ve,"(she) looks, (?) does it look, (you) can see"
-reírnos,(to) laugh
-reírse,"(to) laugh, laughing, laugh"
-reírme,(to) laugh
-reírte,"(to) laugh, laugh"
-olvidarme,(to) forget
-olvidarse,"(to) forget, forget"
-olvidarnos,"(to) forget, forget"
-olvidarte,"(to) forget, forget"
-cuidado,"careful, care, worry"
-medicina,medicine
-nos olvidamos,"(we)  leave … behind, (we)  forget, (we)  forgot"
-se olvidó,she forgot
-me olvido,I forget
-se olvidaron,they forgot
-se olvida,"(he/she/it)  leaves … behind, (he/she/it)  forgets"
-te olvidas,"(you)  forget, (you)  leave … behind"
-sangre,blood
-inmediatamente,immediately
-pelo,hair
-cambios,changes
-cambio,"change, (I) change, return"
-se,"you, are, each other"
-e,and
-claras,clear
-clara,clear
-claro,"light, clear, sure"
-di,(I) gave
-se las,I know them
-se los,I know them
-se la,I know it
-se lo,I know
-diste,"(?) did you give, (you) gave, give"
-enterarnos,(we) found out
-enterarse,(to) find out
-enterarte,(to) find out
-enterarme,"(to) find out, (I) found out"
-tú se,you know
-ellos se,they know
-contactos,"contact sheet, contacts, contact print"
-contacto,"contact, contacts"
-dio,"(he) gave, (she) gave, give"
-quieres decir,"(you) want to say, (you) mean"
-quieren decir,They mean
-quería decir,I wanted to say
-quiere decir,"(you-formal) want to say, (he/she/it) means, (you-formal) mean"
-salidas,exits
-salida,exit
-formulario,form
-dimos,"(we) grew, (we) dealt, (we) gave"
-sobre,"about, on, on top of"
-dieron,"(they/you-plural) gave, (they/you-plural) gave on to, (they/you-plural) administered"
-asuntos,"affairs, matters, business"
-asunto,"matter, issue, business"
-web,web
-digitales,digital
-digital,digital
-enteramos,(we) found out
-entero,"whole, whole number, (whole) lottery ticket"
-enteraste,(?) did you find out
-enteraron,(they) found out
-entera,"whole, (he/she/it) finds out, (he/she/it) pays"
-enteró,(she) found out
-enteré,(I) found out
-él se,she know
-ellas se,they know
-hechos,"made, facts"
-sucedió,"(he/she/it/you) happened, (he/she/it/you) succeeded, (he/she/it/you) inherited"
-sucede,(it) happens
-suceder,"(to) happen, (to) follow, (to) succeed"
-añadió,"add, (he/she/it/you) added"
-añade,"(she) adds, (she) is adding, (you) add"
-añadir,"add, (to) add, write"
-añado,"adding, I'm adding, (I) add"
-estudio,"study, (I) study, (I) am studying"
-estudios,"studies, studios"
-software,software
-si,"if, when, whether"
-matemáticas,math
-reprobamos,"fail, failed"
-reprobaron,(they) failed
-reprobó,(he) failed
-reprobar,"fail, failed"
-reprobé,(I) failed
-repruebas,fail
-reprueban,"fail, (they) are failing"
-repruebo,fail
-cursos,courses
-curso,"course, class, grade"
-ortografía,spelling
-principiantes,beginners
-principiante,beginner
-vocabulario,vocabulary
-deletrear,"spelling, (to) spell"
-segundo,"second, 2"
-segundos,"seconds, second-in-command, deputies"
-basurero,"dustbin, wastebasket, trash can"
-basureros,wastebaskets
-mal,"bad, wrong, badly"
-medias,"stockings, socks, tights"
-suficientes,enough
-suficiente,enough
-básica,"basic, primary / elementary education"
-básicos,"basic, simple"
-básico,"basic, simple"
-básicas,"basic, basics, primary / elementary education"
-incluso,"even, including"
-borrador,eraser
-borradores,erasers
-me apuro,I hurry
-se apura,(she) hurries
-se apuran,they hurry
-nos apuramos,we rush
-te apuras,hurry up
-guantes,gloves
-guante,glove
-tijeras,scissors
-cortaré,pick
-cortó,"(she) cut, (?) did he cut"
-corto,short
-cortan,"(they/you-plural) cut, (they/you-plural) cut off, (they/you-plural) cut out"
-cortamos,"we're cutting, cutting"
-cortar,(to) cut
-corta,short
-sumar,"(to) add, add"
-suma,"sum, (he/she/it) adds, (he/she/it) adds up"
-imprimiendo,printing
-imprimir,(to) print
-cuadrado,square
-cuadrados,"square, squares"
-menos,"less, minus, fewer"
-apurarme,"hurry, (to) hurry"
-apurarnos,"hurry, (to) hurry"
-apurarse,"hurry, (to) hurry"
-apurarte,"hurry, (to) hurry"
-espacios,"spaces, areas, gaps"
-espacio,"space, room, (I) space … out"
-estantería,"bookcase, bookshelf, shelf"
-estanterías,bookcases
-compran,"(?) do you buy, (they) are buying, (they) buy"
-trabajan,"(?) do they work, (they) are working, (they) work"
-compren,buy
-trabajen,"work on!, perform!, (they/you-plural) work"
-perfumes,perfumes
-perfume,"perfume!, (I/he/she/it/you) perfume, put perfume / scent on!"
-cheque,check
-cómo quiere pagar,how would you like to pay
-cómo quieres pagar,how do you want to pay
-comen,"(?) are you eating, (?) do you eat, (they) are eating"
-beben,"(?) are they drinking, (?) do you drink, (they) drink"
-coman,"eat, eat!, (you-plural) eat (command)"
-beban,"drink, drink!, (you-plural) drink (command)"
-me los llevo,I will take them
-me las llevo,I'll take them
-me lo llevo,I'll take it
-me la llevo,i take it
-vendedora,"saleswoman, salesperson"
-vendedoras,salespeople
-vendedores,"salesmen, salespeople"
-vendedor,"salesperson, salesman, vendor"
-recibo,"receipt, (I) get, (I) receive"
-recibos,receipts
-deciden,"(they/you-plural) settle, (they/you-plural) make up one's mind, (they/you-plural) decide"
-abren,"(they) are opening, (they) open, (you) open"
-abran,"open!, open (up)!, open out!"
-decidan,decide
-otra,"another, else, other"
-otros,"others, other"
-otras,other
-otro,"another, other, another one"
-brazalete,bracelet
-brazaletes,bracelets
-aretes,earrings
-van,"(?) are you going, (?) are you leaving, (?) do you go"
-hacen,"(?) are you doing, (they) do, (they) make"
-cuál quieres,which one do you want
-cuáles quiere,which ones do you want
-cuál quiere,which one do you want
-hagan,"do, do!, (they/you-plural) do"
-vayan,"(they/you-plural) go, (they/you-plural) go out, (they/you-plural) escape"
-gratis,"free, for free"
-pijamas,pajamas
-pijama,pajamas
-se habla,is spoken
-se usa,"(you)  use, (he/she/it)  uses, (he/she/it)  wears"
-escaleras,stairs
-norte,north
-andén,platform
-turismo,tourism
-cuadra,block
-cuadras,blocks
-se hacen,"(they/you-plural)  do, (they/you-plural)  make, (they/you-plural)  write out"
-se necesitan,are needed
-cuero,leather
-significan,"(they/you-plural) signify, (they/you-plural) distinguish oneself, (they/you-plural) stress"
-significado,"meaning, drawn attention to oneself, distinguished oneself"
-significa,"(?) does it mean, (it) means, mean"
-plástico,plastic
-toallas,"towels, toweling"
-toalla,"towel, toweling"
-ferrocarril,"train, railroad"
-subirse,"get, ride, getting"
-subirme,(to) get on
-subirte,(to) get in
-subirnos,(to) get on
-anchas,wide
-ancha,wide
-ancho,"wide, proud, broad"
-anchos,"wide, widths, proud"
-entrada,"entrance, ticket, gate"
-entradas,"entrances, gates, tickets"
-esquina,corner
-me pierdo,I get lost
-perdíamos,"(we) used to fade, (we) used to disappear, (we) were disappearing"
-te perdiste,(you)  got lost
-nos perdimos,(we) got lost
-perdía,"(I/he/she/it/you) used to get into trouble, (I/he/she/it/you) ran, (I/he/she/it/you) missed"
-perdieron,(they) lost
-me perdí,i got lost
-se perdió,it got lost
-perdido,"lost, missing"
-se vende,"is sold, for sale, sold"
-se venden,"are sold, sold"
-se ofrecen,are offered
-se ofrece,is offered
-paramos,"stop, stopped"
-para,"for, to, (he) stops"
-paró,"(he) stopped, stop, stopped"
-paro,"stop, (I) stand, (I) stop"
-parábamos,stopped
-paras,stop
-se dice,"say, It is said"
-subiste,"rose, up"
-me subo,I get on
-me subí,I got on
-nos subimos,we got on
-te subes,you climb
-subido,"walked up, climbed, deep"
-subieron,"rose, up, (?) did they get on"
-retraso,delay
-sur,south
-se cree,it is believed
-perderte,(to) get lost
-perdernos,(to) get lost
-perderme,(to) get lost
-perderse,"fail, failed, (to) get lost"
-me voy,"I am leaving, I'm leaving"
-te vas,(you) are leaving
-euros,euros
-euro,euro
-gasolina,gas
-mapa,map
-autopista,"highway, freeway"
-avenidas,avenues
-avenida,"avenue, boulevard, drive"
-se va,is leaving
-se van,they go
-cálido,"hot, warm, hotter"
-profunda,deep
-profundo,deep
-profundas,"deep, profound, sounds"
-así que,"so that, so"
-sería una buena idea,It would be a good idea
-alrededor del,around the
-nos vamos,Let's go
-ahorramos,(we) saved
-ahorra,"(you-formal) save (oneself), save oneself!, (he/she/it) spares"
-ahorrar,"save, saving, (to) save"
-resto,"rest, return of service / serve, (I) remain"
-club,"club, dance club"
-empacar,"(to) pack, packing"
-empacaste,Did you pack
-reservación,reservation
-alquilar,"(to) rent, lets, renting"
-irte,"(to) leave, go"
-irme,"(to) go (me), (to) go out (me), (to) run (me)"
-irse,"leaving, go, (to) leave"
-irnos,"leave, (to) go, (to) leave"
-empaqué,(I) packed
-encantaría,would love
-encantarían,(I) would love
-guías,guides
-sueño,"dream, sleepy, tired"
-sueña,"(he/she/it) dreams, (you-formal) dream, dream!"
-sueñan,(they/you-plural) dream
-soñamos,"(we) dream, (we) dreamed/dreamt"
-actores,actors
-actor,actor
-actriz,actress
-actrices,actresses
-ocupación,occupation
-pienso que deberías,i think you should
-recepcionista,receptionist
-clientes,"clients, customers"
-cliente,"customer, client"
-ganar,"win, (to) win, (to) earn"
-gané,"(I) won, (I) beat, (I) earned"
-ganabas,"got, (?) did you use to earn, won"
-ganaba,"(I) used to win, (she) would always win, win"
-ganamos,"(we) won, (?) did we earn, (we) earned"
-ganan,"(they) earn, (they) get"
-ganaste,"won, (you) won, (you) gained"
-ganó,"(he) won, (she) earned, (she) won"
-ganas,(you) win
-ganábamos,"(we) won, (we) used to win"
-ganaron,"(?) did you win, (they) won, win"
-ganaban,"(they) used to win, won, earned"
-impresora,printer
-conductora,driver
-conductor,driver
-personal,"personal, staff"
-departamento,"department, apartment"
-descargar,"download, (to) download, run"
-teclados,keyboards
-teclado,"keyboard, bank"
-descargó,"download, downloaded, (?) did you download"
-descargamos,downloaded
-descargaste,"download, (?) did you download"
-descargando,downloading
-limpiadora,cleaner
-limpiadoras,cleaners
-limpiadores,cleaners
-limpiador,cleaner
-fotógrafas,photographers
-fotógrafos,photographers
-fotógrafo,photographer
-fotógrafa,photographer
-copiar,"copy, copying"
-descargué,"download, (I) downloaded"
-limpiando,cleaning
-pizarrón,"blackboard, chalkboard, whiteboard"
-física,physics
-correo,"email, mail"
-cantantes,singers
-cantante,singer
-piloto,pilot
-pilotos,"rear light, pilot light, drivers"
-madera,wood
-concejo municipal,city council
-copiando,"(you) were copying, copying, (I) was copying"
-copiamos,(we) copied
-copia,"copy, copying"
-copiaste,(?) did you copy
-copiaba,(she) was copying
-copias,copies
+armar,closet,armar,closet
+carpa,Carla,carpa,Carla
+llevar,"take, (to) take, (to) bring",llevar,"take, (to) take, (to) bring"
+mochilero,backpacker,mochilero,backpacker
+punto de encuentro,meeting point,punto de encuentro,meeting point
+senderismo,trekking,senderismo,trekking
+sí,"yes, yeah, does",sí,"yes, yeah, does"
+sí o sí,Yes or yes,sí o sí,Yes or yes
+yo no,I do not,yo no,I do not
+yo sí,I do,yo sí,I do
+acercarse,getting closer,acercarse,getting closer
+asustarse,get scared,asustarse,get scared
+espera,"(she) hopes, (she) is waiting for, (you) wait",espera,"(she) hopes, (she) is waiting for, (you) wait"
+gata,cat,gata,cat
+gatas,"cats, (feminine) cats, amateurs",gatas,"cats, (feminine) cats, amateurs"
+lo,"it, you, him",lo,"it, you, him"
+lobo,"wolf, garish, person with bad taste",lobo,"wolf, garish, person with bad taste"
+mosca,"fly, dosh, sore",mosca,"fly, dosh, sore"
+orilla,"edge, (he/she/it) gets around, (you-formal) get around",orilla,"edge, (he/she/it) gets around, (you-formal) get around"
+oíste que,did you hear that,oíste que,did you hear that
+permitir,"allow, (to) allow, (to) permit",permitir,"allow, (to) allow, (to) permit"
+picar,"(to) bite, snack, (to) snack",picar,"(to) bite, snack, (to) snack"
+tortuga,"turtle, tortoise",tortuga,"turtle, tortoise"
+tortugas,"turtles, tortoises, turtle",tortugas,"turtles, tortoises, turtle"
+al aire libre,outdoor,al aire libre,outdoor
+desilusionado,disappointed,desilusionado,disappointed
+discusiones,"discussions, arguments",discusiones,"discussions, arguments"
+estuviera,"was, (I/he/she/it/you) be, (I/he/she/it/you) stay",estuviera,"was, (I/he/she/it/you) be, (I/he/she/it/you) stay"
+evidente,"evident, clear, obvious",evidente,"evident, clear, obvious"
+fuera,"out, were, (she) go",fuera,"out, were, (she) go"
+fuéramos,"(we) go, (we) escape, (we) be",fuéramos,"(we) go, (we) escape, (we) be"
+introvertido,introverted,introvertido,introverted
+ojalá,"I wish, i hope, hopefully",ojalá,"I wish, i hope, hopefully"
+tuviera,"had, (I/he/she/it/you) have",tuviera,"had, (I/he/she/it/you) have"
+ahorra,"(you-formal) save (oneself), save oneself!, (he/she/it) spares",ahorra,"(you-formal) save (oneself), save oneself!, (he/she/it) spares"
+comercial,"business school, commercial, business",comercial,"business school, commercial, business"
+cómpralo,buy it,cómpralo,buy it
+cómprelo,buy it,cómprelo,buy it
+encuentre,"find, find!, (I/he/she/it/you) find",encuentre,"find, find!, (I/he/she/it/you) find"
+fenomenal,"phenomena, freaks, geniuses",fenomenal,"phenomena, freaks, geniuses"
+hasta,"until, to, even",hasta,"until, to, even"
+novedad,"ninth, novena",novedad,"ninth, novena"
+solo,"only, alone, just",solo,"only, alone, just"
+suscribirse,to subscribe,suscribirse,to subscribe
+atraer,atraza,atraer,atraza
+día de los muertos,Day of the Dead,día de los muertos,Day of the Dead
+encender,(to) turn on,encender,(to) turn on
+festejar,"we celebrate, celebrate",festejar,"we celebrate, celebrate"
+fiesta,"party, parties",fiesta,"party, parties"
+fuegos artificiales,fireworks,fuegos artificiales,fireworks
+janucá,hanukkah,janucá,hanukkah
+judío,"Jewish, a Jew, bean",judío,"Jewish, a Jew, bean"
+se,"you, are, each other",se,"you, are, each other"
+se festeja,it is celebrated,se festeja,it is celebrated
+democracias,democracy,democracias,democracy
+dictaduras,dictatorships,dictaduras,dictatorships
+ecología,ecological,ecología,ecological
+educación,"education, learning, manners",educación,"education, learning, manners"
+esperanzas,hopes,esperanzas,hopes
+estabilidad,stability,estabilidad,stability
+haber,"(to) have, (to) be, be",haber,"(to) have, (to) be, be"
+investigar,"(they/you-plural) researched, (they/you-plural) did research into, (they/you-plural) investigated",investigar,"(they/you-plural) researched, (they/you-plural) did research into, (they/you-plural) investigated"
+noticiero,newscast,noticiero,newscast
+pobreza,"poverty, poor quality, poorness",pobreza,"poverty, poor quality, poorness"
+adolescencia,adolescence,adolescencia,adolescence
+brevemente,briefly,brevemente,briefly
+comportamientos,"behavior, performance",comportamientos,"behavior, performance"
+controlar,"(to) control, (to) control oneself, (to) check",controlar,"(to) control, (to) control oneself, (to) check"
+familiares,"estate car, homes, economy-size",familiares,"estate car, homes, economy-size"
+meterse en problemas,get into trouble,meterse en problemas,get into trouble
+reunión,meeting,reunión,meeting
+todos,"all, all of, every",todos,"all, all of, every"
+trabajara,"(I/he/she/it/you) work on, (I/he/she/it/you) stock, (I/he/she/it/you) perform",trabajara,"(I/he/she/it/you) work on, (I/he/she/it/you) stock, (I/he/she/it/you) perform"
+¿no crees?,Don't you think,¿no crees?,Don't you think
+bandeja,"tray, magazine, rear shelf",bandeja,"tray, magazine, rear shelf"
+colgar,"put, got, get",colgar,"put, got, get"
+de alto,High,de alto,High
+de largo,long,de largo,long
+de madera,of wood,de madera,of wood
+decorar,"declarations, declaration, returns",decorar,"declarations, declaration, returns"
+medir,to measure,medir,to measure
+metal,"timbre, brass section, metal",metal,"timbre, brass section, metal"
+persiana,"(they/you-plural) were disappearing, (they/you-plural) were getting lost, (they/you-plural) leaked",persiana,"(they/you-plural) were disappearing, (they/you-plural) were getting lost, (they/you-plural) leaked"
+remodelar,remodel,remodelar,remodel
+esconder,"(to) lie hidden, (to) conceal, (to) go in",esconder,"(to) lie hidden, (to) conceal, (to) go in"
+estatua,statue,estatua,statue
+inevitable,"necessary, inevitable, needed",inevitable,"necessary, inevitable, needed"
+mil millones,billion,mil millones,billion
+muchacho,"boy, guy, kid",muchacho,"boy, guy, kid"
+no puedo creer que,I can not believe that,no puedo creer que,I can not believe that
+pista,"clue, course, court",pista,"clue, course, court"
+princesa,princess,princesa,princess
+príncipes,prince,príncipes,prince
+robar,(to) steal,robar,(to) steal
+cartón,"cartoon, cartoons",cartón,"cartoon, cartoons"
+grado,"grade, degree",grado,"grade, degree"
+guardería,guardería,guardería,guardería
+jardín de infantes,Kinder garden,jardín de infantes,Kinder garden
+llorar,"(to) cry, crying",llorar,"(to) cry, crying"
+noveno,ninth,noveno,ninth
+odiar que...,hate that ...,odiar que...,hate that ...
+pronunciar,"quit, stand",pronunciar,"quit, stand"
+qué raro que,how strange that,qué raro que,how strange that
+rectángulo,rectangle,rectángulo,rectangle
+antes de que,before,antes de que,before
+aproximado,approximate,aproximado,approximate
+cortar,(to) cut,cortar,(to) cut
+desenchufar,unplug,desenchufar,unplug
+electricista,electrical technician,electricista,electrical technician
+gases,"gasses, winds, gas",gases,"gasses, winds, gas"
+luz,light,luz,light
+plomero,"plumber, plumbers",plomero,"plumber, plumbers"
+presupuesto,"budget, (I) budget for, (I) plan",presupuesto,"budget, (I) budget for, (I) plan"
+pérdida,"waste, loss, heavy bleeding",pérdida,"waste, loss, heavy bleeding"
+cambiarse de,change from,cambiarse de,change from
+chisme,"crime, serious crime",chisme,"crime, serious crime"
+como,"(I) eat, as, (I) am eating",como,"(I) eat, as, (I) am eating"
+dar pena,feel sorry,dar pena,feel sorry
+hablar mal de,speak ill of,hablar mal de,speak ill of
+ir a pasear,go for a walk,ir a pasear,go for a walk
+juzgar,"(to) consider, (to) try, (to) judge",juzgar,"(to) consider, (to) try, (to) judge"
+salir de viaje,jet off,salir de viaje,jet off
+suegra,mother in law,suegra,mother in law
+superar,"(to) surpass, (to) overcome, (to) beat",superar,"(to) surpass, (to) overcome, (to) beat"
+adjuntar,to attach,adjuntar,to attach
+batería,"battery, drums, drum kit",batería,"battery, drums, drum kit"
+buscador,search engine,buscador,search engine
+celular,"cellphone, cell phone, cell",celular,"cellphone, cell phone, cell"
+estafar,states,estafar,states
+los de,those of,los de,those of
+nombre de usuario,Username,nombre de usuario,Username
+rúter,router,rúter,router
+seguridad,"safety, security, confidence",seguridad,"safety, security, confidence"
+señal,sign,señal,sign
+arruinar,to ruin,arruinar,to ruin
+cereal,cereal,cereal,cereal
+crecer,"(to) grow, (to) rise, (to) spread",crecer,"(to) grow, (to) rise, (to) spread"
+cultivar,till,cultivar,till
+frutal,"wild, animals, brutal",frutal,"wild, animals, brutal"
+helada,"cold, ice cream",helada,"cold, ice cream"
+llovido,"rained, lank, leaked",llovido,"rained, lank, leaked"
+plantar,plan,plantar,plan
+terrenos,"terrestrial, lands, soils",terrenos,"terrestrial, lands, soils"
+trigo,wheat,trigo,wheat
+atención médica,medical care,atención médica,medical care
+inscribirse,register,inscribirse,register
+mayor de,greater than,mayor de,greater than
+menor de,less than,menor de,less than
+médico,"doctor, doctors",médico,"doctor, doctors"
+obtener,"(to) get, (to) win, (to) achieve",obtener,"(to) get, (to) win, (to) achieve"
+seguro,"sure, safe",seguro,"sure, safe"
+seguro social,social Security,seguro social,social Security
+solicitar,"(to) apply for, (to) ask for, (to) request",solicitar,"(to) apply for, (to) ask for, (to) request"
+tarifa,Maria,tarifa,Maria
+administración,"administration, management, administrative / admin department",administración,"administration, management, administrative / admin department"
+aparentemente,apparently,aparentemente,apparently
+astronauta,astronaut,astronauta,astronaut
+colaborar,to collaborate,colaborar,to collaborate
+detective,detective,detective,detective
+dirigir,"produced, produces",dirigir,"produced, produces"
+estar a cargo,be in charge,estar a cargo,be in charge
+lo interesante,the interesting,lo interesante,the interesting
+lo más importante,the most important,lo más importante,the most important
+se supone que,be supposed to,se supone que,be supposed to
+bigote,bite,bigote,bite
+en voz baja,quietly,en voz baja,quietly
+lo es,it is,lo es,it is
+lo está,it is,lo está,it is
+mellizo,twin,mellizo,twin
+ni,"nor, neither, not",ni,"nor, neither, not"
+parecer,"look, (to) look like, (to) seem",parecer,"look, (to) look like, (to) seem"
+pianista,pianist,pianista,pianist
+soportar,"stomach, carried, (to) support",soportar,"stomach, carried, (to) support"
+séptimo,seventh,séptimo,seventh
+passive1,"patient, passive",passive1,"patient, passive"
+passive2,"patient, passive",passive2,"patient, passive"
+passive3,"patient, passive",passive3,"patient, passive"
+passive,"patient, passive",passive,"patient, passive"
+acostado,"lain down, moored, set",acostado,"lain down, moored, set"
+comiera,"ate, eat",comiera,"ate, eat"
+diabético,diabetic,diabético,diabetic
+fibra,fiber,fibra,fiber
+gota,cat,gota,cat
+muñeca,"doll, wrist",muñeca,"doll, wrist"
+primeros auxilios,first aid,primeros auxilios,first aid
+tobillo,"ankle, my ankle",tobillo,"ankle, my ankle"
+urgencia,emergency,urgencia,emergency
+vitamina,vitamin,vitamina,vitamin
+calabacín,zucchini,calabacín,zucchini
+docena,Lorena,docena,Lorena
+espinaca,spinach,espinaca,spinach
+guisante,(I) guarantee,guisante,(I) guarantee
+líquido,"net, cash, liquid",líquido,"net, cash, liquid"
+olla,pot,olla,pot
+pimiento,pepper,pimiento,pepper
+verdulería,greengrocery,verdulería,greengrocery
+asiático,asian,asiático,asian
+ayudante,helping,ayudante,helping
+de tiempo parcial,part time,de tiempo parcial,part time
+estadía,"stadiums, phases, stages",estadía,"stadiums, phases, stages"
+guiar,guitar,guiar,guitar
+químico,"chemical, chemist",químico,"chemical, chemist"
+ser,"be, (to) be, being",ser,"be, (to) be, being"
+sudeste,southeast,sudeste,southeast
+tener,"have, (to) have, get",tener,"have, (to) have, get"
+valle,"valley, (I/he/she/it/you) fence, fence!",valle,"valley, (I/he/she/it/you) fence, fence!"
+subj51,subj51,subj51,subj51
+subj52,subj52,subj52,subj52
+subj53,subj53,subj53,subj53
+subj,"up, (I) am getting on, raise",subj,"up, (I) am getting on, raise"
+subj61,subj61,subj61,subj61
+subj62,subj62,subj62,subj62
+subj63,subj63,subj63,subj63
+calzoncillos,underpants,calzoncillos,underpants
+casco,"(I) am getting married, (I) get married, (I) marry",casco,"(I) am getting married, (I) get married, (I) marry"
+corte de pelo,haircut,corte de pelo,haircut
+derramar,"(to) defeat, beat, (to) pull to one side",derramar,"(to) defeat, beat, (to) pull to one side"
+en serio,Seriously,en serio,Seriously
+maletero,trunk,maletero,trunk
+no me digas,do not tell me,no me digas,do not tell me
+no puede ser,can not be,no puede ser,can not be
+peinarse,"combs, to comb",peinarse,"combs, to comb"
+tomar el pelo,Pull the leg,tomar el pelo,Pull the leg
+batiendo,churning,batiendo,churning
+calabaza,pumpkin,calabaza,pumpkin
+cantando,"singing, singing the praises of, babbling",cantando,"singing, singing the praises of, babbling"
+clara,clear,clara,clear
+hervir,"(to) boiling, (to) boil, (to) sterilize",hervir,"(to) boiling, (to) boil, (to) sterilize"
+hirviendo,"helping, serving",hirviendo,"helping, serving"
+leche descremada,skim milk,leche descremada,skim milk
+participante,"competitor, participant, participating",participante,"competitor, participant, participating"
+programa de cocina,Cooking show,programa de cocina,Cooking show
+saber,"know, (to) know, hear",saber,"know, (to) know, hear"
+a continuación,next,a continuación,next
+aparecer,"(to) appear, (to) make … appear, (to) seem",aparecer,"(to) appear, (to) make … appear, (to) seem"
+apodo,Nickname,apodo,Nickname
+comedia,"comedy, play",comedia,"comedy, play"
+diseñador,plan,diseñador,plan
+estilista,stylist,estilista,stylist
+peinado,"combs, to comb",peinado,"combs, to comb"
+presentar,"present, introduce, (to) present",presentar,"present, introduce, (to) present"
+secreto,"secret, (I) secrete",secreto,"secret, (I) secrete"
+volviendo al tema,Back to the topic,volviendo al tema,Back to the topic
+ambiente,"environment, (I/he/she/it/you) adjust, (I/he/she/it/you) adapt",ambiente,"environment, (I/he/she/it/you) adjust, (I/he/she/it/you) adapt"
+condición,"condition, class, conditions",condición,"condition, class, conditions"
+decidieran,"(they/you-plural) settle, (they/you-plural) make up one's mind, (they/you-plural) decide",decidieran,"(they/you-plural) settle, (they/you-plural) make up one's mind, (they/you-plural) decide"
+hablaran,"(they) will talk, talk",hablaran,"(they) will talk, talk"
+humedad,"wet, humidity",humedad,"wet, humidity"
+llamara,"(I/he/she/it/you) summon, (I/he/she/it/you) name, (I/he/she/it/you) telephone",llamara,"(I/he/she/it/you) summon, (I/he/she/it/you) name, (I/he/she/it/you) telephone"
+medidas,"measurements, measures, moves",medidas,"measurements, measures, moves"
+ruidoso,"noisy, loud, much talked-about",ruidoso,"noisy, loud, much talked-about"
+ubicación,"position, location",ubicación,"position, location"
+viera,"(I/he/she/it/you) try, (I/he/she/it/you) meet, had seen",viera,"(I/he/she/it/you) try, (I/he/she/it/you) meet, had seen"
+británica,"Britisher, Briton, British person",británica,"Britisher, Briton, British person"
+embajadores,ambassadors,embajadores,ambassadors
+joven,"young, young woman",joven,"young, young woman"
+monarquía,monarchy,monarquía,monarchy
+organizarse,(?) did you organize,organizarse,(?) did you organize
+partido,"game, match, departed",partido,"game, match, departed"
+primer ministro,Prime Minister,primer ministro,Prime Minister
+protestar,protesting,protestar,protesting
+publicarse,be published,publicarse,be published
+sudamericano,South American,sudamericano,South American
+,
