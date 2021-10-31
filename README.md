@@ -14,8 +14,6 @@ Originially, I wrote this program to parse the words in the Spanish course from 
 
 However, now the program parses words from the website [duome](https://duome.eu/Jared5788/progress) which has a very comprehensive list of the words for each course. Switched to this approach based on the [detailed blog post](https://melledijkstra.github.io/science/extracting-duolingo-vocabulary-to-quizlet) by [Melle Dijkstra](https://melledijkstra.github.io/).
 
-There are similar posts for other languages that could be processed in the same way to generate these files.
-
 To use the provided code:
 
 ## Step 1: Clone it.
