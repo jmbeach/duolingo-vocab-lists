@@ -1,9 +1,7 @@
-import fs from 'fs';
+import * as fs from 'fs';
 export default class CsvCombiner {
-  /**
-   * @param {string} languagePath
-   */
-  constructor(languagePath) {
+  languagePath: string;
+  constructor(languagePath: string) {
     this.languagePath = languagePath;
   }
 
@@ -13,7 +11,7 @@ export default class CsvCombiner {
       return `${text}${fileText}\n`;
     }, '');
     // remove duplicates
-    return [...new Set(combined.split('\n'))].join('\n');
+    return [...new Set(combined.split('\n')).entries()].join('\n');
   }
 
   // inspired by https://dev.to/leonard/get-files-recursive-with-the-node-js-file-system-fs-2n7o
@@ -37,7 +35,8 @@ export default class CsvCombiner {
   combineParts() {
     const files = this._getFiles(`${this.languagePath}/`).filter(x => x.name.endsWith('.csv') && x.name.indexOf('combined') < 0);
     const parts = files.reduce((map, file) => {
-      const part = /Part \d+/.exec(file.name)[0];
+      const match = /-(\d+)-/.exec(file.name)
+      const part = match ? match[1] : 'Bonus';
       if (!map[part]) {
         map[part] = [];
       }
@@ -48,7 +47,7 @@ export default class CsvCombiner {
     for (const part of Object.keys(parts)) {
       const files = parts[part];
       const combined = this._combineFiles(files);
-      fs.writeFileSync(`${this.languagePath}/${part}/${part}-combined.csv`, combined, {encoding: 'utf-8'});
+      fs.writeFileSync(`${this.languagePath}/${part === 'Bonus' ? part : 'Part ' + part}/${part}-combined.csv`, combined, {encoding: 'utf-8'});
     }
   }
 }

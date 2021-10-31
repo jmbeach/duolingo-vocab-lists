@@ -5,6 +5,7 @@
     "outDir": "lib",
     "module": "commonjs",
     "moduleResolution": "node",
-    "target": "ES5"
+    "target": "ES5",
+    "downlevelIteration": true
   }
 }

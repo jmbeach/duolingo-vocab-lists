@@ -2,21 +2,26 @@ import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import WordParser from './wordparser';
 import DuolingoClient from './duolingoclient';
-import GoogleTranslate from 'google-translate';
-import fs from 'fs';
+import * as GoogleTranslate from 'google-translate';
+import * as fs from 'fs';
 
 
 export default class TranslationDownloader {
-    constructor(htmlPagePath, googleApiKey) {
+    htmlPagePath: string;
+    googleApiKey: string;
+    skillTreePath: string
+    constructor(skillTreePath: string, htmlPagePath: string, googleApiKey: string) {
         this.htmlPagePath = htmlPagePath;
         this.googleApiKey = googleApiKey;
+        this.skillTreePath = skillTreePath;
     }
 
     downloadTranslation() {
         const fileBody = fs.readFileSync(this.htmlPagePath, {
             encoding: 'utf8'
         });
-        const parser = new WordParser(fileBody);
+        const skillTree = JSON.parse(fs.readFileSync(this.skillTreePath, 'utf-8'))
+        const parser = new WordParser(fileBody, skillTree);
         const client = new DuolingoClient();
         const parsedCourse = parser.parse();
         const translateClient = GoogleTranslate(this.googleApiKey);

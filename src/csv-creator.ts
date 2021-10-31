@@ -1,7 +1,8 @@
-import fs from 'fs';
+import * as fs from 'fs';
 
 export default class CsvCreator {
-    constructor (jsonFilePath) {
+    jsonFilePath: string;
+    constructor (jsonFilePath: string) {
         this.jsonFilePath = jsonFilePath;
     }
     create() {

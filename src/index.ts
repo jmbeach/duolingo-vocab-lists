@@ -11,6 +11,12 @@ dotenv.config();
 
 const argv: any = yargs(hideBin(process.argv))
 .command('download', 'Downloads translations using vocab html page. Saves as json file.', {
+  skillTreeFile: {
+    description: 'Path to the skill tree JSON file (generated using the skilltree command)',
+    alias: 's',
+    type: 'string',
+    demandOption: true
+  },
   vocabHtmlFile: {
     description: 'Path to the vocab html file',
     alias: 'f',
@@ -51,7 +57,7 @@ const argv: any = yargs(hideBin(process.argv))
 .command('anki', 'Updates vocab words using anki (really specific to author\'s setup)').help().alias('help', 'h').argv;
 
 if (argv._.includes('download')) {
-  const downloader = new TranslationDownloader(argv.vocabHtmlFile, process.env.GOOGLE_TRANSLATE_API_KEY || argv.googleApiKey);
+  const downloader = new TranslationDownloader(argv.skillTreeFile, argv.vocabHtmlFile, process.env.GOOGLE_TRANSLATE_API_KEY || argv.googleApiKey);
   downloader.downloadTranslation();
 } else if (argv._.includes('create')) {
   const creator = new CsvCreator(argv.jsonFilePath);
