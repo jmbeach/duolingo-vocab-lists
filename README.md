@@ -10,11 +10,13 @@ The main purpose of this project is to provide a means of getting the vocab in a
 
 # Parsing other courses
 
-I wrote a NodeJS program to parse the words in the Spanish course from [an awesome post in a Duolingo discussion](https://forum.duolingo.com/comment/41639645). Thank you so much [FieryCat](https://www.duolingo.com/profile/FieryCat)!
+Originially, I wrote this program to parse the words in the Spanish course from [an awesome post in a Duolingo discussion](https://forum.duolingo.com/comment/41639645). Thank you so much [FieryCat](https://www.duolingo.com/profile/FieryCat)!
+
+However, now the program parses words from the website [duome](https://duome.eu/Jared5788/progress) which has a very comprehensive list of the words for each course. Switched to this approach based on the [detailed blog post](https://melledijkstra.github.io/science/extracting-duolingo-vocabulary-to-quizlet) by [Melle Dijkstra](https://melledijkstra.github.io/).
 
 There are similar posts for other languages that could be processed in the same way to generate these files.
 
-To use the provided NodeJS code:
+To use the provided code:
 
 ## Step 1: Clone it.
 
@@ -24,13 +26,19 @@ Run `git clone git@github.com:jmbeach/duolingo-vocab-lists.git`
 
 Run `yarn install`.
 
-## Step 3: Get Vocab List HTML
+## Step 3: Get Skill Tree
 
-Go to [this list of vocabularies](https://forum.duolingo.com/comment/31074292/List-of-Vocabularies-for-Language-Courses-of-Duolingo) and find the language you are interested in.
+Login to [Duolingo.com](https://www.duolingo.com/learn). Scroll to the very bottom of the home page to make it load the entire course skill tree. Save the page as an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
+
+Run `node lib/index.js skilltree -f <path-to-html-file>` to generate the skill tree JSON file. This is used to figure out what section each skill belongs to.
+
+## Step 4: Get Vocab List HTML
+
+Go to `https://duome.eu/<your-user-name>/progress`. The skills tab contains an in-order list of all of the skills in your language. In the chrome developer console, run `document.querySelectorAll('.click.skill')` to expand every item on the page.
 
 Save the page to an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
 
-## Step 4: Download Translations
+## Step 5: Download Translations
 
 Run `yarn build` to build the code.
 
@@ -42,12 +50,12 @@ The translator defaults to finding transaltions of words on Duolingo.com. Howeve
 GOOGLE_TRANSLATE_API_KEY=<my-api-key>
 ```
 
-## Step 5: Generate CSV Files
+## Step 6: Generate CSV Files
 
 Finally, run `node lib/index.js create -f <path-to-json-file>` to turn the translations into CSV's.
 
 If the new CSV's aren't in this repository yet, please feel free to create a pull request to add them. Currently, I've only processed Spanish (for English speakers), but would love to get other languages in here.
 
-## Step 6 (Optional): Create Combined CSV Files
+## Step 7 (Optional): Create Combined CSV Files
 
 It might be preferable for some people to have all of the CSV files for each section combined into one file. To generate these, run `node lib/index.js combine -p <path to language directory>`.

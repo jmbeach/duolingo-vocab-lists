@@ -23,6 +23,8 @@ export default class AnkiUpdater {
       for (const card of cards.result) {
         let front = card.fields.Front.value;
         front = front.replace(/\[[^\]]+\]/, '').trim();
+        card.fields.Front.value = front;
+        this.client.updateNoteFields(card);
         const csvCardMatches = csvCards.filter(x => x.front === front)
         if (csvCardMatches.length < 1) {
           console.warn(`No match found for card: ${front}`)
