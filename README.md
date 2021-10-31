@@ -1,4 +1,5 @@
-# Duolingo Vocab Lists ![Node.js CI](https://github.com/jmbeach/duolingo-vocab-lists/workflows/Node.js%20CI/badge.svg)
+# Duolingo Vocab Lists ![Node.js CI](https://github.com/jmbeach/duolingo-vocab-lists/workflows/Node.js%20CI/badge.svg) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jmbeach)
+
 
 This repository is a collection of Duolingo courses' vocabs.
 
