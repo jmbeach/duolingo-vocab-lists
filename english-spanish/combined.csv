@@ -18,197 +18,200 @@ más,"more, most, above",más,"more, most, above"
 quien,"who, whom, whoever",quien,"who, whom, whoever"
 se,"you, are, each other",se,"you, are, each other"
 todo,"everything, all, whole",todo,"everything, all, whole"
-adiós,"goodbye, bye",adiós,"goodbye, bye"
-buenas noches,"good evening, good night",buenas noches,"good evening, good night"
+hola,hello,hola,hello
+adiós,goodbye,adiós,goodbye
+gracias,thank you,gracias,thank you
 buenos días,good morning,buenos días,good morning
-de nada,"you're welcome, you are welcome",de nada,"you're welcome, you are welcome"
-disculpe,"excuse me, pardon",disculpe,"excuse me, pardon"
-español,Spanish,español,Spanish
-gracias,"thanks, thank you",gracias,"thanks, thank you"
-hablas,"(you) speak, (?) do you speak, (you) are speaking",hablas,"(you) speak, (?) do you speak, (you) are speaking"
-hablo,"(I) speak, (I) talk, (I) am talking",hablo,"(I) speak, (I) talk, (I) am talking"
-inglés,English,inglés,English
-lo siento,"sorry, I'm sorry, I am sorry",lo siento,"sorry, I'm sorry, I am sorry"
-mucho gusto,"so nice to meet you, nice to meet you",mucho gusto,"so nice to meet you, nice to meet you"
-no,"no, any",no,"no, any"
-perdón,"sorry, excuse me, pardon",perdón,"sorry, excuse me, pardon"
+buenas noches,good night,buenas noches,good night
+mucho gusto,nice to meet you,mucho gusto,nice to meet you
+sí,yes,sí,yes
+no,no,no,no
+perdón,excuse me,perdón,excuse me
 por favor,please,por favor,please
-sí,"yes, yeah, does",sí,"yes, yeah, does"
-abuela,"grandmother, grandma",abuela,"grandmother, grandma"
-abuelo,"grandfather, grandpa",abuelo,"grandfather, grandpa"
-apartamento,apartment,apartamento,apartment
-bicicleta,"bicycle, bike",bicicleta,"bicycle, bike"
-bonito,"beautiful, pretty, nice",bonito,"beautiful, pretty, nice"
-carro,car,carro,car
-casa,"house, home",casa,"house, home"
+de nada,you're welcome,de nada,you're welcome
+lo siento,sorry,lo siento,sorry
+hablo,I speak,hablo,I speak
+hablas,you speak,hablas,you speak
+español,Spanish,español,Spanish
+inglés,English,inglés,English
+disculpe,excuse me,disculpe,excuse me
+madre,mom,madre,mom
+padre,dad,padre,dad
+inteligente,intelligent,inteligente,intelligent
 elegante,elegant,elegante,elegant
-esposa,wife,esposa,wife
-esposo,husband,esposo,husband
-familia,family,familia,family
-gato,cat,gato,cat
-grande,"big, large",grande,"big, large"
-hermana,sister,hermana,sister
+tiene,she has,tiene,she has
+carro,car,carro,car
+casa,house,casa,house
 hermano,brother,hermano,brother
-hija,"daughter, child",hija,"daughter, child"
-hijo,"son, child",hijo,"son, child"
-inteligente,"smart, intelligent",inteligente,"smart, intelligent"
-interesante,interesting,interesante,interesting
-madre,"mother, mom",madre,"mother, mom"
-muy,"very, too, really",muy,"very, too, really"
-padre,"father, dad",padre,"father, dad"
-perfecto,perfect,perfecto,perfect
+hermana,sister,hermana,sister
+muy,very,muy,very
 perro,dog,perro,dog
-tiene,"have, (?) are you, (?) do you have",tiene,"have, (?) are you, (?) do you have"
-tienes,"(you) have, (?) are you, (?) do you have",tienes,"(you) have, (?) are you, (?) do you have"
-vivo,"(I) live, bright",vivo,"(I) live, bright"
-y,"and, past",y,"and, past"
-agua,water,agua,water
-bebe,"(?) do you drink, (?) does he drink, (he) drinks",bebe,"(?) do you drink, (?) does he drink, (he) drinks"
-bebes,"(you) drink, (?) do you drink",bebes,"(you) drink, (?) do you drink"
-bebo,"(I) drink, (I) am drinking",bebo,"(I) drink, (I) am drinking"
-come,"(she) eats, (he) eats, (?) do you eat",come,"(she) eats, (he) eats, (?) do you eat"
-comes,"come, present, comes",comes,"come, present, comes"
-como,"(I) eat, as, (I) am eating",como,"(I) eat, as, (I) am eating"
-ella,"she, her",ella,"she, her"
-es,"(?) is he, (?) is she, (he) is",es,"(?) is he, (?) is she, (he) is"
+gato,cat,gato,cat
+bonito,pretty (m),bonito,pretty (m)
+grande,big,grande,big
+esposo,husband,esposo,husband
+esposa,wife,esposa,wife
+apartamento,apartment,apartamento,apartment
+abuelo,grandfather,abuelo,grandfather
+abuela,grandmother,abuela,grandmother
+perfecto,perfect,perfecto,perfect
+familia,family,familia,family
+bicicleta,bicycle,bicicleta,bicycle
+vivo,I live,vivo,I live
+tienes,you have,tienes,you have
+hijo,son (English),hijo,son (English)
+hija,daughter,hija,daughter
+y,and,y,and
+interesante,interesting,interesante,interesting
+el,the,el,the
 hombre,man,hombre,man
-la,"the, her, his",la,"the, her, his"
-leche,milk,leche,milk
-manzana,apple,manzana,apple
-manzanas,apples,manzanas,apples
-mujer,"woman, wife, women",mujer,"woman, wife, women"
-niña,"girl, child, daughter",niña,"girl, child, daughter"
-niño,"boy, child",niño,"boy, child"
-pan,"pan, frying pan, fry pan",pan,"pan, frying pan, fry pan"
-soy,"(I) am, I'm",soy,"(I) am, I'm"
+la,the,la,the
+mujer,woman,mujer,woman
+yo,I,yo,I
+un,a (English),un,a (English)
+una,one,una,one
+soy,I am,soy,I am
+niño,boy,niño,boy
+niña,girl,niña,girl
+él,he,él,he
+es,it is,es,it is
+ella,she,ella,she
+come,she eats,come,she eats
 tú,you,tú,you
-un,"a, an, one",un,"a, an, one"
-yo,"I, me",yo,"I, me"
-él,"he, him, it",él,"he, him, it"
-China,"China, chinese",China,"China, chinese"
-España,Spain,España,Spain
-americana,American,americana,American
-americano,American,americano,American
-china,"China, chinese",china,"China, chinese"
-cuba,Cuba,cuba,Cuba
-cubana,Cuban,cubana,Cuban
-cubano,Cuban,cubano,Cuban
-dónde,where,dónde,where
-españa,Spain,españa,Spain
-estados unidos,"United States, the US, us",estados unidos,"United States, the US, us"
-estudiante,student,estudiante,student
+eres,you are,eres,you are
+manzanas,apples,manzanas,apples
+pan,bread,pan,bread
+como,I eat,como,I eat
+comes,you eat,comes,you eat
+agua,water,agua,water
+leche,milk,leche,milk
+bebe,she drinks,bebe,she drinks
+bebo,I drink,bebo,I drink
+bebes,you drink,bebes,you drink
 me llamo,my name is,me llamo,my name is
-mexicana,mexican,mexicana,mexican
-mexicano,Mexican,mexicano,Mexican
+americano,American (male),americano,American (male)
+americana,American (female),americana,American (female)
+de,from,de,from
+estados unidos,United States,estados unidos,United States
+España,Spain,España,Spain
+China,China,China,China
+estudiante,student,estudiante,student
 mi,my,mi,my
-méxico,Mexico,méxico,Mexico
-nombre,"name, named",nombre,"name, named"
-prestense11,lend 11,prestense11,lend 11
-prestense12,lend 12,prestense12,lend 12
-prestense13,lend13,prestense13,lend13
-prestense,lend yourselves,prestense,lend yourselves
-azúcar,sugar,azúcar,sugar
-café,"cafeteria, cafe, café",café,"cafeteria, cafe, café"
-carne,meat,carne,meat
-dos,"two, 2, both",dos,"two, 2, both"
-ensalada,salad,ensalada,salad
-hamburguesa,"burger, hamburger",hamburguesa,"burger, hamburger"
-jugo,juice,jugo,juice
+nombre,name,nombre,name
+en,at,en,at
+dónde,where,dónde,where
+México,Mexico,México,Mexico
+Cuba,Cuba,Cuba,Cuba
+cubano,Cuban,cubano,Cuban
+cubana,Cuban,cubana,Cuban
+mexicano,Mexican,mexicano,Mexican
+mexicana,Mexican (female),mexicana,Mexican (female)
+restaurante,restaurant,restaurante,restaurant
 mesa,table,mesa,table
-naranja,orange,naranja,orange
-o,"or, and",o,"or, and"
-pagar,"pay, (to) pay, (to) pay for",pagar,"pay, (to) pay, (to) pay for"
-para,"for, to, (he) stops",para,"for, to, (he) stops"
 personas,people,personas,people
+para,for,para,for
+uno,one,uno,one
+dos,two,dos,two
+tres,three,tres,three
+sándwich,sandwich,sándwich,sandwich
+de,of,de,of
+carne,meat,carne,meat
 pescado,fish,pescado,fish
 queso,cheese,queso,cheese
-quiero,"(I) want, (I) love, I'll have",quiero,"(I) want, (I) love, I'll have"
-restaurante,"restaurant, restaurants",restaurante,"restaurant, restaurants"
-sal,salt,sal,salt
-sin,"without, with no",sin,"without, with no"
-sándwich,"sandwich, sandwiches",sándwich,"sandwich, sandwiches"
-taza,"cup, mug, bowl",taza,"cup, mug, bowl"
-tomate,tomato,tomate,tomato
-tres,"3, third, three",tres,"3, third, three"
-uno,"1, one, uno",uno,"1, one, uno"
+hamburguesa,hamburger,hamburguesa,hamburger
+con,with,con,with
+café,coffee,café,coffee
 vaso,glass,vaso,glass
-bolígrafo,pen,bolígrafo,pen
-clase,"class, classroom, classes",clase,"class, classroom, classes"
-comprendo,understand,comprendo,understand
-computadora,computer,computadora,computer
-difícil,"difficult, hard",difícil,"difficult, hard"
-escribes,"(you) write, (?) are you writing, (?) do you write",escribes,"(you) write, (?) are you writing, (?) do you write"
-escribir,"write, (to) write, writing",escribir,"write, (to) write, writing"
-escribo,"(I) write, (I) am writing",escribo,"(I) write, (I) am writing"
-escuela,"school, schools",escuela,"school, schools"
-estudiar,"study, (to) study, studying",estudiar,"study, (to) study, studying"
-estudias,"(you) study, (?) do you study, (you) are studying",estudias,"(you) study, (?) do you study, (you) are studying"
-estudio,"study, (I) study, (I) am studying",estudio,"study, (I) study, (I) am studying"
-examen,"test, exam, examination",examen,"test, exam, examination"
+taza,cup,taza,cup
+azúcar,sugar,azúcar,sugar
+sin,without,sin,without
+naranja,orange,naranja,orange
+jugo,juice,jugo,juice
+cuenta,check,cuenta,check
+quiero,I want,quiero,I want
+pagar,to pay,pagar,to pay
+ensalada,salad,ensalada,salad
+tomate,tomato,tomate,tomato
+sal,salt,sal,salt
+o,or,o,or
+clase,class,clase,class
+examen,exam,examen,exam
 fácil,easy,fácil,easy
-importante,important,importante,important
-leer,"(to) read, reading",leer,"(to) read, reading"
-lees,"(you) read, (?) do you read, (you) are reading",lees,"(you) read, (?) do you read, (you) are reading"
-leo,"(I) read, (I) am reading",leo,"(I) read, (I) am reading"
-libro,"book, books, textbook",libro,"book, books, textbook"
+libro,book,libro,book
+bolígrafo,pen,bolígrafo,pen
+escuela,school,escuela,school
 maestro,teacher,maestro,teacher
+pregunta,question,pregunta,question
+difícil,difficult,difícil,difficult
+problema,problem,problema,problem
+estudiar,to study,estudiar,to study
+leer,to read,leer,to read
+escribir,to write,escribir,to write
+estudio,I study,estudio,I study
+mucho,a lot,mucho,a lot
+importante,important,importante,important
+escribo,I write,escribo,I write
+leo,I read,leo,I read
+comprendo,understand,comprendo,understand
+universidad,university,universidad,university
 medicina,medicine,medicina,medicine
-mucho,"a lot, a lot of, much",mucho,"a lot, a lot of, much"
-pregunta,"question, (she) asks, questions",pregunta,"question, (she) asks, questions"
-problema,"problem, matter, problems",problema,"problem, matter, problems"
-profesor,"professor, teacher",profesor,"professor, teacher"
-universidad,"university, college",universidad,"university, college"
-abrigo,coat,abrigo,coat
-azul,blue,azul,blue
-barato,cheap,barato,cheap
+estudias,you study,estudias,you study
+profesor,professor,profesor,professor
+escribes,you write,escribes,you write
+lees,you read,lees,you read
+computadora,computer,computadora,computer
+ropa,clothes,ropa,clothes
+tienda,store,tienda,store
 camisa,shirt,camisa,shirt
-camiseta,"T-shirts, t-shirt",camiseta,"T-shirts, t-shirt"
-caro,expensive,caro,expensive
-cartera,"wallet, purse, bag",cartera,"wallet, purse, bag"
+verde,green,verde,green
+azul,blue,azul,blue
 chaqueta,jacket,chaqueta,jacket
-cinturón,belt,cinturón,belt
-comprar,"buy, (to) buy, (to) get",comprar,"buy, (to) buy, (to) get"
-cómoda,"comfortable, dresser",cómoda,"comfortable, dresser"
-demasiado,"too, too much, a bit too",demasiado,"too, too much, a bit too"
-diferente,different,diferente,different
-ese,"that, the",ese,"that, the"
-este,"this, east",este,"this, east"
-falda,skirt,falda,skirt
-favorita,favorite,favorita,favorite
-gris,"gray, grey",gris,"gray, grey"
-marrón,brown,marrón,brown
-regalo,"gift, present",regalo,"gift, present"
-reloj,"clock, watch",reloj,"clock, watch"
-rojo,red,rojo,red
-ropa,"clothes, clothing",ropa,"clothes, clothing"
+vestido,dress,vestido,dress
 sombrero,hat,sombrero,hat
-tienda,"store, shop, stores",tienda,"store, shop, stores"
-verde,"green, unripe",verde,"green, unripe"
-vestido,"dress, dressed",vestido,"dress, dressed"
-a,"a, some",a,"a, some"
-aeropuerto,airport,aeropuerto,airport
-aquí,"here, this way",aquí,"here, this way"
-autobús,bus,autobús,bus
-banco,"bank, banks",banco,"bank, banks"
-baño,"bathroom, restroom, toilet",baño,"bathroom, restroom, toilet"
-boleto,ticket,boleto,ticket
-calle,"street, road",calle,"street, road"
-cerrado,closed,cerrado,closed
-dinero,money,dinero,money
-está,"(?) are you, (he) is, (it) is",está,"(?) are you, (he) is, (it) is"
-hospital,"hospital, hospitals",hospital,"hospital, hospitals"
-hotel,"hotel, hotels",hotel,"hotel, hotels"
-maleta,"suitcase, bag, bags",maleta,"suitcase, bag, bags"
-museo,museum,museo,museum
-necesito,"(I) need, (?) do I need",necesito,"(I) need, (?) do I need"
+gris,gray,gris,gray
+marrón,brown,marrón,brown
+comprar,to buy,comprar,to buy
+camiseta,t-shirt,camiseta,t-shirt
+este,this,este,this
+falda,skirt,falda,skirt
+abrigo,coat,abrigo,coat
+rojo,red,rojo,red
+caro,expensive,caro,expensive
+barato,cheap,barato,cheap
+ese,that,ese,that
+diferente,different,diferente,different
+favorita,favorite,favorita,favorite
+cómoda,comfortable,cómoda,comfortable
+cartera,purse,cartera,purse
+reloj,watch,reloj,watch
+regalo,gift,regalo,gift
+demasiado,too much,demasiado,too much
+cinturón,belt,cinturón,belt
 pasaporte,passport,pasaporte,passport
-reserva,"reservation, (she) is reserving",reserva,"reservation, (she) is reserving"
-supermercado,"supermarket, grocery store, supermarkets",supermercado,"supermarket, grocery store, supermarkets"
+maleta,suitcase,maleta,suitcase
 taxi,taxi,taxi,taxi
-teléfono,"phone, telephone, telephone number",teléfono,"phone, telephone, telephone number"
-tengo,"(I) have, (?) do I, (I) am",tengo,"(I) have, (?) do I, (I) am"
+teléfono,phone,teléfono,phone
+necesito,I need,necesito,I need
+hotel,hotel,hotel,hotel
+tengo,I have,tengo,I have
+reserva,reservation,reserva,reservation
+en,in,en,in
+está,is located,está,is located
+aquí,here,aquí,here
+aeropuerto,airport,aeropuerto,airport
+autobús,bus,autobús,bus
 tren,train,tren,train
+dinero,money,dinero,money
+boleto,ticket,boleto,ticket
+a,at,a,at
 tu,your,tu,your
+supermercado,supermarket,supermercado,supermarket
+baño,bathroom,baño,bathroom
+cerrado,closed,cerrado,closed
+banco,bank,banco,bank
+calle,street,calle,street
+hospital,hospital,hospital,hospital
+museo,museum,museo,museum
 cada,"each, every",cada,"each, every"
 constante,"constant, constant feature, even",constante,"constant, constant feature, even"
 conteste,answer,conteste,answer
@@ -410,6 +413,7 @@ pulgada,inch,pulgada,inch
 repare,repair,repare,repair
 bautismo,baptism,bautismo,baptism
 claro que sí,of course,claro que sí,of course
+clase,"class, classroom, classes",clase,"class, classroom, classes"
 darse prisa,hurry up,darse prisa,hurry up
 lo lamento,I'm sorry,lo lamento,I'm sorry
 partida,"departure, batch, broken",partida,"departure, batch, broken"
@@ -457,627 +461,420 @@ propuesta,"proposal, design, nominated",propuesta,"proposal, design, nominated"
 si mal no recuerdo,if I remember correctly,si mal no recuerdo,if I remember correctly
 subdirector,vice principal,subdirector,vice principal
 todo el día,all day,todo el día,all day
-abren,"(they) are opening, (they) open, (you) open",abren,"(they) are opening, (they) open, (you) open"
-abrimos,"open, (we) open, (we) opened",abrimos,"open, (we) open, (we) opened"
-aprendemos,"(we) learn, (we) are learning, learn",aprendemos,"(we) learn, (we) are learning, learn"
-aprenden,"(they) are learning, (?) are you learning, (they) learn",aprenden,"(they) are learning, (?) are you learning, (they) learn"
-beben,"(?) are they drinking, (?) do you drink, (they) drink",beben,"(?) are they drinking, (?) do you drink, (they) drink"
-comer una,eat one,comer una,eat one
-compramos,"(we) buy, (we) bought, (?) are we buying",compramos,"(we) buy, (we) bought, (?) are we buying"
-compran,"(?) do you buy, (they) are buying, (they) buy",compran,"(?) do you buy, (they) are buying, (they) buy"
-ella come,she eats,ella come,she eats
-ellas escriben,They write,ellas escriben,They write
-ellos hablan,they speak,ellos hablan,they speak
-ellos leen,they read,ellos leen,they read
 hablar español,speak Spanish,hablar español,speak Spanish
+tomar el,take the,tomar el,take the
+trabajar en,work in,trabajar en,work in
+tú hablas,you speak (with article),tú hablas,you speak (with article)
+toma,she takes,toma,she takes
+trabajamos,we work,trabajamos,we work
+ellos hablan,they speak (with article),ellos hablan,they speak (with article)
+tomamos,we take,tomamos,we take
+trabajan,they work,trabajan,they work
+quiero beber,I want to drink,quiero beber,I want to drink
+comer una,eat one,comer una,eat one
 leer este,read this,leer este,read this
+tú bebes,you drink (with article),tú bebes,you drink (with article)
+ella come,she eats,ella come,she eats
+nosotros leemos,we read (with article),nosotros leemos,we read (with article)
+beben,they drink,beben,they drink
+nosotros comemos,we eat (with article),nosotros comemos,we eat (with article)
+ellos leen,they read (with article),ellos leen,they read (with article)
 necesita escribir,need to write,necesita escribir,need to write
+vivir en,live in,vivir en,live in
+tú escribes,you write (with article),tú escribes,you write (with article)
+usted vive,you live (with article/honor),usted vive,you live (with article/honor)
+abrimos,we open,abrimos,we open
+ellas escriben,they write (with article),ellas escriben,they write (with article)
+nosotras vivimos,we live (with article),nosotras vivimos,we live (with article)
+abren,they open,abren,they open
 necesitamos abrir,we need to open,necesitamos abrir,we need to open
 necesito comprar,I need to buy,necesito comprar,I need to buy
-nosotras vivimos,we live,nosotras vivimos,we live
-nosotros comemos,we eat,nosotros comemos,we eat
-nosotros leemos,we read,nosotros leemos,we read
-quiere aprender,He wants to learn,quiere aprender,He wants to learn
-quiero beber,I want to drink,quiero beber,I want to drink
-salen,"(?) are you leaving, (?) do they leave, (they) are leaving",salen,"(?) are you leaving, (?) do they leave, (they) are leaving"
-salimos,"(we) went out, (we) go out, (we) are leaving",salimos,"(we) went out, (we) go out, (we) are leaving"
-salir,"(to) go out, (to) leave, going out",salir,"(to) go out, (to) leave, going out"
-toma,"(?) does it take, (he) drinks, (he) takes",toma,"(?) does it take, (he) drinks, (he) takes"
-tomamos,"(we) have, (we) take, (?) are we taking",tomamos,"(we) have, (we) take, (?) are we taking"
-tomar el,take the,tomar el,take the
-trabajamos,"(we) work, (we) worked",trabajamos,"(we) work, (we) worked"
-trabajan,"(?) do they work, (they) are working, (they) work",trabajan,"(?) do they work, (they) are working, (they) work"
-trabajar en,work in,trabajar en,work in
-tú bebes,you drink,tú bebes,you drink
-tú escribes,you write,tú escribes,you write
-tú hablas,you speak,tú hablas,you speak
-usted vive,you live,usted vive,you live
-vivir en,live in,vivir en,live in
-agreement1,agreements,agreement1,agreements
-agreement2,agreements,agreement2,agreements
-agreement3,agreements,agreement3,agreements
-agreement,"agreement, contract",agreement,"agreement, contract"
-Alemania,Germany,Alemania,Germany
-alemania,Germany,alemania,Germany
-algunas,"any, a few, some",algunas,"any, a few, some"
-algunos,"some, a few",algunos,"some, a few"
-amar,"love, (to) love",amar,"love, (to) love"
-ayuda,"help, (he) helps, (he) is helping",ayuda,"help, (he) helps, (he) is helping"
-ayudamos,"(we) help, (we) helped",ayudamos,"(we) help, (we) helped"
-ayudan,(they) help,ayudan,(they) help
-ayudar,"help, (to) help",ayudar,"help, (to) help"
-ayudas,"(you) help, (?) do you help",ayudas,"(you) help, (?) do you help"
-ayudo,"(?) should I help, (I) am helping, (?) can I help",ayudo,"(?) should I help, (I) am helping, (?) can I help"
-conoce,"(?) are you familiar with, (?) do you know, (?) does she know",conoce,"(?) are you familiar with, (?) do you know, (?) does she know"
-conocemos,"(we) know, (we) have known, we're familiar with",conocemos,"(we) know, (we) have known, we're familiar with"
-conocer,"meet, (to) meet, (to) get to know",conocer,"meet, (to) meet, (to) get to know"
-conoces,"(you) know, (?) are you familiar with, (?) do you know",conoces,"(you) know, (?) are you familiar with, (?) do you know"
-conozco,"(I) know, (?) do I know, (I) am familiar with",conozco,"(I) know, (?) do I know, (I) am familiar with"
-diferentes,different,diferentes,different
-enseñar,"teaching, (to) teach, taught",enseñar,"teaching, (to) teach, taught"
-enseñas,"(?) are you teaching, (?) do you teach, (you) teach",enseñas,"(?) are you teaching, (?) do you teach, (you) teach"
-gente,people,gente,people
-llama,"(he) calls, (you) call",llama,"(he) calls, (you) call"
-llamamos,"(we) called, (we) call",llamamos,"(we) called, (we) call"
-llaman,(they) call,llaman,(they) call
-llamar,"call, (to) call, calling",llamar,"call, (to) call, calling"
-llamas,"(you) call, (?) are you calling, (?) do you call",llamas,"(you) call, (?) are you calling, (?) do you call"
-llamo,(I) call,llamo,(I) call
-lugar,place,lugar,place
-lugares,places,lugares,places
-maestras,teachers,maestras,teachers
-maestros,teachers,maestros,teachers
-médicas,doctors,médicas,doctors
-médico,"doctor, doctors",médico,"doctor, doctors"
-médicos,doctors,médicos,doctors
-niñas,"girls, children",niñas,"girls, children"
-niños,"children, boys, kids",niños,"children, boys, kids"
-parte,"part, some",parte,"part, some"
-partes,parts,partes,parts
+quiere aprender,she wants to learn,quiere aprender,she wants to learn
+compramos,we buy,compramos,we buy
+aprendemos,we learn,aprendemos,we learn
+salimos,we leave,salimos,we leave
+compran,they buy,compran,they buy
+aprenden,they learn,aprenden,they learn
+salen,they leave,salen,they leave
+salir,to leave,salir,to leave
+conocer,to know,conocer,to know
+conoce,she knows,conoce,she knows
 país,country,país,country
-países,countries,países,countries
-pueblos,towns,pueblos,towns
-tele,"television, tv",tele,"television, tv"
-usualmente,"usually, normally",usualmente,"usually, normally"
-ve,"(he) watches, (she) sees, (you) go",ve,"(he) watches, (she) sees, (you) go"
-vemos,"(we) see, (we) are seeing, (we) watch",vemos,"(we) see, (we) are seeing, (we) watch"
-ven,"(they) are seeing, (they) see, (they) watch",ven,"(they) are seeing, (they) see, (they) watch"
-veo,"(I) see, (I) watch",veo,"(I) see, (I) watch"
-ver,"(to) see, (to) look, (to) watch",ver,"(to) see, (to) look, (to) watch"
-ves,"(?) are you seeing, (?) do you see, (?) do you watch",ves,"(?) are you seeing, (?) do you see, (?) do you watch"
-visita,"visit, (he) is visiting, (he) visits",visita,"visit, (he) is visiting, (he) visits"
-visitamos,"(we) visit, (we) visited",visitamos,"(we) visit, (we) visited"
-visitan,"(they) visit, (?) do they visit, (they) are visiting",visitan,"(they) visit, (?) do they visit, (they) are visiting"
-visitar,"visit, (to) visit, visiting",visitar,"visit, (to) visit, visiting"
-visitas,"visits, (?) are you visiting, (you) visit",visitas,"visits, (?) are you visiting, (you) visit"
-visito,(I) visit,visito,(I) visit
+conozco,I know,conozco,I know
+visitar,to visit,visitar,to visit
+visita,she visits,visita,she visits
+parte,part,parte,part
+gente,people,gente,people
+lugar,place,lugar,place
+diferentes,different,diferentes,different
+llamar,to call,llamar,to call
+llama,he calls,llama,he calls
+ayudar,to help,ayudar,to help
+ayuda,she helps,ayuda,she helps
+alguno,any,alguno,any
+usualmente,usually,usualmente,usually
+niñas,girls,niñas,girls
+ver,to see,ver,to see
+veo,I see,veo,I see
+tele,tv,tele,tv
+enseñar,to teach,enseñar,to teach
+amar,to love,amar,to love
+Alemania,Germany,Alemania,Germany
 cursos,courses,cursos,courses
-me,"with me, at me, me",me,"with me, at me, me"
-me ama,(she) loves me,me ama,(she) loves me
-me ayudas,"(?) can you help me, (you) help me",me ayudas,"(?) can you help me, (you) help me"
-me compra,"(he) buys me, (she) buys me, (he) is buying me",me compra,"(he) buys me, (she) buys me, (he) is buying me"
-me conoce,"(she) knows me, (he) knows me, (you) know me",me conoce,"(she) knows me, (he) knows me, (you) know me"
-me enseña,"(he) is teaching me, (she) is teaching me, (he) teaches me",me enseña,"(he) is teaching me, (she) is teaching me, (he) teaches me"
-me escucha,"(she) listens to me, (you) listen to me, (he) listens to me",me escucha,"(she) listens to me, (you) listen to me, (he) listens to me"
-me llaman,(they) call me,me llaman,(they) call me
-me necesita,"(she) needs me, (he) needs me",me necesita,"(she) needs me, (he) needs me"
-muñeca,"doll, wrist",muñeca,"doll, wrist"
-muñecas,"wrists, dolls",muñecas,"wrists, dolls"
-nos,"we, us, each other",nos,"we, us, each other"
-nos ayudan,(they) help us,nos ayudan,(they) help us
-nos compra,"(she) buys us, (he) buys us",nos compra,"(she) buys us, (he) buys us"
-nos conocen,(they) know us,nos conocen,(they) know us
-nos escuchan,(they) listen to us,nos escuchan,(they) listen to us
-nos llamas,(you) call us,nos llamas,(you) call us
-nos visita,"(she) is visiting us, (he) visits us, (he) is visiting us",nos visita,"(she) is visiting us, (he) visits us, (he) is visiting us"
-te,"you, yourself",te,"you, yourself"
-te amo,(I) love you,te amo,(I) love you
-te ayudo,do I help you,te ayudo,do I help you
-te compra,"(he) buys you, (she) buys you",te compra,"(he) buys you, (she) buys you"
-te conozco,(I) know you,te conozco,(I) know you
-te llamamos,(we) call you,te llamamos,(we) call you
-te necesito,(I) need you,te necesito,(I) need you
-te visitan,(they) visit you,te visitan,(they) visit you
-abierta,open,abierta,open
-abiertas,open,abiertas,open
-abierto,"open, made, opened",abierto,"open, made, opened"
-abiertos,open,abiertos,open
-altas,tall,altas,tall
-altos,tall,altos,tall
-amarilla,yellow,amarilla,yellow
-amarillas,yellow,amarillas,yellow
-amarillo,yellow,amarillo,yellow
-amarillos,yellow,amarillos,yellow
-cansadas,tired,cansadas,tired
-cansado,tired,cansado,tired
-cansados,tired,cansados,tired
-emocionadas,excited,emocionadas,excited
-emocionados,excited,emocionados,excited
-enfermos,"sick, patients, sick people",enfermos,"sick, patients, sick people"
-enojado,"angry, mad",enojado,"angry, mad"
-enojados,"angry, mad",enojados,"angry, mad"
-es divertido,it's fun,es divertido,it's fun
-es grande,is big,es grande,is big
-es muy simpático,Is very nice,es muy simpático,Is very nice
-estudiosa,studious,estudiosa,studious
-estudiosas,studious,estudiosas,studious
-estudioso,studious,estudioso,studious
-estudiosos,studious,estudiosos,studious
-felices,happy,felices,happy
-inteligentes,"intelligent, smart",inteligentes,"intelligent, smart"
-limpia,"clean, (he) washes, (she) cleans",limpia,"clean, (he) washes, (she) cleans"
-limpias,"clean, (you) clean, (?) can you clean",limpias,"clean, (you) clean, (?) can you clean"
-limpio,"clean, (I) clean, (I) wash",limpio,"clean, (I) clean, (I) wash"
-morenas,brunettes,morenas,brunettes
-moreno,"brunette, dark-haired",moreno,"brunette, dark-haired"
-negra,black,negra,black
-negras,black,negras,black
-negro,black,negro,black
-negros,black,negros,black
-nerviosa,nervous,nerviosa,nervous
-nerviosas,nervous,nerviosas,nervous
+me,me,me,me
+me ama,she loves me,me ama,she loves me
+me ayudas,you help me,me ayudas,you help me
+me compra,she buys me (she buys for me),me compra,she buys me (she buys for me)
+me conoce,she knows me,me conoce,she knows me
+me enseña,she teaches me,me enseña,she teaches me
+me escucha,she listens to me,me escucha,she listens to me
+me llaman,they call me,me llaman,they call me
+me necesita,she needs me,me necesita,she needs me
+muñeca,doll,muñeca,doll
+nos,we,nos,we
+nos ayudan,they help us,nos ayudan,they help us
+nos compra,she buys us (she buys for us),nos compra,she buys us (she buys for us)
+nos conocen,they know us,nos conocen,they know us
+nos escuchan,they listen to us,nos escuchan,they listen to us
+nos llamas,you call us,nos llamas,you call us
+nos visita,she visits us,nos visita,she visits us
+te,you,te,you
+te amo,I love you,te amo,I love you
+te ayudo,I help you,te ayudo,I help you
+te compra,she buys you (she buys for you),te compra,she buys you (she buys for you)
+te conozco,I know you,te conozco,I know you
+te llamamos,we call you,te llamamos,we call you
+te necesito,I need you,te necesito,I need you
+te visitan,they visit you,te visitan,they visit you
+me quiere, she loves me,me quiere, she loves me
+felices,happy (pl),felices,happy (pl)
+tristes,sad (pl),tristes,sad (pl)
 nervioso,nervous,nervioso,nervous
-nerviosos,nervous,nerviosos,nervous
-ocupadas,busy,ocupadas,busy
-ocupado,busy,ocupado,busy
-ocupados,busy,ocupados,busy
-perezosa,lazy,perezosa,lazy
-perezosas,lazy,perezosas,lazy
-perezoso,lazy,perezoso,lazy
-perezosos,lazy,perezosos,lazy
-persona,person,persona,person
-preocupado,worried,preocupado,worried
-preocupados,worried,preocupados,worried
-responsable,responsible,responsable,responsible
-responsables,responsible,responsables,responsible
-rubias,"blonde, blond",rubias,"blonde, blond"
-rubio,blond,rubio,blond
-rubios,blond,rubios,blond
-sorprendidas,surprised,sorprendidas,surprised
 sorprendido,surprised,sorprendido,surprised
-sucia,dirty,sucia,dirty
-sucias,dirty,sucias,dirty
+emocionados,excited (pl),emocionados,excited (pl)
+cansados,tired (pl),cansados,tired (pl)
+ocupado,busy,ocupado,busy
 sucio,dirty,sucio,dirty
-sucios,dirty,sucios,dirty
-tristes,sad,tristes,sad
-a veces,sometimes,a veces,sometimes
-aburrido,"boring, bored",aburrido,"boring, bored"
-bebé,baby,bebé,baby
-bebés,babies,bebés,babies
-conmigo,"with me, at me, me",conmigo,"with me, at me, me"
-contenta,"glad, pleased, happy",contenta,"glad, pleased, happy"
-contigo,"with you, at you",contigo,"with you, at you"
-disfrutar,"enjoy, (to) enjoy",disfrutar,"enjoy, (to) enjoy"
-dormir,"(to) sleep, sleeping",dormir,"(to) sleep, sleeping"
-emocionada,excited,emocionada,excited
-emocionado,excited,emocionado,excited
-emocionar,moved,emocionar,moved
-enferma,"ill, sick",enferma,"ill, sick"
-enfermo,"sick, ill",enfermo,"sick, ill"
-enojada,angry,enojada,angry
-mamá,"mom, mother",mamá,"mom, mother"
-mamás,moms,mamás,moms
-mañana,"tomorrow, morning",mañana,"tomorrow, morning"
-me siento,feel,me siento,feel
-nunca,"never, ever",nunca,"never, ever"
-otra vez,again,otra vez,again
-papá,"dad, father",papá,"dad, father"
-por qué,why,por qué,why
-se siente,"(?) does he feel, (she) is feeling, (she) feels",se siente,"(?) does he feel, (she) is feeling, (she) feels"
-siempre,"always, ever",siempre,"always, ever"
-también,"also, too, as well",también,"also, too, as well"
-te sientes,"(?) do you feel, (?) are you feeling, (you)  feel",te sientes,"(?) do you feel, (?) are you feeling, (you)  feel"
+abierta,open (adj),abierta,open (adj)
+enfermos,sick (pl),enfermos,sick (pl)
+altas,tall (pl),altas,tall (pl)
+es grande,is big,es grande,is big
+guapo,handsome,guapo,handsome
+rubio,blond,rubio,blond
+moreno,brunette,moreno,brunette
+amarilla,yellow,amarilla,yellow
+negro,black,negro,black
+es divertido,it's fun,es divertido,it's fun
+es muy simpático,Is very nice,es muy simpático,Is very nice
+inteligentes,smart (pl),inteligentes,smart (pl)
+perezoso,lazy,perezoso,lazy
+estudioso,studious,estudioso,studious
+persona,person,persona,person
+responsable,responsible,responsable,responsible
+qué tal,what's up,qué tal,what's up
+emocionar,to be excited,emocionar,to be excited
+enfermo,sick,enfermo,sick
+conmigo,with me,conmigo,with me
+contigo,with you,contigo,with you
+siempre,always,siempre,always
 triste,sad,triste,sad
+preocupado,worried,preocupado,worried
+por qué,why,por qué,why
+aburrido,bored,aburrido,bored
+enojado,angry,enojado,angry
+también,also,también,also
+a veces,sometimes,a veces,sometimes
+contento,happy (moderately),contento,happy (moderately)
+disfrutar,to enjoy,disfrutar,to enjoy
+dormir,to sleep,dormir,to sleep
+papá,dad,papá,dad
+mamá,mom,mamá,mom
+nunca,never,nunca,never
+me siento,I feel,me siento,I feel
+te sientes,you feel,te sientes,you feel
+se siente,she feels,se siente,she feels
+otra vez,again,otra vez,again
 un poco,somewhat,un poco,somewhat
-alta,"tall, high",alta,"tall, high"
-alto,"tall, high, loud",alto,"tall, high, loud"
-año,"year, year ago",año,"year, year ago"
-años,"years, years old, years ago",años,"years, years old, years ago"
-baja,"low, short, (she) gets off",baja,"low, short, (she) gets off"
-bajo,"under, low, short",bajo,"under, low, short"
-bonita,"nice, beautiful, pretty",bonita,"nice, beautiful, pretty"
-diez,"ten, 10, tenth",diez,"ten, 10, tenth"
-española,Spanish,española,Spanish
-esposas,wives,esposas,wives
-hijas,"daughters, children, girls",hijas,"daughters, children, girls"
-hijos,"children, sons, kids",hijos,"children, sons, kids"
-inglesa,English,inglesa,English
-italiana,Italian,italiana,Italian
+bebé,baby,bebé,baby
 italiano,Italian,italiano,Italian
-madres,mothers,madres,mothers
-mascota,"pet, pets",mascota,"pet, pets"
-mascotas,pets,mascotas,pets
-nueve,"9, nine, ninth",nueve,"9, nine, ninth"
-pequeña,"little, small",pequeña,"little, small"
-pequeño,"small, little, younger",pequeño,"small, little, younger"
+su,his,su,his
+hijos,children (sons),hijos,children (sons)
+pequeño,small,pequeño,small
 simpática,nice,simpática,nice
-simpático,nice,simpático,nice
-su,"his, her, their",su,"his, her, their"
-abuelas,grandmothers,abuelas,grandmothers
-abuelos,"grandparents, grandfathers",abuelos,"grandparents, grandfathers"
-baloncesto,basketball,baloncesto,basketball
-conciertos,concerts,conciertos,concerts
-deporte,"sport, sports",deporte,"sport, sports"
-deportes,sports,deportes,sports
-escuchar,"(to) listen, (to) listen to, (to) hear",escuchar,"(to) listen, (to) listen to, (to) hear"
+alto,tall,alto,tall
+bajo,short,bajo,short
+mascota,pet,mascota,pet
+años,years,años,years
+nueve,nine,nueve,nine
+diez,ten,diez,ten
+nuestro,our,nuestro,our
+nuestros,ours,nuestros,ours
+se llaman,their names are,se llaman,their names are
+padres,parents,padres,parents
 familias,families,familias,families
-hermanas,sisters,hermanas,sisters
-hermanos,"brothers, siblings",hermanos,"brothers, siblings"
-le encanta,"(?) do you love, (he) loves, (she) loves",le encanta,"(?) do you love, (he) loves, (she) loves"
-le gusta,"(she) likes, (he) likes, (?) does he like",le gusta,"(she) likes, (he) likes, (?) does he like"
-marido,husband,marido,husband
-mayores,older,mayores,older
-menor,"younger, little, youngest",menor,"younger, little, youngest"
+hermanos,brothers,hermanos,brothers
+simpático,nice,simpático,nice
+le gusta,she likes,le gusta,she likes
+le encanta,she loves,le encanta,she loves
+baloncesto,basketball,baloncesto,basketball
+deportes,sports,deportes,sports
+nos gusta,we like,nos gusta,we like
 nos encanta,we love,nos encanta,we love
-nos gusta,(we) like,nos gusta,(we) like
-nuestra,"our, ours",nuestra,"our, ours"
-nuestras,"our, ours",nuestras,"our, ours"
-nuestro,"our, ours",nuestro,"our, ours"
-nuestros,"our, ours",nuestros,"our, ours"
-padres,"parents, fathers",padres,"parents, fathers"
-películas,"movies, films, pictures",películas,"movies, films, pictures"
-se llaman,"(they) are called, their names are, (?) are the names of",se llaman,"(they) are called, their names are, (?) are the names of"
-simpáticas,nice,simpáticas,nice
-simpáticos,nice,simpáticos,nice
-toca,"(?) does he play, (he) plays, (it) is playing",toca,"(?) does he play, (he) plays, (it) is playing"
-tocamos,"(we) touch, (we) are touching, (we) play",tocamos,"(we) touch, (we) are touching, (we) play"
-tocan,"touch, (?) do they play, (they) are playing",tocan,"touch, (?) do they play, (they) are playing"
-tocar,"(to) play, playing, (to) touch",tocar,"(to) play, playing, (to) touch"
-tocas,"play, touch, (you) play",tocas,"play, touch, (you) play"
-toco,"(I) touch, (I) play, (I) feel",toco,"(I) touch, (I) play, (I) feel"
-bonitas,"beautiful, nice, pretty",bonitas,"beautiful, nice, pretty"
-bonitos,"nice, beautiful, pretty",bonitos,"nice, beautiful, pretty"
-camisas,shirts,camisas,shirts
-camisetas,t-shirts,camisetas,t-shirts
+conciertos,concerts,conciertos,concerts
+escuchar,to listen,escuchar,to listen
+piano,piano,piano,piano
+tocar,to play (instrument),tocar,to play (instrument)
+guitarra,guitar,guitarra,guitar
+películas,movies,películas,movies
+mayor,older,mayor,older
+menor,younger,menor,younger
+toca,she plays (instrument),toca,she plays (instrument)
+marido,husband,marido,husband
 carteras,purses,carteras,purses
-estas,"these, this",estas,"these, this"
-estos,"these, this",estos,"these, this"
-grandes,"big, large",grandes,"big, large"
+grandes,big (pl),grandes,big (pl)
 interesantes,interesting,interesantes,interesting
-mis,my,mis,my
-necesitamos,"(we) need, (?) do we need",necesitamos,"(we) need, (?) do we need"
-necesitan,"(?) do they need, (?) do you need, (they) need",necesitan,"(?) do they need, (?) do you need, (they) need"
-nuevas,new,nuevas,new
-nuevos,new,nuevos,new
-pantalones,"pants, pairs of pants",pantalones,"pants, pairs of pants"
-pantalón,"pants, trousers",pantalón,"pants, trousers"
-pequeñas,"little, small",pequeñas,"little, small"
-pequeños,"small, little, young",pequeños,"small, little, young"
+verdes,green (pl),verdes,green (pl)
+usamos,we use,usamos,we use
+necesitamos,we need,necesitamos,we need
+zapatos,shoes,zapatos,shoes
+estos,these (m),estos,these (m)
+estas,these,estas,these
 roja,red,roja,red
-rojas,red,rojas,red
-rojos,red,rojos,red
-sus,"her, his, its",sus,"her, his, its"
+usan,they wear,usan,they wear
+pantalones,pants,pantalones,pants
+necesitan,they need,necesitan,they need
+mis,my (plural),mis,my (plural)
 tus,your,tus,your
-usamos,"(we) use, (we) used, (we) wear",usamos,"(we) use, (we) used, (we) wear"
-usan,"(they) are wearing, (they) use, (they) wear",usan,"(they) are wearing, (they) use, (they) wear"
-verdes,"green, unripe",verdes,"green, unripe"
-vestidos,"dresses, dressed",vestidos,"dresses, dressed"
-zapato,shoe,zapato,shoe
-zapatos,"shoes, shoe",zapatos,"shoes, shoe"
-bien,"well, good, fine",bien,"well, good, fine"
-buenas tardes,"good afternoon, good evening",buenas tardes,"good afternoon, good evening"
-cansada,tired,cansada,tired
-cómo,"how, what, how's",cómo,"how, what, how's"
-cómo está,(?) how are you doing,cómo está,(?) how are you doing
-estoy,"(I) am, I'm",estoy,"(I) am, I'm"
-estás,"(you) are, (?) are you, (?) do you",estás,"(you) are, (?) are you, (?) do you"
-feliz,"happy, happily",feliz,"happy, happily"
-hasta luego,"I'll see you later, see you later",hasta luego,"I'll see you later, see you later"
+sus,his (pl),sus,his (pl)
+cómo,how,cómo,how
+bien,well,bien,well
+estoy,I am,estoy,I am
+estás,you are (temporary),estás,you are (temporary)
+está,she is (temporary),está,she is (temporary)
+cansado,tired (m),cansado,tired (m)
+cansada,tired (f),cansada,tired (f)
+señor,Mr.,señor,Mr.
+señora,Mrs.,señora,Mrs.
+señorita,miss,señorita,miss
 hasta mañana,see you tomorrow,hasta mañana,see you tomorrow
-ocupada,busy,ocupada,busy
-se llama,"(it) is called, (his) name is, (her) name is",se llama,"(it) is called, (his) name is, (her) name is"
-señor,"man, Mr., gentleman",señor,"man, Mr., gentleman"
-señora,"lady, Mrs., ma'am",señora,"lady, Mrs., ma'am"
-señorita,"miss, Ms., lady",señorita,"miss, Ms., lady"
-te llamas,"your name is, (?) is your name",te llamas,"your name is, (?) is your name"
-usted,you,usted,you
-azules,blue,azules,blue
-baños,"bathrooms, restrooms",baños,"bathrooms, restrooms"
+cómo está,how are you doing (formal),cómo está,how are you doing (formal)
+buenas tardes,good evening,buenas tardes,good evening
+hasta luego,see you later,hasta luego,see you later
+usted,you (formal),usted,you (formal)
+te llamas,your name is,te llamas,your name is
+se llama,his name is,se llama,his name is
+feliz,happy,feliz,happy
+mal,bad,mal,bad
+ocupado,busy (m),ocupado,busy (m)
+ocupada,busy (f),ocupada,busy (f)
+hay,there is (there are),hay,there is (there are)
+cocina,kitchen,cocina,kitchen
+nevera,fridge,nevera,fridge
+dormitorio,bedroom,dormitorio,bedroom
 cama,bed,cama,bed
-camas,beds,camas,beds
-celulares,"cell phones, cellphones",celulares,"cell phones, cellphones"
-cocina,"kitchen, (he) is cooking, (she) cooks",cocina,"kitchen, (he) is cooking, (she) cooks"
-cocinas,"(you) cook, kitchens",cocinas,"(you) cook, kitchens"
-compra,"(?) are you buying, (?) does she buy, (?) is he buying",compra,"(?) are you buying, (?) does she buy, (?) is he buying"
-compro,"(I) buy, (I) am buying, I'm buying",compro,"(I) buy, (I) am buying, I'm buying"
-debajo,under,debajo,under
-dormitorio,"bedroom, dormitory, room",dormitorio,"bedroom, dormitory, room"
-dormitorios,bedrooms,dormitorios,bedrooms
-esas,those,esas,those
-esos,those,esos,those
-estantería,"bookcase, bookshelf, shelf",estantería,"bookcase, bookshelf, shelf"
-estanterías,bookcases,estanterías,bookcases
-habitaciones,"rooms, bedrooms",habitaciones,"rooms, bedrooms"
-habitación,"room, bedroom",habitación,"room, bedroom"
-hay,hay,hay,hay
-jardines,gardens,jardines,gardens
-jardín,"garden, yard",jardín,"garden, yard"
-limpiamos,"(we) are cleaning, (we) clean, (we) cleaned",limpiamos,"(we) are cleaning, (we) clean, (we) cleaned"
-limpian,"(they) wash, (they) are cleaning",limpian,"(they) wash, (they) are cleaning"
-limpiar,"clean, (to) clean, cleaned",limpiar,"clean, (to) clean, cleaned"
+sala,living room,sala,living room
 moderna,modern,moderna,modern
-modernas,modern,modernas,modern
-moderno,"modern, fashionable",moderno,"modern, fashionable"
-modernos,modern,modernos,modern
-nevera,"fridge, refrigerator",nevera,"fridge, refrigerator"
-neveras,refrigerators,neveras,refrigerators
-pintamos,"(we) are painting, (?) are we painting, (we) painted",pintamos,"(we) are painting, (?) are we painting, (we) painted"
-pintar,"painting, (to) paint",pintar,"painting, (to) paint"
-pintas,(you) paint,pintas,(you) paint
-pinto,"(I) paint, (I) am painting",pinto,"(I) paint, (I) am painting"
-planta,"plant, plants",planta,"plant, plants"
-plantas,plants,plantas,plants
-relojes,"clocks, watches",relojes,"clocks, watches"
-sala,"living room, lounge",sala,"living room, lounge"
-salas,living rooms,salas,living rooms
-silla,chair,silla,chair
-sillas,chairs,sillas,chairs
-sobre,"about, on, on top of",sobre,"about, on, on top of"
-teléfonos,"phones, telephones",teléfonos,"phones, telephones"
-tenemos,"(we) have, (?) do we have, (we) are",tenemos,"(we) have, (?) do we have, (we) are"
-tienen,"(?) are you, (?) do they have, (?) does he have",tienen,"(?) are you, (?) do they have, (?) does he have"
+tenemos,we have,tenemos,we have
+habitación,bedroom (2),habitación,bedroom (2)
 ventana,window,ventana,window
-ventanas,windows,ventanas,windows
-abrir,"open, (to) open, opened",abrir,"open, (to) open, opened"
-aburridas,"boring, bored",aburridas,"boring, bored"
-aburridos,"boring, bored",aburridos,"boring, bored"
-arroz,rice,arroz,rice
-buena,"big, good, nice",buena,"big, good, nice"
-buenas,good,buenas,good
-bueno,"good, well, nice",bueno,"good, well, nice"
-buenos,"good, great, nice",buenos,"good, great, nice"
-caminar,"(to) walk, walking, (to) go for a walk",caminar,"(to) walk, walking, (to) go for a walk"
-casas,"houses, homes",casas,"houses, homes"
-comemos,"(we) eat, (?) do you eat, (?) should we eat",comemos,"(we) eat, (?) do you eat, (?) should we eat"
-comen,"(?) are you eating, (?) do you eat, (they) are eating",comen,"(?) are you eating, (?) do you eat, (they) are eating"
-comida,"food, meal",comida,"food, meal"
-correos electrónicos,"email, emails",correos electrónicos,"email, emails"
-divertidas,"fun, funny",divertidas,"fun, funny"
-divertidos,"fun, funny",divertidos,"fun, funny"
-escriben,"(?) do you write, (they) are writing, (they) write",escriben,"(?) do you write, (they) are writing, (they) write"
-escribimos,"(we) write, (we) wrote",escribimos,"(we) write, (we) wrote"
-juntos,together,juntos,together
-leemos,"(we) read, (we) are reading",leemos,"(we) read, (we) are reading"
-leen,"(?) do you read, (they) read, (you) are reading",leen,"(?) do you read, (they) read, (you) are reading"
-mucha,"a lot of, much, many",mucha,"a lot of, much, many"
-periódico,"newspaper, daily newspaper",periódico,"newspaper, daily newspaper"
-periódicos,newspapers,periódicos,newspapers
-playa,"beach, beaches",playa,"beach, beaches"
-playas,beaches,playas,beaches
-pollo,chicken,pollo,chicken
+tienen,they have,tienen,they have
+reloj (2),clock,reloj (2),clock
+estantería,bookshelf,estantería,bookshelf
+compra,she buys,compra,she buys
+sillas,chairs,sillas,chairs
+sobre,on top of,sobre,on top of
+pintar,to paint,pintar,to paint
+limpiar,to clean,limpiar,to clean
+jardín,garden,jardín,garden
+planta,plant (n.),planta,plant (n.)
+teléfonos,phones,teléfonos,phones
+celulares,cellphones,celulares,cellphones
+limpia,she cleans,limpia,she cleans
+debajo,under,debajo,under
 queremos,(we) want,queremos,(we) want
-quieren,"(?) do you want, (they) want, (you) want",quieren,"(?) do you want, (they) want, (you) want"
-restaurantes,restaurants,restaurantes,restaurants
+caminar,"(to) walk, walking, (to) go for a walk",caminar,"(to) walk, walking, (to) go for a walk"
 sándwiches,sandwiches,sándwiches,sandwiches
-tarde,"late, afternoon, evening",tarde,"late, afternoon, evening"
-tardes,"afternoons, afternoon, evenings",tardes,"afternoons, afternoon, evenings"
-verano,summer,verano,summer
-veranos,"summers, summer",veranos,"summers, summer"
-viven,"(?) do they live, (?) do you live, (they) live",viven,"(?) do they live, (?) do you live, (they) live"
+periódico,"newspaper, daily newspaper",periódico,"newspaper, daily newspaper"
+playa,"beach, beaches",playa,"beach, beaches"
+comemos,"(we) eat, (?) do you eat, (?) should we eat",comemos,"(we) eat, (?) do you eat, (?) should we eat"
+leemos,"(we) read, (we) are reading",leemos,"(we) read, (we) are reading"
+escribimos,"(we) write, (we) wrote",escribimos,"(we) write, (we) wrote"
+correos electrónicos,"email, emails",correos electrónicos,"email, emails"
+tarde (2),"late, afternoon, evening",tarde (2),"late, afternoon, evening"
 vivimos,"(we) live, (we) lived, (we) have lived",vivimos,"(we) live, (we) lived, (we) have lived"
-blanca,"white, Blanca",blanca,"white, Blanca"
-blancas,white,blancas,white
-blanco,white,blanco,white
-blancos,white,blancos,white
-botella,bottle,botella,bottle
-botellas,bottles,botellas,bottles
-camareras,waitresses,camareras,waitresses
+casas,"houses, homes",casas,"houses, homes"
+divertido,"fun, funny",divertido,"fun, funny"
+aburrido,"boring, bored",aburrido,"boring, bored"
+quieren,"(?) do you want, (they) want, (you) want",quieren,"(?) do you want, (they) want, (you) want"
+comen,"(?) are you eating, (?) do you eat, (they) are eating",comen,"(?) are you eating, (?) do you eat, (they) are eating"
+restaurantes,restaurants,restaurantes,restaurants
+comida,"food, meal",comida,"food, meal"
+pollo,chicken,pollo,chicken
+arroz,rice,arroz,rice
+buenos,"good, great, nice",buenos,"good, great, nice"
+escriben,"(?) do you write, (they) are writing, (they) write",escriben,"(?) do you write, (they) are writing, (they) write"
+viven,"(?) do they live, (?) do you live, (they) live",viven,"(?) do they live, (?) do you live, (they) live"
+leen,"(?) do you read, (they) read, (you) are reading",leen,"(?) do you read, (they) read, (you) are reading"
+abrir,"open, (to) open, opened",abrir,"open, (to) open, opened"
+verano,summer,verano,summer
+juntos,together,juntos,together
+mucho,"a lot, a lot of, much",mucho,"a lot, a lot of, much"
 camarero,waiter,camarero,waiter
-camareros,waiters,camareros,waiters
-cerveza,beer,cerveza,beer
-cervezas,beers,cervezas,beers
-cuchara,spoon,cuchara,spoon
-cucharas,spoons,cucharas,spoons
-cuchillo,knife,cuchillo,knife
-cuchillos,knives,cuchillos,knives
-frijol,"food, bean",frijol,"food, bean"
-frita,fried,frita,fried
-menú,menu,menú,menu
-menús,menu,menús,menu
-mesas,tables,mesas,tables
-otra,"another, else, other",otra,"another, else, other"
-otro,"another, other, another one",otro,"another, other, another one"
-paga,"pay, (?) are you paying, (he) pays",paga,"pay, (?) are you paying, (he) pays"
-pagan,"(?) do they pay, (they) pay for, (you) are paying",pagan,"(?) do they pay, (they) pay for, (you) are paying"
-pagas,"pay, (you) pay, (you) pay for",pagas,"pay, (you) pay, (you) pay for"
-pago,"(I) pay, (I) pay for, (I) am paying for",pago,"(I) pay, (I) pay for, (I) am paying for"
-pescados,"fish, fish (plural), fishing",pescados,"fish, fish (plural), fishing"
-plato,"plate, dish",plato,"plate, dish"
-platos,"plates, dishes",platos,"plates, dishes"
-postre,dessert,postre,dessert
-postres,desserts,postres,desserts
-puede traer,(?) can you bring,puede traer,(?) can you bring
 quisiera,(I) would like,quisiera,(I) would like
+frijol,bean,frijol,bean
+cerveza,beer,cerveza,beer
+menú,menu,menú,menu
+puede traer,can you bring,puede traer,can you bring
+cuchara,spoon,cuchara,spoon
+cuchillo,knife,cuchillo,knife
+tenedor,fork,tenedor,fork
+plato,plate,plato,plate
+bebida,drink,bebida,drink
+blanca,white,blanca,white
+tinto,red (wine),tinto,red (wine)
+otro,another,otro,another
+botella,bottle,botella,bottle
 sopa,soup,sopa,soup
-sopas,soups,sopas,soups
-un plato,a dish,un plato,a dish
-vasos,glasses,vasos,glasses
-beber,"drink, (to) drink, drinking",beber,"drink, (to) drink, drinking"
-comer,"eat, (to) eat, eating",comer,"eat, (to) eat, eating"
-estudia,"(?) do you study, (?) does he study, (he) studies",estudia,"(?) do you study, (?) does he study, (he) studies"
-europa,Europe,europa,Europe
-francia,France,francia,France
+patata,potato,patata,potato
+frito,fried,frito,fried
+pago,I pay,pago,I pay
+postre,dessert,postre,dessert
+habla,she speaks,habla,she speaks
 francés,French,francés,French
-fábrica,factory,fábrica,factory
-habla,"(?) do you speak, (?) does he speak, (he) is speaking",habla,"(?) do you speak, (?) does he speak, (he) is speaking"
-hablar,"talk, (to) talk, (to) speak",hablar,"talk, (to) talk, (to) speak"
-inglaterra,England,inglaterra,England
+estudia,she studies,estudia,she studies
+hablar,to talk,hablar,to talk
+trabajo,I work,trabajo,I work
+trabajas,you work,trabajas,you work
+trabaja,she works,trabaja,she works
 oficina,office,oficina,office
-quién,"whom, who",quién,"whom, who"
-trabaja,"(?) do you work, (?) does he work, (?) does she work",trabaja,"(?) do you work, (?) does he work, (?) does she work"
-trabajar,"(to) work, (?) does she work, working",trabajar,"(to) work, (?) does she work, working"
-trabajas,"(you) work, (?) are you working, (?) do you work",trabajas,"(you) work, (?) are you working, (?) do you work"
-trabajo,"(I) work, job, jobs",trabajo,"(I) work, job, jobs"
-vino,"wine, (?) did he come, (he) came",vino,"wine, (?) did he come, (he) came"
-vive,"(?) do you live, (?) does he live, (?) does she live",vive,"(?) do you live, (?) does he live, (?) does she live"
-vives,"(you) live, (?) do you live",vives,"(you) live, (?) do you live"
-vivir,"live, (to) live, living",vivir,"live, (to) live, living"
-amiga,friend,amiga,friend
-amigo,friend,amigo,friend
+fábrica,factory,fábrica,factory
+trabajar,to work,trabajar,to work
+quién,who,quién,who
+comer,to eat,comer,to eat
+beber,to drink,beber,to drink
+vino,wine,vino,wine
+vives,you live,vives,you live
+vive,she lives,vive,she lives
+vivir,to live,vivir,to live
+Inglaterra,England,Inglaterra,England
+Francia,France,Francia,France
+Europa,Europe,Europa,Europe
 camarera,waitress,camarera,waitress
-celular,"cellphone, cell phone, cell",celular,"cellphone, cell phone, cell"
-ciudad,"city, town",ciudad,"city, town"
-dirección,"address, direction",dirección,"address, direction"
-joven,"young, young woman",joven,"young, young woman"
-maestra,teacher,maestra,teacher
-médica,doctor,médica,doctor
-novia,girlfriend,novia,girlfriend
-novio,boyfriend,novio,boyfriend
+maestra,teacher (f),maestra,teacher (f)
 portugués,Portuguese,portugués,Portuguese
-pueblo,"town, people",pueblo,"town, people"
-ser,"be, (to) be, being",ser,"be, (to) be, being"
-amigos,friends,amigos,friends
-ciudades,cities,ciudades,cities
-cuántas,how many,cuántas,how many
-cuánto,"how much, what",cuánto,"how much, what"
-cuántos,how many,cuántos,how many
-ellas,"they, them",ellas,"they, them"
-ellos,"they, them",ellos,"they, them"
-estudiamos,"(we) study, (we) studied",estudiamos,"(we) study, (we) studied"
-estudian,"(?) do they study, (?) do you study, (they) are studying",estudian,"(?) do they study, (?) do you study, (they) are studying"
-fines de semana,"weekends, weekend",fines de semana,"weekends, weekend"
-hablamos,"(we) speak, (we) spoke, (we) talk",hablamos,"(we) speak, (we) spoke, (we) talk"
-hablan,"(?) do they speak, (they) are speaking, (they) are talking",hablan,"(?) do they speak, (they) are speaking, (they) are talking"
-hombres,men,hombres,men
-jugador,player,jugador,player
-jugadora,player,jugadora,player
-jugadores,players,jugadores,players
-muchas,"many, a lot of",muchas,"many, a lot of"
-muchos,"many, a lot of, much",muchos,"many, a lot of, much"
+joven,young,joven,young
+dirección,address,dirección,address
+celular,cellphone,celular,cellphone
+amigo,friend (m),amigo,friend (m)
+amiga,friend (f),amiga,friend (f)
+ser,to be,ser,to be
+médico,doctor (m),médico,doctor (m)
+médica,doctor (f),médica,doctor (f)
+ciudad,city,ciudad,city
+pueblo,town,pueblo,town
+novio,boyfriend,novio,boyfriend
+novia,girlfriend,novia,girlfriend
 mujeres,women,mujeres,women
-nosotras,"we, us",nosotras,"we, us"
-nosotros,"we, us",nosotros,"we, us"
-señoras,"ladies, Mrs.",señoras,"ladies, Mrs."
-señores,"gentlemen, sirs, Mr.",señores,"gentlemen, sirs, Mr."
-somos,"(we) are, (?) are we, we're",somos,"(we) are, (?) are we, we're"
-son,"are, (?) are they, (they) are",son,"are, (?) are they, (they) are"
-unas,"a, some",unas,"a, some"
+hombres,men,hombres,men
+nosotros,we,nosotros,we
+somos,we are,somos,we are
+estudiamos,we study,estudiamos,we study
+hablamos,we speak,hablamos,we speak
+ellos,they,ellos,they
+son,they are,son,they are
+hablan,they speak,hablan,they speak
+estudian,they study,estudian,they study
+ciudades,cities,ciudades,cities
 universidades,universities,universidades,universities
-unos,"some, a few",unos,"some, a few"
-ustedes,"you, you all, you guys",ustedes,"you, you all, you guys"
-vacaciones,"vacation, vacations",vacaciones,"vacation, vacations"
-abrigos,coats,abrigos,coats
-adulto,adult,adulto,adult
-adultos,"adults, adult",adultos,"adults, adult"
-animal,animal,animal,animal
-animales,animals,animales,animals
-bailan,"(they) dance, (they) are dancing",bailan,"(they) dance, (they) are dancing"
-bailar,"dancing, (to) dance, dance",bailar,"dancing, (to) dance, dance"
-bailas,(you) dance,bailas,(you) dance
-bailo,(I) dance,bailo,(I) dance
-calor,"hot, heat",calor,"hot, heat"
+ustedes,you all,ustedes,you all
+muchas,many (f),muchas,many (f)
+jugador,player,jugador,player
+fines de semana,weekends,fines de semana,weekends
+señores,gentlemen,señores,gentlemen
+señoras,ladies,señoras,ladies
+cuánto,how much,cuánto,how much
+cuántas,how many,cuántas,how many
+unos,some,unos,some
+vacaciones,vacations,vacaciones,vacations
 cuántos años,how old,cuántos años,how old
-de verdad,"real, really, for real",de verdad,"real, really, for real"
-frío,"cold, cold weather",frío,"cold, cold weather"
-ganas,(you) win,ganas,(you) win
-grises,"gray, grey",grises,"gray, grey"
-hambre,"hungry, hunger",hambre,"hungry, hunger"
-jugos,"juices, juice",jugos,"juices, juice"
-jóvenes,"young, young people, young women",jóvenes,"young, young people, young women"
-larga,"long, start, starts",larga,"long, start, starts"
-largas,"long, start",largas,"long, start"
-largo,long,largo,long
-largos,long,largos,long
-marrones,brown,marrones,brown
-miedo,"fear, afraid, scared",miedo,"fear, afraid, scared"
+veintiún,21 (m. adj),veintiún,21 (m. adj)
+veintiuno,21 (counting),veintiuno,21 (counting)
+veintidós,22,veintidós,22
+jóvenes,young (pl),jóvenes,young (pl)
+señoritas,young ladies,señoritas,young ladies
+adulto,adult,adulto,adult
+veintitrés,23,veintitrés,23
+veinticuatro,24,veinticuatro,24
+jugos,juices,jugos,juices
+veinticinco,25,veinticinco,25
+sed,thirsty,sed,thirsty
 pizza,pizza,pizza,pizza
-pizzas,pizzas,pizzas,pizzas
-sed,"thirsty, thirst",sed,"thirsty, thirst"
-señoritas,"young ladies, ladies, girls",señoritas,"young ladies, ladies, girls"
-sueño,"dream, sleepy, tired",sueño,"dream, sleepy, tired"
-veinticinco,"twenty-five, 25, twenty-fifth",veinticinco,"twenty-five, 25, twenty-fifth"
-veinticuatro,"24, twenty-four, twenty-fourth",veinticuatro,"24, twenty-four, twenty-fourth"
-veintidós,"22, twenty-second, twenty-two",veintidós,"22, twenty-second, twenty-two"
-veintitrés,"23, twenty-three, twenty-third",veintitrés,"23, twenty-three, twenty-third"
-veintiuno,"21, twenty-one, twenty first",veintiuno,"21, twenty-one, twenty first"
-veintiún,"21, twenty-one",veintiún,"21, twenty-one"
-algo,"something, anything, any",algo,"something, anything, any"
-bicicletas,"bicycles, bikes, bicycle",bicicletas,"bicycles, bikes, bicycle"
-chica,girl,chica,girl
-chicas,girls,chicas,girls
-chicos,"kids, boys, children",chicos,"kids, boys, children"
+hambre,hungry,hambre,hungry
+calor,hot,calor,hot
+frío,cold,frío,cold
+puesto,I have on,puesto,I have on
+largo,long,largo,long
+sueño,dream,sueño,dream
+ganas,you win,ganas,you win
+miedo,scared,miedo,scared
+de verdad,really (truly),de verdad,really (truly)
+bailar,to dance,bailar,to dance
+animal,animal,animal,animal
+me gusta,I like,me gusta,I like
 chocolate,chocolate,chocolate,chocolate
-chocolates,chocolates,chocolates,chocolates
-correr,"run, (to) run, running",correr,"run, (to) run, running"
-creo que,I believe that,creo que,I believe that
-dibujar,"(to) draw, drawing, draw",dibujar,"(to) draw, drawing, draw"
-elegantes,elegant,elegantes,elegant
-esa,"that, that one, those",esa,"that, that one, those"
-faldas,skirts,faldas,skirts
-favorito,favorite,favorito,favorite
-favoritos,"favorite, favorites",favoritos,"favorite, favorites"
-jugar,"(to) play, playing, play",jugar,"(to) play, playing, play"
-me encanta,I'm lovin 'it,me encanta,I'm lovin 'it
-me gusta,(I) like,me gusta,(I) like
-música,music,música,music
-nadar,"swim, (to) swim, swimming",nadar,"swim, (to) swim, swimming"
 pastel,cake,pastel,cake
+favorito,favorite,favorito,favorite
+porque,because (why),porque,because (why)
+te gusta,you like,te gusta,you like
+creo que,I believe that (I think),creo que,I believe that (I think)
 pero,but,pero,but
-perros,"dogs, dog",perros,"dogs, dog"
+algo,something,algo,something
+jugar,to play,jugar,to play
+correr,to run,correr,to run
+me encanta,I love,me encanta,I love
+nadar,to swim,nadar,to swim
+te encanta,you love,te encanta,you love
 piscina,pool,piscina,pool
-piscinas,pools,piscinas,pools
-porque,"because, for",porque,"because, for"
-quesos,cheeses,quesos,cheeses
-sombreros,"hats, hat",sombreros,"hats, hat"
-te encanta,(?) do you love,te encanta,(?) do you love
-te gusta,"(you) like, (?) do you like",te gusta,"(you) like, (?) do you like"
-vieja,"old, older",vieja,"old, older"
-viejas,old,viejas,old
-viejo,"old, old man, oldest",viejo,"old, old man, oldest"
-viejos,old,viejos,old
-prestense21,lend 21,prestense21,lend 21
-prestense22,lend 22,prestense22,lend 22
-prestense23,lend23,prestense23,lend23
-a mí,to me,a mí,to me
-a nosotros,us,a nosotros,us
-a ti,you,a ti,you
-a usted,to you,a usted,to you
-a ustedes,to you,a ustedes,to you
-a él,to the,a él,to the
-aquel,that,aquel,that
-aquella,that,aquella,that
-aquellas,those,aquellas,those
-aquellos,those,aquellos,those
-caballo,"horse, horses",caballo,"horse, horses"
-caballos,horses,caballos,horses
-camina,"(she) walks, (you) walk",camina,"(she) walks, (you) walk"
-caminan,"(they) are walking, (they) walk",caminan,"(they) are walking, (they) walk"
-caminas,"(you) walk, walk",caminas,"(you) walk, walk"
-camino,"(I) walk, road, way",camino,"(I) walk, road, way"
-corre,(she) runs,corre,(she) runs
-corremos,"(we) run, (we) go running",corremos,"(we) run, (we) go running"
-corren,(they) run,corren,(they) run
-corres,"(you) run, (?) are you running, (?) do you run",corres,"(you) run, (?) are you running, (?) do you run"
-corro,(I) run,corro,(I) run
-disfrutan,"(they) enjoy, (they) are enjoying",disfrutan,"(they) enjoy, (they) are enjoying"
-disfrutas,"(?) are you enjoying, (?) do you enjoy",disfrutas,"(?) are you enjoying, (?) do you enjoy"
-disfruto,"(I) enjoy, (I) am enjoying",disfruto,"(I) enjoy, (I) am enjoying"
-les encanta,"(they) love, (?) do they love",les encanta,"(they) love, (?) do they love"
-les gusta,"(?) do they like, (they) like",les gusta,"(?) do they like, (they) like"
-montan,"start, (they) ride",montan,"start, (they) ride"
-montar,"ride, (to) ride, riding",montar,"ride, (to) ride, riding"
-montas,"start, (you) ride, (?) do you ride",montas,"start, (you) ride, (?) do you ride"
-normalmente,normally,normalmente,normally
-para ella,for her,para ella,for her
-para nosotros,for us,para nosotros,for us
+dibujar,to draw,dibujar,to draw
+música,music,música,music
+chica,girl,chica,girl
+viejo,old,viejo,old
+perros,dogs,perros,dogs
+les gusta,they like,les gusta,they like
+les encanta,they love,les encanta,they love
 para él,for him,para él,for him
-pasa,"(he) is spending, happens",pasa,"(he) is spending, happens"
-pasan,(they) are spending,pasan,(they) are spending
-pasas,"(you) spend, (?) are you spending, (?) can you pass",pasas,"(you) spend, (?) are you spending, (?) can you pass"
-paso,"step, (I) spend, (I) am spending",paso,"step, (I) spend, (I) am spending"
-río,river,río,river
-ríos,rivers,ríos,rivers
+para ella,for her,para ella,for her
+aquel,that,aquel,that
+a mí,to me,a mí,to me
+a ti,you,a ti,you
+a él,to him,a él,to him
+zoológico,zoo,zoológico,zoo
+a usted,to you,a usted,to you
 tenis,tennis,tenis,tennis
-tiempo,"time, weather, long",tiempo,"time, weather, long"
+a nosotros,to us,a nosotros,to us
+a ustedes,to you (all),a ustedes,to you (all)
+tiempo,time,tiempo,time
+para nosotros,for us,para nosotros,for us
+pasar,to pass (to give),pasar,to pass (to give)
+normalmente,normally,normalmente,normally
+pasa,shepasses (he gives),pasa,shepasses (he gives)
+montar,to ride,montar,to ride
+caballo,horse,caballo,horse
+pelota,ball,pelota,ball
+corre,(she) runs,corre,(she) runs
+río,river,río,river
+camina,she walks,camina,she walks
 almuerzo,"lunch, (I) eat lunch",almuerzo,"lunch, (I) eat lunch"
 antes,"before, previously, by",antes,"before, previously, by"
 cena,"dinner, supper",cena,"dinner, supper"
 cosa,thing,cosa,thing
 cosas,things,cosas,things
+demasiado,"too, too much, a bit too",demasiado,"too, too much, a bit too"
 desayuno,"breakfast, (I) eat breakfast",desayuno,"breakfast, (I) eat breakfast"
 después,"after, later, next",después,"after, later, next"
 diario,"newspaper, daily, diary",diario,"newspaper, daily, diary"
 diarios,newspapers,diarios,newspapers
+difícil,"difficult, hard",difícil,"difficult, hard"
 difíciles,"difficult, hard",difíciles,"difficult, hard"
 fáciles,easy,fáciles,easy
 hace,"ago, (?) are you making, (?) does he do",hace,"ago, (?) are you making, (?) does he do"
@@ -1095,194 +892,160 @@ salgo,(I) leave,salgo,(I) leave
 se pone,"(she) puts on, (?) is she putting on, (he) puts on",se pone,"(she) puts on, (?) is she putting on, (he) puts on"
 semanas,"weeks, week",semanas,"weeks, week"
 solo,"only, alone, just",solo,"only, alone, just"
+tarde,"late, afternoon, evening",tarde,"late, afternoon, evening"
 tarea,"homework, task",tarea,"homework, task"
 tareas,"homework, jobs, tasks",tareas,"homework, jobs, tasks"
 te pones,"(you) put on, (?) are you putting on",te pones,"(you) put on, (?) are you putting on"
 temprano,early,temprano,early
 toman,"(?) do you catch, (they) are taking, (they) take",toman,"(?) do you catch, (they) are taking, (they) take"
 tomo,"(I) take, (I) am taking",tomo,"(I) take, (I) am taking"
-a menudo,"frequently, often",a menudo,"frequently, often"
-a qué hora,"when, (?) what time",a qué hora,"when, (?) what time"
-cine,"cinema, movies, movie theater",cine,"cinema, movies, movie theater"
-doce,"twelve, 12, noon",doce,"twelve, 12, noon"
-domingos,"Sundays, Sunday",domingos,"Sundays, Sunday"
-días,"days, day",días,"days, day"
-hora,"time, hour",hora,"time, hour"
-horas,hours,horas,hours
-me ducho,(I) shower,me ducho,(I) shower
-me levanto,(I) get up,me levanto,(I) get up
-media,"vehicles, carriers, media",media,"vehicles, carriers, media"
-mirar,"look, (to) look, (to) watch",mirar,"look, (to) look, (to) watch"
-noche,"night, evening",noche,"night, evening"
-noches,"nights, at night",noches,"nights, at night"
-once,"11, eleven, eleventh",once,"11, eleven, eleventh"
-se ducha,"(?) does she shower, (she) showers, (he) showers",se ducha,"(?) does she shower, (she) showers, (he) showers"
-se levanta,"(he) gets up, (?) are you getting up, (?) does he get up",se levanta,"(he) gets up, (?) are you getting up, (?) does he get up"
-sábados,"Saturdays, Saturday",sábados,"Saturdays, Saturday"
-te duchas,"(you) shower, (?) are you showering, (?) do you shower",te duchas,"(you) shower, (?) are you showering, (?) do you shower"
-te levantas,"(you) get up, (?) do you get up, (you) are getting up",te levantas,"(you) get up, (?) do you get up, (you) are getting up"
-televisión,"television, TV",televisión,"television, TV"
-tengo que,"(I) need to, (I) have to",tengo que,"(I) need to, (I) have to"
-tiene que,"(she) must, (she) has to, (he) needs to",tiene que,"(she) must, (she) has to, (he) needs to"
-tienes que,"(you) have to, (you) need, (?) do you have to",tienes que,"(you) have to, (you) need, (?) do you have to"
-todas,"all, every, everybody",todas,"all, every, everybody"
-todos,"all, all of, every",todos,"all, all of, every"
-va,"going, (?) am I going, (?) are you going to",va,"going, (?) am I going, (?) are you going to"
-vamos,"(we) are going, (?) should we go, (we) go",vamos,"(we) are going, (?) should we go, (we) go"
-van,"(?) are you going, (?) are you leaving, (?) do you go",van,"(?) are you going, (?) are you leaving, (?) do you go"
-vas,"(you) are going, (you) go, (?) are you going",vas,"(you) are going, (you) go, (?) are you going"
-voy,"(I) am going, (I) go, I'm going",voy,"(I) am going, (I) go, I'm going"
-baile,"dancing, dance",baile,"dancing, dance"
-béisbol,baseball,béisbol,baseball
-concierto,concert,concierto,concert
-cumpleaños,"birthday, birthdays",cumpleaños,"birthday, birthdays"
-cuándo,when,cuándo,when
-disfruta,"(he) enjoys, (he) is enjoying, (you) enjoy",disfruta,"(he) enjoys, (he) is enjoying, (you) enjoy"
-divertida,"fun, funny",divertida,"fun, funny"
-divertido,"fun, funny",divertido,"fun, funny"
-domingo,Sunday,domingo,Sunday
-día,day,día,day
-fiesta,"party, parties",fiesta,"party, parties"
-fin de semana,weekend,fin de semana,weekend
-fútbol,"soccer, football",fútbol,"soccer, football"
+voy,I go,voy,I go
+vas,you go,vas,you go
+a menudo,often,a menudo,often
+va,she goes,va,she goes
+todos,every (all),todos,every (all)
+cine,movie theater,cine,movie theater
+noche,night,noche,night
+vamos,we go,vamos,we go
+días,days,días,days
+van,they go,van,they go
+media,half (or thirty in time),media,half (or thirty in time)
+televisión,tv,televisión,tv
+sábados,Saturdays,sábados,Saturdays
+mirar,to watch,mirar,to watch
+tengo que,I have to,tengo que,I have to
+domingos,Sundays,domingos,Sundays
+tienes que,you have to,tienes que,you have to
+tiene que,she has to,tiene que,she has to
+me levanto,I get up,me levanto,I get up
+me ducho,I shower,me ducho,I shower
+hora,hour (time),hora,hour (time)
+a qué hora,at what time,a qué hora,at what time
+te levantas,you get up,te levantas,you get up
+te duchas,you shower,te duchas,you shower
+se levanta,she gets up,se levanta,she gets up
+se ducha,she showers,se ducha,she showers
+once (Spanish),11,once (Spanish),11
+doce,12,doce,12
 hoy,today,hoy,today
-jueves,"Thursday, Thursdays",jueves,"Thursday, Thursdays"
-lunes,"Monday, Mondays",lunes,"Monday, Mondays"
-martes,"Tuesday, Tuesdays",martes,"Tuesday, Tuesdays"
-miércoles,"Wednesday, Wednesdays",miércoles,"Wednesday, Wednesdays"
-partido,"game, match, departed",partido,"game, match, departed"
-película,"movie, film",película,"movie, film"
-qué,"what, how, so",qué,"what, how, so"
-semana,week,semana,week
+lunes,Monday,lunes,Monday
+mañana,tomorrow,mañana,tomorrow
+partido,game,partido,game
+martes,Tuesday,martes,Tuesday
+fútbol,soccer,fútbol,soccer
+cuándo,when,cuándo,when
+miércoles,Wednesday,miércoles,Wednesday
+jueves,Thursday,jueves,Thursday
+viernes,Friday,viernes,Friday
+día,day,día,day
+béisbol,baseball,béisbol,baseball
+qué,what,qué,what
+cumpleaños,birthday,cumpleaños,birthday
 sábado,Saturday,sábado,Saturday
-viernes,"Friday, Fridays",viernes,"Friday, Fridays"
-aprende,"(?) is she learning, (he) is learning, (he) learns",aprende,"(?) is she learning, (he) is learning, (he) learns"
-aprender,"(to) learn, learning, learn",aprender,"(to) learn, learning, learn"
-aprendes,"(?) are you learning, (you) learn",aprendes,"(?) are you learning, (you) learn"
-aprendo,"(I) learn, (I) am learning",aprendo,"(I) learn, (I) am learning"
-biblioteca,library,biblioteca,library
-bibliotecas,libraries,bibliotecas,libraries
+fiesta,party,fiesta,party
+domingo,Sunday,domingo,Sunday
+concierto,concert,concierto,concert
+divertido,fun (m),divertido,fun (m)
+divertida,fun (f),divertida,fun (f)
+baile,dance,baile,dance
+favorito,favorite (m),favorito,favorite (m)
+favorita,favorite (f),favorita,favorite (f)
+película,movie,película,movie
+semana,week,semana,week
+fin de semana,weekend,fin de semana,weekend
+disfruta,enjoy,disfruta,enjoy
+cero,zero,cero,zero
 bolígrafos,pens,bolígrafos,pens
-cero,"zero, 0",cero,"zero, 0"
-cinco,"five, 5, 5th",cinco,"five, 5, 5th"
-clases,"classes, class, kind",clases,"classes, class, kind"
-computadoras,"computers, computer",computadoras,"computers, computer"
-cuatro,"four, 4, 4th",cuatro,"four, 4, 4th"
+libros,books,libros,books
+cuatro,four,cuatro,four
+biblioteca,library,biblioteca,library
+computadoras,computers,computadoras,computers
+bibliotecas,libraries,bibliotecas,libraries
+aprendo,I learn,aprendo,I learn
+aprendes,you learn,aprendes,you learn
+aprende,she learns,aprende,she learns
+cinco,five,cinco,five
+aprender,to learn,aprender,to learn
 esta,this,esta,this
+preguntas,questions,preguntas,questions
+seis,six,seis,six
+clases,classes,clases,classes
+siete,seven,siete,seven
+ocho,eight,ocho,eight
 estudiantes,students,estudiantes,students
-libros,"books, textbooks",libros,"books, textbooks"
-ocho,"8, eight, eighth",ocho,"8, eight, eighth"
-preguntas,"questions, (you) ask, question",preguntas,"questions, (you) ask, question"
-seis,"6, six, sixth",seis,"6, six, sixth"
-siete,"7, seven, seventh",siete,"7, seven, seventh"
-abre,"(?) are you open, (?) does it open, (?) is it open",abre,"(?) are you open, (?) does it open, (?) is it open"
-barata,cheap,barata,cheap
-baratas,cheap,baratas,cheap
-baratos,cheap,baratos,cheap
-busca,"(she) is looking for, (she) searches",busca,"(she) is looking for, (she) searches"
-buscamos,"(we) are looking for, search",buscamos,"(we) are looking for, search"
-buscar,"(to) look for, (to) search, (to) seek",buscar,"(to) look for, (to) search, (to) seek"
-buscas,"(you) search, (?) are you looking for",buscas,"(you) search, (?) are you looking for"
-busco,I'm looking for,busco,I'm looking for
-cara,"face, expensive, faces",cara,"face, expensive, faces"
-caras,expensive,caras,expensive
-caros,expensive,caros,expensive
-catorce,"14, fourteen",catorce,"14, fourteen"
-cierra,"(?) does it close, (it) closes, (you) close",cierra,"(?) does it close, (it) closes, (you) close"
-cuesta,"(?) does it cost, (it) costs, (it) is",cuesta,"(?) does it cost, (it) costs, (it) is"
-cuestan,"(?) do they cost, (they) cost, are",cuestan,"(?) do they cost, (they) cost, are"
 de compras,shopping,de compras,shopping
-diecinueve,"nineteen, 19",diecinueve,"nineteen, 19"
-dieciocho,"eighteen, 18, 18th",dieciocho,"eighteen, 18, 18th"
-diecisiete,"seventeen, 17, 17th",diecisiete,"seventeen, 17, 17th"
-dieciséis,"sixteen, 16, 16th",dieciséis,"sixteen, 16, 16th"
-dólar,dollar,dólar,dollar
-dólares,dollars,dólares,dollars
-en efectivo,cash,en efectivo,cash
-me puedo probar,(?) can I try on,me puedo probar,(?) can I try on
+buscar,to look for,buscar,to look for
+abre,it opens,abre,it opens
+cierra,it closes,cierra,it closes
 mí,me,mí,me
-pesos,pesos,pesos,pesos
+ti,you (non-subject),ti,you (non-subject)
+buscas,you look for,buscas,you look for
 precio,price,precio,price
-precios,prices,precios,prices
+talla,size,talla,size
+me puedo probar,can I try on,me puedo probar,can I try on
 probador,fitting room,probador,fitting room
-probadores,"fitting rooms, testers",probadores,"fitting rooms, testers"
-quince,"fifteen, 15, fifteenth",quince,"fifteen, 15, fifteenth"
-tallas,sizes,tallas,sizes
-tarjeta de crédito,"credit card, credit",tarjeta de crédito,"credit card, credit"
-ti,you,ti,you
-tiendas,"stores, shops",tiendas,"stores, shops"
-trece,"13, thirteen",trece,"13, thirteen"
-veinte,"20, twentieth, twenty",veinte,"20, twentieth, twenty"
-tobe1,tobe1,tobe1,tobe1
-tobe2,tobe2,tobe2,tobe2
-tobe3,tobe3,tobe3,tobe3
-tobe,"doorstop, speed bump, bump",tobe,"doorstop, speed bump, bump"
+cara,expensive (f),cara,expensive (f)
+cuesta,it costs,cuesta,it costs
+trece,thirteen,trece,thirteen
+quince,fifteen,quince,fifteen
+cuestan,they cost,cuestan,they cost
+peso,money (a specific currency),peso,money (a specific currency)
+dólares,dollars,dólares,dollars
+catorce,fourteen,catorce,fourteen
+dieciséis,sixteen,dieciséis,sixteen
+diecisiete,seventeen,diecisiete,seventeen
+dieciocho,eighteen,dieciocho,eighteen
+diecinueve,nineteen,diecinueve,nineteen
+veinte,twenty,veinte,twenty
+en efectivo,in cash,en efectivo,in cash
+tarjeta de crédito,credit card,tarjeta de crédito,credit card
 banana,banana,banana,banana
-necesita,"(?) do you need, (?) does he need, (?) does she need",necesita,"(?) do you need, (?) does he need, (?) does she need"
-necesitas,"(you) need, (?) do you need",necesitas,"(you) need, (?) do you need"
-quiere,"(?) do you want, (?) does he want, (?) does she want",quiere,"(?) do you want, (?) does he want, (?) does she want"
+quiero,I'll have,quiero,I'll have
+quieres,you want,quieres,you want
+quiere,she wants,quiere,she wants
+más,more,más,more
 té,tea,té,tea
-usa,"(?) are you using, (?) does he wear, (he) is using",usa,"(?) are you using, (?) does he wear, (he) is using"
-usar,"(to) use, wear, (to) wear",usar,"(to) use, wear, (to) wear"
-usas,"(you) use, (you) wear, (?) are you using",usas,"(you) use, (you) wear, (?) are you using"
-uso,"(I) use, (I) wear, (I) am wearing",uso,"(I) use, (I) wear, (I) am wearing"
-aeropuertos,airports,aeropuertos,airports
-al,"to, to the, on the",al,"to, to the, on the"
-al lado,"next to, next",al lado,"next to, next"
-autobuses,"bus, buses",autobuses,"bus, buses"
-bancos,banks,bancos,banks
-calles,"streets, (you) be quiet",calles,"streets, (you) be quiet"
-cerca,"near, close, nearby",cerca,"near, close, nearby"
-cerca de,nearest,cerca de,nearest
-del,"of the, from the, about the",del,"of the, from the, about the"
-derecha,"right, straight",derecha,"right, straight"
-el café,the coffee,el café,the coffee
-estaciones,stations,estaciones,stations
-estación,"station, stations",estación,"station, stations"
-estamos,"(we) are, (?) are we, we're",estamos,"(we) are, (?) are we, we're"
-están,"(?) are they, (they) are, (you) are",están,"(?) are they, (they) are, (you) are"
-hospitales,hospitals,hospitales,hospitals
-hoteles,hotels,hoteles,hotels
-ir,"(to) go, (to) go out, going",ir,"(to) go, (to) go out, going"
+ayuda,help,ayuda,help
+necesitas,you need,necesitas,you need
+necesita,she needs,necesita,she needs
+uso,I use,uso,I use
+usas,you use,usas,you use
+usa,she is using,usa,she is using
+usar,to use,usar,to use
+cartera,wallet,cartera,wallet
+viajar,to travel,viajar,to travel
+cerca de,close to,cerca de,close to
+cerca,near,cerca,near
+ir,to go,ir,to go
+estación,station,estación,station
+estamos,we are (temporary/location),estamos,we are (temporary/location)
+del,of the (or from the),del,of the (or from the)
+parque,park,parque,park
+al,to the,al,to the
+están,they are (temporary/location),están,they are (temporary/location)
+lejos,far,lejos,far
+al lado,next to,al lado,next to
+parada,stop (as in bus stop),parada,stop (as in bus stop)
+puerta,door,puerta,door
+tomar,to take,tomar,to take
 izquierda,left,izquierda,left
-lejos,"far, far away",lejos,"far, far away"
-metro,"subway, meter, meters",metro,"subway, meter, meters"
-metros,"meters, subways, rulers",metros,"meters, subways, rulers"
-parque,"park, parks",parque,"park, parks"
-parques,parks,parques,parks
-puerta,"door, gate",puerta,"door, gate"
-puertas,doors,puertas,doors
-supermercados,supermarkets,supermercados,supermarkets
-tomar,"take, (to) take, (to) drink",tomar,"take, (to) take, (to) drink"
-trenes,trains,trenes,trains
-viajar,"(to) travel, travel, traveling",viajar,"(to) travel, travel, traveling"
-ahora,now,ahora,now
-carta,letter,carta,letter
-cartas,"letters, cards",cartas,"letters, cards"
-correo electrónico,"email, email address",correo electrónico,"email, email address"
-cuál,"what, which, which one",cuál,"what, which, which one"
-escribe,"(?) are you writing, (?) do you write, (?) does she write",escribe,"(?) are you writing, (?) do you write, (?) does she write"
-escritorio,desk,escritorio,desk
-escritorios,desks,escritorios,desks
-jefa,boss,jefa,boss
-jefas,bosses,jefas,bosses
+derecha,right,derecha,right
+metro,subway,metro,subway
+los,the (plural),los,the (plural)
+las,the (plural f.),las,the (plural f.)
 jefe,boss,jefe,boss
-las,"the, his, my",las,"the, his, my"
-lee,"(he) reads, (she) is reading, (she) reads",lee,"(he) reads, (she) is reading, (she) reads"
-los,"the, them, her",los,"the, them, her"
-mensaje,"message, text",mensaje,"message, text"
-mensajes,"messages, texts",mensajes,"messages, texts"
-negocio,business,negocio,business
-negocios,"business, businesses",negocios,"business, businesses"
-nueva,new,nueva,new
-nuevo,new,nuevo,new
-poco,"little, some, little bit",poco,"little, some, little bit"
-problemas,"problems, problem",problemas,"problems, problem"
+mensaje,message,mensaje,message
 secretaria,secretary,secretaria,secretary
-secretarias,secretaries,secretarias,secretaries
-secretario,secretary,secretario,secretary
-tener,"have, (to) have, get",tener,"have, (to) have, get"
-trabajos,jobs,trabajos,jobs
+escritorio,desk,escritorio,desk
+escribe,she writes,escribe,she writes
+tener,to have,tener,to have
+carta,letter,carta,letter
+cuál,which,cuál,which
+poco,little,poco,little
+correo electrónico,email,correo electrónico,email
+negocio,business,negocio,business
+ahora,now,ahora,now
+lee,she reads,lee,she reads
 canciones,songs,canciones,songs
 canción,song,canción,song
 canta,"(he) sings, (she) sings",canta,"(he) sings, (she) sings"
@@ -1292,10 +1055,13 @@ cantar,"singing, (to) sing, sing",cantar,"singing, (to) sing, sing"
 cantas,(?) do you sing,cantas,(?) do you sing
 canto,"(I) sing, singing",canto,"(I) sing, singing"
 carnes,meats,carnes,meats
+china,"China, chinese",china,"China, chinese"
 chino,Chinese,chino,Chinese
+cocina,"kitchen, (he) is cooking, (she) cooks",cocina,"kitchen, (he) is cooking, (she) cooks"
 cocinamos,"(we) cook, (we) cooked",cocinamos,"(we) cook, (we) cooked"
 cocinan,(they) cook,cocinan,(they) cook
 cocinar,"cook, (to) cook, cooking",cocinar,"cook, (to) cook, cooking"
+cocinas,"(you) cook, kitchens",cocinas,"(you) cook, kitchens"
 cocino,(I) cook,cocino,(I) cook
 cómo se dice,(?) how do you say,cómo se dice,(?) how do you say
 cómo se escribe,(?) how do you write,cómo se escribe,(?) how do you write
@@ -1364,9 +1130,11 @@ oficinas,offices,oficinas,offices
 portuguesa,Portuguese,portuguesa,Portuguese
 portuguesas,Portuguese,portuguesas,Portuguese
 portugueses,Portuguese,portugueses,Portuguese
+pregunta,"question, (she) asks, questions",pregunta,"question, (she) asks, questions"
 preguntamos,(we) ask,preguntamos,(we) ask
 preguntan,"(they) are asking, (they) ask",preguntan,"(they) are asking, (they) ask"
 preguntar,"ask, (to) ask, (to) wonder",preguntar,"ask, (to) ask, (to) wonder"
+preguntas,"questions, (you) ask, question",preguntas,"questions, (you) ask, question"
 pregunto,"(I) ask, (I) wonder",pregunto,"(I) ask, (I) wonder"
 setenta,"70, seventy",setenta,"70, seventy"
 abres la,you open the,abres la,you open the
@@ -1396,6 +1164,7 @@ piso,"floor, ground",piso,"floor, ground"
 pisos,floors,pisos,floors
 poca,"little, a few",poca,"little, a few"
 pocas,"few, little",pocas,"few, little"
+poco,"little, some, little bit",poco,"little, some, little bit"
 pocos,few,pocos,few
 seguras,"safe, sure",seguras,"safe, sure"
 seguro,"sure, safe",seguro,"sure, safe"
@@ -1483,6 +1252,7 @@ centavos,cents,centavos,cents
 chorizo,"chorizo, chorizos",chorizo,"chorizo, chorizos"
 chorizos,"chorizo, chorizos",chorizos,"chorizo, chorizos"
 cincuenta,"fifty, 50",cincuenta,"fifty, 50"
+compra,"(?) are you buying, (?) does she buy, (?) is he buying",compra,"(?) are you buying, (?) does she buy, (?) is he buying"
 cuarenta,"forty, 40",cuarenta,"forty, 40"
 cuánta,"how many, how much",cuánta,"how many, how much"
 fruta,fruit,fruta,fruit
@@ -1518,6 +1288,7 @@ tenemos que,"(we) have to, (?) do we need to",tenemos que,"(we) have to, (?) do 
 tienen que,"(?) do you need to go, (they) have to, has to",tienen que,"(?) do you need to go, (they) have to, has to"
 vegetal,"vegetable, plant",vegetal,"vegetable, plant"
 vegetales,vegetables,vegetales,vegetables
+ayudamos,"(we) help, (we) helped",ayudamos,"(we) help, (we) helped"
 ayudaste,(you) helped,ayudaste,(you) helped
 bailaron,(they) danced,bailaron,(they) danced
 bailaste,"dance, (you) danced, (?) did you dance",bailaste,"dance, (you) danced, (?) did you dance"
@@ -1626,6 +1397,7 @@ te despiertas,you wake up,te despiertas,you wake up
 te levantaste,you got up,te levantaste,you got up
 bello,"beautiful, pretty",bello,"beautiful, pretty"
 blusa,blouse,blusa,blouse
+como,"(I) eat, as, (I) am eating",como,"(I) eat, as, (I) am eating"
 cómodo,"comfortable, comfy, convenient",cómodo,"comfortable, comfy, convenient"
 gorra,"cap, hat",gorra,"cap, hat"
 menos,"less, minus, fewer",menos,"less, minus, fewer"
@@ -1765,6 +1537,7 @@ duermo,"sleep, (I) sleep, (I) fall asleep",duermo,"sleep, (I) sleep, (I) fall as
 encantar,"(to) love, love",encantar,"(to) love, love"
 encontrarnos,(to) meet up,encontrarnos,(to) meet up
 encontrarse,(to) meet up,encontrarse,(to) meet up
+frío,"cold, cold weather",frío,"cold, cold weather"
 fue un,was a,fue un,was a
 fueron unos,they were about,fueron unos,they were about
 haber,"(to) have, (to) be, be",haber,"(to) have, (to) be, be"
@@ -1824,6 +1597,7 @@ que viene,next,que viene,next
 quedarse,"stay, (to) stay, staying",quedarse,"stay, (to) stay, staying"
 se queda,"remains, (he/she/it)  is, (he/she/it)  stays",se queda,"remains, (he/she/it)  is, (he/she/it)  stays"
 se quedan,"(they/you-plural)  keep, (they/you-plural)  stay, (they/you-plural)  are",se quedan,"(they/you-plural)  keep, (they/you-plural)  stay, (they/you-plural)  are"
+sobre,"about, on, on top of",sobre,"about, on, on top of"
 te quedas,"(?) are you staying, (you) stay",te quedas,"(?) are you staying, (you) stay"
 todo el mundo,"everybody, everyone",todo el mundo,"everybody, everyone"
 vengo,"(I) come, I'm coming",vengo,"(I) come, I'm coming"
@@ -1833,14 +1607,20 @@ viene,"(?) does she come, (he) comes, (she) is coming",viene,"(?) does she come,
 vienen,"come, (?) do they come, (they) are coming",vienen,"come, (?) do they come, (they) are coming"
 vienes,"(you) come, (?) are you coming, (?) do you come",vienes,"(you) come, (?) are you coming, (?) do you come"
 vuelvo,"(I) return, (I) go back",vuelvo,"(I) return, (I) go back"
+abre,"(?) are you open, (?) does it open, (?) is it open",abre,"(?) are you open, (?) does it open, (?) is it open"
 abres,"(?) can you open, (you) open, (you) are opening",abres,"(?) can you open, (you) open, (you) are opening"
+alto,"tall, high, loud",alto,"tall, high, loud"
 beba,(you) drink,beba,(you) drink
+cierra,"(?) does it close, (it) closes, (you) close",cierra,"(?) does it close, (it) closes, (you) close"
 cierras la,you close the,cierras la,you close the
 despacio,"slowly, slow",despacio,"slowly, slow"
 escriba,(you) write,escriba,(you) write
+estudia,"(?) do you study, (?) does he study, (he) studies",estudia,"(?) do you study, (?) does he study, (he) studies"
 estudias en,you study in,estudias en,you study in
+habla,"(?) do you speak, (?) does he speak, (he) is speaking",habla,"(?) do you speak, (?) does he speak, (he) is speaking"
 hablas con,you speak with,hablas con,you speak with
 hable,(you) speak,hable,(you) speak
+lee,"(he) reads, (she) is reading, (she) reads",lee,"(he) reads, (she) is reading, (she) reads"
 pruebe,(you) try,pruebe,(you) try
 página,page,página,page
 páginas,pages,páginas,pages
@@ -1855,6 +1635,8 @@ usted trabaja,you work,usted trabaja,you work
 usted vuelve,you come back,usted vuelve,you come back
 vuelva,"(you) come back, (you) return",vuelva,"(you) come back, (you) return"
 vuelve,"(?) are you coming back, (?) are you returning, (?) do you return",vuelve,"(?) are you coming back, (?) are you returning, (?) do you return"
+cara,"face, expensive, faces",cara,"face, expensive, faces"
+caras,expensive,caras,expensive
 cepillarse,(to) brush,cepillarse,(to) brush
 cepillo,"brush, hair",cepillo,"brush, hair"
 cepillo de dientes,"toothbrush, toothbrushes",cepillo de dientes,"toothbrush, toothbrushes"
@@ -1876,6 +1658,10 @@ nos lavamos,we wash,nos lavamos,we wash
 nos llamamos,our names are,nos llamamos,our names are
 nos ponemos,(we) put on,nos ponemos,(we) put on
 nos sentimos,we feel,nos sentimos,we feel
+nuestra,"our, ours",nuestra,"our, ours"
+nuestras,"our, ours",nuestras,"our, ours"
+nuestro,"our, ours",nuestro,"our, ours"
+nuestros,"our, ours",nuestros,"our, ours"
 se cepilla,"(she) brushes, (she) is brushing",se cepilla,"(she) brushes, (she) is brushing"
 se cepillan,"(they) brush, (you) brush",se cepillan,"(they) brush, (you) brush"
 se duchan,"shower, (they) shower, (?) are they showering",se duchan,"shower, (they) shower, (?) are they showering"
@@ -1936,6 +1722,7 @@ empezó,"(?) did it start, (he) began, (he) started",empezó,"(?) did it start, 
 encuentran,(they) find,encuentran,(they) find
 enseñamos,"(we) are teaching, (we) taught, (we) teach",enseñamos,"(we) are teaching, (we) taught, (we) teach"
 enseñando,teaching,enseñando,teaching
+enseñar,"teaching, (to) teach, taught",enseñar,"teaching, (to) teach, taught"
 enseñaron,"(they) taught, taught",enseñaron,"(they) taught, taught"
 enseñaste,"(you) taught, (?) did you teach",enseñaste,"(you) taught, (?) did you teach"
 enseñé,"taught, (I) taught",enseñé,"taught, (I) taught"
@@ -1943,6 +1730,7 @@ estudiaron,"study, (?) did you study, (they) studied",estudiaron,"study, (?) did
 estudió,"study, studied, (he) studied",estudió,"study, studied, (he) studied"
 habló,"(he) spoke, (he) talked, speak",habló,"(he) spoke, (he) talked, speak"
 me preocupo,"I'm worried, (I) worry",me preocupo,"I'm worried, (I) worry"
+me siento,feel,me siento,feel
 necesitar,"need, (to) need, needed",necesitar,"need, (to) need, needed"
 nos sentamos,"(we)  sit, (?) should we sit",nos sentamos,"(we)  sit, (?) should we sit"
 olvidamos,"(we) forget, (we) forgot, forget",olvidamos,"(we) forget, (we) forgot, forget"
@@ -1985,13 +1773,16 @@ cierro,"close, (I) close, (?) should I close",cierro,"close, (I) close, (?) shou
 gatos,cats,gatos,cats
 imagen,"image, picture",imagen,"image, picture"
 imágenes,"images, pictures",imágenes,"images, pictures"
+la,"the, her, his",la,"the, her, his"
 la quiero,(I) want it,la quiero,(I) want it
+las,"the, his, my",las,"the, his, my"
 las comen,(they) eat them,las comen,(they) eat them
 las necesita,needs them,las necesita,needs them
 ligeras,light,ligeras,light
 lo,"it, you, him",lo,"it, you, him"
 lo compro,I'm buying it,lo compro,I'm buying it
 lo quiero,(I) want it,lo quiero,(I) want it
+los,"the, them, her",los,"the, them, her"
 los comen,they eat them,los comen,they eat them
 los necesita,"(she) needs them, (he) needs them",los necesita,"(she) needs them, (he) needs them"
 mala,"bad, wrong",mala,"bad, wrong"
@@ -2001,7 +1792,9 @@ paquete,package,paquete,package
 paquetes,packages,paquetes,packages
 pruebas,"(you) taste, tests, (?) are you trying",pruebas,"(you) taste, tests, (?) are you trying"
 salsa,"sauce, salsa",salsa,"sauce, salsa"
+todas,"all, every, everybody",todas,"all, every, everybody"
 todo el tiempo,all the time,todo el tiempo,all the time
+todos,"all, all of, every",todos,"all, all of, every"
 tés,teas,tés,teas
 ya,"already, now, anymore",ya,"already, now, anymore"
 alguno,"one, any, some (people)",alguno,"one, any, some (people)"
@@ -2064,6 +1857,7 @@ quedarme,(to) stay,quedarme,(to) stay
 quedarnos,"stay, (to) stay, staying",quedarnos,"stay, (to) stay, staying"
 recordar,"remember, (to) remember, remembering",recordar,"remember, (to) remember, remembering"
 salir a,go to,salir a,go to
+taza,"cup, mug, bowl",taza,"cup, mug, bowl"
 tazas,"cups, mugs, bowls",tazas,"cups, mugs, bowls"
 volar,"(to) fly, fly, flying",volar,"(to) fly, fly, flying"
 tolike1,tolike1,tolike1,tolike1
@@ -2132,6 +1926,7 @@ vine,"(I) came, (I) arrived, come",vine,"(I) came, (I) arrived, come"
 vinieron,"(?) did you come, (they) came, come",vinieron,"(?) did you come, (they) came, come"
 vinimos,"(we) came, (we) arrived, come",vinimos,"(we) came, (we) arrived, come"
 viniste,"come, (you) arrived, (you) came",viniste,"come, (you) arrived, (you) came"
+vino,"wine, (?) did he come, (he) came",vino,"wine, (?) did he come, (he) came"
 abriste,"start, bored, open",abriste,"start, bored, open"
 abrí,"(I) opened, bored, get",abrí,"(I) opened, bored, get"
 bebieron,"drink, (?) did you drink, (they) drank",bebieron,"drink, (?) did you drink, (they) drank"
@@ -2213,8 +2008,10 @@ nieve,snow,nieve,snow
 pasamos,"spend, (we) spent, (we) are spending",pasamos,"spend, (we) spent, (we) are spending"
 practicamos,"(we) played, (we) practice, (we) practiced",practicamos,"(we) played, (we) practice, (we) practiced"
 queridos,dear,queridos,dear
+salimos,"(we) went out, (we) go out, (we) are leaving",salimos,"(we) went out, (we) go out, (we) are leaving"
 viajamos,"(we) travel, (we) traveled, we're traveling",viajamos,"(we) travel, (we) traveled, we're traveling"
 vimos,"(we) saw, (we) watched",vimos,"(we) saw, (we) watched"
+visitamos,"(we) visit, (we) visited",visitamos,"(we) visit, (we) visited"
 coger,"take, (to) take, catch",coger,"take, (to) take, catch"
 cojo,"(I) take, I'm taking, get",cojo,"(I) take, I'm taking, get"
 el azul,the blue one,el azul,the blue one
@@ -2224,6 +2021,7 @@ encontraste,"(?) did you find, (you) found",encontraste,"(?) did you find, (you)
 encontré,"(I) found, find",encontré,"(I) found, find"
 la amarilla,the yellow one,la amarilla,the yellow one
 la tuya,yours,la tuya,yours
+sí,"yes, yeah, does",sí,"yes, yeah, does"
 asaba,"(he) was grilling, (I) was grilling",asaba,"(he) was grilling, (I) was grilling"
 asabas,(?) were you grilling,asabas,(?) were you grilling
 cafetería,"cafeteria, cafe, café",cafetería,"cafeteria, cafe, café"
@@ -2238,6 +2036,7 @@ dibujaban,(they) were drawing,dibujaban,(they) were drawing
 dibujabas,(you) were drawing,dibujabas,(you) were drawing
 dibujábamos,(we) were drawing,dibujábamos,(we) were drawing
 disfrutaba,"(I) was enjoying, (I) used to enjoy, (she) was enjoying",disfrutaba,"(I) was enjoying, (I) used to enjoy, (she) was enjoying"
+disfrutar,"enjoy, (to) enjoy",disfrutar,"enjoy, (to) enjoy"
 disfrutábamos,"(we) used to enjoy, (we) were enjoying",disfrutábamos,"(we) used to enjoy, (we) were enjoying"
 entra,"(you) come in, (you) go in",entra,"(you) come in, (you) go in"
 entrar,"(to) enter, (to) come in, (to) go into",entrar,"(to) enter, (to) come in, (to) go into"
@@ -2285,11 +2084,13 @@ apagó,(he) turned off,apagó,(he) turned off
 cafetera,coffee maker,cafetera,coffee maker
 creo que debería,I think I should,creo que debería,I think I should
 creo que deberías,I think you should,creo que deberías,I think you should
+cómoda,"comfortable, dresser",cómoda,"comfortable, dresser"
 cómodas,"comfortable, dressers",cómodas,"comfortable, dressers"
 dormida,asleep,dormida,asleep
 dormidas,asleep,dormidas,asleep
 dormido,"fallen asleep, slept, asleep",dormido,"fallen asleep, slept, asleep"
 dormidos,asleep,dormidos,asleep
+dormir,"(to) sleep, sleeping",dormir,"(to) sleep, sleeping"
 encendemos,(we) turn on,encendemos,(we) turn on
 encender,(to) turn on,encender,(to) turn on
 encendida,"turned on, on",encendida,"turned on, on"
@@ -2316,6 +2117,7 @@ pintada,painted,pintada,painted
 pintadas,painted,pintadas,painted
 pintado,painted,pintado,painted
 pintados,painted,pintados,painted
+pintar,"painting, (to) paint",pintar,"painting, (to) paint"
 portátil,laptop,portátil,laptop
 portátiles,laptops,portátiles,laptops
 sillones,armchairs,sillones,armchairs
@@ -2389,6 +2191,7 @@ prefieren,"(they) prefer, (?) do you prefer",prefieren,"(they) prefer, (?) do yo
 se acuesta,(he) goes to bed,se acuesta,(he) goes to bed
 se acuestan,they lie down,se acuestan,they lie down
 te acuestas,"(you) go to bed, (you) are going to bed, (you) lie down",te acuestas,"(you) go to bed, (you) are going to bed, (you) lie down"
+tomar,"take, (to) take, (to) drink",tomar,"take, (to) take, (to) drink"
 almorcé,"(I) ate lunch, (I) had lunch",almorcé,"(I) ate lunch, (I) had lunch"
 bufanda,scarf,bufanda,scarf
 bufandas,scarves,bufandas,scarves
@@ -2506,6 +2309,7 @@ bellísima,"very lovely, really lovely",bellísima,"very lovely, really lovely"
 bellísimas,really lovely,bellísimas,really lovely
 bellísimo,really lovely,bellísimo,really lovely
 bellísimos,really lovely,bellísimos,really lovely
+bueno,"good, well, nice",bueno,"good, well, nice"
 buenísimas,"really nice, really good",buenísimas,"really nice, really good"
 buenísimos,really good,buenísimos,really good
 carísima,really expensive,carísima,really expensive
@@ -2513,6 +2317,7 @@ carísimas,really expensive,carísimas,really expensive
 carísimo,really expensive,carísimo,really expensive
 carísimos,really expensive,carísimos,really expensive
 ciclismo,cycling,ciclismo,cycling
+correr,"run, (to) run, running",correr,"run, (to) run, running"
 corrieron,"(they) went running, (?) did you go running, run",corrieron,"(they) went running, (?) did you go running, run"
 corriste,"go running, run, (?) did you run",corriste,"go running, run, (?) did you run"
 corrí,(I) ran,corrí,(I) ran
@@ -2527,6 +2332,7 @@ espectáculo,"show, performance",espectáculo,"show, performance"
 espectáculos,shows,espectáculos,shows
 excursiones,hikes,excursiones,hikes
 excursión,"hike, hiking",excursión,"hike, hiking"
+grande,"big, large",grande,"big, large"
 grandísima,"really big, very big",grandísima,"really big, very big"
 grandísimas,really big,grandísimas,really big
 grandísimos,really big,grandísimos,really big
@@ -2544,6 +2350,7 @@ lagos,lakes,lagos,lakes
 malísima,really bad,malísima,really bad
 malísimo,"awful, terrible, really bad",malísimo,"awful, terrible, really bad"
 malísimos,really bad,malísimos,really bad
+montar,"ride, (to) ride, riding",montar,"ride, (to) ride, riding"
 montaron,"(?) did you ride, start, ride",montaron,"(?) did you ride, start, ride"
 monté,(I) rode,monté,(I) rode
 montó,(he) rode,montó,(he) rode
@@ -2571,6 +2378,7 @@ comerla,(to) eat it,comerla,(to) eat it
 comerlas,(to) eat them,comerlas,(to) eat them
 comerlo,(to) eat it,comerlo,(to) eat it
 comerlos,(to) eat them,comerlos,(to) eat them
+comprar,"buy, (to) buy, (to) get",comprar,"buy, (to) buy, (to) get"
 comprarlas,(to) buy them,comprarlas,(to) buy them
 comprarlo,(to) buy it,comprarlo,(to) buy it
 comprarlos,(to) buy them,comprarlos,(to) buy them
@@ -2693,6 +2501,7 @@ acampaba,"used to camp, they used to",acampaba,"used to camp, they used to"
 acampando,camping,acampando,camping
 acampas,(?) do you camp,acampas,(?) do you camp
 bádminton,badminton,bádminton,badminton
+cartas,"letters, cards",cartas,"letters, cards"
 colecciona,(she) collects,colecciona,(she) collects
 coleccionaba,"(she) used to collect, (he) used to collect",coleccionaba,"(she) used to collect, (he) used to collect"
 coleccionabas,(?)did you use to collect,coleccionabas,(?)did you use to collect
@@ -2705,6 +2514,7 @@ estampillas,"stamps, (you) put stamps on, (you) rubber-stamp",estampillas,"stamp
 hockey,hockey,hockey,hockey
 maravillosas,wonderful,maravillosas,wonderful
 maravilloso,"wonderful, marvelous",maravilloso,"wonderful, marvelous"
+me,"with me, at me, me",me,"with me, at me, me"
 navegaba,"(she) was sailing, (I) used to sail",navegaba,"(she) was sailing, (I) used to sail"
 navegamos,"(we) sailed, (we) sail",navegamos,"(we) sailed, (we) sail"
 navegué,(I) sailed,navegué,(I) sailed
@@ -2719,6 +2529,7 @@ raqueta,"racket, rake, snowshoe",raqueta,"racket, rake, snowshoe"
 rompecabezas,"puzzle, puzzles",rompecabezas,"puzzle, puzzles"
 tanto,"so, so much, as much as",tanto,"so, so much, as much as"
 tantos,"so many, as many as",tantos,"so many, as many as"
+te,"you, yourself",te,"you, yourself"
 velero,"sailboat, sail",velero,"sailboat, sail"
 almorzaron,"(they) had lunch, (they) ate lunch",almorzaron,"(they) had lunch, (they) ate lunch"
 almorzaste,(?) did you eat lunch,almorzaste,(?) did you eat lunch
@@ -2741,6 +2552,7 @@ equipo,team,equipo,team
 equipos,"equipment, teams",equipos,"equipment, teams"
 gana,"(?) does he earn, (he) earns, (he) wins",gana,"(?) does he earn, (he) earns, (he) wins"
 ganar,"win, (to) win, (to) earn",ganar,"win, (to) win, (to) earn"
+ganas,(you) win,ganas,(you) win
 ganaste,"won, (you) won, (you) gained",ganaste,"won, (you) won, (you) gained"
 historia,"history, story",historia,"history, story"
 kilómetro,kilometer,kilómetro,kilometer
@@ -2753,11 +2565,15 @@ leímos,"read, (we) read",leímos,"read, (we) read"
 leíste,"read, (you) read",leíste,"read, (you) read"
 libro de texto,"text, textbook",libro de texto,"text, textbook"
 libros de texto,textbooks,libros de texto,textbooks
+limpiar,"clean, (to) clean, cleaned",limpiar,"clean, (to) clean, cleaned"
 limpiaste,"(?) did you clean, clean",limpiaste,"(?) did you clean, clean"
 limpié,"(I) cleaned, cleaned",limpié,"(I) cleaned, cleaned"
 química,"chemistry, chemical",química,"chemistry, chemical"
 tazón,"bowl, mug",tazón,"bowl, mug"
+tocamos,"(we) touch, (we) are touching, (we) play",tocamos,"(we) touch, (we) are touching, (we) play"
+tocar,"(to) play, playing, (to) touch",tocar,"(to) play, playing, (to) touch"
 tocó,"(he) played, (she) played",tocó,"(he) played, (she) played"
+tomamos,"(we) have, (we) take, (?) are we taking",tomamos,"(we) have, (we) take, (?) are we taking"
 varias,"several, many, various",varias,"several, many, various"
 varios,"many, various, assorted",varios,"many, various, assorted"
 agricultor,farmer,agricultor,farmer
@@ -2801,7 +2617,9 @@ trajimos,(we) brought,trajimos,(we) brought
 tuvimos,(we) had,tuvimos,(we) had
 verdad,"(?) are they, (?) aren't there, (?) is he",verdad,"(?) are they, (?) aren't there, (?) is he"
 amaban,loved,amaban,loved
+amar,"love, (to) love",amar,"love, (to) love"
 collar,"necklace, collar",collar,"necklace, collar"
+conocer,"meet, (to) meet, (to) get to know",conocer,"meet, (to) meet, (to) get to know"
 conocía,"(I/he/she/it/you) knew, (I/he/she/it/you) used to know, (I/he/she/it/you) knew oneself",conocía,"(I/he/she/it/you) knew, (I/he/she/it/you) used to know, (I/he/she/it/you) knew oneself"
 conocían,"met, knew",conocían,"met, knew"
 corazones,heart,corazones,heart
@@ -2976,6 +2794,7 @@ escribía,"(he) used to write, (I) used to write",escribía,"(he) used to write,
 escribían,(they) used to write,escribían,(they) used to write
 escribías,(?) did you use to write,escribías,(?) did you use to write
 estudiaban,"(they) studied, (they) used to study",estudiaban,"(they) studied, (they) used to study"
+estudiar,"study, (to) study, studying",estudiar,"study, (to) study, studying"
 estudiábamos,"read, (we) used to study",estudiábamos,"read, (we) used to study"
 geografía,geography,geografía,geography
 gustaba,"(?) did you use to like, (I) used to like, (he) used to like",gustaba,"(?) did you use to like, (I) used to like, (he) used to like"
@@ -3072,6 +2891,8 @@ cómo te va,how's it going,cómo te va,how's it going
 donde,"where, when, because",donde,"where, when, because"
 invitaciones,invitations,invitaciones,invitations
 invitación,"invitation, invite",invitación,"invitation, invite"
+llamamos,"(we) called, (we) call",llamamos,"(we) called, (we) call"
+llamar,"call, (to) call, calling",llamar,"call, (to) call, calling"
 llamaron,"(?) did they call, (they) called, (they) telephoned",llamaron,"(?) did they call, (they) called, (they) telephoned"
 llamaste,"(?) did you call, (you) called",llamaste,"(?) did you call, (you) called"
 llamé,"(I) called, call",llamé,"(I) called, call"
@@ -3089,6 +2910,7 @@ quiénes,"who, who all, whom",quiénes,"who, who all, whom"
 qué le parece,(?) what do you think,qué le parece,(?) what do you think
 qué te parece,"What do you think, (?) How does it sound",qué te parece,"What do you think, (?) How does it sound"
 sorpresa,"surprise, favor",sorpresa,"surprise, favor"
+ven,"(they) are seeing, (they) see, (they) watch",ven,"(they) are seeing, (they) see, (they) watch"
 artista,"artist, actor, actress",artista,"artist, actor, actress"
 artistas,"artists, actors, actresses",artistas,"artists, actors, actresses"
 ayudaba,"(I) was helping, (she) was helping",ayudaba,"(I) was helping, (she) was helping"
@@ -3098,6 +2920,7 @@ ayudábamos,(we) were helping,ayudábamos,(we) were helping
 bailaba,"(she) was dancing, (he) was dancing, (I) was dancing",bailaba,"(she) was dancing, (he) was dancing, (I) was dancing"
 bailaban,(they) were dancing,bailaban,(they) were dancing
 bailabas,(you) were dancing,bailabas,(you) were dancing
+bailar,"dancing, (to) dance, dance",bailar,"dancing, (to) dance, dance"
 bailarina,"dancer, ballerina",bailarina,"dancer, ballerina"
 bailarinas,ballerinas,bailarinas,ballerinas
 bailarín,dancer,bailarín,dancer
@@ -3111,6 +2934,7 @@ cenábamos,(we) were eating dinner,cenábamos,(we) were eating dinner
 guerra,war,guerra,war
 guerras,war,guerras,war
 hablaba,"(he) spoke, (he) talked, (he) was talking",hablaba,"(he) spoke, (he) talked, (he) was talking"
+hablar,"talk, (to) talk, (to) speak",hablar,"talk, (to) talk, (to) speak"
 hablábamos,"(we) spoke, (we) used to talk, (we) talked",hablábamos,"(we) spoke, (we) used to talk, (we) talked"
 había una vez,once upon a time,había una vez,once upon a time
 hasta,"until, to, even",hasta,"until, to, even"
@@ -3212,6 +3036,7 @@ regresan,"return, (they/you-plural) return, (they/you-plural) come back",regresa
 regresaron,"(they) returned, (?) did you return",regresaron,"(they) returned, (?) did you return"
 regresaste,"return, (?) did you return",regresaste,"return, (?) did you return"
 regreso,"return, (I) return, (I) come back",regreso,"return, (I) return, (I) come back"
+reserva,"reservation, (she) is reserving",reserva,"reservation, (she) is reserving"
 reservamos,"(we) reserve, (we) reserved",reservamos,"(we) reserve, (we) reserved"
 reservan,"reserve, (they/you-plural) reserve, (they/you-plural) book",reservan,"reserve, (they/you-plural) reserve, (they/you-plural) book"
 reservar,(to) reserve,reservar,(to) reserve
@@ -3225,6 +3050,7 @@ tranvía,tram,tranvía,tram
 turista,tourist,turista,tourist
 vuelos,"flights, flight",vuelos,"flights, flight"
 ópera,"opera, opera house",ópera,"opera, opera house"
+ayuda,"help, (he) helps, (he) is helping",ayuda,"help, (he) helps, (he) is helping"
 ayude,(you) help,ayude,(you) help
 disponible,available,disponible,available
 disponibles,available,disponibles,available
@@ -3239,14 +3065,17 @@ proyecto,project,proyecto,project
 reuniones,meetings,reuniones,meetings
 reunión,meeting,reunión,meeting
 tampoco,"neither, either, (I) don't",tampoco,"neither, either, (I) don't"
+trabaja,"(?) do you work, (?) does he work, (?) does she work",trabaja,"(?) do you work, (?) does he work, (?) does she work"
 tú haces,you do,tú haces,you do
 tú pones,you put,tú pones,you put
 tú vas,you go,tú vas,you go
+usa,"(?) are you using, (?) does he wear, (he) is using",usa,"(?) are you using, (?) does he wear, (he) is using"
 use,(you) use,use,(you) use
 usted hace,you do,usted hace,you do
 usted pone,you put,usted pone,you put
 usted va,you go,usted va,you go
 vaya,"(I) go, (he) is going, (you) go",vaya,"(I) go, (he) is going, (you) go"
+ve,"(he) watches, (she) sees, (you) go",ve,"(he) watches, (she) sees, (you) go"
 adentro,"inside, in",adentro,"inside, in"
 afuera,"outside, out",afuera,"outside, out"
 carpeta,folder,carpeta,folder
@@ -3547,6 +3376,7 @@ enterarse,(to) find out,enterarse,(to) find out
 enteraste,(?) did you find out,enteraste,(?) did you find out
 enteré,(I) found out,enteré,(I) found out
 enteró,(she) found out,enteró,(she) found out
+estudio,"study, (I) study, (I) am studying",estudio,"study, (I) study, (I) am studying"
 formulario,form,formulario,form
 querer decir,"want to say, drive, drove",querer decir,"want to say, drive, drove"
 quería decir,I wanted to say,quería decir,I wanted to say
@@ -3605,6 +3435,7 @@ vendieron,(they) sold,vendieron,(they) sold
 ventilador,"ventilator, air vent, fan",ventilador,"ventilator, air vent, fan"
 vestida,dressed,vestida,dressed
 vestidas,dressed,vestidas,dressed
+vestido,"dress, dressed",vestido,"dress, dressed"
 vestir+prpers,dress,vestir+prpers,dress
 vestirme,"dress, (to) get dressed",vestirme,"dress, (to) get dressed"
 vestirnos,"dress, (to) get dressed",vestirnos,"dress, (to) get dressed"
@@ -3615,6 +3446,7 @@ futuretense3,futuretense3,futuretense3,futuretense3
 futuretense,futuretense,futuretense,futuretense
 adivinaremos,"guess, we will guess",adivinaremos,"guess, we will guess"
 cierto,"true, (?) shouldn't they, (?) shouldn't we",cierto,"true, (?) shouldn't they, (?) shouldn't we"
+comer,"eat, (to) eat, eating",comer,"eat, (to) eat, eating"
 comeremos,"eat, (we) will eat, (we) will be having",comeremos,"eat, (we) will eat, (we) will be having"
 comerá,"eat, (he) will eat, he'll eat",comerá,"eat, (he) will eat, he'll eat"
 comerán,"(they) will eat, they'll eat",comerán,"(they) will eat, they'll eat"
@@ -3671,6 +3503,7 @@ tratarás,try,tratarás,try
 trato,"deal, (I) try, (I) treat",trato,"deal, (I) try, (I) treat"
 título,"title, degree",título,"title, degree"
 títulos,"bonds, securities, headers",títulos,"bonds, securities, headers"
+vivir,"live, (to) live, living",vivir,"live, (to) live, living"
 vivirás,"(you) will live, (you) will be alive, stay",vivirás,"(you) will live, (you) will be alive, stay"
 viviré,"(I) will live, live, (I) will be alive",viviré,"(I) will live, live, (I) will be alive"
 volverme,"become, (to) become",volverme,"become, (to) become"
@@ -3761,14 +3594,17 @@ sabrás,"(you) will know, know, (you) will taste",sabrás,"(you) will know, know
 sabré,"know, (I) will know, (I) will taste",sabré,"know, (I) will know, (I) will taste"
 saldremos,"go, we will leave",saldremos,"go, we will leave"
 saldrá,"(she) will go out, (he) will leave",saldrá,"(she) will go out, (he) will leave"
+salir,"(to) go out, (to) leave, going out",salir,"(to) go out, (to) leave, going out"
 tal como,such as,tal como,such as
 tendrán,"have, (?) will they be having, had",tendrán,"have, (?) will they be having, had"
 tendrás,"(you) will have, (you) will be, you'll be",tendrás,"(you) will have, (you) will be, you'll be"
 tendré,"have, (I) will have, keep",tendré,"have, (I) will have, keep"
+tener,"have, (to) have, get",tener,"have, (to) have, get"
 trasera,back,trasera,back
 trasero,"can, back",trasero,"can, back"
 vendremos,"come, (we) will come, (we) will arrive",vendremos,"come, (we) will come, (we) will arrive"
 vendrá,"(he) will be coming, (he) will come, (she) will be coming",vendrá,"(he) will be coming, (he) will come, (she) will be coming"
+vivo,"(I) live, bright",vivo,"(I) live, bright"
 vivos,"alive, bright, brights",vivos,"alive, bright, brights"
 acamparemos,(we) will camp,acamparemos,(we) will camp
 acamparán,(they) will camp,acamparán,(they) will camp
@@ -3871,6 +3707,7 @@ tráemelo,bring it to me,tráemelo,bring it to me
 tráemelos,bring them to me,tráemelos,bring them to me
 uva,grape,uva,grape
 uvas,grapes,uvas,grapes
+visita,"visit, (he) is visiting, (he) visits",visita,"visit, (he) is visiting, (he) visits"
 contra,against,contra,against
 círculo,"circle, round",círculo,"circle, round"
 círculos,circles,círculos,circles
@@ -3921,6 +3758,7 @@ estacione,park,estacione,park
 llene,"full, (you) fill out, crowded",llene,"full, (you) fill out, crowded"
 oigan,"hear, hey",oigan,"hear, hey"
 organiza,"organize, organizes",organiza,"organize, organizes"
+pasa,"(he) is spending, happens",pasa,"(he) is spending, happens"
 pongan,"put!, put in!, (they/you-plural) put in",pongan,"put!, put in!, (they/you-plural) put in"
 prepara,"(he) makes, (it) prepares, (you) prepare",prepara,"(he) makes, (it) prepares, (you) prepare"
 prepare,"(to) prepare, prepare, (to) get ready",prepare,"(to) prepare, prepare, (to) get ready"
@@ -3930,6 +3768,7 @@ salgan,leave,salgan,leave
 seca,dry,seca,dry
 tengan,(they) have,tengan,(they) have
 traigan,bring,traigan,bring
+uso,"(I) use, (I) wear, (I) am wearing",uso,"(I) use, (I) wear, (I) am wearing"
 vengan,"(they) come, come",vengan,"(they) come, come"
 zapatos deportivos,sneakers,zapatos deportivos,sneakers
 basurero,"dustbin, wastebasket, trash can",basurero,"dustbin, wastebasket, trash can"
@@ -3948,6 +3787,7 @@ curso,"course, class, grade",curso,"course, class, grade"
 deletrear,"spelling, (to) spell",deletrear,"spelling, (to) spell"
 espacio,"space, room, (I) space … out",espacio,"space, room, (I) space … out"
 espacios,"spaces, areas, gaps",espacios,"spaces, areas, gaps"
+estantería,"bookcase, bookshelf, shelf",estantería,"bookcase, bookshelf, shelf"
 incluso,"even, including",incluso,"even, including"
 matemáticas,math,matemáticas,math
 me apuro,I hurry,me apuro,I hurry
@@ -3974,11 +3814,14 @@ te apuras,hurry up,te apuras,hurry up
 tijeras,scissors,tijeras,scissors
 vocabulario,vocabulary,vocabulario,vocabulary
 abran,"open!, open (up)!, open out!",abran,"open!, open (up)!, open out!"
+abren,"(they) are opening, (they) open, (you) open",abren,"(they) are opening, (they) open, (you) open"
 beban,"drink, drink!, (you-plural) drink (command)",beban,"drink, drink!, (you-plural) drink (command)"
+beben,"(?) are they drinking, (?) do you drink, (they) drink",beben,"(?) are they drinking, (?) do you drink, (they) drink"
 brazalete,bracelet,brazalete,bracelet
 brazaletes,bracelets,brazaletes,bracelets
 cheque,check,cheque,check
 coman,"eat, eat!, (you-plural) eat (command)",coman,"eat, eat!, (you-plural) eat (command)"
+compran,"(?) do you buy, (they) are buying, (they) buy",compran,"(?) do you buy, (they) are buying, (they) buy"
 compren,buy,compren,buy
 cuál quiere,which one do you want,cuál quiere,which one do you want
 cuál quieres,which one do you want,cuál quieres,which one do you want
@@ -3993,13 +3836,17 @@ me la llevo,i take it,me la llevo,i take it
 me las llevo,I'll take them,me las llevo,I'll take them
 me lo llevo,I'll take it,me lo llevo,I'll take it
 me los llevo,I will take them,me los llevo,I will take them
+otra,"another, else, other",otra,"another, else, other"
+otro,"another, other, another one",otro,"another, other, another one"
 perfume,"perfume!, (I/he/she/it/you) perfume, put perfume / scent on!",perfume,"perfume!, (I/he/she/it/you) perfume, put perfume / scent on!"
 perfumes,perfumes,perfumes,perfumes
 pijama,pajamas,pijama,pajamas
 pijamas,pajamas,pijamas,pajamas
 recibo,"receipt, (I) get, (I) receive",recibo,"receipt, (I) get, (I) receive"
 recibos,receipts,recibos,receipts
+trabajan,"(?) do they work, (they) are working, (they) work",trabajan,"(?) do they work, (they) are working, (they) work"
 trabajen,"work on!, perform!, (they/you-plural) work",trabajen,"work on!, perform!, (they/you-plural) work"
+van,"(?) are you going, (?) are you leaving, (?) do you go",van,"(?) are you going, (?) are you leaving, (?) do you go"
 vayan,"(they/you-plural) go, (they/you-plural) go out, (they/you-plural) escape",vayan,"(they/you-plural) go, (they/you-plural) go out, (they/you-plural) escape"
 vendedoras,salespeople,vendedoras,salespeople
 vendedores,"salesmen, salespeople",vendedores,"salesmen, salespeople"
@@ -4142,6 +3989,7 @@ me subo,I get on,me subo,I get on
 norte,north,norte,north
 nos perdimos,(we) got lost,nos perdimos,(we) got lost
 nos subimos,we got on,nos subimos,we got on
+para,"for, to, (he) stops",para,"for, to, (he) stops"
 paramos,"stop, stopped",paramos,"stop, stopped"
 paras,stop,paras,stop
 paro,"stop, (I) stand, (I) stop",paro,"stop, (I) stand, (I) stop"
@@ -4190,11 +4038,13 @@ escalar,"climbing, (to) climb, climb",escalar,"climbing, (to) climb, climb"
 escalaremos,we'll climb,escalaremos,we'll climb
 escalaron,"climbed, (they) climbed",escalaron,"climbed, (they) climbed"
 escalaste,"(?) did you climb, climb, (you) climbed",escalaste,"(?) did you climb, climb, (you) climbed"
+este,"this, east",este,"this, east"
 extranjero,foreign,extranjero,foreign
 extranjeros,"foreigners, foreign",extranjeros,"foreigners, foreign"
 fila,line,fila,line
 indicaciones,directions,indicaciones,directions
 manera,"way, manner, so that",manera,"way, manner, so that"
+metro,"subway, meter, meters",metro,"subway, meter, meters"
 neumático,"tire, pneumatic, tyre",neumático,"tire, pneumatic, tyre"
 oeste,west,oeste,west
 perderemos,"(we) will miss, lost",perderemos,"(we) will miss, lost"
@@ -4311,6 +4161,7 @@ se van,they go,se van,they go
 sería una buena idea,It would be a good idea,sería una buena idea,It would be a good idea
 soñamos,"(we) dream, (we) dreamed/dreamt",soñamos,"(we) dream, (we) dreamed/dreamt"
 sueña,"(he/she/it) dreams, (you-formal) dream, dream!",sueña,"(he/she/it) dreams, (you-formal) dream, dream!"
+sueño,"dream, sleepy, tired",sueño,"dream, sleepy, tired"
 te vas,(you) are leaving,te vas,(you) are leaving
 a mí me,to me,a mí me,to me
 a mí me gusta,I like it,a mí me gusta,I like it
@@ -4319,6 +4170,7 @@ estoy seguro,I'm sure,estoy seguro,I'm sure
 está rico,It's good,está rico,It's good
 gramo,gram,gramo,gram
 me dice,"(he/she/it)  says (me), tells me, (he/she/it)  thinks (me)",me dice,"(he/she/it)  says (me), tells me, (he/she/it)  thinks (me)"
+me gusta,(I) like,me gusta,(I) like
 te gustan,(?) do you like,te gustan,(?) do you like
 actriz,actress,actriz,actress
 cantantes,singers,cantantes,singers
@@ -4515,6 +4367,7 @@ libra,"book, books, textbook",libra,"book, books, textbook"
 mezcla,"(he) mixes, (you) mix",mezcla,"(he) mixes, (you) mix"
 receta,"prescription, (you-formal) prescribe, prescribe!",receta,"prescription, (you-formal) prescribe, prescribe!"
 vainilla,vanilla,vainilla,vanilla
+a,"a, some",a,"a, some"
 activo,"(I) set off, (I) take active steps, practiced",activo,"(I) set off, (I) take active steps, practiced"
 al mismo tiempo,at the same time,al mismo tiempo,at the same time
 despertador,"wake, excited",despertador,"wake, excited"
@@ -4537,6 +4390,8 @@ sabrías,"know, (you) would know, (you) would taste",sabrías,"know, (you) would
 en mi lugar,in my place,en mi lugar,in my place
 imaginario,"(to) imagine (them), (to) come up with (them), (to) think up (them)",imaginario,"(to) imagine (them), (to) come up with (them), (to) think up (them)"
 planeta,planet,planeta,planet
+trabajar,"(to) work, (?) does she work, working",trabajar,"(to) work, (?) does she work, working"
+visitar,"visit, (to) visit, visiting",visitar,"visit, (to) visit, visiting"
 éxito,success,éxito,success
 abrazo,"hold, hug",abrazo,"hold, hug"
 beso,"(I) kiss each other, (I) kiss",beso,"(I) kiss each other, (I) kiss"
@@ -4602,6 +4457,7 @@ descripciones,description,descripciones,description
 discutir,"(to) discuss, (to) argue",discutir,"(to) discuss, (to) argue"
 honesto,honest,honesto,honest
 incorrecto,"wrong, impolite, incorrect",incorrecto,"wrong, impolite, incorrect"
+o,"or, and",o,"or, and"
 opciones,options,opciones,options
 oportunidades,"opportunities, chances, downs",oportunidades,"opportunities, chances, downs"
 pasttense61,pasttense61,pasttense61,pasttense61
@@ -4784,6 +4640,7 @@ breve,"square, balanced, breve",breve,"square, balanced, breve"
 capítulo,"chapter, episode, area",capítulo,"chapter, episode, area"
 capítulos,"episodes, chapters, areas",capítulos,"episodes, chapters, areas"
 charlar,chargers,charlar,chargers
+escribir,"write, (to) write, writing",escribir,"write, (to) write, writing"
 escritor,writer,escritor,writer
 literatura,literature,literatura,literature
 llamarse,"call, called, get",llamarse,"call, called, get"
@@ -4820,6 +4677,7 @@ torneos,"competitions, tournaments",torneos,"competitions, tournaments"
 conexión,"connections, connection, layovers",conexión,"connections, connection, layovers"
 código postal,Postal Code,código postal,Postal Code
 destino,"destiny, destination, (I) assign",destino,"destiny, destination, (I) assign"
+dirección,"address, direction",dirección,"address, direction"
 directo,straight,directo,straight
 llegada,"arrival, arrived, been enough",llegada,"arrival, arrived, been enough"
 milla,"town, small town, villa",milla,"town, small town, villa"
@@ -4969,6 +4827,7 @@ conferencia,"conference, lecture, (he/she/it) holds talks",conferencia,"conferen
 contrato,"(I) contract, (I) enter into a contract, (I) put … out to contract",contrato,"(I) contract, (I) enter into a contract, (I) put … out to contract"
 es bueno que,It is good that,es bueno que,It is good that
 es mejor que,is better than,es mejor que,is better than
+ir,"(to) go, (to) go out, going",ir,"(to) go, (to) go out, going"
 por mi parte,for me,por mi parte,for me
 preferir que,prefer that,preferir que,prefer that
 proponer,move,proponer,move
@@ -5030,10 +4889,13 @@ cruces,"(I) meet, (I) take (/ carry etc) … across, (I) go across",cruces,"(I) 
 dobles,double,dobles,double
 prohibido,prohibits,prohibido,prohibits
 semáforo,"light, semaphore, stop signal",semáforo,"light, semaphore, stop signal"
+toma,"(?) does it take, (he) drinks, (he) takes",toma,"(?) does it take, (he) drinks, (he) takes"
 tránsito,"death, transit, passage",tránsito,"death, transit, passage"
 ubicación,"position, location",ubicación,"position, location"
+buscar,"(to) look for, (to) search, (to) seek",buscar,"(to) look for, (to) search, (to) seek"
 busqué,"looked, searched for, look",busqué,"looked, searched for, look"
 de vacaciones,vacation,de vacaciones,vacation
+jugar,"(to) play, playing, play",jugar,"(to) play, playing, play"
 jugué,"(I) played, (I) played with, (I) went",jugué,"(I) played, (I) played with, (I) went"
 madrastra,stepmother,madrastra,stepmother
 padrastro,stepfather,padrastro,stepfather
@@ -5044,6 +4906,7 @@ humedad,"wet, humidity",humedad,"wet, humidity"
 pronóstico,forecast,pronóstico,forecast
 rayo,"(I) scrawl, (I) get scratched, spoke",rayo,"(I) scrawl, (I) get scratched, spoke"
 templado,"warm, warmer",templado,"warm, warmer"
+tiempo,"time, weather, long",tiempo,"time, weather, long"
 tormenta eléctrica,electric storm,tormenta eléctrica,electric storm
 trueno,Bruno,trueno,Bruno
 aprenda,"learns, learn",aprenda,"learns, learn"
@@ -5120,6 +4983,7 @@ quejarse,"get burned, sunburned, to get sunburned",quejarse,"get burned, sunburn
 vencido,beat,vencido,beat
 atención,"attention, attention!, hearing",atención,"attention, attention!, hearing"
 ni siquiera,not even,ni siquiera,not even
+pagar,"pay, (to) pay, (to) pay for",pagar,"pay, (to) pay, (to) pay for"
 queja,complain,queja,complain
 supervisor,"superior, better, higher",supervisor,"superior, better, higher"
 algún día,Someday,algún día,Someday
@@ -5149,6 +5013,7 @@ justos,"fairs, jousts, fair",justos,"fairs, jousts, fair"
 sucedido,"(he/she/it/you) happened, (he/she/it/you) succeeded, (he/she/it/you) inherited",sucedido,"(he/she/it/you) happened, (he/she/it/you) succeeded, (he/she/it/you) inherited"
 victoria,Victoria,victoria,Victoria
 dar las gracias,give the thanks,dar las gracias,give the thanks
+de nada,"you're welcome, you are welcome",de nada,"you're welcome, you are welcome"
 gracias a,thanks to,gracias a,thanks to
 gracias por,thanks for,gracias por,thanks for
 gusto,like,gusto,like
@@ -5231,6 +5096,7 @@ multinacional,multinational,multinacional,multinational
 periodista,"journalist, reporter",periodista,"journalist, reporter"
 por dónde,where,por dónde,where
 renunciar,"quit, stand",renunciar,"quit, stand"
+secretario,secretary,secretario,secretary
 apenas,"barely, just, almost",apenas,"barely, just, almost"
 bombilla,light bulb,bombilla,light bulb
 enseguida,"straightaway, immediately, at once",enseguida,"straightaway, immediately, at once"
@@ -5242,6 +5108,7 @@ se puede,"one can, (?) can one",se puede,"one can, (?) can one"
 similares,"similar (plural), likes",similares,"similar (plural), likes"
 ciudad natal,native city,ciudad natal,native city
 cumplir,"(to) perform, followed, carried",cumplir,"(to) perform, followed, carried"
+menor,"younger, little, youngest",menor,"younger, little, youngest"
 pariente,"relative, relation",pariente,"relative, relation"
 sexto,sixth,sexto,sixth
 valer la pena,worth,valer la pena,worth
@@ -5318,6 +5185,7 @@ suscribirse,to subscribe,suscribirse,to subscribe
 atraer,atraza,atraer,atraza
 día de los muertos,Day of the Dead,día de los muertos,Day of the Dead
 festejar,"we celebrate, celebrate",festejar,"we celebrate, celebrate"
+fiesta,"party, parties",fiesta,"party, parties"
 fuegos artificiales,fireworks,fuegos artificiales,fireworks
 janucá,hanukkah,janucá,hanukkah
 judío,"Jewish, a Jew, bean",judío,"Jewish, a Jew, bean"
@@ -5382,6 +5250,7 @@ suegra,mother in law,suegra,mother in law
 superar,"(to) surpass, (to) overcome, (to) beat",superar,"(to) surpass, (to) overcome, (to) beat"
 adjuntar,to attach,adjuntar,to attach
 buscador,search engine,buscador,search engine
+celular,"cellphone, cell phone, cell",celular,"cellphone, cell phone, cell"
 estafar,states,estafar,states
 los de,those of,los de,those of
 nombre de usuario,Username,nombre de usuario,Username
@@ -5399,6 +5268,7 @@ atención médica,medical care,atención médica,medical care
 inscribirse,register,inscribirse,register
 mayor de,greater than,mayor de,greater than
 menor de,less than,menor de,less than
+médico,"doctor, doctors",médico,"doctor, doctors"
 obtener,"(to) get, (to) win, (to) achieve",obtener,"(to) get, (to) win, (to) achieve"
 seguro social,social Security,seguro social,social Security
 solicitar,"(to) apply for, (to) ask for, (to) request",solicitar,"(to) apply for, (to) ask for, (to) request"
@@ -5429,6 +5299,7 @@ comiera,"ate, eat",comiera,"ate, eat"
 diabético,diabetic,diabético,diabetic
 fibra,fiber,fibra,fiber
 gota,cat,gota,cat
+muñeca,"doll, wrist",muñeca,"doll, wrist"
 primeros auxilios,first aid,primeros auxilios,first aid
 tobillo,"ankle, my ankle",tobillo,"ankle, my ankle"
 urgencia,emergency,urgencia,emergency
@@ -5447,6 +5318,7 @@ de tiempo parcial,part time,de tiempo parcial,part time
 estadía,"stadiums, phases, stages",estadía,"stadiums, phases, stages"
 guiar,guitar,guiar,guitar
 químico,"chemical, chemist",químico,"chemical, chemist"
+ser,"be, (to) be, being",ser,"be, (to) be, being"
 sudeste,southeast,sudeste,southeast
 valle,"valley, (I/he/she/it/you) fence, fence!",valle,"valley, (I/he/she/it/you) fence, fence!"
 subj51,subj51,subj51,subj51
@@ -5490,8 +5362,10 @@ medidas,"measurements, measures, moves",medidas,"measurements, measures, moves"
 viera,"(I/he/she/it/you) try, (I/he/she/it/you) meet, had seen",viera,"(I/he/she/it/you) try, (I/he/she/it/you) meet, had seen"
 británica,"Britisher, Briton, British person",británica,"Britisher, Briton, British person"
 embajadores,ambassadors,embajadores,ambassadors
+joven,"young, young woman",joven,"young, young woman"
 monarquía,monarchy,monarquía,monarchy
 organizarse,(?) did you organize,organizarse,(?) did you organize
+partido,"game, match, departed",partido,"game, match, departed"
 primer ministro,Prime Minister,primer ministro,Prime Minister
 protestar,protesting,protestar,protesting
 publicarse,be published,publicarse,be published
