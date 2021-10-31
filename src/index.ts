@@ -1,14 +1,16 @@
-import dotenv from 'dotenv';
+import * as dotenv from 'dotenv';
 import TranslationDownloader from './translation-downloader';
-import yargs from 'yargs';
+import * as yargs from 'yargs';
 import CsvCreator from './csv-creator';
 import CsvCombiner from './csv-combiner';
 import {hideBin} from 'yargs/helpers';
 import AnkiUpdater from './anki-updater';
+import SkillTreeParser from './skilltree-parser';
 
 dotenv.config();
 
-const argv = yargs(hideBin(process.argv)).command('download', 'Downloads translations using vocab html page. Saves as json file.', {
+const argv: any = yargs(hideBin(process.argv))
+.command('download', 'Downloads translations using vocab html page. Saves as json file.', {
   vocabHtmlFile: {
     description: 'Path to the vocab html file',
     alias: 'f',
@@ -20,6 +22,14 @@ const argv = yargs(hideBin(process.argv)).command('download', 'Downloads transla
     alias: 'a',
     type: 'string',
     demandOption: false
+  }
+})
+.command('skilltree', 'Creates skill tree index using Duolingo home HTML page. Saves as json file.', {
+  htmlFile: {
+    description: 'Path to the Duolingo home page HTML file',
+    alias: 'f',
+    type: 'string',
+    demandOption: true
   }
 })
 .command('create', 'Creates CSV\'s after they are downloaded.', {
@@ -55,6 +65,9 @@ if (argv._.includes('download')) {
   ankiUpdater.run().then(x => {
     console.log('done')
   });
+} else if (argv._.includes('skilltree')) {
+  const parser = new SkillTreeParser(argv.htmlFile);
+  parser.parse();
 } else {
   yargs.showHelp();
 }

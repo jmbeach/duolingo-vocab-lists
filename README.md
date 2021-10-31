@@ -10,11 +10,13 @@ The main purpose of this project is to provide a means of getting the vocab in a
 
 # Parsing other courses
 
-I wrote a NodeJS program to parse the words in the Spanish course from [an awesome post in a Duolingo discussion](https://forum.duolingo.com/comment/41639645). Thank you so much [FieryCat](https://www.duolingo.com/profile/FieryCat)!
+Originially, I wrote this program to parse the words in the Spanish course from [an awesome post in a Duolingo discussion](https://forum.duolingo.com/comment/41639645). Thank you so much [FieryCat](https://www.duolingo.com/profile/FieryCat)!
+
+However, now the program parses words from the website [duome](https://duome.eu/Jared5788/progress) which has a very comprehensive list of the words for each course.
 
 There are similar posts for other languages that could be processed in the same way to generate these files.
 
-To use the provided NodeJS code:
+To use the provided code:
 
 ## Step 1: Clone it.
 
@@ -26,7 +28,7 @@ Run `yarn install`.
 
 ## Step 3: Get Vocab List HTML
 
-Go to [this list of vocabularies](https://forum.duolingo.com/comment/31074292/List-of-Vocabularies-for-Language-Courses-of-Duolingo) and find the language you are interested in.
+Go to `https://duome.eu/<your-user-name>/progress`. The skills tab contains an in-order list of all of the skills in your language. In the chrome developer console, run `document.querySelectorAll('.click.skill')` to expand every item on the page.
 
 Save the page to an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
 

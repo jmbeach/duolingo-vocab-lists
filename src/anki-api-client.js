@@ -61,4 +61,14 @@ export default class AnkiApiClient {
       }
     });
   }
+
+  updateNoteFields(note) {
+    return this.axios.post('', {
+      action: 'updateNoteFields',
+      version: 6,
+      params: {
+        note: note
+      }
+    })
+  }
 }

@@ -1,4 +1,4 @@
-import jsdom from 'jsdom';
+import * as jsdom from 'jsdom';
 const { JSDOM } = jsdom;
 class WordParser {
     /**
@@ -10,12 +10,10 @@ class WordParser {
 
     parse() {
         const dom = JSDOM.fragment(this.htmlString);
-        const comment = dom.querySelector('._2povu');
-        const comment2 = dom.querySelectorAll('._3e8fY._2povu');
+        const skills = dom.querySelectorAll('.plain.list.paddedSkills > li.shift');
         const parts = {};
-        this.parseComment(comment, parts);
-        for (const comment of comment2) {
-            this.parseComment(comment, parts);
+        for (const skill of skills) {
+            this.parseComment(skill, parts);
         }
         return parts;
     }

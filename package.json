@@ -14,12 +14,14 @@
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
+    "@types/jsdom": "^16.2.13",
+    "@types/yargs": "^17.0.5",
     "core-js": "^3.4.7",
     "regenerator-runtime": "^0.13.3"
   },
   "scripts": {
-    "build": "npx babel src -d lib --source-maps",
-    "start": "npx babel src -d lib && node lib/index.js"
+    "build": "tsc",
+    "start": "tsc && node lib/index.js"
   },
   "keywords": [],
   "author": "",
