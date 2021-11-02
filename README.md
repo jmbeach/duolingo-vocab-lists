@@ -21,9 +21,11 @@ To use the provided code:
 
 Run `git clone git@github.com:jmbeach/duolingo-vocab-lists.git`
 
-## Step 2: Install Dependencies
+## Step 2: Install Dependencies / Build
 
 Run `yarn install`.
+
+Run `yarn build`.
 
 ## Step 3: Get Skill Tree
 
@@ -39,15 +41,15 @@ Save the page to an HTML file. **NOTE**: you may have to clean the html file to 
 
 ## Step 5: Download Translations
 
-Run `yarn build` to build the code.
-
-Then run `node lib/index.js download -f <path-to-vocab-html-file> [-a <google-api-key>]` to download the translations to a JSON file.
+Run `node lib/index.js download -f <path-to-vocab-html-file> [-a <google-api-key>]` to download the translations to a JSON file.
 
 The translator defaults to finding transaltions of words on Duolingo.com. However, if it can't find one, it uses Google Translate. To use google translate you'll have to get an API key and then put your API key into a .env file like this:
 
 ```
 GOOGLE_TRANSLATE_API_KEY=<my-api-key>
 ```
+
+![example of program running](./duolingo-vocab-ex.gif)
 
 ## Step 6: Generate CSV Files
 
