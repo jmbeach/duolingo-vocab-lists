@@ -1,0 +1,676 @@
+άντρα,man,άντρα,man
+αγαπάω,"love, you love",αγαπάω,"love, you love"
+γλυκά,"sweets, sweet (adj. neut. plural)",γλυκά,"sweets, sweet (adj. neut. plural)"
+γυναίκες,"women, ladies, wives",γυναίκες,"women, ladies, wives"
+δίνω,"give, (I) give, (I am) giving",δίνω,"give, (I) give, (I am) giving"
+δρόμο,"street, road, way",δρόμο,"street, road, way"
+ελέφαντα,elephant,ελέφαντα,elephant
+ελέφαντες,elephants,ελέφαντες,elephants
+ποτήρι,"glass, (a) glass (of)",ποτήρι,"glass, (a) glass (of)"
+πουκάμισο,"shirt, a shirt, shirt (with buttons)",πουκάμισο,"shirt, a shirt, shirt (with buttons)"
+πουλιά,sell,πουλιά,sell
+σκύλο,"dog, a dog",σκύλο,"dog, a dog"
+σκύλους,dogs,σκύλους,dogs
+σοκολάτα,chocolate,σοκολάτα,chocolate
+στον,"in the, at the, in",στον,"in the, at the, in"
+τα άρθρα της αιτιατικής,the articles of causation,τα άρθρα της αιτιατικής,the articles of causation
+τηλέφωνο,"telephone, phone",τηλέφωνο,"telephone, phone"
+τυρί,cheese,τυρί,cheese
+χυμό,"juice, of juice",χυμό,"juice, of juice"
+άριστη,"excellent, an excellent, perfect",άριστη,"excellent, an excellent, perfect"
+ίδια,same,ίδια,same
+ακριβός,"expensive, costly, pricey",ακριβός,"expensive, costly, pricey"
+ανεξάρτητο,independent,ανεξάρτητο,independent
+ανθρώπινη,"human, humane",ανθρώπινη,"human, humane"
+ανοιχτό,"open, light, on",ανοιχτό,"open, light, on"
+ανοιχτός,"light, open",ανοιχτός,"light, open"
+απαραίτητη,"necessary, essential",απαραίτητη,"necessary, essential"
+αριστερός,"left, leftist",αριστερός,"left, leftist"
+βασικό,"basic, main",βασικό,"basic, main"
+βρώμικο,"dirty, filthy",βρώμικο,"dirty, filthy"
+γενική,"general, generic",γενική,"general, generic"
+γενικός,general,γενικός,general
+γρήγορος,fast,γρήγορος,fast
+δίγλωσση,bilingual,δίγλωσση,bilingual
+δίγλωσσος,bilingual,δίγλωσσος,bilingual
+δημοφιλής,popular,δημοφιλής,popular
+διάσημη,"famous, renowned, well-known",διάσημη,"famous, renowned, well-known"
+διαφορετική,"different, unlike",διαφορετική,"different, unlike"
+δύσκολη,"difficult, hard",δύσκολη,"difficult, hard"
+ενδιαφέρων,"interesting, an interesting",ενδιαφέρων,"interesting, an interesting"
+επίσημος,"official, formal",επίσημος,"official, formal"
+επόμενο,next,επόμενο,next
+επόμενος,next,επόμενος,next
+εύκολο,easy,εύκολο,easy
+ζεστό,"hot, warm",ζεστό,"hot, warm"
+ζωντανός,"alive, living",ζωντανός,"alive, living"
+θετικό,positive,θετικό,positive
+ιδιαίτερο,special,ιδιαίτερο,special
+ιδιαίτερος,special,ιδιαίτερος,special
+ιστορική,"historical, historic",ιστορική,"historical, historic"
+καθαρό,"clean, pure, clear",καθαρό,"clean, pure, clear"
+κακή,bad,κακή,bad
+καλός,"good, a good, kind",καλός,"good, a good, kind"
+κουρασμένη,tired,κουρασμένη,tired
+κουρασμένος,"tired, weary",κουρασμένος,"tired, weary"
+μικρός,"small, young, little",μικρός,"small, young, little"
+ξύλινο,wooden,ξύλινο,wooden
+πιθανό,"possible, probable",πιθανό,"possible, probable"
+πολιτιστική,cultural,πολιτιστική,cultural
+πραγματική,"real, actual",πραγματική,"real, actual"
+πραγματικός,"real, a real, true",πραγματικός,"real, a real, true"
+προσωπικός,"personal, private",προσωπικός,"personal, private"
+πρόσφατο,"recent, latest, new",πρόσφατο,"recent, latest, new"
+σημαντική,"important, material, significant",σημαντική,"important, material, significant"
+σκέτος,"black (coffee), plain, ordinary",σκέτος,"black (coffee), plain, ordinary"
+στρατιωτική,military,στρατιωτική,military
+σύγχρονη,"modern, contemporary, current",σύγχρονη,"modern, contemporary, current"
+τέλεια,"perfect, perfectly, great",τέλεια,"perfect, perfectly, great"
+τελική,"final, last, ultimate",τελική,"final, last, ultimate"
+τοπικό,"local, regional",τοπικό,"local, regional"
+τοπικός,"local, regional",τοπικός,"local, regional"
+υπέροχος,"great, wonderful, awesome",υπέροχος,"great, wonderful, awesome"
+υπεύθυνος,"responsible, in charge, liable",υπεύθυνος,"responsible, in charge, liable"
+φυσιολογική,normal,φυσιολογική,normal
+χαρούμενος,"happy, cheerful, glad",χαρούμενος,"happy, cheerful, glad"
+ωραίος,"nice, beautiful",ωραίος,"nice, beautiful"
+όμορφο,"beautiful, pretty, lovely",όμορφο,"beautiful, pretty, lovely"
+άλογο,"horse, a horse",άλογο,"horse, a horse"
+έντομο,"bug, insect",έντομο,"bug, insect"
+αετός,eagle,αετός,eagle
+αλεπού,fox,αλεπού,fox
+αράχνη,spider,αράχνη,spider
+αρκούδα,bear,αρκούδα,bear
+γάτα,"cat, kitten",γάτα,"cat, kitten"
+ελέφαντας,elephant,ελέφαντας,elephant
+ερπετό,"reptile, a reptile, crawler",ερπετό,"reptile, a reptile, crawler"
+ζώο,"animal, an animal",ζώο,"animal, an animal"
+θηλαστικό,"mammal, a mammal",θηλαστικό,"mammal, a mammal"
+καβούρι,crab,καβούρι,crab
+καμήλα,camel,καμήλα,camel
+καμηλοπάρδαλη,giraffe,καμηλοπάρδαλη,giraffe
+κατοικίδιο,"pet, a pet",κατοικίδιο,"pet, a pet"
+κουτάβι,"puppy, pup",κουτάβι,"puppy, pup"
+κότα,"hen, chicken",κότα,"hen, chicken"
+λαγός,"hare, jack rabbit",λαγός,"hare, jack rabbit"
+λιοντάρι,lion,λιοντάρι,lion
+λύκος,"wolf, this wolf does not eat",λύκος,"wolf, this wolf does not eat"
+πάπια,duck,πάπια,duck
+πίθηκος,"ape, monkey",πίθηκος,"ape, monkey"
+πελεκάνος,pelican,πελεκάνος,pelican
+πεταλούδα,butterfly,πεταλούδα,butterfly
+ποντίκι,"mouse, a mouse",ποντίκι,"mouse, a mouse"
+πουλί,"bird, a bird",πουλί,"bird, a bird"
+σκύλος,dog,σκύλος,dog
+τίγρης,tiger,τίγρης,tiger
+χάμστερ,"hamster, hamsters",χάμστερ,"hamster, hamsters"
+χελώνα,"turtle, tortoise",χελώνα,"turtle, tortoise"
+άσχημος,"ugly, nasty, terrible",άσχημος,"ugly, nasty, terrible"
+αδύνατος,thin,αδύνατος,thin
+καστανός,brown,καστανός,brown
+μάτι,eye,μάτι,eye
+μεγάλος,"big, old",μεγάλος,"big, old"
+νέος,"young, new, modern",νέος,"young, new, modern"
+πρόσωπο,"face, person",πρόσωπο,"face, person"
+χοντρός,fat,χοντρός,fat
+όμορφος,"beautiful, handsome, pretty",όμορφος,"beautiful, handsome, pretty"
+έξυπνος,"clever, smart",έξυπνος,"clever, smart"
+ήσυχος,quiet,ήσυχος,quiet
+ανεξάρτητος,independent,ανεξάρτητος,independent
+αρνητικός,"negative, disapproving",αρνητικός,"negative, disapproving"
+αστείος,funny,αστείος,funny
+γλυκός,sweet,γλυκός,sweet
+κακός,bad,κακός,bad
+χαρακτήρας,character,χαρακτήρας,character
+γάντι,glove,γάντι,glove
+γραβάτα,"tie, necktie",γραβάτα,"tie, necktie"
+δερμάτινες,leather,δερμάτινες,leather
+δερμάτινη,leather,δερμάτινη,leather
+δερμάτινο,leather,δερμάτινο,leather
+ζακέτα,"sweater, jacket, cardigan",ζακέτα,"sweater, jacket, cardigan"
+ζώνη,"zone, a belt, one belt",ζώνη,"zone, a belt, one belt"
+κάλτσα,sock,κάλτσα,sock
+κάλτσες,socks,κάλτσες,socks
+καπέλο,"hat, a hat, cap",καπέλο,"hat, a hat, cap"
+κασκόλ,"scarves, (a) scarf",κασκόλ,"scarves, (a) scarf"
+κοσμήματα,"jewelry, jewellery, jewels",κοσμήματα,"jewelry, jewellery, jewels"
+κοστούμι,"suit, costume",κοστούμι,"suit, costume"
+κόσμημα,"jewel, jewellery, piece of jewellery",κόσμημα,"jewel, jewellery, piece of jewellery"
+μάλλινο,"woollen, woolen, wool",μάλλινο,"woollen, woolen, wool"
+μάλλινος,"woolen, woollen, woollen one",μάλλινος,"woolen, woollen, woollen one"
+μπλούζα,"blouse, a blouse, shirt (no buttons)",μπλούζα,"blouse, a blouse, shirt (no buttons)"
+μπουφάν,"jacket, parka",μπουφάν,"jacket, parka"
+μπότα,"boot, buskin",μπότα,"boot, buskin"
+μπότες,boots,μπότες,boots
+παλτό,"coat, a coat, overcoat",παλτό,"coat, a coat, overcoat"
+παντελόνι,"pants, trousers, pair of pants",παντελόνι,"pants, trousers, pair of pants"
+παπούτσια,shoes,παπούτσια,shoes
+πορτοφόλι,"wallet, purse",πορτοφόλι,"wallet, purse"
+ρούχα,"clothes, clothing",ρούχα,"clothes, clothing"
+σκούφους,"winter caps, skull caps",σκούφους,"winter caps, skull caps"
+τσέπη,pocket,τσέπη,pocket
+φοράει,"(he/she/it) is wearing, (he/she/it) wears",φοράει,"(he/she/it) is wearing, (he/she/it) wears"
+φοράω,"I am wearing, I wear",φοράω,"I am wearing, I wear"
+φούστα,"skirt, a skirt",φούστα,"skirt, a skirt"
+φόρεμα,dress,φόρεμα,dress
+άσπρη,white,άσπρη,white
+άσπρο,white,άσπρο,white
+ασπρόμαυρο,black and white,ασπρόμαυρο,black and white
+γαλάζιο,"light blue, pale blue, a light blue dress",γαλάζιο,"light blue, pale blue, a light blue dress"
+γκρι,"gray, grey",γκρι,"gray, grey"
+κίτρινα,yellow,κίτρινα,yellow
+κίτρινη,yellow,κίτρινη,yellow
+κίτρινο,yellow,κίτρινο,yellow
+καφέ,"coffee, brown, of coffee",καφέ,"coffee, brown, of coffee"
+κόκκινη,"red, ruby, scarlet",κόκκινη,"red, ruby, scarlet"
+κόκκινο,red,κόκκινο,red
+λαχανί,light green,λαχανί,light green
+λευκό,white,λευκό,white
+μαύρο,black,μαύρο,black
+μαύρος,black,μαύρος,black
+μοβ,"purple, mauve",μοβ,"purple, mauve"
+μπλε,"blue, a blue",μπλε,"blue, a blue"
+πολύχρωμο,"multicolored, colorful, colourful",πολύχρωμο,"multicolored, colorful, colourful"
+πορτοκαλί,orange (color),πορτοκαλί,orange (color)
+πράσινη,green,πράσινη,green
+πράσινο,"green, greenery",πράσινο,"green, greenery"
+ροζ,"pink, a pink",ροζ,"pink, a pink"
+σκούρο,dark,σκούρο,dark
+χρώμα,"color, colour, paint",χρώμα,"color, colour, paint"
+ή,or,ή,or
+αλλά,but,αλλά,but
+αν,if,αν,if
+αν και,"although, even though, though",αν και,"although, even though, though"
+επειδή,"because, since",επειδή,"because, since"
+και,and,και,and
+να,to,να,to
+πως,"how, that",πως,"how, that"
+ωστόσο,"however, but, nevertheless",ωστόσο,"however, but, nevertheless"
+όποτε,"whenever, when",όποτε,"whenever, when"
+όταν,when,όταν,when
+ότι,that,ότι,that
+άνοιξη,spring,άνοιξη,spring
+αιώνας,century,αιώνας,century
+απρίλιος,april,απρίλιος,april
+απόγευμα,"afternoon, evening",απόγευμα,"afternoon, evening"
+απόψε,"tonight, this evening",απόψε,"tonight, this evening"
+αρχή,"beginning, start, from scratch",αρχή,"beginning, start, from scratch"
+αύγουστος,August,αύγουστος,August
+αύριο,tomorrow,αύριο,tomorrow
+βράδυ,"night, evening, night (early)",βράδυ,"night, evening, night (early)"
+γέννηση,birth,γέννηση,birth
+γενιά,generation,γενιά,generation
+δεκέμβριος,december,δεκέμβριος,december
+δεκαετία,decade,δεκαετία,decade
+δευτέρα,Monday,δευτέρα,Monday
+δευτερόλεπτο,second,δευτερόλεπτο,second
+εβδομάδα,week,εβδομάδα,week
+εποχή,"season, age, epoch",εποχή,"season, age, epoch"
+ηλικία,age,ηλικία,age
+ημέρα,day,ημέρα,day
+ημερολόγιο,"calendar, diary",ημερολόγιο,"calendar, diary"
+ημερομηνία,"date, a date",ημερομηνία,"date, a date"
+ιανουάριος,january,ιανουάριος,january
+ιούλιος,July,ιούλιος,July
+ιούνιος,June,ιούνιος,June
+καλοκαίρι,summer,καλοκαίρι,summer
+κυριακή,Sunday,κυριακή,Sunday
+λίγο,"a little, some, a bit (of)",λίγο,"a little, some, a bit (of)"
+λεπτό,"minute, 1/100 of a euro/dollar, 1/60 of an hour",λεπτό,"minute, 1/100 of a euro/dollar, 1/60 of an hour"
+μάιος,may,μάιος,may
+μάρτιος,march,μάρτιος,march
+μέχρι,"by, until, to",μέχρι,"by, until, to"
+μήνας,month,μήνας,month
+νοέμβριος,november,νοέμβριος,november
+νύχτα,"night, by the night, tonight",νύχτα,"night, by the night, tonight"
+οκτώβριος,October,οκτώβριος,October
+πάρτι,"party, parties",πάρτι,"party, parties"
+πέμπτη,"thursday, fifth",πέμπτη,"thursday, fifth"
+πέρυσι,last year,πέρυσι,last year
+παζάρι,"fair, bargain, bazaar",παζάρι,"fair, bargain, bazaar"
+παρασκευή,"Friday, on Friday",παρασκευή,"Friday, on Friday"
+περίοδος,"period, time",περίοδος,"period, time"
+πριν,"ago, before",πριν,"ago, before"
+πρωί,morning,πρωί,morning
+σάββατο,saturday,σάββατο,saturday
+σήμερα,today,σήμερα,today
+σεπτέμβριος,September,σεπτέμβριος,September
+σκηνή,"stage, scene, a scene",σκηνή,"stage, scene, a scene"
+στιγμή,"moment, instant",στιγμή,"moment, instant"
+τέλος,"finale, end, ending",τέλος,"finale, end, ending"
+τετάρτη,Wednesday,τετάρτη,Wednesday
+τρίτη,"Tuesday, third",τρίτη,"Tuesday, third"
+φέτος,this year,φέτος,this year
+φεβρουάριος,february,φεβρουάριος,february
+φθινόπωρο,"fall, autumn",φθινόπωρο,"fall, autumn"
+χειμώνας,winter,χειμώνας,winter
+χθες,yesterday,χθες,yesterday
+χρόνος,"year, time",χρόνος,"year, time"
+ώρα,"hour, time",ώρα,"hour, time"
+αυτά,"these, they, the things",αυτά,"these, they, the things"
+αυτές,"these, they, them",αυτές,"these, they, them"
+αυτούς,"them, these, they",αυτούς,"them, these, they"
+αυτόν,"him, this",αυτόν,"him, this"
+αυτός ο,"this, that",αυτός ο,"this, that"
+εκείνα,those,εκείνα,those
+εκείνο,"that, that one",εκείνο,"that, that one"
+εκείνοι,those,εκείνοι,those
+εκείνον,that,εκείνον,that
+εκείνος,that,εκείνος,that
+τις,the,τις,the
+τον,"the, him",τον,"the, him"
+τους,the,τους,the
+όλα,"all, everything, from all",όλα,"all, everything, from all"
+όλες,"all, everybody",όλες,"all, everybody"
+όλοι,"everyone, everybody",όλοι,"everyone, everybody"
+αγοριού,"boy's, boyfriend",αγοριού,"boy's, boyfriend"
+αντρών,man,αντρών,man
+αράχνης,The spider's,αράχνης,The spider's
+βιβλίου,books,βιβλίου,books
+γυναίκας,"woman, lady's",γυναίκας,"woman, lady's"
+γυναικών,The [women's,γυναικών,The [women's
+ενός,of a,ενός,of a
+ζώου,"The animal's meal, The animal's bread.",ζώου,"The animal's meal, The animal's bread."
+ζώων,animals (gen.),ζώων,animals (gen.)
+καρπουζιού,watermelon,καρπουζιού,watermelon
+κοριτσιού,"girl, girlfriend",κοριτσιού,"girl, girlfriend"
+κοριτσιών,girls,κοριτσιών,girls
+κουταλιού,spoons,κουταλιού,spoons
+μήλου,apple,μήλου,apple
+νερού,water,νερού,water
+παιδιού,child,παιδιού,child
+παιδιών,children (gen.),παιδιών,children (gen.)
+πρωινού,"breakfast, the breakfast dish, the breakfast plate",πρωινού,"breakfast, the breakfast dish, the breakfast plate"
+σαλάτας,"salad, the salad's salt, the salad dish",σαλάτας,"salad, the salad's salt, the salad dish"
+σκύλου,dog,σκύλου,dog
+τα άρθρα της γενικής,the articles of the general,τα άρθρα της γενικής,the articles of the general
+τυριού,cheese,τυριού,cheese
+των,"of, of the (gen. pl.)",των,"of, of the (gen. pl.)"
+υλικό του κουταλιού,spoon material,υλικό του κουταλιού,spoon material
+χυμού,juice,χυμού,juice
+έπιπλο,"furniture, piece of furniture",έπιπλο,"furniture, piece of furniture"
+αποθήκη,"storage room, a storeroom, pantry",αποθήκη,"storage room, a storeroom, pantry"
+βιβλιοθήκη,"library, bookcase",βιβλιοθήκη,"library, bookcase"
+βρύση,"faucet, tap",βρύση,"faucet, tap"
+δωμάτιο,"room, a room",δωμάτιο,"room, a room"
+καλοριφέρ,"radiator, central heating, heater",καλοριφέρ,"radiator, central heating, heater"
+καναπές,"sofa, couch",καναπές,"sofa, couch"
+κουζίνα,"kitchen, stove, cooker",κουζίνα,"kitchen, stove, cooker"
+κρεβάτι,"bed, a bed",κρεβάτι,"bed, a bed"
+μαξιλάρι,"pillow, cushion",μαξιλάρι,"pillow, cushion"
+νεροχύτης,sink,νεροχύτης,sink
+ντουλάπα,"closet, wardrobe",ντουλάπα,"closet, wardrobe"
+ντους,shower,ντους,shower
+οδοντόκρεμα,toothpaste,οδοντόκρεμα,toothpaste
+οροφή,"ceiling, roof",οροφή,"ceiling, roof"
+πάτωμα,"floor, ground",πάτωμα,"floor, ground"
+παράθυρο,window,παράθυρο,window
+πολυθρόνα,"armchair, lounge chair",πολυθρόνα,"armchair, lounge chair"
+πόρτα,door,πόρτα,door
+σαλόνι,"living room, sitting room, a living room",σαλόνι,"living room, sitting room, a living room"
+σκάλα,"staircase, ladder, stairs",σκάλα,"staircase, ladder, stairs"
+σκεπή,roof,σκεπή,roof
+σοφίτα,"attic, loft, the attic",σοφίτα,"attic, loft, the attic"
+σπίτι,house,σπίτι,house
+ταβάνι,"ceiling, roof, the ceiling",ταβάνι,"ceiling, roof, the ceiling"
+τοίχος,wall,τοίχος,wall
+τουαλέτα,"bathroom, toilet, WC",τουαλέτα,"bathroom, toilet, WC"
+τραπέζι,table,τραπέζι,table
+τραπεζαρία,"dining room, refectory",τραπεζαρία,"dining room, refectory"
+υπνοδωμάτιο,bedroom,υπνοδωμάτιο,bedroom
+υπόγειο,"basement, a basement, cellar",υπόγειο,"basement, a basement, cellar"
+φούρνος,"oven, furnace",φούρνος,"oven, furnace"
+φωτιστικό,"lamp, light, light fixture",φωτιστικό,"lamp, light, light fixture"
+χαλί,"carpet, rug",χαλί,"carpet, rug"
+χολ,"hall, corridor, hallway",χολ,"hall, corridor, hallway"
+ψυγείο,"fridge, refrigerator",ψυγείο,"fridge, refrigerator"
+άθροισμα,sum,άθροισμα,sum
+ένα,"a, an, one",ένα,"a, an, one"
+έντεκα,eleven,έντεκα,eleven
+έξι,six,έξι,six
+ανά,"per, a",ανά,"per, a"
+αριθμός,"number, a number, digit",αριθμός,"number, a number, digit"
+αρκετό,enough,αρκετό,enough
+δέκα,ten,δέκα,ten
+δεκαέξι,sixteen,δεκαέξι,sixteen
+δεκαεννιά,nineteen,δεκαεννιά,nineteen
+δεκαεπτά,seventeen,δεκαεπτά,seventeen
+δεκαοχτώ,eighteen,δεκαοχτώ,eighteen
+δεκαπέντε,fifteen,δεκαπέντε,fifteen
+δεκατέσσερα,fourteen,δεκατέσσερα,fourteen
+δεκατρία,thirteen,δεκατρία,thirteen
+δύο,two,δύο,two
+δώδεκα,twelve,δώδεκα,twelve
+είκοσι,twenty,είκοσι,twenty
+εβδομήντα,seventy,εβδομήντα,seventy
+εκατομμύριο,million,εκατομμύριο,million
+εκατό,"hundred, one hundred, a hundred",εκατό,"hundred, one hundred, a hundred"
+ενενήντα,ninety,ενενήντα,ninety
+εννέα,"nine, nine o'clock",εννέα,"nine, nine o'clock"
+εξήντα,sixty,εξήντα,sixty
+επτά,seven,επτά,seven
+ζευγάρι,"couple, a couple, a couple of",ζευγάρι,"couple, a couple, a couple of"
+λιγότερο,less,λιγότερο,less
+μέσος,"average, middle",μέσος,"average, middle"
+μέτρο,"meter, measure, a measure",μέτρο,"meter, measure, a measure"
+μηδέν,"zero, nought",μηδέν,"zero, nought"
+μισό,half (a/an),μισό,half (a/an)
+νούμερο,"number, figure, numeral",νούμερο,"number, figure, numeral"
+ογδόντα,eighty,ογδόντα,eighty
+οκτώ,eight,οκτώ,eight
+οχτώ,eight,οχτώ,eight
+πέντε,five,πέντε,five
+πενήντα,fifty,πενήντα,fifty
+πλειοψηφία,"majority, In the majority, a majority",πλειοψηφία,"majority, In the majority, a majority"
+πολλοί,"A lot of, Many",πολλοί,"A lot of, Many"
+πολύ,"very, a lot, too",πολύ,"very, a lot, too"
+ποσό,"amount, sum",ποσό,"amount, sum"
+σαράντα,forty,σαράντα,forty
+σύνολο,"total, sum",σύνολο,"total, sum"
+τέσσερα,four,τέσσερα,four
+τελευταίος,"last, final",τελευταίος,"last, final"
+τρία,three,τρία,three
+τρίτος,third,τρίτος,third
+τριάντα,thirty,τριάντα,thirty
+χιλιάδες,thousand,χιλιάδες,thousand
+ψηφίο,digit,ψηφίο,digit
+αλυσίδα,chain,αλυσίδα,chain
+αντικείμενο,"object, item, thing",αντικείμενο,"object, item, thing"
+γράμμα,(a) letter,γράμμα,(a) letter
+γραφείο,"desk, office",γραφείο,"desk, office"
+δώρο,"gift, present",δώρο,"gift, present"
+καθρέφτης,mirror,καθρέφτης,mirror
+καλάθι,basket,καλάθι,basket
+καμπάνα,"bell, bell-bottomed trousers",καμπάνα,"bell, bell-bottomed trousers"
+καρέκλα,"chair, a chair, the chair",καρέκλα,"chair, a chair, the chair"
+κινητό,"cellphone, mobile, mobile phone",κινητό,"cellphone, mobile, mobile phone"
+κομμάτι,"piece, part, bit",κομμάτι,"piece, part, bit"
+κουτάλι,"spoon, spoonful",κουτάλι,"spoon, spoonful"
+κουτί,"box, can",κουτί,"box, can"
+κούπα,"cup, beaker, mug",κούπα,"cup, beaker, mug"
+λάμπα,"lamp, lightbulb",λάμπα,"lamp, lightbulb"
+μαχαίρι,knife,μαχαίρι,knife
+μηχανή,"engine, machine, motorbike",μηχανή,"engine, machine, motorbike"
+μπαταρία,"battery, a battery",μπαταρία,"battery, a battery"
+μπολ,"bowl, bowls",μπολ,"bowl, bowls"
+μπουκάλι,bottle,μπουκάλι,bottle
+μυθιστόρημα,"novel, a novel",μυθιστόρημα,"novel, a novel"
+ντουλάπι,"cupboard, locker",ντουλάπι,"cupboard, locker"
+ξυράφι,"razor, razor blade",ξυράφι,"razor, razor blade"
+οδοντόβουρτσα,toothbrush,οδοντόβουρτσα,toothbrush
+οδοντόπαστα,toothpaste,οδοντόπαστα,toothpaste
+οθόνη,"screen, monitor",οθόνη,"screen, monitor"
+ομπρέλα,"umbrella, an umbrella",ομπρέλα,"umbrella, an umbrella"
+παιχνίδι,"game, toy, match",παιχνίδι,"game, toy, match"
+περιοδικό,"magazine, periodical",περιοδικό,"magazine, periodical"
+πιρούνι,fork,πιρούνι,fork
+πισίνα,"pool, swimming pool, a swimming pool",πισίνα,"pool, swimming pool, a swimming pool"
+πράγμα,"thing, things., object",πράγμα,"thing, things., object"
+ρίζα,root,ρίζα,root
+ραδιόφωνο,"radio, radiophone, the radio",ραδιόφωνο,"radio, radiophone, the radio"
+ρολόι,"watch, clock, a watch",ρολόι,"watch, clock, a watch"
+ρόδα,wheel,ρόδα,wheel
+σαπούνι,soap,σαπούνι,soap
+σεντόνι,"bedsheet, bed sheet, (a) sheet",σεντόνι,"bedsheet, bed sheet, (a) sheet"
+σημαία,"flag, banner",σημαία,"flag, banner"
+σφουγγάρι,"sponge, a sponge",σφουγγάρι,"sponge, a sponge"
+τηγάνι,"pan, frying pan",τηγάνι,"pan, frying pan"
+τηλεόραση,"television, tv, tv set",τηλεόραση,"television, tv, tv set"
+τσάντα,"bag, handbag",τσάντα,"bag, handbag"
+υπολογιστής,"computer, (personal) computer, PC",υπολογιστής,"computer, (personal) computer, PC"
+χαρτί,"paper, of paper",χαρτί,"paper, of paper"
+χτένα,"comb, a comb",χτένα,"comb, a comb"
+ψαλίδι,scissors,ψαλίδι,scissors
+αγρότης,"farmer, a farmer, agriculturalist",αγρότης,"farmer, a farmer, agriculturalist"
+αξιωματικός,an  officer,αξιωματικός,an  officer
+αρχιτέκτονας,"architect, an architect",αρχιτέκτονας,"architect, an architect"
+αστυνομία,"police, police force",αστυνομία,"police, police force"
+αφεντικό,"boss, manager, master",αφεντικό,"boss, manager, master"
+γιατρός,"doctor, medic, physician",γιατρός,"doctor, medic, physician"
+γραμματέας,"secretary, a secretary",γραμματέας,"secretary, a secretary"
+διευθυντής,"head, manager",διευθυντής,"head, manager"
+δικαστής,"judge, a judge",δικαστής,"judge, a judge"
+δικηγόρος,"lawyer, a lawyer, attorney",δικηγόρος,"lawyer, a lawyer, attorney"
+δουλειά,job,δουλειά,job
+επάγγελμα,"profession, career, job",επάγγελμα,"profession, career, job"
+επαγγελματίας,"professional, a professional",επαγγελματίας,"professional, a professional"
+εργάτης,"worker, laborer, labourer",εργάτης,"worker, laborer, labourer"
+εργασία,"work, job, task",εργασία,"work, job, task"
+ηθοποιός,"actress, an actor, an actress",ηθοποιός,"actress, an actor, an actress"
+καλλιτέχνης,"artist, an artist, entertainer",καλλιτέχνης,"artist, an artist, entertainer"
+καπετάνιος,"captain, a captain, skipper",καπετάνιος,"captain, a captain, skipper"
+καριέρα,career,καριέρα,career
+μάγειρας,"cook, chef",μάγειρας,"cook, chef"
+μαθητής,"student, learner, pupil",μαθητής,"student, learner, pupil"
+μηχανικός,"engineer, a mechanic, an engineer",μηχανικός,"engineer, a mechanic, an engineer"
+μοντέλο,"model, a model",μοντέλο,"model, a model"
+παπάς,"priest, a priest, clergyman",παπάς,"priest, a priest, clergyman"
+προσωπικό,"staff, personal, private",προσωπικό,"staff, personal, private"
+προϊστάμενος,"supervisor, administrator, boss",προϊστάμενος,"supervisor, administrator, boss"
+σερβιτόρα,"waitress, waiter, a waitress",σερβιτόρα,"waitress, waiter, a waitress"
+σερβιτόρος,"waiter, a waiter, server",σερβιτόρος,"waiter, a waiter, server"
+στρατιώτης,"soldier, a soldier, service woman",στρατιώτης,"soldier, a soldier, service woman"
+συγγραφέας,"author, writer",συγγραφέας,"author, writer"
+συντάκτης,"editor, writer, author",συντάκτης,"editor, writer, author"
+φύλακας,"guard, a guard, guardian",φύλακας,"guard, a guard, guardian"
+ως,"to, as",ως,"to, as"
+μας,"our, (to) us",μας,"our, (to) us"
+με,"with, me, by",με,"with, me, by"
+μου,"my, me",μου,"my, me"
+σας,"your, you",σας,"your, you"
+σε,"you, in, to",σε,"you, in, to"
+σου,"your, to you, you (singular)",σου,"your, to you, you (singular)"
+της,"her, of, the",της,"her, of, the"
+του,"his, of, of the",του,"his, of, of the"
+άλογα,horses,άλογα,horses
+αυγά,eggs,αυγά,eggs
+βιβλία,books,βιβλία,books
+γάντια,gloves,γάντια,gloves
+γάτες,cats,γάτες,cats
+γραβάτες,ties,γραβάτες,ties
+εφημερίδες,"newspapers, papers",εφημερίδες,"newspapers, papers"
+ζώα,animals,ζώα,animals
+καπέλα,"hats, caps",καπέλα,"hats, caps"
+μήλα,apples,μήλα,apples
+μπισκότα,"cookies, biscuits",μπισκότα,"cookies, biscuits"
+πάπιες,"ducks, duck",πάπιες,"ducks, duck"
+πιάτα,"plates, dishes",πιάτα,"plates, dishes"
+πουκάμισα,shirts (n)(nom/acc),πουκάμισα,shirts (n)(nom/acc)
+σάντουιτς,"sandwich, a sandwich, sandwiches",σάντουιτς,"sandwich, a sandwich, sandwiches"
+σκύλοι,dogs,σκύλοι,dogs
+σοκολάτες,chocolates,σοκολάτες,chocolates
+φίλοι,"friend, buddy, mate",φίλοι,"friend, buddy, mate"
+φούστες,skirts,φούστες,skirts
+χελώνες,"turtles, are the turtles, tortoises",χελώνες,"turtles, are the turtles, tortoises"
+έξω,"out, outside",έξω,"out, outside"
+ανάμεσα,"between, among, Amidst",ανάμεσα,"between, among, Amidst"
+από,"from, than, of",από,"from, than, of"
+για,"for, to, about",για,"for, to, about"
+δίπλα,"next to, by, beside",δίπλα,"next to, by, beside"
+εκτός,"offline, aside from, not connected",εκτός,"offline, aside from, not connected"
+εμάς,us,εμάς,us
+εμένα,me,εμένα,me
+εναντίον,"against, As opposed to, versus",εναντίον,"against, As opposed to, versus"
+κάτω,"down, below, under",κάτω,"down, below, under"
+κοντά,"near, close to, short",κοντά,"near, close to, short"
+μέσα,"in, inside, within",μέσα,"in, inside, within"
+μετά,"after, then, afterwards",μετά,"after, then, afterwards"
+πάνω,"on, On top, above",πάνω,"on, On top, above"
+πίσω,behind,πίσω,behind
+προς,"to, towards, toward",προς,"to, towards, toward"
+σαν,"like, as, in",σαν,"like, as, in"
+στα,"in, in the, to the",στα,"in, in the, to the"
+στις,"at, the, on the",στις,"at, the, on the"
+στο,"the, to the, in the",στο,"the, to the, in the"
+σχετικά,about,σχετικά,about
+χωρίς,"without, free of, free",χωρίς,"without, free of, free"
+όπως,"as, like, such as",όπως,"as, like, such as"
+έρχεται,"comes, is coming, will come",έρχεται,"comes, is coming, will come"
+ακολουθούν,"follow, pursue",ακολουθούν,"follow, pursue"
+ακολουθώ,"(I) follow, following, (I am) following",ακολουθώ,"(I) follow, following, (I am) following"
+αλλάζουμε,"we are changing, we change",αλλάζουμε,"we are changing, we change"
+αλλάζω,"change, I change, I am changing",αλλάζω,"change, I change, I am changing"
+ανατρέφεις,"(you) are raising, (you) are bringing up, (you) bring up",ανατρέφεις,"(you) are raising, (you) are bringing up, (you) bring up"
+ανατρέφετε,"(pl.|you) are raising, (pl.|you) raise",ανατρέφετε,"(pl.|you) are raising, (pl.|you) raise"
+ανατρέφουμε,"(we) are raising, (we) are bringing up, (we) raise",ανατρέφουμε,"(we) are raising, (we) are bringing up, (we) raise"
+ανατρέφω,"(I am) raising, (I) raise, (I am) bringing up",ανατρέφω,"(I am) raising, (I) raise, (I am) bringing up"
+ανοίγω,"open, opening",ανοίγω,"open, opening"
+αποτυγχάνει,"fails, is failing",αποτυγχάνει,"fails, is failing"
+αποτυγχάνω,fail,αποτυγχάνω,fail
+δίνεις,"give, are you giving, do you give",δίνεις,"give, are you giving, do you give"
+δείχνει,"(he/she/it) shows, (he/she/it) points, (he/she/it) is showing",δείχνει,"(he/she/it) shows, (he/she/it) points, (he/she/it) is showing"
+δείχνεις,"show, You are showing, are showing",δείχνεις,"show, You are showing, are showing"
+δείχνουμε,"show, (we) show, (we) are showing",δείχνουμε,"show, (we) show, (we) are showing"
+δοκιμάζετε,"are trying, try",δοκιμάζετε,"are trying, try"
+δουλεύουμε,"work, (we) are working, (we) work",δουλεύουμε,"work, (we) are working, (we) work"
+δουλεύω,"I work, I am working, work",δουλεύω,"I work, I am working, work"
+ελπίζω,"hope, I hope, (I) hope",ελπίζω,"hope, I hope, (I) hope"
+εννοώ,"I mean, mean",εννοώ,"I mean, mean"
+επιστρέφει,"returns, He returns, is coming back",επιστρέφει,"returns, He returns, is coming back"
+επιστρέφουν,"return, they return, they are returning",επιστρέφουν,"return, they return, they are returning"
+επιστρέφω,"return, I am returning",επιστρέφω,"return, I am returning"
+ευχαριστώ,"thank you, thanks, I thank",ευχαριστώ,"thank you, thanks, I thank"
+ευχόμαστε,"(we) wish, (we) are wishing",ευχόμαστε,"(we) wish, (we) are wishing"
+ζω,live,ζω,live
+θυμάμαι,"remember, I remember, recall",θυμάμαι,"remember, I remember, recall"
+καλεί,"calls, calling, is calling",καλεί,"calls, calling, is calling"
+καλείτε,good,καλείτε,good
+καλώ,good,καλώ,good
+κοιτάζω,"(I) look, (I) look (at), (I am) looking",κοιτάζω,"(I) look, (I) look (at), (I am) looking"
+μελετώ,"study, I study, I am studying",μελετώ,"study, I study, I am studying"
+νιώθεις,"feel, (do) you feel, are feeling",νιώθεις,"feel, (do) you feel, are feeling"
+νομίζεις,"think, you think, (do) you think",νομίζεις,"think, you think, (do) you think"
+νομίζετε,"thought, I thought",νομίζετε,"thought, I thought"
+νομίζουν,"they think, Do they think?, they are thinking",νομίζουν,"they think, Do they think?, they are thinking"
+νομίζω,"think, I think",νομίζω,"think, I think"
+παίρνει,"takes, gets, take",παίρνει,"takes, gets, take"
+παίρνεις,"get, take",παίρνεις,"get, take"
+παίρνω,"take, taking, get",παίρνω,"take, taking, get"
+παρουσιάζει,"presents, He presents, He is presenting",παρουσιάζει,"presents, He presents, He is presenting"
+παρουσιάζουμε,"(we) are presenting, (we) are showing, display",παρουσιάζουμε,"(we) are presenting, (we) are showing, display"
+παρουσιάζουν,"present, (they) present, (they) are presenting",παρουσιάζουν,"present, (they) present, (they) are presenting"
+πιστεύουμε,"believe, (we) believe, (we) are believing",πιστεύουμε,"believe, (we) believe, (we) are believing"
+πιστεύω,"believe, I believe",πιστεύω,"believe, I believe"
+προσφέρουν,"offer, (they) offer, (they are) offering",προσφέρουν,"offer, (they) offer, (they are) offering"
+ρωτάτε,"(plural| you) are asking, (plural| you) ask",ρωτάτε,"(plural| you) are asking, (plural| you) ask"
+ρωτώ,"by asking, asking, requesting",ρωτώ,"by asking, asking, requesting"
+σημαίνει,"mean, means, what is the meaning of",σημαίνει,"mean, means, what is the meaning of"
+στέλνει,"sends, is sending",στέλνει,"sends, is sending"
+στέλνεις,"send, are sending",στέλνεις,"send, are sending"
+στέλνω,"send, I send",στέλνω,"send, I send"
+σταματά,"is stopping, stop, stops",σταματά,"is stopping, stop, stops"
+σταματάμε,"(we) are stopping, stop",σταματάμε,"(we) are stopping, stop"
+συμπεριλαμβάνει,"includes, comes with, comprises",συμπεριλαμβάνει,"includes, comes with, comprises"
+σώζουμε,"are saving, are rescuing, rescue",σώζουμε,"are saving, are rescuing, rescue"
+σώζω,"save, I save, I am saving",σώζω,"save, I save, I am saving"
+υπογράφουν,"sign, are signing",υπογράφουν,"sign, are signing"
+υπογράφω,"(I) sign, (I am) signing",υπογράφω,"(I) sign, (I am) signing"
+χρειάζονται,"need, they need, are in need of",χρειάζονται,"need, they need, are in need of"
+ψάχνει,"searches, looks for, is searching for",ψάχνει,"searches, looks for, is searching for"
+ψάχνω,"I'm looking for, (I am) looking, (I am) looking (for)",ψάχνω,"I'm looking for, (I am) looking, (I am) looking (for)"
+αγαπά,"love, you love",αγαπά,"love, you love"
+αγγίζω,"touching, I touch, touch",αγγίζω,"touching, I touch, touch"
+αγοράζει,"buys, is buying, is purchasing",αγοράζει,"buys, is buying, is purchasing"
+ακούει,"hears, has been listening to, is listening to",ακούει,"hears, has been listening to, is listening to"
+απαγορεύεις,"forbid, ban, disallow",απαγορεύεις,"forbid, ban, disallow"
+απαγορεύω,"forbid, I prohibit this, prohibit",απαγορεύω,"forbid, I prohibit this, prohibit"
+αρέσει,"likes, like",αρέσει,"likes, like"
+βάζεις,"put, you are setting, you are putting",βάζεις,"put, you are setting, you are putting"
+βάζω,"put, I am putting, I am setting",βάζω,"put, I am putting, I am setting"
+βλέπει,"sees, watches, is watching",βλέπει,"sees, watches, is watching"
+βλέπω,"see, I see, (I) am watching",βλέπω,"see, I see, (I) am watching"
+βοηθάς,helping,βοηθάς,helping
+βρέχει,"it rains, rains, It is raining",βρέχει,"it rains, rains, It is raining"
+βρίσκουμε,"find, we find the shirt",βρίσκουμε,"find, we find the shirt"
+βρίσκω,"(I) find, do I find, find",βρίσκω,"(I) find, do I find, find"
+γράφουν,"write, have been writing",γράφουν,"write, have been writing"
+γράφω,"write, (I) write, (I am) writing",γράφω,"write, (I) write, (I am) writing"
+δείχνω,"show, I show, I point",δείχνω,"show, I show, I point"
+δεν,"not, don't, he will never be",δεν,"not, don't, he will never be"
+δουλεύει,"works, work",δουλεύει,"works, work"
+δουλεύουν,work,δουλεύουν,work
+είναι,"is, are, It is",είναι,"is, are, It is"
+θέλει,"wants, (he/she/it) wants, desires",θέλει,"wants, (he/she/it) wants, desires"
+θέλω,"want, I want",θέλω,"want, I want"
+κάνει,"makes, does, equals",κάνει,"makes, does, equals"
+κάνεις,"do, do you do, doing",κάνεις,"do, do you do, doing"
+κάνω,"do, I do, I make",κάνω,"do, I do, I make"
+κοιμάται,"sleeps, sleeping, is sleeping",κοιμάται,"sleeps, sleeping, is sleeping"
+κολυμπούν,"swim, (they) swim, (they) are swimming",κολυμπούν,"swim, (they) swim, (they) are swimming"
+κολυμπώ,"swim, (I) swim, (I am) swimming",κολυμπώ,"swim, (I) swim, (I am) swimming"
+λέει,"says, tells, he says/is saying",λέει,"says, tells, he says/is saying"
+λέω,"say, (I) say, am telling",λέω,"say, (I) say, am telling"
+μαγειρεύει,"cooks, cook, is cooking",μαγειρεύει,"cooks, cook, is cooking"
+μαγειρεύω,"cook, I am cooking, I cook",μαγειρεύω,"cook, I am cooking, I cook"
+μπορώ,"can, may, I can",μπορώ,"can, may, I can"
+ξέρω,"know, I know, I have known",ξέρω,"know, I know, I have known"
+παίζει,"plays, play, is playing",παίζει,"plays, play, is playing"
+παίζω,"play, I play, am playing",παίζω,"play, I play, am playing"
+περπατά,"walks, is walking",περπατά,"walks, is walking"
+περπατώ,"walks, is walking",περπατώ,"walks, is walking"
+πηγαίνει,"goes, go to, Is going",πηγαίνει,"goes, go to, Is going"
+πηγαίνω,"go, I am going, get",πηγαίνω,"go, I am going, get"
+πληρώνει,"pays, is paying",πληρώνει,"pays, is paying"
+πληρώνω,"pay, I am paying, paying",πληρώνω,"pay, I am paying, paying"
+σχεδιάζω,"design, I design, draw",σχεδιάζω,"design, I design, draw"
+τρέχει,"runs, run, is running",τρέχει,"runs, run, is running"
+τρέχεις,"run, do you run, you will be running",τρέχεις,"run, do you run, you will be running"
+τρέχουν,"run, are running, do they run",τρέχουν,"run, are running, do they run"
+τρέχω,"run, I am running, I run",τρέχω,"run, I am running, I run"
+τραγουδάμε,singing,τραγουδάμε,singing
+τραγουδάς,singing,τραγουδάς,singing
+τώρα,now,τώρα,now
+υπάρχει,there is,υπάρχει,there is
+υπάρχω,"I am, I exist",υπάρχω,"I am, I exist"
+φέρνει,"brings, is bringing, is fetching",φέρνει,"brings, is bringing, is fetching"
+φτιάχνει,"makes, creates, fixes",φτιάχνει,"makes, creates, fixes"
+φτιάχνετε,"are you making, are making, make",φτιάχνετε,"are you making, are making, make"
+φτιάχνουμε,"making, (we) are making, (we) make",φτιάχνουμε,"making, (we) are making, (we) make"
+χρειάζομαι,"(do) I need, I need, do I need",χρειάζομαι,"(do) I need, I need, do I need"
+χρησιμοποιώ,"use, (we) use",χρησιμοποιώ,"use, (we) use"
+έχει,"has, does....have, he has",έχει,"has, does....have, he has"
+απάντηση,"an answer, response, a reply",απάντηση,"an answer, response, a reply"
+γιατί,"why, because",γιατί,"why, because"
+ερωτήσεις,"questions, queries",ερωτήσεις,"questions, queries"
+ερώτηση,"question, inquiry",ερώτηση,"question, inquiry"
+ποια,"what, which, who",ποια,"what, which, who"
+ποιανής,whose,ποιανής,whose
+ποιανού,whose,ποιανού,whose
+ποιος,"who, which, What",ποιος,"who, which, What"
+πού,"where, from",πού,"where, from"
+πόσα,"how many, how, how much",πόσα,"how many, how, how much"
+πόσες,how many,πόσες,how many
+πόσο,"how much, how",πόσο,"how much, how"
+πότε,when,πότε,when
+πώς,"how, what",πώς,"how, what"
+τι,"what a, What did, what",τι,"what a, What did, what"
+ίδιο,same,ίδιο,same
+ίδιος,same,ίδιος,same
+μόνη,"alone, by herself, lonely",μόνη,"alone, by herself, lonely"
+μόνο,"only, just, alone",μόνο,"only, just, alone"
+μόνος,"alone, by myself, lonely",μόνος,"alone, by myself, lonely"
+ο εαυτός,myself,ο εαυτός,myself
+οι,οι
+                    εαυτοί,themselves,                    εαυτοί,themselves
+έχεις,"do you have, have, you have",έχεις,"do you have, have, you have"
+έχω,"have, I have",έχω,"have, I have"
+αυτή,"she, this, her",αυτή,"she, this, her"
+αυτός,"he, this, it",αυτός,"he, this, it"
+είμαι,"I am, I'm, be",είμαι,"I am, I'm, be"
+είσαι,"are, are you, be",είσαι,"are, are you, be"
+εγώ,"I, Me",εγώ,"I, Me"
+εσύ,"you, you (singular)",εσύ,"you, you (singular)"
+αρκετός,enough,αρκετός,enough
+λίγος,a few,λίγος,a few
+περισσότερο,more,περισσότερο,more
+πολλή,"much, a lot of",πολλή,"much, a lot of"
+πολύς,"much, great, a lot",πολύς,"much, great, a lot"
+ήλιος,sun,ήλιος,sun
+αέρας,"air, wind, breeze",αέρας,"air, wind, breeze"
+ζέστη,heat,ζέστη,heat
+καιρός,"weather, time",καιρός,"weather, time"
+κρύο,cold,κρύο,cold
+ομίχλη,fog,ομίχλη,fog
+συννεφιά,"cloudiness, cloudy",συννεφιά,"cloudiness, cloudy"
+χιονίζει,"it snows/is snowing, it has been snowing, snows",χιονίζει,"it snows/is snowing, it has been snowing, snows"
+,
