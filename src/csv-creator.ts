@@ -25,8 +25,10 @@ export default class CsvCreator {
 
                     isFirst = false;
                 }
+
+                const cleanedSkillName = skillName.replace(/[?!,'\n.]/g, '').replace(/[&]/g, 'and').replace(/\s\s+/g, ' ')
         
-                fs.writeFileSync(outFileBase + partName.replace(/[\n]/g, '').trim() + '-' + skillName + '.csv', csvText);
+                fs.writeFileSync(outFileBase + partName.replace(/[\n]/g, '').trim() + '-' + cleanedSkillName + '.csv', csvText);
             }
         }
     }

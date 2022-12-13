@@ -7,5 +7,6 @@
     "moduleResolution": "node",
     "target": "ES5",
     "downlevelIteration": true
-  }
+  },
+  "include": ["src"]
 }
