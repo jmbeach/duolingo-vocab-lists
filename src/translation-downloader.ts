@@ -3,6 +3,7 @@ import 'regenerator-runtime/runtime';
 import WordParser from './wordparser';
 import DuolingoClient from './duolingoclient';
 import * as GoogleTranslate from 'google-translate';
+import CourseDataParser from './course-data-parser';
 import * as fs from 'fs';
 
 export default class TranslationDownloader {
@@ -23,9 +24,10 @@ export default class TranslationDownloader {
     const fileBody = fs.readFileSync(this.htmlPagePath, {
       encoding: 'utf8',
     });
-    const courseData = JSON.parse(
+    const rawCourseData = JSON.parse(
       fs.readFileSync(this.courseDataPath, 'utf-8')
     );
+    const courseData = new CourseDataParser(rawCourseData).parse();
     const parser = new WordParser(fileBody, courseData);
     const client = new DuolingoClient();
     const parsedCourse = parser.parse();

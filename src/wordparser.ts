@@ -1,14 +1,12 @@
 import * as jsdom from 'jsdom';
+import { ParsedCourse } from './interfaces';
 const { JSDOM } = jsdom;
 class WordParser {
   htmlString: string;
-  skillTree: { [key: string]: { sectionNumber: number } };
-  constructor(
-    htmlString: string,
-    skillTree: { [key: string]: { sectionNumber: number } }
-  ) {
+  courseData: ParsedCourse;
+  constructor(htmlString: string, courseData: ParsedCourse) {
     this.htmlString = htmlString;
-    this.skillTree = skillTree;
+    this.courseData = courseData;
   }
 
   parse() {
@@ -30,11 +28,32 @@ class WordParser {
   }
 
   parseSkill(skillEl: Element) {
-    const name = skillEl.querySelector('.sTI').textContent.trim();
-    if (!this.skillTree[name]) {
-      throw new Error(`Could not find "${name}" in skill tree"`);
+    const skillLink = skillEl.querySelector('.sTI').parentElement;
+    const skillUrl = skillLink.getAttribute('href');
+    const skillUrlParts = skillUrl.split('/');
+    let skillUrlEnd = skillUrlParts.pop();
+
+    let parsed = this.courseData.skills.byUrl[skillUrlEnd];
+    if (!parsed) {
+      /* Sometimes the last element of the url is a number.
+       * If it's a 1, then just use the next to last element.
+       * If it's greater, still try the next to last, but use "<skill>-<number>" if it still doesn't work. */
+      if (skillUrlEnd === '1') skillUrlEnd = skillUrlParts.pop();
+      else if (skillUrlEnd > '1' && skillUrlEnd <= '9') {
+        const temp = skillUrlEnd;
+        skillUrlEnd = skillUrlParts.pop();
+        parsed = this.courseData.skills.byUrl[skillUrlEnd];
+        if (!parsed) {
+          skillUrlEnd += `-${temp}`;
+        }
+      }
+      parsed = this.courseData.skills.byUrl[decodeURIComponent(skillUrlEnd)];
+      if (!parsed) {
+        throw new Error(
+          `Could not find "${skillUrlEnd}" in course data skills"`
+        );
+      }
     }
-    const sectionNumber = this.skillTree[name].sectionNumber;
     const words = skillEl
       .querySelector('.blue')
       .textContent.trim()
@@ -42,8 +61,8 @@ class WordParser {
       .map(x => x.trim().replace(/\s*\d+ words\s*/, ''))
       .reduce((a, b) => ({ ...a, [b]: {} }), {});
     return {
-      name,
-      sectionNumber,
+      name: parsed.name,
+      sectionNumber: parsed.sectionNumber,
       words,
     };
   }
