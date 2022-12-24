@@ -5,27 +5,42 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "combine spanish",
-      "port": 9229,
+      "name": "(en-es) combine",
       "request": "launch",
-      "skipFiles": [
-        "<node_internals>/**"
-      ],
-      "type": "pwa-node",
-      "runtimeArgs": ["--inspect=127.0.0.1:9229"],
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node",
+      "runtimeArgs": ["--inspect"],
       "args": ["lib/index.js", "combine", "-p", "english-spanish/"],
       "console": "integratedTerminal"
     },
     {
-      "name": "create spanish",
-      "port": 9229,
+      "name": "(en-es) create",
       "request": "launch",
-      "skipFiles": [
-        "<node_internals>/**"
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node",
+      "runtimeArgs": ["--inspect"],
+      "args": [
+        "lib/index.js",
+        "create",
+        "-f",
+        "english-spanish/english-spanish.json"
       ],
-      "type": "pwa-node",
-      "runtimeArgs": ["--inspect=127.0.0.1:9229"],
-      "args": ["lib/index.js", "create", "-f", "english-spanish/english-spanish.json"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "(en-es) download",
+      "request": "launch",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node",
+      "runtimeArgs": ["--inspect-brk"],
+      "args": [
+        "lib/index.js",
+        "download",
+        "-s",
+        "english-spanish/raw-course-data.json",
+        "-f",
+        "english-spanish/vocab.html"
+      ],
       "console": "integratedTerminal"
     }
   ]

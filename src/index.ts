@@ -35,18 +35,6 @@ const argv: any = yargs(hideBin(process.argv))
       },
     }
   )
-  .command(
-    'skilltree',
-    'Creates skill tree index using Duolingo home HTML page. Saves as json file.',
-    {
-      htmlFile: {
-        description: 'Path to the Duolingo home page HTML file',
-        alias: 'f',
-        type: 'string',
-        demandOption: true,
-      },
-    }
-  )
   .command('create', "Creates CSV's after they are downloaded.", {
     jsonFilePath: {
       description: 'Path to JSON file created by download command',
@@ -90,9 +78,6 @@ if (argv._.includes('download')) {
   ankiUpdater.run().then(x => {
     console.log('done');
   });
-} else if (argv._.includes('skilltree')) {
-  const parser = new SkillTreeParser(argv.htmlFile);
-  parser.parse();
 } else {
   yargs.showHelp();
 }

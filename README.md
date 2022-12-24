@@ -1,6 +1,5 @@
 # Duolingo Vocab Lists ![Node.js CI](https://github.com/jmbeach/duolingo-vocab-lists/workflows/Node.js%20CI/badge.svg) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jmbeach)
 
-
 This repository is a collection of Duolingo courses' vocabs.
 
 Currently, the only course is Spanish (learned from English) in the "english-spanish" folder.
@@ -27,23 +26,23 @@ Run `yarn install`.
 
 Run `yarn build`.
 
-## Step 3: Get Skill Tree
+## Step 3: Get Course Data
 
-Login to [Duolingo.com](https://www.duolingo.com/learn). Scroll to the very bottom of the home page to make it load the entire course skill tree. Save the page as an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
+Login to [Duolingo.com](https://www.duolingo.com/learn). Open the network tab and look for a request that has the word **acquisition** in it. Open the Response tab and copy all of the text. Save the text to a file locally (like `english-spanish/raw-course-data.json`).
 
-Run `node lib/index.js skilltree -f <path-to-html-file>` to generate the skill tree JSON file. This is used to figure out what section each skill belongs to.
+Note: This file may have sensitive data in it. Be sure to delete anything sensitive before committing it to your repo.
 
-## Step 4: Get Vocab List HTML
+![json data](./docs/data.png)
+
+## Step 4: Get Vocab HTML
 
 Go to `https://duome.eu/<your-user-name>/progress`. The skills tab contains an in-order list of all of the skills in your language. In the chrome developer console, run `document.querySelectorAll('.click.skill')` to expand every item on the page.
 
 Once you've ran the querySelectorAll command, save the page to an HTML file. **NOTE**: you may have to clean the html file to ensure there is only one root note. For example: only Body as root.
 
-**NOTE**: There might not be precise mappings between the skills found on the duome page and the duolingo page, so you might have to do some cleaning up (e.g. Adj 1 -> Adjective 1)
-
 ## Step 5: Download Translations
 
-Run `node lib/index.js download -f <path-to-vocab-html-file> -s  <path-to-skill-tree-json> [-a <google-api-key>]` to download the translations to a JSON file.
+Run `node lib/index.js download -f <path-to-vocab-html-file> -s  <path-to-course-data-json> [-a <google-api-key>]` to download the translations to a JSON file.
 
 The translator defaults to finding transaltions of words on Duolingo.com. However, if it can't find one, it uses Google Translate. To use google translate you'll have to get an API key and then put your API key into a .env file like this:
 
@@ -53,7 +52,7 @@ GOOGLE_TRANSLATE_API_KEY=<my-api-key>
 
 **NOTE**: Make sure to change your desired language pair inside `TranslationDownloader` (it's `es`, `en` by default).
 
-![example of program running](./duolingo-vocab-ex.gif)
+![example of program running](./docs/duolingo-vocab-ex.gif)
 
 ## Step 6: Generate CSV Files
 
