@@ -10,7 +10,7 @@ The main purpose of this project is to provide a means of getting the vocab in a
 
 # Parsing other courses
 
-Originially, I wrote this program to parse the words in the Spanish course from [an awesome post in a Duolingo discussion](https://forum.duolingo.com/comment/41639645). Thank you so much [FieryCat](https://www.duolingo.com/profile/FieryCat)!
+Originially, I wrote this program to parse the words in the Spanish course from an awesome post in a Duolingo discussion (which is gone now because Duolingo sunset the forums 🥲). Thank you so much [FieryCat](https://www.duolingo.com/profile/FieryCat) for your inspiration from that post though!
 
 However, now the program parses words from the website [duome](https://duome.eu/Jared5788/progress) which has a very comprehensive list of the words for each course. Switched to this approach based on the [detailed blog post](https://melledijkstra.github.io/science/extracting-duolingo-vocabulary-to-quizlet) by [Melle Dijkstra](https://melledijkstra.github.io/).
 
