@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140"
+   height="20"
+   viewBox="0 0 37.041666 5.2916668"
+   version="1.1"
+   id="svg1763"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="donate-venmo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1765"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.5358294"
+     inkscape:cx="76.700743"
+     inkscape:cy="137.82473"
+     inkscape:window-width="1312"
+     inkscape:window-height="1067"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1760" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008cff;fill-opacity:1;stroke:none;stroke-width:1.27;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1846"
+       width="36.651447"
+       height="4.8203478"
+       x="0.19510968"
+       y="0.23565944"
+       rx="1"
+       ry="1" />
+    <g
+       id="g2247"
+       transform="translate(2.5250732)">
+      <path
+         id="path815"
+         d="m 10.461517,0.80743756 c 0.138356,0.22073004 0.200731,0.44808304 0.200731,0.73527664 0,0.9159976 -0.8095052,2.1059475 -1.466509,2.9415149 H 7.6950915 L 7.0932478,1.007992 8.4072261,0.88748835 8.7254272,3.3610541 C 9.0227517,2.893168 9.3896493,2.1578997 9.3896493,1.6565959 c 0,-0.2743949 -0.048661,-0.4612931 -0.1247183,-0.6151834 z"
+         inkscape:connector-curvature="0"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.0957504" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;line-height:1.25;font-family:'Rounded Mplus 1c Bold';-inkscape-font-specification:'Rounded Mplus 1c Bold, ';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="11.978547"
+         y="4.1446238"
+         id="text3152"><tspan
+           sodipodi:role="line"
+           id="tspan3150"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Proza Libre';-inkscape-font-specification:'Proza Libre Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           x="11.978547"
+           y="4.1446238">donate</tspan></text>
+    </g>
+  </g>
+</svg>
