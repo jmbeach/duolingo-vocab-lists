@@ -19,7 +19,6 @@
       "request": "launch",
       "skipFiles": ["<node_internals>/**"],
       "type": "node",
-      "runtimeArgs": ["--inspect"],
       "args": [
         "src/index.ts",
         "create",
