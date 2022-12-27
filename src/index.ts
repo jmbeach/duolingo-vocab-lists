@@ -1,15 +1,15 @@
-import * as dotenv from 'dotenv';
-import TranslationDownloader from './translation-downloader';
-import * as yargs from 'yargs';
-import CsvCreator from './csv-creator';
-import CsvCombiner from './csv-combiner';
-import { hideBin } from 'yargs/helpers';
-import AnkiUpdater from './anki-updater';
-import SkillTreeParser from './course-data-parser';
+import { config } from 'https://deno.land/x/dotenv@v3.2.0/mod.ts';
+import TranslationDownloader from './translation-downloader.ts';
+import yargs from 'https://deno.land/x/yargs@v17.6.2-deno/deno.ts';
+import CsvCreator from './csv-creator.ts';
+import CsvCombiner from './csv-combiner.ts';
+import AnkiUpdater from './anki-updater.ts';
 
-dotenv.config();
-
-const argv: any = yargs(hideBin(process.argv))
+const conf = {
+  ...config(),
+  ...Deno.env.toObject(),
+};
+const yargConf = yargs(Deno.args)
   .command(
     'download',
     'Downloads translations using vocab html page. Saves as json file.',
@@ -57,13 +57,14 @@ const argv: any = yargs(hideBin(process.argv))
     "Updates vocab words using anki (really specific to author's setup)"
   )
   .help()
-  .alias('help', 'h').argv;
+  .alias('help', 'h');
+const argv: any = yargConf.parse();
 
 if (argv._.includes('download')) {
   const downloader = new TranslationDownloader(
     argv.skillTreeFile,
     argv.vocabHtmlFile,
-    process.env.GOOGLE_TRANSLATE_API_KEY || argv.googleApiKey
+    conf.GOOGLE_TRANSLATE_API_KEY || argv.googleApiKey
   );
   downloader.downloadTranslation();
 } else if (argv._.includes('create')) {
@@ -79,5 +80,5 @@ if (argv._.includes('download')) {
     console.log('done');
   });
 } else {
-  yargs.showHelp();
+  yargConf.showHelp();
 }

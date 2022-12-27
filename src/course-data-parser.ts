@@ -1,4 +1,4 @@
-import { CourseData, ParsedCourse, ParsedSkill } from './interfaces';
+import { CourseData, ParsedCourse, ParsedSkill } from './interfaces.ts';
 
 class CourseDataParser {
   courseData: CourseData;

@@ -1,44 +1,37 @@
-import axios, { AxiosPromise } from "axios";
+import axiod from 'https://deno.land/x/axiod@0.26.2/mod.ts';
 
 export default class AnkiApiClient {
+  axios: typeof axiod;
   constructor() {
-    this.axios = axios.create({
-      baseURL: 'http://localhost:8765'
-    })
+    this.axios = axiod.create({
+      baseURL: 'http://localhost:8765',
+    });
   }
 
   /**
-   * 
+   *
    * @returns {AxiosPromise<{ result: any }>}
    */
   getDecks() {
     return this.axios.post('', {
       action: 'deckNamesAndIds',
-      version: 6
-    })
+      version: 6,
+    });
   }
 
-  /**
-   * 
-   * @param {string} deck 
-   * @returns {AxiosPromise<{
-   *  result: number[],
-   *  error: any
-   * }>}
-   */
-  getCardsByDeck(deck) {
+  getCardsByDeck(deck: string) {
     return this.axios.post('', {
       action: 'findCards',
       version: 6,
       params: {
-        query: `"deck:${deck}"`
-      }
+        query: `"deck:${deck}"`,
+      },
     });
   }
 
   /**
-   * 
-   * @param {number[]} cardIds 
+   *
+   * @param {number[]} cardIds
    * @returns {AxiosPromise<{
    * result: {
    *   cardId: number,
@@ -52,23 +45,23 @@ export default class AnkiApiClient {
    *   }
    * }[]}>}
    */
-  getCardsInfo(cardIds) {
+  getCardsInfo(cardIds: string[]) {
     return this.axios.post('', {
       action: 'cardsInfo',
       version: 6,
       params: {
-        cards: cardIds
-      }
+        cards: cardIds,
+      },
     });
   }
 
-  updateNoteFields(note) {
+  updateNoteFields(note: any) {
     return this.axios.post('', {
       action: 'updateNoteFields',
       version: 6,
       params: {
-        note: note
-      }
-    })
+        note: note,
+      },
+    });
   }
 }

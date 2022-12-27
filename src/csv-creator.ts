@@ -1,22 +1,18 @@
-import * as fs from 'fs';
-
 export default class CsvCreator {
   jsonFilePath: string;
   constructor(jsonFilePath: string) {
     this.jsonFilePath = jsonFilePath;
   }
   create() {
-    const downloadData = JSON.parse(
-      fs.readFileSync(this.jsonFilePath, { encoding: 'utf-8' })
-    );
+    const downloadData = JSON.parse(Deno.readTextFileSync(this.jsonFilePath));
     const outFileBase = this.jsonFilePath.replace('.json', '') + '-';
-    for (let partName in downloadData) {
+    for (const partName in downloadData) {
       const part = downloadData[partName];
-      for (let skillName in part) {
+      for (const skillName in part) {
         let csvText = '';
         const skill = part[skillName];
         let isFirst = true;
-        for (let word in skill.words) {
+        for (const word in skill.words) {
           const data = skill.words[word];
           const beginning = isFirst ? '' : '\n';
           if (data.translations.length === 1) {
@@ -35,7 +31,7 @@ export default class CsvCreator {
         const outFile = `${outFileBase}Part ${partName
           .replace(/[\n]/g, '')
           .trim()}-${cleanedSkillName}.csv`;
-        fs.writeFileSync(outFile, csvText);
+        Deno.writeTextFileSync(outFile, csvText);
       }
     }
   }

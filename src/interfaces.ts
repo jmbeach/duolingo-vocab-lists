@@ -1,9 +1,10 @@
 export interface CoursePathLevel {
   pathLevelMetadata: {
-    skillId: string;
+    anchorSkillId: string;
+    skillId?: string;
   };
   debugName: string;
-  type: string;
+  type: 'story' | 'skill';
 }
 export interface CoursePath {
   levels: CoursePathLevel[];

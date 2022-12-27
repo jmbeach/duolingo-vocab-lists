@@ -42,7 +42,7 @@ Once you've ran the querySelectorAll command, save the page to an HTML file. **N
 
 ## Step 5: Download Translations
 
-Run `node lib/index.js download -f <path-to-vocab-html-file> -s  <path-to-course-data-json> [-a <google-api-key>]` to download the translations to a JSON file.
+Run `deno run src/index.ts download -f <path-to-vocab-html-file> -s  <path-to-course-data-json> [-a <google-api-key>]` to download the translations to a JSON file.
 
 The translator defaults to finding transaltions of words on Duolingo.com. However, if it can't find one, it uses Google Translate. To use google translate you'll have to get an API key and then put your API key into a .env file like this:
 
@@ -56,10 +56,10 @@ GOOGLE_TRANSLATE_API_KEY=<my-api-key>
 
 ## Step 6: Generate CSV Files
 
-Finally, run `node lib/index.js create -f <path-to-json-file>` to turn the translations into CSV's.
+Finally, run `deno run src/index.ts create -f <path-to-json-file>` to turn the translations into CSV's.
 
 If the new CSV's aren't in this repository yet, please feel free to create a pull request to add them. Currently, I've only processed Spanish (for English speakers), but would love to get other languages in here.
 
 ## Step 7 (Optional): Create Combined CSV Files
 
-It might be preferable for some people to have all of the CSV files for each section combined into one file. To generate these, run `node lib/index.js combine -p <path to language directory>`.
+It might be preferable for some people to have all of the CSV files for each section combined into one file. To generate these, run `deno run src/index.ts combine -p <path to language directory>`.
