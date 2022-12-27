@@ -1,9 +1,13 @@
 export interface CoursePathLevel {
   pathLevelMetadata: {
-    skillId: string;
+    anchorSkillId: string;
+    skillId?: string;
+  };
+  pathLevelClientData: {
+    skillIds: string[];
   };
   debugName: string;
-  type: string;
+  type: 'story' | 'skill';
 }
 export interface CoursePath {
   levels: CoursePathLevel[];
@@ -33,6 +37,8 @@ export interface ParsedSkill {
   shortName: string;
   sectionNumber: number;
   urlName: string;
+  unitNumber: number;
+  levelNumber: number;
 }
 export interface ParsedCourse {
   skills: {
@@ -40,4 +46,17 @@ export interface ParsedCourse {
     byId: Record<string, ParsedSkill>;
     byUrl: Record<string, ParsedSkill>;
   };
+}
+
+export interface DownloadedSkillTranslations {
+  skillName: string;
+  words: Record<string, { translations: string[] }>;
+}
+
+export interface DownloadResult {
+  // Links sections to ids
+  sections: Record<string, string[]>;
+  skills: Record<string, DownloadedSkillTranslations>;
+  // units -> levels -> ids
+  units: Record<string, Record<string, string>>;
 }

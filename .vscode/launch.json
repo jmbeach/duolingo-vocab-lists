@@ -10,37 +10,39 @@
       "skipFiles": ["<node_internals>/**"],
       "type": "node",
       "runtimeArgs": ["--inspect"],
-      "args": ["lib/index.js", "combine", "-p", "english-spanish/"],
-      "console": "integratedTerminal"
+      "args": ["src/index.ts", "combine", "-p", "english-spanish/"],
+      "console": "integratedTerminal",
+      "runtimeExecutable": "deno"
     },
     {
       "name": "(en-es) create",
       "request": "launch",
       "skipFiles": ["<node_internals>/**"],
       "type": "node",
-      "runtimeArgs": ["--inspect"],
       "args": [
-        "lib/index.js",
+        "src/index.ts",
         "create",
         "-f",
         "english-spanish/english-spanish.json"
       ],
-      "console": "integratedTerminal"
+      "console": "integratedTerminal",
+      "runtimeExecutable": "deno"
     },
     {
       "name": "(en-es) download",
       "request": "launch",
       "skipFiles": ["<node_internals>/**"],
       "type": "node",
-      "runtimeArgs": ["--inspect-brk"],
+      "runtimeArgs": ["--allow-read", "--allow-env"],
       "args": [
-        "lib/index.js",
+        "src/index.ts",
         "download",
         "-s",
         "english-spanish/raw-course-data.json",
         "-f",
         "english-spanish/vocab.html"
       ],
+      "runtimeExecutable": "deno",
       "console": "integratedTerminal"
     }
   ]
