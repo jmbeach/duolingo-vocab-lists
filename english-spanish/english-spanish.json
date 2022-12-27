@@ -1,6 +1,7 @@
 {
   "1": {
-    "Introduction": {
+    "ffd80bdcbfd91c3bad4560ae98065d9f": {
+      "name": "Introduction",
       "words": {
         "agua": {
           "translations": [
@@ -134,7 +135,8 @@
         }
       }
     },
-    "Common Phrases": {
+    "94268c421d1ff2f0d72b0c2fdce96519": {
+      "name": "Common Phrases",
       "words": {
         "adiós": {
           "translations": [
@@ -193,7 +195,7 @@
         },
         "lo siento": {
           "translations": [
-            "I'm sorry"
+            "I&#39;m sorry"
           ]
         },
         "mucho gusto": {
@@ -223,7 +225,8 @@
         }
       }
     },
-    "Travel": {
+    "9098f768e99f3a497bde46c3dff853c4": {
+      "name": "Travel",
       "words": {
         "a": {
           "translations": [
@@ -352,7 +355,7 @@
         },
         "tengo": {
           "translations": [
-            "I've got"
+            "I&#39;ve got"
           ]
         },
         "tren": {
@@ -367,7 +370,8 @@
         }
       }
     },
-    "Restaurant": {
+    "6c676314ff0613baaa1ef65c1a488a60": {
+      "name": "Restaurant",
       "words": {
         "azúcar": {
           "translations": [
@@ -511,7 +515,8 @@
         }
       }
     },
-    "Family": {
+    "ba720fc8d4141a4cf33a53338a02a67a": {
+      "name": "Family",
       "words": {
         "abuela": {
           "translations": [
@@ -655,7 +660,8 @@
         }
       }
     },
-    "Pres Tense 1": {
+    "1e358d045b3325367fae10706cf21252": {
+      "name": "Pres Tense 1",
       "words": {
         "prestense11": {
           "translations": [
@@ -679,7 +685,8 @@
         }
       }
     },
-    "Shopping": {
+    "f15bb84ee56ed9caf723c9b2d8ad120c": {
+      "name": "Shopping",
       "words": {
         "abrigo": {
           "translations": [
@@ -823,7 +830,8 @@
         }
       }
     },
-    "Flirting": {
+    "ed0dd055842648c0fa2ecf525e6e3901": {
+      "name": "Flirting",
       "words": {
         "cielo": {
           "translations": [
@@ -877,7 +885,8 @@
         }
       }
     },
-    "Idioms and Proverbs": {
+    "4d3f9eeef6226eec0c8176701b8a14ed": {
+      "name": "Idioms and Proverbs",
       "words": {
         "con": {
           "translations": [
@@ -933,7 +942,8 @@
     }
   },
   "2": {
-    "School": {
+    "50c1ced705aa07cf874c488f1ed86609": {
+      "name": "School",
       "words": {
         "bolígrafo": {
           "translations": [
@@ -1077,7 +1087,8 @@
         }
       }
     },
-    "People": {
+    "11597f41fb97c29060ff958bef9f0194": {
+      "name": "People",
       "words": {
         "China": {
           "translations": [
@@ -1196,7 +1207,8 @@
         }
       }
     },
-    "Greetings": {
+    "f9dfcd6676e2e5395fcfb9d4f45cb6ad": {
+      "name": "Greetings",
       "words": {
         "bien": {
           "translations": [
@@ -1310,7 +1322,8 @@
         }
       }
     },
-    "Travel 2": {
+    "f66410cecd1e3db3c9ec288c4866ad55": {
+      "name": "Travel 2",
       "words": {
         "ayuda": {
           "translations": [
@@ -1414,7 +1427,7 @@
         },
         "tengo": {
           "translations": [
-            "I've got"
+            "I&#39;ve got"
           ]
         },
         "tiene": {
@@ -1454,7 +1467,8 @@
         }
       }
     },
-    "Schedule": {
+    "802ec47737567d0953ab941403815131": {
+      "name": "Schedule",
       "words": {
         "baile": {
           "translations": [
@@ -1598,7 +1612,8 @@
         }
       }
     },
-    "People 2": {
+    "e653f33d5e781c125d5bf28424e07ee2": {
+      "name": "People 2",
       "words": {
         "beber": {
           "translations": [
@@ -1742,7 +1757,8 @@
         }
       }
     },
-    "People 3": {
+    "c8a403cbe11099fbff57def4ce14a64a": {
+      "name": "People 3",
       "words": {
         "amiga": {
           "translations": [
@@ -1886,7 +1902,8 @@
         }
       }
     },
-    "Agreement": {
+    "4a5d92cbe006d7e6f7df27c56f6f2056": {
+      "name": "Agreement",
       "words": {
         "agreement1": {
           "translations": [
@@ -1910,7 +1927,8 @@
         }
       }
     },
-    "School 2": {
+    "420068f0e7b763bdba6873e65409be51": {
+      "name": "School 2",
       "words": {
         "aprende": {
           "translations": [
@@ -2054,7 +2072,8 @@
         }
       }
     },
-    "Family 2": {
+    "f26af888295c4194da7ef4c9158877c2": {
+      "name": "Family 2",
       "words": {
         "abuela": {
           "translations": [
@@ -2233,7 +2252,8 @@
         }
       }
     },
-    "Work": {
+    "3fab40e2859c5ac84779f4217ba32ca7": {
+      "name": "Work",
       "words": {
         "ahora": {
           "translations": [
@@ -2427,7 +2447,8 @@
         }
       }
     },
-    "Emotions": {
+    "cccdb82de11265bce619c0cc26dba242": {
+      "name": "Emotions",
       "words": {
         "a veces": {
           "translations": [
@@ -2561,7 +2582,7 @@
         },
         "qué\n                    tal": {
           "translations": [
-            "how's it going"
+            "how&#39;s it going"
           ]
         },
         "se siente": {
@@ -2596,7 +2617,8 @@
         }
       }
     },
-    "People 4": {
+    "696e588a17928ebd0102205612f36634": {
+      "name": "People 4",
       "words": {
         "amigos": {
           "translations": [
@@ -2755,7 +2777,8 @@
         }
       }
     },
-    "Fashion": {
+    "8b63f6e8a407ad10f8165bb4b04c1a09": {
+      "name": "Fashion",
       "words": {
         "bonitas": {
           "translations": [
@@ -2929,7 +2952,8 @@
         }
       }
     },
-    "Pres Tense 2": {
+    "fd305cadb9d28577bef23ba773ba0ef5": {
+      "name": "Pres Tense 2",
       "words": {
         "prestense21": {
           "translations": [
@@ -2953,7 +2977,8 @@
         }
       }
     },
-    "Travel 3": {
+    "99fa5b98cc4c4892c14e2baebf83ef6b": {
+      "name": "Travel 3",
       "words": {
         "a": {
           "translations": [
@@ -3047,7 +3072,7 @@
         },
         "estamos": {
           "translations": [
-            "we're"
+            "we&#39;re"
           ]
         },
         "están": {
@@ -3147,7 +3172,8 @@
         }
       }
     },
-    "Leisure": {
+    "7de4839cb59f6114a54b4fd4a22e9daa": {
+      "name": "Leisure",
       "words": {
         "abrir": {
           "translations": [
@@ -3346,7 +3372,8 @@
         }
       }
     },
-    "Activities": {
+    "4ccbe88d110b9e8003eb14c05c16a5f9": {
+      "name": "Activities",
       "words": {
         "abren": {
           "translations": [
@@ -3530,7 +3557,8 @@
         }
       }
     },
-    "Preference": {
+    "f39c9f5274620166a7793fc80e314e5a": {
+      "name": "Preference",
       "words": {
         "algo": {
           "translations": [
@@ -3644,7 +3672,7 @@
         },
         "me encanta": {
           "translations": [
-            "I'm lovin 'it"
+            "I&#39;m lovin &#39;it"
           ]
         },
         "me\n                    gusta": {
@@ -3749,7 +3777,8 @@
         }
       }
     },
-    "Routines": {
+    "4eb952cbbee236ba216f7e730c4cf44b": {
+      "name": "Routines",
       "words": {
         "a menudo": {
           "translations": [
@@ -3913,7 +3942,8 @@
         }
       }
     },
-    "Household": {
+    "5618eb44ac5a570578b663a9b0864267": {
+      "name": "Household",
       "words": {
         "azul": {
           "translations": [
@@ -4187,7 +4217,8 @@
         }
       }
     },
-    "Menu": {
+    "a8d9400a7bf16ddeb3ce53863e6df1e6": {
+      "name": "Menu",
       "words": {
         "blanca": {
           "translations": [
@@ -4371,7 +4402,7 @@
         },
         "quisiera": {
           "translations": [
-            "I'd like"
+            "I&#39;d like"
           ]
         },
         "sal": {
@@ -4411,7 +4442,8 @@
         }
       }
     },
-    "Family 3": {
+    "73d1b8443627c96e5052a31ec6c0904b": {
+      "name": "Family 3",
       "words": {
         "abuelas": {
           "translations": [
@@ -4610,7 +4642,8 @@
         }
       }
     },
-    "Shopping 2": {
+    "bcd3074f966b5aa1094a5fbc556db63e": {
+      "name": "Shopping 2",
       "words": {
         "abre": {
           "translations": [
@@ -4819,7 +4852,8 @@
         }
       }
     },
-    "To Be": {
+    "9bb12ffaf0d80fe4fe99762be715fe86": {
+      "name": "To Be",
       "words": {
         "tobe1": {
           "translations": [
@@ -4843,7 +4877,8 @@
         }
       }
     },
-    "Describe": {
+    "93de7426729ee71d634496c2dec1686d": {
+      "name": "Describe",
       "words": {
         "abierta": {
           "translations": [
@@ -4937,7 +4972,7 @@
         },
         "es divertido": {
           "translations": [
-            "it's fun"
+            "it&#39;s fun"
           ]
         },
         "es grande": {
@@ -5167,7 +5202,8 @@
         }
       }
     },
-    "Recreation": {
+    "3cfd8741dbb9616057ea9645aa043348": {
+      "name": "Recreation",
       "words": {
         "a mí": {
           "translations": [
@@ -5391,7 +5427,8 @@
         }
       }
     },
-    "Community": {
+    "6435eab42fe7847ee9aecff322e53085": {
+      "name": "Community",
       "words": {
         "Alemania": {
           "translations": [
@@ -5675,7 +5712,8 @@
         }
       }
     },
-    "Phrases 2": {
+    "a589e8da54516096003d89309b4efb46": {
+      "name": "Phrases 2",
       "words": {
         "abrigo": {
           "translations": [
@@ -5876,7 +5914,8 @@
     }
   },
   "3": {
-    "Connection": {
+    "d91fbb75418529d3b4b844bd1d1e6196": {
+      "name": "Connection",
       "words": {
         "cursos": {
           "translations": [
@@ -6015,7 +6054,8 @@
         }
       }
     },
-    "Routines 2": {
+    "d895c669ee3122bb4857f4e4e426c6f3": {
+      "name": "Routines 2",
       "words": {
         "almuerzo": {
           "translations": [
@@ -6199,7 +6239,8 @@
         }
       }
     },
-    "Go for It!": {
+    "7f0c388d962eacc138a014aa820a3468": {
+      "name": "Go for It!",
       "words": {
         "": {
           "translations": [
@@ -6208,7 +6249,8 @@
         }
       }
     },
-    "Stem Changes": {
+    "747f205391673946434ff7da3309efb8": {
+      "name": "Stem Changes",
       "words": {
         "stemchanges1": {
           "translations": [
@@ -6232,7 +6274,8 @@
         }
       }
     },
-    "Weather": {
+    "0e6c224612ad5d889d00ed3512eba3de": {
+      "name": "Weather",
       "words": {
         "abril": {
           "translations": [
@@ -6251,7 +6294,7 @@
         },
         "cómo está el\n                    tiempo": {
           "translations": [
-            "how's the weather"
+            "how&#39;s the weather"
           ]
         },
         "diciembre": {
@@ -6276,7 +6319,7 @@
         },
         "hace frío": {
           "translations": [
-            "it's cold"
+            "it&#39;s cold"
           ]
         },
         "invierno": {
@@ -6401,7 +6444,8 @@
         }
       }
     },
-    "Interests": {
+    "c07657840786c8754d4903c837a6c216": {
+      "name": "Interests",
       "words": {
         "arte": {
           "translations": [
@@ -6530,7 +6574,7 @@
         },
         "jugamos": {
           "translations": [
-            "let's play"
+            "let&#39;s play"
           ]
         },
         "le interesa": {
@@ -6545,7 +6589,7 @@
         },
         "me interesa": {
           "translations": [
-            "I'm interested"
+            "I&#39;m interested"
           ]
         },
         "museo": {
@@ -6620,7 +6664,8 @@
         }
       }
     },
-    "Basic Info": {
+    "f5ecb24a08e22cce37b8db66dc6fa44e": {
+      "name": "Basic Info",
       "words": {
         "canciones": {
           "translations": [
@@ -6889,7 +6934,8 @@
         }
       }
     },
-    "How Pretty": {
+    "e8309aa4b48506054bf91c5c23debd31": {
+      "name": "How Pretty",
       "words": {
         "bajas": {
           "translations": [
@@ -7068,7 +7114,8 @@
         }
       }
     },
-    "Travel 4": {
+    "5e34ceffa9a108729d29980363c9b4df": {
+      "name": "Travel 4",
       "words": {
         "adónde": {
           "translations": [
@@ -7222,7 +7269,7 @@
         },
         "vas\n                    a": {
           "translations": [
-            "you'll"
+            "you&#39;ll"
           ]
         },
         "veintinueve": {
@@ -7252,7 +7299,8 @@
         }
       }
     },
-    "Interests 2": {
+    "94ecb30fd1f455a3f8d380ebd78c7c40": {
+      "name": "Interests 2",
       "words": {
         "ambas": {
           "translations": [
@@ -7501,7 +7549,8 @@
         }
       }
     },
-    "Groceries": {
+    "d4d0b5ea21e76a604f5aee002e951a19": {
+      "name": "Groceries",
       "words": {
         "bolsa": {
           "translations": [
@@ -7725,7 +7774,8 @@
         }
       }
     },
-    "Requests": {
+    "c52a7ab29f625ca94ab31059177c283b": {
+      "name": "Requests",
       "words": {
         "abre": {
           "translations": [
@@ -7869,7 +7919,8 @@
         }
       }
     },
-    "To Like": {
+    "82dcf52f92aa520948c5a7438ec7493c": {
+      "name": "To Like",
       "words": {
         "tolike1": {
           "translations": [
@@ -7893,7 +7944,8 @@
         }
       }
     },
-    "Routines 3": {
+    "af1aef42cbfa8f71bb661f2a28986bdf": {
+      "name": "Routines 3",
       "words": {
         "cara": {
           "translations": [
@@ -8092,7 +8144,8 @@
         }
       }
     },
-    "School 3": {
+    "b9efda8d78116c681a3295f877838332": {
+      "name": "School 3",
       "words": {
         "abriendo": {
           "translations": [
@@ -8236,7 +8289,8 @@
         }
       }
     },
-    "Shopping 3": {
+    "55c5e46a4e0496a03e78513c54155fc1": {
+      "name": "Shopping 3",
       "words": {
         "abro": {
           "translations": [
@@ -8400,7 +8454,8 @@
         }
       }
     },
-    "Plans": {
+    "4465842e0efc6b32f29688d35f0912d1": {
+      "name": "Plans",
       "words": {
         "cambiamos": {
           "translations": [
@@ -8604,7 +8659,8 @@
         }
       }
     },
-    "Tasks": {
+    "2c594c6a8d86ca6fdc10fdccb6670916": {
+      "name": "Tasks",
       "words": {
         "aprendiendo a": {
           "translations": [
@@ -8748,7 +8804,8 @@
         }
       }
     },
-    "Clean Up": {
+    "0daed943515bc7063c7775d5dcee3057": {
+      "name": "Clean Up",
       "words": {
         "abres la": {
           "translations": [
@@ -8952,7 +9009,8 @@
         }
       }
     },
-    "Chit chat": {
+    "b54ad2b30c46bc96e37c81f0aea2358d": {
+      "name": "Chit chat",
       "words": {
         "almuerza": {
           "translations": [
@@ -9156,7 +9214,8 @@
         }
       }
     },
-    "Objects": {
+    "fcc33806585cd3948b48757cec79552c": {
+      "name": "Objects",
       "words": {
         "objects1": {
           "translations": [
@@ -9180,7 +9239,8 @@
         }
       }
     },
-    "Directions": {
+    "0e90c1164184742d5ba1f969efc4f81a": {
+      "name": "Directions",
       "words": {
         "abajo": {
           "translations": [
@@ -9344,7 +9404,8 @@
         }
       }
     },
-    "Memories": {
+    "96d5431d0a89f933e9bc74c606291ff2": {
+      "name": "Memories",
       "words": {
         "aprendiste": {
           "translations": [
@@ -9508,7 +9569,8 @@
         }
       }
     },
-    "Farm": {
+    "9b9bac01b0401508a0d81ba7498efca9": {
+      "name": "Farm",
       "words": {
         "abrieron": {
           "translations": [
@@ -9657,7 +9719,8 @@
         }
       }
     },
-    "Weekend": {
+    "b3ec4b7cf0813aab7181a808326123e4": {
+      "name": "Weekend",
       "words": {
         "anoche": {
           "translations": [
@@ -9796,7 +9859,8 @@
         }
       }
     },
-    "Vacation": {
+    "b65bde544428e01aa005364b2e815e3d": {
+      "name": "Vacation",
       "words": {
         "abriste": {
           "translations": [
@@ -9935,7 +9999,8 @@
         }
       }
     },
-    "Shopping 4": {
+    "b2c93919b31cde56b1972f5f18ca9a72": {
+      "name": "Shopping 4",
       "words": {
         "alguno": {
           "translations": [
@@ -10104,7 +10169,8 @@
         }
       }
     },
-    "Past Tense 1": {
+    "2821c80015eed4302ecddfad315de456": {
+      "name": "Past Tense 1",
       "words": {
         "pasttense11": {
           "translations": [
@@ -10128,7 +10194,8 @@
         }
       }
     },
-    "Which One?": {
+    "bd4aa5700cfccc6915aa3fc7f42bfbff": {
+      "name": "Which One?",
       "words": {
         "ahí": {
           "translations": [
@@ -10307,7 +10374,8 @@
         }
       }
     },
-    "Nature": {
+    "14b87ccbe301ef71c52a4da7bfbc6c32": {
+      "name": "Nature",
       "words": {
         "calurosa": {
           "translations": [
@@ -10486,7 +10554,7 @@
         },
         "se encuentra": {
           "translations": [
-            "it's found"
+            "it&#39;s found"
           ]
         },
         "se encuentran": {
@@ -10516,7 +10584,8 @@
         }
       }
     },
-    "Travel 5": {
+    "1e15b97d850b61901f0dc298142508c4": {
+      "name": "Travel 5",
       "words": {
         "algo de": {
           "translations": [
@@ -10665,7 +10734,8 @@
         }
       }
     },
-    "School 4": {
+    "ea08eaa95524f6381d83f12bc6b8b2fc": {
+      "name": "School 4",
       "words": {
         "canté": {
           "translations": [
@@ -11006,7 +11076,8 @@
     }
   },
   "4": {
-    "History": {
+    "aa254f3960a4d47477d0051c90103d8b": {
+      "name": "History",
       "words": {
         "ayudamos": {
           "translations": [
@@ -11270,7 +11341,8 @@
         }
       }
     },
-    "Home": {
+    "f9921012becc8237e65c87ed4802d9b7": {
+      "name": "Home",
       "words": {
         "acabar": {
           "translations": [
@@ -11559,7 +11631,8 @@
         }
       }
     },
-    "Choices": {
+    "1d4fec3fa7fa7cbf5fd268f107b828ee": {
+      "name": "Choices",
       "words": {
         "acostar+prpers": {
           "translations": [
@@ -11758,7 +11831,8 @@
         }
       }
     },
-    "Work 2": {
+    "b3df9a994acd3d5fad4fdf2dbb6e9229": {
+      "name": "Work 2",
       "words": {
         "ayuda": {
           "translations": [
@@ -11897,7 +11971,8 @@
         }
       }
     },
-    "Past Tense 2": {
+    "f01d6b7e714bdec04f1bcbb5b7cb8fbc": {
+      "name": "Past Tense 2",
       "words": {
         "pasttense21": {
           "translations": [
@@ -11921,7 +11996,8 @@
         }
       }
     },
-    "Childhood": {
+    "158f8788e9fe4329b291678a4236fff6": {
+      "name": "Childhood",
       "words": {
         "alumnos": {
           "translations": [
@@ -12070,7 +12146,8 @@
         }
       }
     },
-    "Delicious!": {
+    "a6d910c7ba7bc9b1ae76a7a4f1fde102": {
+      "name": "Delicious!",
       "words": {
         "aceite": {
           "translations": [
@@ -12174,7 +12251,7 @@
         },
         "especial del día": {
           "translations": [
-            "day's special"
+            "day&#39;s special"
           ]
         },
         "estupenda": {
@@ -12319,7 +12396,8 @@
         }
       }
     },
-    "Fun Plans": {
+    "decbb0436418be103aceb79ed68b4e05": {
+      "name": "Fun Plans",
       "words": {
         "a lo mejor": {
           "translations": [
@@ -12658,7 +12736,8 @@
         }
       }
     },
-    "Traditions": {
+    "9211d94611b8e68bcf4057fd21b7c4cb": {
+      "name": "Traditions",
       "words": {
         "año nuevo": {
           "translations": [
@@ -12812,7 +12891,8 @@
         }
       }
     },
-    "Social": {
+    "5130c4c2d36cf72015bd936fafc85484": {
+      "name": "Social",
       "words": {
         "acompañar": {
           "translations": [
@@ -12901,7 +12981,7 @@
         },
         "cómo te va": {
           "translations": [
-            "how's it going"
+            "how&#39;s it going"
           ]
         },
         "donde": {
@@ -13031,7 +13111,8 @@
         }
       }
     },
-    "Memories 2": {
+    "f3cd8252dfc048557cdea5ce490f2896": {
+      "name": "Memories 2",
       "words": {
         "abuelito": {
           "translations": [
@@ -13270,7 +13351,8 @@
         }
       }
     },
-    "Apartment": {
+    "6d95cc58a716f2cf4849446f997cc39e": {
+      "name": "Apartment",
       "words": {
         "alfombras": {
           "translations": [
@@ -13544,7 +13626,8 @@
         }
       }
     },
-    "Health": {
+    "9e44ccc7bc99e08b032bae7f88a287d4": {
+      "name": "Health",
       "words": {
         "actividad": {
           "translations": [
@@ -13773,7 +13856,8 @@
         }
       }
     },
-    "Past Tense 3": {
+    "45a8db5d83388c14632284a2e6d84b3f": {
+      "name": "Past Tense 3",
       "words": {
         "pasttense31": {
           "translations": [
@@ -13797,7 +13881,8 @@
         }
       }
     },
-    "Look It Up": {
+    "b5834a871fd07cf1fe2e7f80751cd594": {
+      "name": "Look It Up",
       "words": {
         "anuncio": {
           "translations": [
@@ -13986,7 +14071,8 @@
         }
       }
     },
-    "Life": {
+    "31ba0f646f04975ff90fcce7e7bc5e0e": {
+      "name": "Life",
       "words": {
         "agricultor": {
           "translations": [
@@ -14150,7 +14236,8 @@
         }
       }
     },
-    "Last Week": {
+    "f3111f63adc86be028d4626e3af06446": {
+      "name": "Last Week",
       "words": {
         "almorzar": {
           "translations": [
@@ -14419,7 +14506,8 @@
         }
       }
     },
-    "Nostalgia": {
+    "0f75b8f930f99399e1449fc7558c99a9": {
+      "name": "Nostalgia",
       "words": {
         "acompañaba": {
           "translations": [
@@ -14763,7 +14851,8 @@
         }
       }
     },
-    "Storybook": {
+    "d48c9aec46575180bf49c9822d9aa4fd": {
+      "name": "Storybook",
       "words": {
         "artista": {
           "translations": [
@@ -15032,7 +15121,7 @@
         },
         "salones": {
           "translations": [
-            "halls"
+            "salons"
           ]
         },
         "salón": {
@@ -15107,7 +15196,8 @@
         }
       }
     },
-    "Vacation 2": {
+    "e242febb3c03894e644006813897fb25": {
+      "name": "Vacation 2",
       "words": {
         "agradables": {
           "translations": [
@@ -15351,7 +15441,8 @@
         }
       }
     },
-    "Narrative": {
+    "02013fff8a9b925aa6cbc3900bd537c6": {
+      "name": "Narrative",
       "words": {
         "cajones": {
           "translations": [
@@ -15645,7 +15736,8 @@
         }
       }
     },
-    "Anecdotes": {
+    "638cfee2a396a21076317ea6f98afb2a": {
+      "name": "Anecdotes",
       "words": {
         "asaba": {
           "translations": [
@@ -15909,7 +16001,8 @@
         }
       }
     },
-    "Work 3": {
+    "1b1a121767cb300b84d2fe99c6b1174a": {
+      "name": "Work 3",
       "words": {
         "adentro": {
           "translations": [
@@ -16153,7 +16246,8 @@
         }
       }
     },
-    "Past Tense 4": {
+    "eb8b6f124457e4362a6a3fd5e4bbed65": {
+      "name": "Past Tense 4",
       "words": {
         "pasttense41": {
           "translations": [
@@ -16177,7 +16271,8 @@
         }
       }
     },
-    "Magic Land": {
+    "32fd4e6cd65e887eeaa0315fbfc52c90": {
+      "name": "Magic Land",
       "words": {
         "amaban": {
           "translations": [
@@ -16446,7 +16541,8 @@
         }
       }
     },
-    "History 2": {
+    "3655462accdc97dab65b9e5fd85b7d24": {
+      "name": "History 2",
       "words": {
         "colinas": {
           "translations": [
@@ -16640,7 +16736,8 @@
         }
       }
     },
-    "Daily Life": {
+    "9c07de3e8a12425d1cdf8a995803d192": {
+      "name": "Daily Life",
       "words": {
         "almorcé": {
           "translations": [
@@ -16974,7 +17071,8 @@
         }
       }
     },
-    "Groceries 2": {
+    "3e01c0a7d7f5d5c25de468478d583c49": {
+      "name": "Groceries 2",
       "words": {
         "abrirla": {
           "translations": [
@@ -17228,7 +17326,8 @@
         }
       }
     },
-    "School 5": {
+    "b11acff04422f036eefbecf259717bdb": {
+      "name": "School 5",
       "words": {
         "avanzada": {
           "translations": [
@@ -17432,7 +17531,8 @@
         }
       }
     },
-    "Hobbies": {
+    "c8c79b3feaf7e1ece89c43e40d1a045a": {
+      "name": "Hobbies",
       "words": {
         "a lo largo de": {
           "translations": [
@@ -17623,7 +17723,8 @@
     }
   },
   "5": {
-    "Objects 2": {
+    "5f60e46235a2acc285de7027826e817e": {
+      "name": "Objects 2",
       "words": {
         "objects21": {
           "translations": [
@@ -17647,7 +17748,8 @@
         }
       }
     },
-    "Experiences": {
+    "3e253edd420fd836222489f7045cf67a": {
+      "name": "Experiences",
       "words": {
         "antes": {
           "translations": [
@@ -17776,7 +17878,8 @@
         }
       }
     },
-    "Work 4": {
+    "266e3c15f7dde3ef839930352524e36d": {
+      "name": "Work 4",
       "words": {
         "actriz": {
           "translations": [
@@ -17985,7 +18088,8 @@
         }
       }
     },
-    "Shopping 5": {
+    "2b3a928560fa5812f41ee8d5826bbdff": {
+      "name": "Shopping 5",
       "words": {
         "abran": {
           "translations": [
@@ -18094,17 +18198,17 @@
         },
         "me la llevo": {
           "translations": [
-            "I'll take it"
+            "I&#39;ll take it"
           ]
         },
         "me las llevo": {
           "translations": [
-            "I'll take them"
+            "I&#39;ll take them"
           ]
         },
         "me lo llevo": {
           "translations": [
-            "I'll take it"
+            "I&#39;ll take it"
           ]
         },
         "me los llevo": {
@@ -18194,7 +18298,8 @@
         }
       }
     },
-    "Health 2": {
+    "930020ff9ea12050b99c929f374e3021": {
+      "name": "Health 2",
       "words": {
         "alejada": {
           "translations": [
@@ -18458,7 +18563,8 @@
         }
       }
     },
-    "Years Ago": {
+    "72d2bab4d4af0e19e779bf2359718875": {
+      "name": "Years Ago",
       "words": {
         "ama de casa": {
           "translations": [
@@ -18642,7 +18748,8 @@
         }
       }
     },
-    "Vacation 3": {
+    "051120c47cc0c0d0da65b4842d2a2990": {
+      "name": "Vacation 3",
       "words": {
         "ahorrar": {
           "translations": [
@@ -18731,7 +18838,7 @@
         },
         "nos vamos": {
           "translations": [
-            "Let's go"
+            "Let&#39;s go"
           ]
         },
         "profunda": {
@@ -18786,7 +18893,8 @@
         }
       }
     },
-    "Finished!": {
+    "6335d3e1223cdc42b376bc8c04cfdc24": {
+      "name": "Finished!",
       "words": {
         "acaba de": {
           "translations": [
@@ -19035,7 +19143,8 @@
         }
       }
     },
-    "Past Tense 5": {
+    "72914209300b966910d3c105e761906c": {
+      "name": "Past Tense 5",
       "words": {
         "past tense 51": {
           "translations": [
@@ -19059,7 +19168,8 @@
         }
       }
     },
-    "Find Out": {
+    "24383c14caece9cba01c027b2f901d3a": {
+      "name": "Find Out",
       "words": {
         "asunto": {
           "translations": [
@@ -19283,7 +19393,8 @@
         }
       }
     },
-    "Situations": {
+    "e32793fb705cfffdb5018351a133fe0c": {
+      "name": "Situations",
       "words": {
         "biología": {
           "translations": [
@@ -19437,7 +19548,8 @@
         }
       }
     },
-    "Family 4": {
+    "e24a0a311941d54b0798c69baf5d40ab": {
+      "name": "Family 4",
       "words": {
         "abuelita": {
           "translations": [
@@ -19726,7 +19838,8 @@
         }
       }
     },
-    "Travel 6": {
+    "295be9c4c48f2ede201dc86e8dec3a95": {
+      "name": "Travel 6",
       "words": {
         "anchas": {
           "translations": [
@@ -19880,7 +19993,7 @@
         },
         "se usa": {
           "translations": [
-            "it's used"
+            "it&#39;s used"
           ]
         },
         "se vende": {
@@ -19945,7 +20058,8 @@
         }
       }
     },
-    "Future": {
+    "a624f0201538592900865b32b22579e8": {
+      "name": "Future",
       "words": {
         "adivinaremos": {
           "translations": [
@@ -20104,7 +20218,7 @@
         },
         "hablaré": {
           "translations": [
-            "I'll talk"
+            "I&#39;ll talk"
           ]
         },
         "irán": {
@@ -20289,7 +20403,8 @@
         }
       }
     },
-    "School 6": {
+    "edccc6da479c0ecab4a72dd34ee039f7": {
+      "name": "School 6",
       "words": {
         "basurero": {
           "translations": [
@@ -20513,7 +20628,8 @@
         }
       }
     },
-    "Anecdotes 2": {
+    "841fa4dae60243a7ad43b6577c402ee2": {
+      "name": "Anecdotes 2",
       "words": {
         "anillo": {
           "translations": [
@@ -20892,7 +21008,8 @@
         }
       }
     },
-    "Travel 7": {
+    "5cfcef1295b4870312635c41ac4ee4c5": {
+      "name": "Travel 7",
       "words": {
         "almohadas": {
           "translations": [
@@ -21091,7 +21208,7 @@
         },
         "tengo prisa": {
           "translations": [
-            "I'm in a hurry"
+            "I&#39;m in a hurry"
           ]
         },
         "tenía prisa": {
@@ -21146,7 +21263,8 @@
         }
       }
     },
-    "Commands": {
+    "0d480b77af68da24b041e9a25b3db980": {
+      "name": "Commands",
       "words": {
         "commands1": {
           "translations": [
@@ -21170,7 +21288,8 @@
         }
       }
     },
-    "Requests 2": {
+    "89794b2e27c10d7c95bd271fd24a0c9d": {
+      "name": "Requests 2",
       "words": {
         "agradecer": {
           "translations": [
@@ -21434,7 +21553,8 @@
         }
       }
     },
-    "Nature 2": {
+    "8b48e43b2b2c4f789130001b85d7e382": {
+      "name": "Nature 2",
       "words": {
         "acamparemos": {
           "translations": [
@@ -21693,7 +21813,8 @@
         }
       }
     },
-    "Social 2": {
+    "c552bd9f6a129604ccf877177bb062a2": {
+      "name": "Social 2",
       "words": {
         "ajo": {
           "translations": [
@@ -21992,7 +22113,8 @@
         }
       }
     },
-    "Moving In": {
+    "5e3bf8eaf7dd5923e49c25749f8af446": {
+      "name": "Moving In",
       "words": {
         "abajo": {
           "translations": [
@@ -22256,7 +22378,8 @@
         }
       }
     },
-    "Shopping 6": {
+    "d27cefbed268c0ca501af1c34ba3fe93": {
+      "name": "Shopping 6",
       "words": {
         "a la venta": {
           "translations": [
@@ -22320,7 +22443,7 @@
         },
         "me lo quedo": {
           "translations": [
-            "I'll take it"
+            "I&#39;ll take it"
           ]
         },
         "me quedaré con": {
@@ -22465,7 +22588,8 @@
         }
       }
     },
-    "Work 5": {
+    "bfb6a4083b036ab9623fb39e5f940666": {
+      "name": "Work 5",
       "words": {
         "acompañaremos": {
           "translations": [
@@ -22649,7 +22773,7 @@
         },
         "me veré": {
           "translations": [
-            "I'll see myself"
+            "I&#39;ll see myself"
           ]
         },
         "modelo": {
@@ -22809,7 +22933,8 @@
         }
       }
     },
-    "Travel 8": {
+    "18f3cc9361d90d03106660bf4cc34f6c": {
+      "name": "Travel 8",
       "words": {
         "aguacate": {
           "translations": [
@@ -22993,7 +23118,8 @@
         }
       }
     },
-    "Future Tense": {
+    "bc4905aa6cdaed92f4e78ebb2f2cdede": {
+      "name": "Future Tense",
       "words": {
         "futuretense1": {
           "translations": [
@@ -23017,7 +23143,8 @@
         }
       }
     },
-    "Requests 3": {
+    "34ce6da5acb111c8e5c20b38bd155107": {
+      "name": "Requests 3",
       "words": {
         "contra": {
           "translations": [
@@ -23216,7 +23343,8 @@
         }
       }
     },
-    "Fiction": {
+    "48b28746df9776e1600ce30a6fa7c317": {
+      "name": "Fiction",
       "words": {
         "amar": {
           "translations": [
@@ -23580,7 +23708,8 @@
         }
       }
     },
-    "We Like It": {
+    "44928cec2c611f0f60e1189961f4d285": {
+      "name": "We Like It",
       "words": {
         "a ella le": {
           "translations": [
@@ -23644,17 +23773,17 @@
         },
         "estoy lista": {
           "translations": [
-            "I'm ready"
+            "I&#39;m ready"
           ]
         },
         "estoy listo": {
           "translations": [
-            "I'm ready"
+            "I&#39;m ready"
           ]
         },
         "estoy seguro": {
           "translations": [
-            "I'm sure"
+            "I&#39;m sure"
           ]
         },
         "está listo": {
@@ -23664,7 +23793,7 @@
         },
         "está rico": {
           "translations": [
-            "It's good"
+            "It&#39;s good"
           ]
         },
         "está segura": {
@@ -23799,7 +23928,7 @@
         },
         "son seguros": {
           "translations": [
-            "They're safe"
+            "They&#39;re safe"
           ]
         },
         "son verdes": {
@@ -23821,7 +23950,8 @@
     }
   },
   "6": {
-    "Requests 4": {
+    "87cc9701ca271cb30882f95d7307d19f": {
+      "name": "Requests 4",
       "words": {
         "a través de": {
           "translations": [
@@ -23965,7 +24095,8 @@
         }
       }
     },
-    "Travel 9": {
+    "3616da9830963417cd0076dd10f83be7": {
+      "name": "Travel 9",
       "words": {
         "al conducir": {
           "translations": [
@@ -24144,7 +24275,8 @@
         }
       }
     },
-    "In Town": {
+    "4b9fd70812589d13f30344e1cd7998b9": {
+      "name": "In Town",
       "words": {
         "a pie": {
           "translations": [
@@ -24303,7 +24435,8 @@
         }
       }
     },
-    "Reading": {
+    "7c43ba21c8f80f0889fc151acc5d5006": {
+      "name": "Reading",
       "words": {
         "amor": {
           "translations": [
@@ -24607,7 +24740,8 @@
         }
       }
     },
-    "Online": {
+    "576c9f21661f62a7c56dd16efa9a117b": {
+      "name": "Online",
       "words": {
         "anteayer": {
           "translations": [
@@ -24941,7 +25075,8 @@
         }
       }
     },
-    "Past Tense 6": {
+    "ab32afa3af19a62f88e77acf5b40c7c6": {
+      "name": "Past Tense 6",
       "words": {
         "pasttense61": {
           "translations": [
@@ -24965,7 +25100,8 @@
         }
       }
     },
-    "In Love": {
+    "ee6b902717031be47f002b4de36a49c1": {
+      "name": "In Love",
       "words": {
         "abrazo": {
           "translations": [
@@ -25159,7 +25295,8 @@
         }
       }
     },
-    "News": {
+    "a84f6c18b78d57a9ce56da6014595ab6": {
+      "name": "News",
       "words": {
         "actual": {
           "translations": [
@@ -25343,7 +25480,8 @@
         }
       }
     },
-    "Studying": {
+    "d4d5aa3d29d859fb851e4085afb72c23": {
+      "name": "Studying",
       "words": {
         "aprobar": {
           "translations": [
@@ -25522,7 +25660,8 @@
         }
       }
     },
-    "Health 3": {
+    "fc8957066f1bdabb735b0b28f0ed9a8f": {
+      "name": "Health 3",
       "words": {
         "antibiótico": {
           "translations": [
@@ -25651,7 +25790,7 @@
         },
         "me quemo": {
           "translations": [
-            "I'm burning"
+            "I&#39;m burning"
           ]
         },
         "mejor": {
@@ -25721,7 +25860,8 @@
         }
       }
     },
-    "Opinions": {
+    "0ebc7af29cb977e8eb3030c2aed97561": {
+      "name": "Opinions",
       "words": {
         "decisiones": {
           "translations": [
@@ -25890,7 +26030,8 @@
         }
       }
     },
-    "Clothing": {
+    "ed507071366b526c93db89bc5c8d04aa": {
+      "name": "Clothing",
       "words": {
         "algodón": {
           "translations": [
@@ -26099,7 +26240,8 @@
         }
       }
     },
-    "Commands 2": {
+    "74446339bfee95e394683296d8621225": {
+      "name": "Commands 2",
       "words": {
         "commands21": {
           "translations": [
@@ -26123,7 +26265,8 @@
         }
       }
     },
-    "Cooking": {
+    "395673572cd1fcc7ddb33f0d0504dd02": {
+      "name": "Cooking",
       "words": {
         "atún": {
           "translations": [
@@ -26262,7 +26405,8 @@
         }
       }
     },
-    "Advice": {
+    "7955db02a8bd2ac9448e29df5063fcf1": {
+      "name": "Advice",
       "words": {
         "abras": {
           "translations": [
@@ -26396,7 +26540,8 @@
         }
       }
     },
-    "Warnings": {
+    "415721619d218b5a3707a90e74353d1a": {
+      "name": "Warnings",
       "words": {
         "caer": {
           "translations": [
@@ -26570,7 +26715,8 @@
         }
       }
     },
-    "Tourist": {
+    "37689e7771cccb09264c79e39940d240": {
+      "name": "Tourist",
       "words": {
         "agencia": {
           "translations": [
@@ -26749,7 +26895,8 @@
         }
       }
     },
-    "At Home": {
+    "48f72c503a80e88533e0f13ee06aa34c": {
+      "name": "At Home",
       "words": {
         "adicional": {
           "translations": [
@@ -26933,7 +27080,8 @@
         }
       }
     },
-    "Habits": {
+    "ba13f8a1a23c97218cebc9f2e159dcc7": {
+      "name": "Habits",
       "words": {
         "a": {
           "translations": [
@@ -27137,7 +27285,8 @@
         }
       }
     },
-    "Imagine": {
+    "2ecb63dc79813284a7768e0a87093d56": {
+      "name": "Imagine",
       "words": {
         "aprenderíamos": {
           "translations": [
@@ -27281,7 +27430,7 @@
         },
         "preferiría": {
           "translations": [
-            "I'd prefer"
+            "I&#39;d prefer"
           ]
         },
         "secreta": {
@@ -27366,7 +27515,8 @@
         }
       }
     },
-    "Commands 3": {
+    "8bcae657017f434cc2b513ab9cfef16d": {
+      "name": "Commands 3",
       "words": {
         "commands31": {
           "translations": [
@@ -27390,7 +27540,8 @@
         }
       }
     },
-    "At Work": {
+    "d2ac04be077d4c8490383da40d6a2354": {
+      "name": "At Work",
       "words": {
         "abogada": {
           "translations": [
@@ -27609,7 +27760,8 @@
         }
       }
     },
-    "Politics": {
+    "5beeb75cbe9469261db354ad23ed45c2": {
+      "name": "Politics",
       "words": {
         "acuerdo": {
           "translations": [
@@ -28098,7 +28250,8 @@
         }
       }
     },
-    "Right Now": {
+    "8c57d51ae77ad2fe17ca5384ac9cb413": {
+      "name": "Right Now",
       "words": {
         "academia": {
           "translations": [
@@ -28257,7 +28410,8 @@
         }
       }
     },
-    "People 5": {
+    "79dd2b658dd16351bb1c3dad1b7e2510": {
+      "name": "People 5",
       "words": {
         "alguien": {
           "translations": [
@@ -28501,7 +28655,8 @@
         }
       }
     },
-    "Places": {
+    "39fcf110ec468143339bee23329e7aa3": {
+      "name": "Places",
       "words": {
         "ayuntamiento": {
           "translations": [
@@ -28665,7 +28820,8 @@
         }
       }
     },
-    "Today": {
+    "2d9349ef4147215502211c3a95c8fe7d": {
+      "name": "Today",
       "words": {
         "atletas": {
           "translations": [
@@ -28719,7 +28875,8 @@
         }
       }
     },
-    "At Home 2": {
+    "f88089f31cc1426016028b95accda61e": {
+      "name": "At Home 2",
       "words": {
         "aspiradora": {
           "translations": [
@@ -28773,7 +28930,8 @@
         }
       }
     },
-    "Imagine 2": {
+    "fc38cd60ea6d6d56adaaef63279138b9": {
+      "name": "Imagine 2",
       "words": {
         "arena": {
           "translations": [
@@ -28822,12 +28980,13 @@
         },
         "sabrías": {
           "translations": [
-            "You'd know"
+            "You&#39;d know"
           ]
         }
       }
     },
-    "Office": {
+    "cc9a7afc02fd9622eb33c4fbe9eacc42": {
+      "name": "Office",
       "words": {
         "contestar": {
           "translations": [
@@ -28883,7 +29042,8 @@
     }
   },
   "7": {
-    "Pronouns": {
+    "1f15d0283459708d6a2a0e44dd2cf357": {
+      "name": "Pronouns",
       "words": {
         "pronouns1": {
           "translations": [
@@ -28907,7 +29067,8 @@
         }
       }
     },
-    "In Class": {
+    "e581055c86edac1a4a22c40236be46bc": {
+      "name": "In Class",
       "words": {
         "ayúdame": {
           "translations": [
@@ -28961,7 +29122,8 @@
         }
       }
     },
-    "Since Then": {
+    "e3a406ac2e0e093f1eeadd778ff6fbb6": {
+      "name": "Since Then",
       "words": {
         "cabaña": {
           "translations": [
@@ -28990,7 +29152,7 @@
         },
         "en punto": {
           "translations": [
-            "o'clock"
+            "o&#39;clock"
           ]
         },
         "extrañar": {
@@ -29015,7 +29177,8 @@
         }
       }
     },
-    "Vacation 4": {
+    "bcf67802e8334cc7bfcabe8ec56e6dc9": {
+      "name": "Vacation 4",
       "words": {
         "buscar": {
           "translations": [
@@ -29069,7 +29232,8 @@
         }
       }
     },
-    "Customs": {
+    "a6eb0f7c9844988d4f50ec11f8388c89": {
+      "name": "Customs",
       "words": {
         "costumbre": {
           "translations": [
@@ -29108,7 +29272,7 @@
         },
         "se usa": {
           "translations": [
-            "it's used"
+            "it&#39;s used"
           ]
         },
         "se vive": {
@@ -29123,7 +29287,8 @@
         }
       }
     },
-    "Mystery": {
+    "49d500eac1526b93bca446f59ec26a15": {
+      "name": "Mystery",
       "words": {
         "asesino": {
           "translations": [
@@ -29177,7 +29342,8 @@
         }
       }
     },
-    "Healthcare": {
+    "29a13e70cb3510da8b114d349d17c9a3": {
+      "name": "Healthcare",
       "words": {
         "aspirina": {
           "translations": [
@@ -29231,7 +29397,8 @@
         }
       }
     },
-    "Past Tense 7": {
+    "0eb07ea308a5c33c066b572b182d5f3c": {
+      "name": "Past Tense 7",
       "words": {
         "pasttense71": {
           "translations": [
@@ -29255,7 +29422,8 @@
         }
       }
     },
-    "Traffic": {
+    "07f53434d6b009ee611daed6e12446fe": {
+      "name": "Traffic",
       "words": {
         "auto": {
           "translations": [
@@ -29309,7 +29477,8 @@
         }
       }
     },
-    "Plans 2": {
+    "ad96de31d51f229945f73a79597ccbf5": {
+      "name": "Plans 2",
       "words": {
         "alojamiento": {
           "translations": [
@@ -29323,12 +29492,12 @@
         },
         "compremos": {
           "translations": [
-            "let's buy"
+            "let&#39;s buy"
           ]
         },
         "decidamos": {
           "translations": [
-            "let's decide"
+            "let&#39;s decide"
           ]
         },
         "excursión": {
@@ -29353,7 +29522,7 @@
         },
         "veamos": {
           "translations": [
-            "let's see"
+            "let&#39;s see"
           ]
         },
         "y si": {
@@ -29363,7 +29532,8 @@
         }
       }
     },
-    "Wishes": {
+    "5ae9c62786283b1157b176ce2c61864f": {
+      "name": "Wishes",
       "words": {
         "aprenda": {
           "translations": [
@@ -29372,7 +29542,7 @@
         },
         "comamos": {
           "translations": [
-            "let's eat"
+            "let&#39;s eat"
           ]
         },
         "comedia": {
@@ -29417,7 +29587,8 @@
         }
       }
     },
-    "Favors": {
+    "8b492d93b130e91cd7bca18ee2dae7f4": {
+      "name": "Favors",
       "words": {
         "aire acondicionado": {
           "translations": [
@@ -29471,7 +29642,8 @@
         }
       }
     },
-    "At Work 2": {
+    "49cf6be193351423fcd1b00f9e7f85ff": {
+      "name": "At Work 2",
       "words": {
         "arrogante": {
           "translations": [
@@ -29525,7 +29697,8 @@
         }
       }
     },
-    "Events": {
+    "ae8aaee35399c7ed5e4cf353f55b57eb": {
+      "name": "Events",
       "words": {
         "a": {
           "translations": [
@@ -29579,7 +29752,8 @@
         }
       }
     },
-    "College": {
+    "e1f410b926ebdb6968b9d880d12be8d0": {
+      "name": "College",
       "words": {
         "aprendan": {
           "translations": [
@@ -29633,7 +29807,8 @@
         }
       }
     },
-    "Subj 1": {
+    "e8daafe53538bd4c56b7d20f02a24dea": {
+      "name": "Subj 1",
       "words": {
         "subj11": {
           "translations": [
@@ -29657,7 +29832,8 @@
         }
       }
     },
-    "Eating Out": {
+    "202fb72ae8ea07e083eef86a2cf66de0": {
+      "name": "Eating Out",
       "words": {
         "elegí": {
           "translations": [
@@ -29711,7 +29887,8 @@
         }
       }
     },
-    "Intentions": {
+    "deaa3919343291813d35096ce28e8b7f": {
+      "name": "Intentions",
       "words": {
         "a": {
           "translations": [
@@ -29765,7 +29942,8 @@
         }
       }
     },
-    "News 2": {
+    "2c68a1407a58c7702bff0c18719cb9f4": {
+      "name": "News 2",
       "words": {
         "campeonato": {
           "translations": [
@@ -29819,7 +29997,8 @@
         }
       }
     },
-    "Free Time": {
+    "177dc4ed8d2b89ae19e42933108a6b4d": {
+      "name": "Free Time",
       "words": {
         "conseguir": {
           "translations": [
@@ -29828,7 +30007,7 @@
         },
         "dar igual": {
           "translations": [
-            "don't care"
+            "don&#39;t care"
           ]
         },
         "divertido": {
@@ -29873,7 +30052,8 @@
         }
       }
     },
-    "Sports": {
+    "b31c170f6507640b6e5293af0f4a0ca0": {
+      "name": "Sports",
       "words": {
         "campeonas": {
           "translations": [
@@ -29967,7 +30147,8 @@
         }
       }
     },
-    "Art Events": {
+    "b8e3a509c83c4aec9a2b9f4af1eab12a": {
+      "name": "Art Events",
       "words": {
         "aburrirse": {
           "translations": [
@@ -30021,7 +30202,8 @@
         }
       }
     },
-    "Banking": {
+    "d997d2ad41db4733de6274f36fcf70fd": {
+      "name": "Banking",
       "words": {
         "ayúdala": {
           "translations": [
@@ -30075,7 +30257,8 @@
         }
       }
     },
-    "Subj 2": {
+    "22a74b4253b7ec7ea22c428530f9864a": {
+      "name": "Subj 2",
       "words": {
         "subj21": {
           "translations": [
@@ -30099,7 +30282,8 @@
         }
       }
     },
-    "Weather 2": {
+    "ed91ea08edb55f372e8fa0786ed47b34": {
+      "name": "Weather 2",
       "words": {
         "despejado": {
           "translations": [
@@ -30153,7 +30337,8 @@
         }
       }
     },
-    "I Disagree": {
+    "6a8e74590f9033330110de26e34eb5ca": {
+      "name": "I Disagree",
       "words": {
         "bueno": {
           "translations": [
@@ -30207,7 +30392,8 @@
         }
       }
     },
-    "Romance": {
+    "935f1c3b0237851e2f46e815acf72eb1": {
+      "name": "Romance",
       "words": {
         "abrazar": {
           "translations": [
@@ -30261,7 +30447,8 @@
         }
       }
     },
-    "Office 2": {
+    "2273a96327fce69799b1e5b5b77c9a3d": {
+      "name": "Office 2",
       "words": {
         "conferencia": {
           "translations": [
@@ -30275,7 +30462,7 @@
         },
         "es bueno que": {
           "translations": [
-            "It's good that"
+            "It&#39;s good that"
           ]
         },
         "es mejor que": {
@@ -30317,7 +30504,8 @@
     }
   },
   "8": {
-    "Goal!": {
+    "9ecfb630bb27cfb2730c5d79ed80da81": {
+      "name": "Goal!",
       "words": {
         "echar": {
           "translations": [
@@ -30371,7 +30559,8 @@
         }
       }
     },
-    "Clothing 2": {
+    "5bbc9c10ecd150ad5308128b94cf89b4": {
+      "name": "Clothing 2",
       "words": {
         "aro": {
           "translations": [
@@ -30425,7 +30614,8 @@
         }
       }
     },
-    "Past Tense 8": {
+    "2bf4ba13836751ff326a953206991381": {
+      "name": "Past Tense 8",
       "words": {
         "pasttense81": {
           "translations": [
@@ -30449,7 +30639,8 @@
         }
       }
     },
-    "Hygiene": {
+    "d6336cd584fb2fb3c02f5a607676503d": {
+      "name": "Hygiene",
       "words": {
         "afeitador": {
           "translations": [
@@ -30503,7 +30694,8 @@
         }
       }
     },
-    "Purchases": {
+    "1dea277d0865d64373374c86694b9174": {
+      "name": "Purchases",
       "words": {
         "colonia": {
           "translations": [
@@ -30557,7 +30749,8 @@
         }
       }
     },
-    "Returns": {
+    "58348714700c2680016bad5e3f949f81": {
+      "name": "Returns",
       "words": {
         "apenas": {
           "translations": [
@@ -30596,7 +30789,7 @@
         },
         "se paga": {
           "translations": [
-            "it is paid"
+            "is paid"
           ]
         },
         "se puede": {
@@ -30611,7 +30804,8 @@
         }
       }
     },
-    "Be Polite!": {
+    "21e88e7da0124945984f837c23c28a55": {
+      "name": "Be Polite!",
       "words": {
         "cubierto": {
           "translations": [
@@ -30665,7 +30859,8 @@
         }
       }
     },
-    "Customers": {
+    "6f7d8d7be5eb8712720caf9b78604cd5": {
+      "name": "Customers",
       "words": {
         "atención": {
           "translations": [
@@ -30719,7 +30914,8 @@
         }
       }
     },
-    "Complaints": {
+    "81f4994afd61fbacaf49b2713414a0f7": {
+      "name": "Complaints",
       "words": {
         "aceptable": {
           "translations": [
@@ -30773,7 +30969,8 @@
         }
       }
     },
-    "Small Talk": {
+    "70f5de79bf09a694daee7f79c88c3c2e": {
+      "name": "Small Talk",
       "words": {
         "ciudad natal": {
           "translations": [
@@ -30827,7 +31024,8 @@
         }
       }
     },
-    "Subj 3": {
+    "a48db89eaf150bea7253a87939161556": {
+      "name": "Subj 3",
       "words": {
         "subj31": {
           "translations": [
@@ -30851,7 +31049,8 @@
         }
       }
     },
-    "Ecology": {
+    "dac48fbc4b0216b2ffd18e5626817490": {
+      "name": "Ecology",
       "words": {
         "arroyo": {
           "translations": [
@@ -30905,7 +31104,8 @@
         }
       }
     },
-    "Art Talk": {
+    "e2154dd2ebbc15bf6b31e8c77727b7cb": {
+      "name": "Art Talk",
       "words": {
         "anterior": {
           "translations": [
@@ -30959,7 +31159,8 @@
         }
       }
     },
-    "Travelers": {
+    "577b2820c88649c3bca00cbb3b9c1fdc": {
+      "name": "Travelers",
       "words": {
         "amanecer": {
           "translations": [
@@ -31013,7 +31214,8 @@
         }
       }
     },
-    "I agree": {
+    "708e8e8432c0fef65a2e4bb02aa51af2": {
+      "name": "I agree",
       "words": {
         "admitir": {
           "translations": [
@@ -31067,7 +31269,8 @@
         }
       }
     },
-    "Questions": {
+    "5ee03f32328d33974de1f19922919127": {
+      "name": "Questions",
       "words": {
         "a dónde": {
           "translations": [
@@ -31121,7 +31324,8 @@
         }
       }
     },
-    "Probably": {
+    "5b52eb6b5ac5fdc1e041de9e23a73bb5": {
+      "name": "Probably",
       "words": {
         "cariñoso": {
           "translations": [
@@ -31175,7 +31379,8 @@
         }
       }
     },
-    "Doubts": {
+    "fd78e8440ae2698e3875cd981bbe8071": {
+      "name": "Doubts",
       "words": {
         "algún día": {
           "translations": [
@@ -31229,7 +31434,8 @@
         }
       }
     },
-    "Hospital": {
+    "cc55eacf62f086afbd2cb3869d43db0f": {
+      "name": "Hospital",
       "words": {
         "dentro de": {
           "translations": [
@@ -31283,7 +31489,8 @@
         }
       }
     },
-    "Pronouns 2": {
+    "33d4e401895e9e82cb4106d953cbc13d": {
+      "name": "Pronouns 2",
       "words": {
         "pronouns21": {
           "translations": [
@@ -31307,7 +31514,8 @@
         }
       }
     },
-    "Hard Work": {
+    "25bd0f47a14761845b206e83a8a635d8": {
+      "name": "Hard Work",
       "words": {
         "comenzado": {
           "translations": [
@@ -31361,7 +31569,8 @@
         }
       }
     },
-    "Urgency": {
+    "a3a04a4df31dbcd2fc50f266ddd04fc1": {
+      "name": "Urgency",
       "words": {
         "apurarse": {
           "translations": [
@@ -31415,7 +31624,8 @@
         }
       }
     },
-    "Gratitude": {
+    "6268933bc94f628fd9565c3cc482ce5d": {
+      "name": "Gratitude",
       "words": {
         "dar las gracias": {
           "translations": [
@@ -31469,11 +31679,12 @@
         }
       }
     },
-    "Let's Go!": {
+    "4123cb1dc4b0a0d17fe8200a9bc25ef7": {
+      "name": "Let's Go!",
       "words": {
         "bajémonos": {
           "translations": [
-            "let's get off"
+            "let&#39;s get off"
           ]
         },
         "buscar": {
@@ -31483,7 +31694,7 @@
         },
         "doblemos": {
           "translations": [
-            "let's fold"
+            "let&#39;s fold"
           ]
         },
         "embotellamiento": {
@@ -31518,12 +31729,13 @@
         },
         "vámonos": {
           "translations": [
-            "Let's go"
+            "Let&#39;s go"
           ]
         }
       }
     },
-    "Bad Day": {
+    "211c5d3bbff5d22f94bd70ec78702e81": {
+      "name": "Bad Day",
       "words": {
         "concentrarse": {
           "translations": [
@@ -31577,7 +31789,8 @@
         }
       }
     },
-    "Bad News": {
+    "88d506317e985f138f1664da6dd61ec4": {
+      "name": "Bad News",
       "words": {
         "algunos de": {
           "translations": [
@@ -31631,7 +31844,8 @@
         }
       }
     },
-    "Comfort": {
+    "e88d8ab98ae27b5919aeeb3c27dbc897": {
+      "name": "Comfort",
       "words": {
         "avena": {
           "translations": [
@@ -31645,7 +31859,7 @@
         },
         "cocinemos": {
           "translations": [
-            "let's cook"
+            "let&#39;s cook"
           ]
         },
         "despierte": {
@@ -31685,7 +31899,8 @@
         }
       }
     },
-    "Subj 4": {
+    "f8bd16f0b2b563580c51be07a4b12e14": {
+      "name": "Subj 4",
       "words": {
         "subj41": {
           "translations": [
@@ -31709,7 +31924,8 @@
         }
       }
     },
-    "Empathy": {
+    "b58b0a9e6d9a2c09ace009740c1f5915": {
+      "name": "Empathy",
       "words": {
         "bucear": {
           "translations": [
@@ -31765,7 +31981,8 @@
     }
   },
   "9": {
-    "Sorry": {
+    "861063895d8f9fd26b5e699917d9e6d3": {
+      "name": "Sorry",
       "words": {
         "al revés": {
           "translations": [
@@ -31789,7 +32006,7 @@
         },
         "es una\n                    pena que": {
           "translations": [
-            "it's a pity that"
+            "it&#39;s a pity that"
           ]
         },
         "limpiar": {
@@ -31819,7 +32036,8 @@
         }
       }
     },
-    "Too Bad": {
+    "08ac113602a61c4504d6658858438029": {
+      "name": "Too Bad",
       "words": {
         "ambiente": {
           "translations": [
@@ -31873,7 +32091,8 @@
         }
       }
     },
-    "Blind Date": {
+    "7cc61c616d018a8659e0d13656516b7f": {
+      "name": "Blind Date",
       "words": {
         "al aire libre": {
           "translations": [
@@ -31907,7 +32126,7 @@
         },
         "fuéramos": {
           "translations": [
-            "let's go"
+            "we were"
           ]
         },
         "introvertido": {
@@ -31927,7 +32146,8 @@
         }
       }
     },
-    "Recipes": {
+    "58b6ad4e4721d945997f592eab0f9bd3": {
+      "name": "Recipes",
       "words": {
         "calabacín": {
           "translations": [
@@ -31951,7 +32171,7 @@
         },
         "fuéramos": {
           "translations": [
-            "let's go"
+            "we were"
           ]
         },
         "guisante": {
@@ -31981,7 +32201,8 @@
         }
       }
     },
-    "Subj 5": {
+    "7cc8390440e33d21d0ffac228d49fb1b": {
+      "name": "Subj 5",
       "words": {
         "subj51": {
           "translations": [
@@ -32005,7 +32226,8 @@
         }
       }
     },
-    "Got WiFi?": {
+    "fe0458bc9473dda962f4358c26e7a882": {
+      "name": "Got WiFi?",
       "words": {
         "adjuntar": {
           "translations": [
@@ -32059,7 +32281,8 @@
         }
       }
     },
-    "Fix It!": {
+    "fa93a5a6a67d940420b66d3b048db7e4": {
+      "name": "Fix It!",
       "words": {
         "antes de que": {
           "translations": [
@@ -32113,7 +32336,8 @@
         }
       }
     },
-    "Decor": {
+    "e7025263a42ee97d372465de6e9477e7": {
+      "name": "Decor",
       "words": {
         "bandeja": {
           "translations": [
@@ -32167,7 +32391,8 @@
         }
       }
     },
-    "Insurance": {
+    "6aabcafe25dad6a2b77b3b7450a4f9d4": {
+      "name": "Insurance",
       "words": {
         "atención médica": {
           "translations": [
@@ -32221,7 +32446,8 @@
         }
       }
     },
-    "Talk Show": {
+    "0090a052d5684f97d6f68cf4e3964aa9": {
+      "name": "Talk Show",
       "words": {
         "a continuación": {
           "translations": [
@@ -32275,7 +32501,8 @@
         }
       }
     },
-    "Celebrate!": {
+    "c1701bc866b11f56110fe610767a638a": {
+      "name": "Celebrate!",
       "words": {
         "atraer": {
           "translations": [
@@ -32329,7 +32556,8 @@
         }
       }
     },
-    "World News": {
+    "d78b42f3263402d4f4ab60372dfba4c9": {
+      "name": "World News",
       "words": {
         "británica": {
           "translations": [
@@ -32383,7 +32611,8 @@
         }
       }
     },
-    "Harvest": {
+    "c5b90de78930510a63bd283070ed11fc": {
+      "name": "Harvest",
       "words": {
         "arruinar": {
           "translations": [
@@ -32437,7 +32666,8 @@
         }
       }
     },
-    "Passive": {
+    "7222365e3e657c68e43b98a5c4612f08": {
+      "name": "Passive",
       "words": {
         "passive1": {
           "translations": [
@@ -32461,7 +32691,8 @@
         }
       }
     },
-    "Buy Now!": {
+    "3622d253b85b9a1dabf731769e375915": {
+      "name": "Buy Now!",
       "words": {
         "ahorra": {
           "translations": [
@@ -32515,7 +32746,8 @@
         }
       }
     },
-    "TV Chef": {
+    "955284705fe65cde039fa2c70ade171c": {
+      "name": "TV Chef",
       "words": {
         "batiendo": {
           "translations": [
@@ -32569,7 +32801,8 @@
         }
       }
     },
-    "Concerns": {
+    "a69f88dbb9437a351c7abdf64518f674": {
+      "name": "Concerns",
       "words": {
         "democracias": {
           "translations": [
@@ -32623,7 +32856,8 @@
         }
       }
     },
-    "Adventures": {
+    "ae2f07773b886cd28859ee562d219557": {
+      "name": "Adventures",
       "words": {
         "armar": {
           "translations": [
@@ -32677,7 +32911,8 @@
         }
       }
     },
-    "Jobs": {
+    "0dd69aade7ab48f6cace70e3b0aa9f3e": {
+      "name": "Jobs",
       "words": {
         "administración": {
           "translations": [
@@ -32731,7 +32966,8 @@
         }
       }
     },
-    "Neighbors": {
+    "92f2302a2ef31e70354cdb5ecc6050e9": {
+      "name": "Neighbors",
       "words": {
         "bigote": {
           "translations": [
@@ -32785,7 +33021,8 @@
         }
       }
     },
-    "Counsel": {
+    "5cc4710cdf6788e0814b39670e53e300": {
+      "name": "Counsel",
       "words": {
         "adolescencia": {
           "translations": [
@@ -32834,12 +33071,13 @@
         },
         "¿no crees?": {
           "translations": [
-            "don't you think?"
+            "don&#39;t you think?"
           ]
         }
       }
     },
-    "Subj 6": {
+    "6d008244598d8647a2a972b169b6a316": {
+      "name": "Subj 6",
       "words": {
         "subj61": {
           "translations": [
@@ -32863,7 +33101,8 @@
         }
       }
     },
-    "Patients": {
+    "3a54a85f3b56ed3aefd9ca88193370c3": {
+      "name": "Patients",
       "words": {
         "acostado": {
           "translations": [
@@ -32917,7 +33156,8 @@
         }
       }
     },
-    "Disbelief": {
+    "c225d0bb6b5d4a31dd07425e347f29fe": {
+      "name": "Disbelief",
       "words": {
         "esconder": {
           "translations": [
@@ -32971,7 +33211,8 @@
         }
       }
     },
-    "Surprise": {
+    "93adad6cbf2ae031fceb1d499e159ebd": {
+      "name": "Surprise",
       "words": {
         "calzoncillos": {
           "translations": [
@@ -33025,7 +33266,8 @@
         }
       }
     },
-    "Elementary": {
+    "61dd0c3ad9d7533708f8cb3125439e13": {
+      "name": "Elementary",
       "words": {
         "cartón": {
           "translations": [
@@ -33079,7 +33321,8 @@
         }
       }
     },
-    "Speculate": {
+    "195e79d7ece503529d2d1e012efd878e": {
+      "name": "Speculate",
       "words": {
         "asiático": {
           "translations": [
@@ -33133,7 +33376,8 @@
         }
       }
     },
-    "Animals": {
+    "bbf27dbfeed2a347e988f0b22b16b1d4": {
+      "name": "Animals",
       "words": {
         "acercarse": {
           "translations": [
@@ -33209,7 +33453,8 @@
     }
   },
   "10": {
-    "Gossip": {
+    "69aca7de6d87d11f58d399948507a32f": {
+      "name": "Gossip",
       "words": {
         "cambiarse de": {
           "translations": [
@@ -33263,7 +33508,8 @@
         }
       }
     },
-    "Work Chaos": {
+    "739f9b04fb6f44d7dd1e615d25ad24b7": {
+      "name": "Work Chaos",
       "words": {
         "absurdo": {
           "translations": [
@@ -33317,7 +33563,8 @@
         }
       }
     },
-    "Friends": {
+    "ad40eee57ff54f28059331d3284e25a8": {
+      "name": "Friends",
       "words": {
         "a principios de": {
           "translations": [
@@ -33371,7 +33618,8 @@
         }
       }
     },
-    "Defeat": {
+    "b30aaae1fd78be1ab36d06429af783e3": {
+      "name": "Defeat",
       "words": {
         "avergonzado": {
           "translations": [
@@ -33425,7 +33673,8 @@
         }
       }
     },
-    "Apologies": {
+    "30ba9eb9937c9415ece2680c1a7d30e3": {
+      "name": "Apologies",
       "words": {
         "atrasado": {
           "translations": [
@@ -33479,7 +33728,8 @@
         }
       }
     },
-    "University": {
+    "2b64c640d7ab6a2dc15aca2bcc8d8185": {
+      "name": "University",
       "words": {
         "a distancia": {
           "translations": [
@@ -33533,7 +33783,8 @@
         }
       }
     },
-    "Doctors": {
+    "48eb08251b5916401ec32ff5b06f4771": {
+      "name": "Doctors",
       "words": {
         "analgésico": {
           "translations": [
@@ -33587,7 +33838,8 @@
         }
       }
     },
-    "Big Plans": {
+    "1eab0c43acf0fcdfe89cd2ac8147ed87": {
+      "name": "Big Plans",
       "words": {
         "angustiado": {
           "translations": [
@@ -33641,7 +33893,8 @@
         }
       }
     },
-    "Kitchen": {
+    "4b13bab3c1f46fbe5cd6a9bcd4b46a8d": {
+      "name": "Kitchen",
       "words": {
         "abrelatas": {
           "translations": [
@@ -33695,7 +33948,8 @@
         }
       }
     },
-    "Aargh!": {
+    "7a2ca6b3f8b15c228b45efeda6ce873a": {
+      "name": "Aargh!",
       "words": {
         "cada": {
           "translations": [
@@ -33749,7 +34003,8 @@
         }
       }
     },
-    "Campaign": {
+    "a55eb4e3157f7620af9e4b08885308dd": {
+      "name": "Campaign",
       "words": {
         "acuerdo": {
           "translations": [
@@ -33803,7 +34058,8 @@
         }
       }
     },
-    "Traveling": {
+    "1cbfe9aa6d7887b6cc7a897c0ce405bb": {
+      "name": "Traveling",
       "words": {
         "albergue": {
           "translations": [
@@ -33852,12 +34108,13 @@
         },
         "no está nada mal": {
           "translations": [
-            "it's not bad at all"
+            "it&#39;s not bad at all"
           ]
         }
       }
     },
-    "Car Parts": {
+    "b9e1dcd57138efdc606b747fdf989c39": {
+      "name": "Car Parts",
       "words": {
         "animarse": {
           "translations": [
@@ -33911,7 +34168,8 @@
         }
       }
     },
-    "In-laws": {
+    "b06b49ba46d0ea190c90ce71ab4501d4": {
+      "name": "In-laws",
       "words": {
         "afortunado": {
           "translations": [
@@ -33965,7 +34223,8 @@
         }
       }
     },
-    "Back Then": {
+    "1180368738a9a8f4ecee0c764c633db7": {
+      "name": "Back Then",
       "words": {
         "castigar": {
           "translations": [
@@ -34019,7 +34278,8 @@
         }
       }
     },
-    "New Home": {
+    "71adbf06962e895ba7c08b3c821620fc": {
+      "name": "New Home",
       "words": {
         "adelanto": {
           "translations": [
@@ -34073,7 +34333,8 @@
         }
       }
     },
-    "Event Plan": {
+    "88be846ae8bb77e90f9006d94845829c": {
+      "name": "Event Plan",
       "words": {
         "casamiento": {
           "translations": [
@@ -34127,7 +34388,8 @@
         }
       }
     },
-    "Rushing": {
+    "b1fb6f958a1106f0231e9f0a94bff0df": {
+      "name": "Rushing",
       "words": {
         "bautismo": {
           "translations": [
@@ -34181,7 +34443,8 @@
         }
       }
     },
-    "Goodbye!": {
+    "c15cc980bdd9451f598b4d0f5ad970c4": {
+      "name": "Goodbye!",
       "words": {
         "atento": {
           "translations": [
@@ -34235,7 +34498,8 @@
         }
       }
     },
-    "Careers": {
+    "d4a163b7268199be011b7904b7417703": {
+      "name": "Careers",
       "words": {
         "asesoramiento": {
           "translations": [
@@ -34279,7 +34543,7 @@
         },
         "qué tal": {
           "translations": [
-            "how's it going"
+            "how&#39;s it going"
           ]
         },
         "tesis": {
@@ -34289,7 +34553,8 @@
         }
       }
     },
-    "Job Prep": {
+    "8f529c35a45aec10c667a832a1222874": {
+      "name": "Job Prep",
       "words": {
         "adaptarse": {
           "translations": [
@@ -34343,7 +34608,8 @@
         }
       }
     },
-    "Renovating": {
+    "2bd42a76f53a89c6aade7694924ccd02": {
+      "name": "Renovating",
       "words": {
         "bronce": {
           "translations": [
@@ -34397,7 +34663,8 @@
         }
       }
     },
-    "Our Planet": {
+    "3e459e8501cee10d4c74a0635a7b5bfc": {
+      "name": "Our Planet",
       "words": {
         "calentamiento": {
           "translations": [
@@ -34451,7 +34718,8 @@
         }
       }
     },
-    "Standards": {
+    "ffbe050200cf9f3df7f037bebd96ec7e": {
+      "name": "Standards",
       "words": {
         "confesar": {
           "translations": [
@@ -34505,7 +34773,8 @@
         }
       }
     },
-    "First Trip": {
+    "11d62d3b70b69b8c5bf59c444d707090": {
+      "name": "First Trip",
       "words": {
         "aún no": {
           "translations": [
@@ -34559,7 +34828,8 @@
         }
       }
     },
-    "Gotta go!": {
+    "8c47acb3d9994d806fd03505d7a37c28": {
+      "name": "Gotta go!",
       "words": {
         "aquí tiene": {
           "translations": [
