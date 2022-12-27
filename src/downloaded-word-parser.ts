@@ -2,8 +2,8 @@ import {
   DOMParser,
   Element,
 } from 'https://deno.land/x/deno_dom@v0.1.36-alpha/deno-dom-wasm.ts';
-import { ParsedCourse } from './interfaces.ts';
-class WordParser {
+import { DownloadResult, ParsedCourse } from './interfaces.ts';
+export default class DownloadedWordParser {
   htmlString: string;
   courseData: ParsedCourse;
   constructor(htmlString: string, courseData: ParsedCourse) {
@@ -11,23 +11,26 @@ class WordParser {
     this.courseData = courseData;
   }
 
-  parse() {
+  parse(): DownloadResult {
     const dom = new DOMParser().parseFromString(this.htmlString, 'text/html')!;
     const skillElements = dom.querySelectorAll(
       '.plain.list.paddedSkills > li.shift'
     );
-    const sections: Record<string, Record<string, any>> = {};
+    const result: DownloadResult = { sections: {}, skills: {}, units: {} };
     for (const skillEl of skillElements) {
       const skill = this.parseSkill(skillEl as Element);
-      if (!sections[skill.sectionNumber]) {
-        sections[skill.sectionNumber] = {};
+      if (!result.sections[skill.sectionNumber]) {
+        result.sections[skill.sectionNumber] = [];
       }
-      sections[skill.sectionNumber][skill.id] = {
-        name: skill.name,
+      result.sections[skill.sectionNumber].push(skill.id);
+      result.skills[skill.id] = {
+        skillName: skill.name,
         words: skill.words,
       };
+      result.units[skill.unitNumber] = result.units[skill.unitNumber] ?? {};
+      result.units[skill.unitNumber][skill.levelNumber] = skill.id;
     }
-    return sections;
+    return result;
   }
 
   parseSkill(skillEl: Element) {
@@ -68,8 +71,8 @@ class WordParser {
       sectionNumber: parsed.sectionNumber,
       words,
       id: parsed.id,
+      levelNumber: parsed.levelNumber,
+      unitNumber: parsed.unitNumber,
     };
   }
 }
-
-export default WordParser;

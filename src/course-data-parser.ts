@@ -8,6 +8,7 @@ class CourseDataParser {
 
   parse(): ParsedCourse {
     const sections = this.courseData.currentCourse.sections;
+    const units = this.courseData.currentCourse.path;
     let rowCount = 0;
     const result: ParsedCourse = {
       skills: {
@@ -32,6 +33,8 @@ class CourseDataParser {
             sectionNumber,
             shortName,
             urlName,
+            levelNumber: -1,
+            unitNumber: -1,
           };
           result.skills.byId[id] = parsedSkill;
           result.skills.byUrl[urlName] = parsedSkill;
@@ -39,6 +42,25 @@ class CourseDataParser {
         }
       }
       rowCount += section.numRows;
+    }
+
+    for (const unit of units) {
+      for (let leveli = 0; leveli < unit.levels.length; leveli++) {
+        const level = unit.levels[leveli];
+        if (level.type !== 'skill') continue;
+        const skillId =
+          level.pathLevelMetadata.skillId ??
+          level.pathLevelMetadata.anchorSkillId;
+        if (!skillId) {
+          for (const skillId of level.pathLevelClientData.skillIds) {
+            if (!result.skills.byId[skillId])
+              throw new Error(`Skill not defined ${skillId}`);
+          }
+        } else if (result.skills.byId[skillId].levelNumber < 0) {
+          result.skills.byId[skillId].levelNumber = leveli + 1;
+          result.skills.byId[skillId].unitNumber = unit.unitIndex + 1;
+        }
+      }
     }
 
     return result;

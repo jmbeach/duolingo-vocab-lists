@@ -34,6 +34,7 @@
       "request": "launch",
       "skipFiles": ["<node_internals>/**"],
       "type": "node",
+      "runtimeArgs": ["--allow-read", "--allow-env"],
       "args": [
         "src/index.ts",
         "download",

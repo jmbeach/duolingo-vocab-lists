@@ -1,7 +1,7 @@
-import WordParser from './wordparser.ts';
 import DuolingoClient from './duolingoclient.ts';
 import googleTranslate from './google-translate.ts';
 import CourseDataParser from './course-data-parser.ts';
+import DownloadedWordParser from './downloaded-word-parser.ts';
 
 export default class TranslationDownloader {
   htmlPagePath: string;
@@ -25,15 +25,15 @@ export default class TranslationDownloader {
       Deno.readTextFileSync(this.courseDataPath)
     );
     const courseData = new CourseDataParser(rawCourseData).parse();
-    const parser = new WordParser(fileBody, courseData);
+    const parser = new DownloadedWordParser(fileBody, courseData);
     const client = new DuolingoClient();
     const parsedCourse = parser.parse();
 
     const translate = async () => {
-      for (const partName in parsedCourse) {
-        const part = parsedCourse[partName];
-        for (const skillId in part) {
-          const skill = part[skillId];
+      for (const sectionName in parsedCourse.sections) {
+        const part = parsedCourse.sections[sectionName];
+        for (const skillId of part) {
+          const skill = parsedCourse.skills[skillId];
           for (const word in skill.words) {
             let translation;
             try {
@@ -58,9 +58,7 @@ export default class TranslationDownloader {
               ).data.data.translations.map(x => x.translatedText);
             }
             console.log(word, translation);
-            parsedCourse[partName][skillId].name = skill.name;
-            parsedCourse[partName][skillId].words[word].translations =
-              translation;
+            parsedCourse.skills[skillId].words[word].translations = translation;
           }
         }
       }

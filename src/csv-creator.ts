@@ -1,16 +1,20 @@
+import { DownloadResult } from './interfaces.ts';
+
 export default class CsvCreator {
-  jsonFilePath: string;
-  constructor(jsonFilePath: string) {
-    this.jsonFilePath = jsonFilePath;
+  translationFilePath: string;
+  constructor(translationFilePath: string) {
+    this.translationFilePath = translationFilePath;
   }
   create() {
-    const downloadData = JSON.parse(Deno.readTextFileSync(this.jsonFilePath));
-    const outFileBase = this.jsonFilePath.replace('.json', '') + '-';
-    for (const partName in downloadData) {
-      const part = downloadData[partName];
-      for (const skillName in part) {
+    const downloadData: DownloadResult = JSON.parse(
+      Deno.readTextFileSync(this.translationFilePath)
+    );
+    const outFileBase = this.translationFilePath.replace('.json', '') + '-';
+    for (const sectionName in downloadData) {
+      const section = downloadData.sections[sectionName];
+      for (const skillId in section) {
         let csvText = '';
-        const skill = part[skillName];
+        const skill = downloadData.skills[skillId];
         let isFirst = true;
         for (const word in skill.words) {
           const data = skill.words[word];
@@ -24,11 +28,11 @@ export default class CsvCreator {
           isFirst = false;
         }
 
-        const cleanedSkillName = skillName
+        const cleanedSkillName = skill.skillName
           .replace(/[?!,'\n.:\\/*<>|]/g, '')
           .replace(/[&]/g, 'and')
           .replace(/\s\s+/g, ' ');
-        const outFile = `${outFileBase}Part ${partName
+        const outFile = `${outFileBase}Part ${sectionName
           .replace(/[\n]/g, '')
           .trim()}-${cleanedSkillName}.csv`;
         Deno.writeTextFileSync(outFile, csvText);
