@@ -1,0 +1,6665 @@
+hola,hello
+adiós,goodbye
+gracias,thank you
+buenos días,good morning
+buenas noches,good night
+mucho gusto,nice to meet you
+sí,yes
+no,no
+perdón,excuse me
+por favor,please
+de nada,you're welcome
+lo siento,sorry
+hablo,I speak
+hablas,you speak
+español,Spanish
+inglés,English
+disculpe,excuse me
+madre,mom
+padre,dad
+inteligente,intelligent
+elegante,elegant
+tiene,she has
+carro,car
+casa,house
+hermano,brother
+hermana,sister
+muy,very
+perro,dog
+gato,cat
+bonito,pretty (m)
+grande,big
+esposo,husband
+esposa,wife
+apartamento,apartment
+abuelo,grandfather
+abuela,grandmother
+perfecto,perfect
+familia,family
+bicicleta,bicycle
+vivo,I live
+tienes,you have
+hijo,son (English)
+hija,daughter
+y,and
+interesante,interesting
+el,the
+hombre,man
+la,the
+mujer,woman
+yo,I
+un,a (English)
+una,one
+soy,I am
+niño,boy
+niña,girl
+él,he
+es,it is
+ella,she
+come,she eats
+tú,you
+eres,you are
+manzanas,apples
+pan,bread
+como,I eat
+comes,you eat
+agua,water
+leche,milk
+bebe,she drinks
+bebo,I drink
+bebes,you drink
+me llamo,my name is
+americano,American (male)
+americana,American (female)
+de,from
+estados unidos,United States
+España,Spain
+China,China
+estudiante,student
+mi,my
+nombre,name
+en,at
+dónde,where
+México,Mexico
+Cuba,Cuba
+cubano,Cuban
+cubana,Cuban
+mexicano,Mexican
+mexicana,Mexican (female)
+restaurante,restaurant
+mesa,table
+personas,people
+para,for
+uno,one
+dos,two
+tres,three
+sándwich,sandwich
+de,of
+carne,meat
+pescado,fish
+queso,cheese
+hamburguesa,hamburger
+con,with
+café,coffee
+vaso,glass
+taza,cup
+azúcar,sugar
+sin,without
+naranja,orange
+jugo,juice
+cuenta,check
+quiero,I want
+pagar,to pay
+ensalada,salad
+tomate,tomato
+sal,salt
+o,or
+clase,class
+examen,exam
+fácil,easy
+libro,book
+bolígrafo,pen
+escuela,school
+maestro,teacher
+pregunta,question
+difícil,difficult
+problema,problem
+estudiar,to study
+leer,to read
+escribir,to write
+estudio,I study
+mucho,a lot
+importante,important
+escribo,I write
+leo,I read
+comprendo,understand
+universidad,university
+medicina,medicine
+estudias,you study
+profesor,professor
+escribes,you write
+lees,you read
+computadora,computer
+ropa,clothes
+tienda,store
+camisa,shirt
+verde,green
+azul,blue
+chaqueta,jacket
+vestido,dress
+sombrero,hat
+gris,gray
+marrón,brown
+comprar,to buy
+camiseta,t-shirt
+este,this
+falda,skirt
+abrigo,coat
+rojo,red
+caro,expensive
+barato,cheap
+ese,that
+diferente,different
+favorita,favorite
+cómoda,comfortable
+cartera,purse
+reloj,watch
+regalo,gift
+demasiado,too much
+cinturón,belt
+pasaporte,passport
+maleta,suitcase
+taxi,taxi
+teléfono,phone
+necesito,I need
+hotel,hotel
+tengo,I have
+reserva,reservation
+en,in
+está,is located
+aquí,here
+aeropuerto,airport
+autobús,bus
+tren,train
+dinero,money
+boleto,ticket
+a,at
+tu,your
+supermercado,supermarket
+baño,bathroom
+cerrado,closed
+banco,bank
+calle,street
+hospital,hospital
+museo,museum
+cada,"each, every"
+constante,"constant, constant feature, even"
+conteste,answer
+criticar,critics
+disculpado,"(I/he/she/it/you) would apologize, (I/he/she/it/you) would excuse"
+distraído,distracted
+hacer enojar,piss off
+poner de,put of
+quieto,quiet
+regañar,"(to) sell things at bargain prices, (to) sell … at bargain prices, give"
+atrasado,late
+cualquier,"any, anything"
+es que,the thing is
+estresar,"released, wore for the first time"
+forma,"fit, shape"
+imprescindible,essential
+ocurrírsele,come up with
+perdóname,excuse me
+solucionar,"solutions, (you) be resolved, (you) resolve"
+tranquilizar,"tranquility, peace, quiet"
+castigar,punish
+de otra manera,otherwise
+fantasía,fantastic
+habría,"would, have, had"
+niñez,childhood
+obediente,obedient
+pasar el rato,hang out
+prohibir,prohibits
+travieso,naughty
+época,"period, time, time of year"
+angustiado,distressed
+ayudara,"help, (to) help"
+limpieza,"dexterity, clean-up operation, cleanness"
+madrugar,"dawn, daybreak"
+preparado,"prepared, brewed, coached"
+proponer matrimonio,propose marriage
+sentimental,sentimental
+tener planeado,have planned
+toda la mañana,all morning
+viviera,"(I/he/she/it/you) live, (I/he/she/it/you) be alive"
+acuerdo,(I) remember
+aumentara,"(to) increase, (to) rise, (to) raise"
+defender,"(to) defend, (to) defend oneself, (to) uphold"
+discriminación,discrimination
+fundamental,"fundamental, essential, basics"
+inmigrante,immigrant
+líder,leader
+no tener por qué,not have why
+voto,"(I) vote, (I) vote for, (I) vote to approve"
+animarse,Buck up
+atascado,stuck
+atravesar,cross
+avanzar,"(to) draw on, (to) wind on, move"
+descomponer,decompose
+detenerse,"stop, (to) stop (me), (to) arrest (me)"
+grúa,crane
+pantano,singer
+remolcar,tow
+taller,"garage, repair shop, workshop"
+asesoramiento,advice
+capacitar,"abilities, capacities"
+compañero,"classmate, coworker"
+competente,competitions
+consejero,"counselor, adviser, advisor"
+doctorado,doctorate
+estudios,"studies, studios"
+puesto,"put, (I) have on, (she) has on"
+qué tal,"how about, how, (?) how are you"
+tesis,"thesis, theory, theses (pl.)"
+avergonzado,"embarrassed, ashamed, been ashamed (of oneself)"
+debí haber,I should have
+entrenar,"training, (to) train, (to) coach"
+fallar,"fail, (we) fail, (we) award"
+fan,fan
+lamentar,"(to) complain, (to) regret, (to) grumble"
+motivación,motivation
+semifinal,semifinal
+trofeo,trophy
+una vez más,one more time
+me gusta,(I) like
+a mí me gusta,I like it
+me dice,"(he/she/it)  says (me), tells me, (he/she/it)  thinks (me)"
+están ricos,They are tasty
+está rico,It's good
+están ricas,they are rich
+a mí me,to me
+rica,"rich, tasty, wealthy"
+rico,"rich, delicious, tasty"
+ricos,"rich, delicious, tasty"
+ricas,"delicious, rich, tasty"
+gramos,"grams, g"
+te gustan,(?) do you like
+a ti te gustan,you like them
+estoy seguro,I'm sure
+estoy segura,I'm sure
+estás seguro,you're sure
+están seguros,are you sure
+estás segura,are you sure
+está segura,is sure
+te dicen,they tell you
+es seguro,It is safe
+es segura,is safe
+son seguros,They're safe
+a ti te,to you
+centímetros,"centimeters, cm"
+le gusta,"(she) likes, (he) likes, (?) does he like"
+a ella le gusta,she likes
+estamos listos,we are ready
+estoy listo,I'm ready
+está listo,ready
+están listos,they are ready
+estoy lista,I'm ready
+estás lista,are you ready
+están listas,they are ready
+le doy,I give
+a ella le,she
+listas,ready
+listo,"ready, smart"
+listos,"ready, smart"
+lista,"list, ready, smart"
+profesores,professors
+profesor,"professor, teacher"
+profesora,"teacher, professor"
+profesoras,"professors, lecturers, schoolteacher"
+le gustan,"(?) does she like, (he) likes"
+a él le gustan,he likes them
+le das,"(you)  give (him/her/it), (you)  administer (him/her/it), (you)  deal (him/her/it)"
+a él le,to him
+verdes,"green, unripe"
+verde,"green, unripe"
+recta,straight
+recto,straight
+rectas,straight
+es verde,it's green
+son verdes,they are green
+analgésico,analgesic
+bronquitis,bronchitis
+contagiarse,catch
+debería haber,there should be
+muleta,"suitcase, bag, bags"
+podría haber,could have
+termómetro,thermometer
+torcer,"born, twists"
+traumatólogo,traumatologist
+únicamente,"only, solely"
+casamiento,"marriage, wedding"
+convención,convinced
+decidido,decided
+entretener,"fun, entertained"
+entretenido,"fun, entertained"
+inaugurado,inaugurated
+inaugurar,inaugurate
+planificado,"(to) plan, (to) draw up a plan for, plan"
+planificar,"(to) plan, (to) draw up a plan for, plan"
+qué bien,that's great
+supongo,(I) suppose
+suponemos,"assume, (we) suppose, (we) mean"
+sucederá,"(he/she/it/you) will happen, (he/she/it/you) will succeed, (he/she/it/you) will follow"
+sucederán,will happen
+construyes,"(you) build, (you) construct"
+construyen,"(they/you-plural) build, (they/you-plural) construct"
+construye,"(he/she/it) constructs, (you-formal) build, (he/she/it) builds"
+construyo,"(I) construct, (I) build"
+construimos,"(we) build, (we) construct, (we) constructed"
+amé,"love, (I) loved, (I) made love"
+amamos,"(we) love, loved"
+amaste,(you) loved
+amó,"(he/she/it/you) loved, (he/she/it/you) made love, love"
+amaron,"loved, love"
+decía,(they) said
+decíamos,"(we) were saying to oneself, (we) used to say to each other, (we) were saying to each other"
+decías,"(you) used to say, (you) were thinking, said"
+decían,"(they/you-plural) were saying to oneself, said, saying"
+mantengo,"(I) keep up, run, (I) support"
+mantienes,"run, (you) keep up, (you) have"
+mantienen,"(they/you-plural) support, (they/you-plural) maintain, (they/you-plural) support / maintain / keep oneself"
+mantiene,"(he/she/it) supports, (you-formal) maintain, (he/she/it) supports / maintain / keep oneself"
+mantenemos,"run, (we) maintain, support"
+mantener,"(to) keep, (to) support, (to) keep up"
+incluye,"(he/she/it) includes, include!, (you-formal) include"
+incluyo,"(I) enclose, (I) include, (I) contain"
+incluyes,(you) include
+incluyen,"(they/you-plural) include, (they/you-plural) enclose, (they/you-plural) contain"
+incluimos,(we) are including
+golpear,"hitting, (to) hit"
+golpeas,"(you) bang, beat, (you) hit"
+golpea,(you) hit
+destruirá,will destroy
+destruir,(to) destroy
+destruirán,(they) will destroy
+deliciosa,"delightful, delicious, exquisite"
+deliciosos,delicious
+delicioso,delicious
+murió,"(he) died, (she) died, die"
+individuales,"individuals, singles, isolated"
+individual,"individual, character"
+destruyes,(you) are destroying
+destruyen,(they) destroy
+destruyo,(I) am destroying
+destruye,(he) destroys
+destruimos,"(we) destroyed, (we) destroy"
+dejamos,"let, (we) let, (we) allowed"
+dejé,"(I) left, (I) stopped"
+dejaba,"let, (I/he/she/it/you) used to let, (I/he/she/it/you) used to leave"
+deja,"(she) lets, (you) put down, (you) stop"
+dejado,"left, let, abandoned"
+dejaron,"(they) left, (they) stopped"
+dejaste,"leave, (?) did you leave, (you) left"
+dejo,"let, leave, (I) leave"
+dejando,"leaving, letting, abandoning"
+dejan,"let, (they/you-plural) let, (they/you-plural) abandon"
+dejó,"(?) did he leave, (he) left, (he) stopped"
+dejar,"let, (to) leave, (to) allow"
+podía,"(he) could, (it) might, might"
+podían,"could, (they/you-plural) was/were able to, (they/you-plural) were being able to"
+sabías,"(you) used to know, (you) tasted, (you) knew"
+sabían,(they) knew
+sabía,"(he) knew, (she) knew"
+puestas,"wear, wears"
+puestos,"places, positions, jobs"
+puesta,"places, positions, jobs"
+costó,"(?) did it cost, (it) cost"
+costaron,"(they) cost, (?) did they cost"
+muchacho,"boy, guy, kid"
+muchachos,"boys, kids, guys"
+muchacha,"girl, lass, young girl"
+muchachas,"young girls, girls"
+soñamos,"(we) dream, (we) dreamed/dreamt"
+soñó,(she) dreamed
+soñaron,(they) dreamed
+soñaste,(?) did you dream
+soñé,(I) dreamed
+matar,"kill, (to) kill, (to) kill oneself"
+mató,"kill, killed"
+matarán,cover
+mataré,(I) will kill
+aún no,not yet
+botiquín,first aid kit
+cambiar de idea,change of idea
+ganar tiempo,gain time
+guardado,kept
+me dices,you tell me
+pasar,"(to) pass, (to) spend, happen"
+que yo sepa,far as I know
+recorrido,"flew, walked, were they going"
+tener confianza,have confidence
+a principios de,at the beginning of
+apenado,sorry
+de toda la vida,lifelong
+editor,dedito
+forma de ser,way of being
+imaginarse,"(to) imagine (them), (to) come up with (them), (to) think up (them)"
+memoria,"memory, memoirs, report"
+puntualmente,promptly
+rumor,"voices, rumor, rumors"
+tacaño,"close, closed"
+atento,attentive
+chau,"bye-bye, bye, goodbye"
+de mi parte,from my part
+función,"show, performance, function"
+gafas,glasses
+hasta pronto,"I'll see you soon, See you soon"
+nuera,daughter in law
+recepción,"receipt, reception"
+saludos,"greetings, salutes, hello"
+trillizo,triplet
+aquí tiene,here you go
+audición,audition
+gran,"great, big, large"
+guion,script
+inauguración,opening
+inversión,"investment, inversion, reversal"
+negociar,deal
+que,"to, that, than"
+tarjeta,card
+tomar por sorpresa,take by surprise
+tendrán,"have, (?) will they be having, had"
+tendré,"have, (I) will have, keep"
+tendremos,"have, (we) will have"
+tendrá,"(he) will have, he'll have"
+pondrán,"(they/you-plural) will pay, (they/you-plural) will post, (they/you-plural) will mail"
+pondrás,"(?) will you put, (you) will put"
+pondrá,(she) will put
+pondremos,(we) will put
+tendrás,"(you) will have, (you) will be, you'll be"
+importo,"(I) import, (I) matter, (I) amount to"
+importamos,"(we) amount to, (we) imported, (we) came to"
+importan,"(they/you-plural) import, (they/you-plural) matter, (they/you-plural) amount to"
+importaba,matter
+importará,matter
+importa,"(?) do they mind, (?) do you mind, (?) does she mind"
+pondré,"give, (I) will put in, (I) will post"
+trasero,"can, back"
+trasera,back
+vivos,"alive, bright, brights"
+vivas,"(you) live, (you) cheer, (you) be alive"
+viva,"live, alive, live!"
+vivo,"(I) live, bright"
+saldrán,"go, (they) will leave"
+saldrá,"(she) will go out, (he) will leave"
+vendremos,"come, (we) will come, (we) will arrive"
+vendrá,"(he) will be coming, (he) will come, (she) will be coming"
+vendrás,"call, (you) will arrive, come"
+saldremos,"go, we will leave"
+arriba,"upstairs, up"
+abajo,"down, downstairs, below"
+de todas maneras,"in any case, anyway"
+haremos,"(we) will make, (we) will do, cook"
+hará,"will, (he/she/it/you) will make, (he/she/it/you) will make out"
+haré,"(I) will do, (I) will make, (I) will be doing"
+harán,"(they/you-plural) will do, (they/you-plural) will become, (they/you-plural) will work"
+dirán,"say, will say, give"
+diré,"(I) will say, (I) will tell"
+dirás,"(you) will say, give, read"
+dirá,"say, (he/she/it/you) will say, (he/she/it/you) will say to oneself"
+tal como,such as
+habrá,"there will be, will be"
+gabinetes,cabinets
+gabinete,cabinet
+lavaplatos,"dishwasher, sink"
+techo,"ceiling, roof"
+techos,"ceiling, roof"
+sabrán,"(they/you-plural) will taste, (they/you-plural) will know, know"
+sabré,"know, (I) will know, (I) will taste"
+sabremos,"(we) will taste, know, (we) will know"
+sabrás,"(you) will know, know, (you) will taste"
+sabrá,"(he) will know, he'll know"
+podrás,"(you) will be able to, you'll be able to"
+podrá,"(he/she/it/you) will be able to, may"
+podré,"(I) will be able to, can"
+podrán,"(they/you-plural) will be able to, (they/you-plural) will be capable of"
+podremos,"can, we can, (we) will be able to"
+cuadrada,"square, balanced, breve"
+cuadrados,"square, squares"
+cuadradas,square
+cuadrado,square
+redondas,round
+redondo,"round, round-trip, round (of beef)"
+redonda,"round, round-trip, Roman character"
+redondos,"round-trip, round (of beef), round"
+pantalla,screen
+juego,"game, (I) play, games"
+frente,"front, brow, facade"
+afortunado,"happy, lucky, fortunate"
+cariño,"babe, honey, dear"
+convivir,"live together, live with, we have lived"
+en familia,in family
+inesperadamente,unexpectedly
+inesperado,unexpected
+organizador de bodas,wedding planner
+según,"according to, it depends, as"
+tenso,"(you) present, those present, present tense"
+tratar,"(to) try, (to) treat, try"
+adaptarse,adapt
+detalle,"detail!, (I/he/she/it/you) detail, (I/he/she/it/you) go into detail"
+empleador,employer
+formación,"formation, education, order"
+gestionar,"running, management, administration"
+graduarse,graduate
+investigador,"researcher, investigator, research"
+previo,previous
+redactar,"draw up!, (he/she/it) draws up, (he/she/it) writes"
+requerir,meet the requirements
+abrelatas,can opener
+almendra,"almonds, kernel"
+batidora,blender
+frambuesa,raspberry
+igual que,like
+legumbre,"legume, vegetables, pulses"
+licuadora,blender
+nutritivo,nutritious
+picadora,"bit, bite"
+picar,"(to) bite, snack, (to) snack"
+nubes,"films, swarms, clouds"
+nube,"cloud, film, swarm"
+cielo,"sky, heaven"
+tormentas,"frenzy, storms"
+tormenta,storm
+impermeable,"raincoat, raincoats"
+condujo,"(he) drove, drive"
+conduje,"drive, (I) drove"
+condujiste,(?) did you drive
+condujimos,(we) drove
+condujeron,"(they) rode, (they) drove"
+llovía,it was raining
+lloverá,will rain
+nevará,"(?) will it snow, (it) will snow"
+nevaba,it was snowing
+pantalones cortos,shorts
+niebla,fog
+ruedas,"wheels, tires, (you) roll"
+ruidosa,"noisy, loud, much talked-about"
+ruidosos,"noisy, much talked-about"
+ruidoso,"noisy, loud, much talked-about"
+quitarse,"to take off, come, comes"
+quitarnos,(to) take off
+quitarte,(to) take off
+quitarme,"(?) do I need to take off, (to) take off"
+inusual,unusual
+temperaturas,temperatures
+temperatura,"temperature, a temperature"
+grado,"grade, degree"
+grados,"degrees, forms, grades"
+bajo,"under, low, short"
+bajas,"short, low"
+bajos,"short, low"
+baja,"low, short, (she) gets off"
+especialmente,especially
+cubrir,"(to) cover, (to) take cover, (to) cover oneself"
+cubrieron,(they) covered
+cubre,"cover!, (you-formal) cover, take cover!"
+cubrió,"served, (she) covered"
+aire,"air, draft, draught"
+quizás,"maybe, perhaps, might"
+navegará,sail
+navegaré,(I) sail
+navegaremos,(we) sail
+navegarán,(they) sail
+patadas,"kick, jolt, shock"
+patada,"kick, jolt, shock"
+pesqué,(I) fished
+acamparé,(I) will camp
+acamparán,(they) will camp
+acamparemos,(we) will camp
+descansarán,(they) will rest
+descansaré,(I) will rest
+descansaremos,(we) will rest
+se quita,takes off
+nos quitamos,we take off
+se quitan,(they) take off
+me quito,"(I)  take off, (I)  get … out, (I)  remove"
+pescaron,"got, fish, get"
+pescamos,"catch, got, fish"
+pesca,fishing
+pescó,"got, get"
+salta,"(he/she/it) jumps, (he/she/it) jumps over, get the shove / chop!"
+saltan,"(they/you-plural) jump, (they/you-plural) jump over, (they/you-plural) leap"
+salto,"(I) jump, dive, (I) jump over"
+adelanto,"forward, bring forward!, move forward!"
+agente inmobiliario,real estate agent
+alcanzar,"catch, (to) catch, (to) catch up with"
+dúplex,duplex
+en alquiler,for rent
+hipoteca,mortgage
+mudarse,move
+propiedad,"property, estate"
+ático,penthouse
+ía,ía
+calentamiento,"warming, warm-up"
+de lo que,of what
+global,"global, blanket, comprehensive"
+impacto,"impact, (I) have a profound impact on, (I) hit"
+mayor,mayor
+por otro lado,Secondly
+por un lado,on the one hand
+sobrepoblación,overpopulation
+superior,"superior, better, higher"
+urbano,"urban, city, local"
+bronce,"(I) tan, (I) bronze, (I) get a tan / a suntan"
+como mínimo,As minimum
+de ancho,Wide
+flojo,"poor, lazy, lazy toad"
+iluminación,illumination
+interruptor,we interrupt
+lavadero,washing machines
+mármol,marble
+pulgada,inch
+repare,repair
+ofrezco,"(I) offer, (I) am offering"
+corredor,"runner, hall"
+corredores,runners
+ofrecer,"(to) offer, (to) offer up, (to) present"
+ofreció,"(?) did he offer, (he) offered, (she) offered"
+ofrecen,give
+ofreciendo,"offering, offering up, giving"
+ofrecerá,"(he/she/it/you) will offer, (he/she/it/you) will offer up, (he/she/it/you) will give"
+ofrece,(he) offers
+ofrecemos,"(we) offer, (we) offer up, (we) throw"
+ofreces,"(you) offer, (you) offer up, (you) present"
+bébela,(you) drink it
+bébelos,(you) drink them
+bébelo,(you) drink it
+límpialos,(you) clean them
+límpiala,(you) clean it
+límpialas,(you) clean them
+límpialo,(you) clean it
+aviso,"notice, (I) call, ad"
+visita,"visit, (he) is visiting, (he) visits"
+visitas,"visits, (?) are you visiting, (you) visit"
+dime,(you) tell me
+crema,cream
+uvas,grapes
+uva,grape
+me puedes decir,can you tell me
+llenar,"(to) fill, (to) fill out, fill"
+llena,"full, (you) fill out, crowded"
+llenamos,"(we) fill, (we) fill in, (we) fill out"
+llené,"(I) filled, satisfied"
+llenaré,"(I) will fill out, I'll fill out"
+llenaste,satisfied
+lleno,"full, (I) fill"
+llenas,"full, (you) fill, (you) fill out"
+deseo,"wish, (I) wish, (I) want"
+deseos,"wishes, desires"
+dame,(you) give me
+me puede decir,can you tell me
+guardé,save
+guardó,"(he) kept, (she) kept, (she) saved"
+guardar,"(to) keep, (to) save, bored"
+guardas,"(?) do you keep, (you) save, (you) keep"
+guardaste,"(you) kept, save, (?) did you save"
+guardo,"keep, (I) keep, (I) observe"
+dámelas,give them to me
+dámelo,give it to me
+dámelos,give them to me
+dámela,give it to me
+pásamelo,pass it to me
+pásamelos,pass them to me
+pásamela,pass it to me
+pásamelas,pass them to me
+deseas,"(?) do you wish, (you) wish"
+deseamos,"We, (we) wish, (we) wanted"
+deseando,desire
+desea,"want, (he/she/it) desires, (he/she/it) wants"
+desean,"(they) want, (they) wish, (?) do they wish"
+agradecemos,(we) thank
+agradecer,(to) thank
+agradezco,"(I) thank, thank"
+tráemelo,bring it to me
+tráemelas,bring them to me
+tráemela,bring it to me
+tráemelos,bring them to me
+dímelo,say it to me
+pedir prestado,"borrowed, (to) borrow, borrow"
+tocamos,"(we) touch, (we) are touching, (we) play"
+tocar,"(to) play, playing, (to) touch"
+tocaron,"touch, (they) played, (?) did they play"
+tocabas,"(?) were you playing, (you) were playing, played"
+tocaba,"(I) was playing, (he) played, (he) used to play"
+tocas,"play, touch, (you) play"
+toco,"(I) touch, (I) play, (I) feel"
+tocado,"played, touched"
+toca,"(?) does he play, (he) plays, (it) is playing"
+tocaste,"(you) touched, play, played"
+tocan,"touch, (?) do they play, (they) are playing"
+tocaban,(they) were playing
+tocando,"playing, touching"
+tocó,"(he) played, (she) played"
+tocábamos,"(we) were playing, played"
+toqué,"(I) touched, (I) played, play"
+conduzco,(I) drive
+hacia,"to, towards, a"
+pusimos,"put, (we) put, (we) put on"
+supimos,"(we) knew, knew, told"
+parte de atrás,back
+empujando,pushing
+empujar,(to) push
+lanza,"(he/she/it) drops, (he/she/it) launches, spear"
+lanzamos,"(we) give, (we) dropped, (we) throw"
+lanzaste,"(?) did you throw, (you) threw"
+lanzó,"(he/she/it/you) threw, (he/she/it/you) threw oneself, (he/she/it/you) threw up"
+lanzaré,"drive, introduce"
+lanzas,(you) throw
+lanzar,(to) throw
+lancé,"(I) threw, throw"
+díselo,tell
+pusieron,"(they/you-plural) put, (they/you-plural) paid, (they/you-plural) took"
+supieron,"know, (they/you-plural) knew, (they/you-plural) tasted"
+contra,against
+devuelve,"give back!, (you-formal) give back, come back!"
+devuelves,return
+devuelven,"(you) return, (you) are returning"
+devuelvo,"I return, return"
+devolvemos,"We return, return"
+dáselo,Give it
+medio,"middle, half"
+salga,"leave, leaves"
+incluir,"takes, includes, write"
+dígame,"say to oneself (me)!, say (me)!, say to each other (me)!"
+dígamelo,(you) say it to me
+esperan,"(they) are waiting for, (they) wait for"
+esperaba,"(I/he/she/it/you) was/were waiting for, (I/he/she/it/you) was/were waiting, (I/he/she/it/you) was/were expecting"
+esperar,"(to) wait, (to) hope, wait"
+espera,"(she) hopes, (she) is waiting for, (you) wait"
+esperabas,"(you) awaited, (you) held on, (you) used to hope"
+esperaste,"(you) waited for, (?) did you wait, wait"
+esperamos,"(we) hope, (we) are waiting, (we) waited"
+esperé,(I) waited
+esperábamos,"(we) used to expect, (we) used to be expecting, (we) used to await"
+esperas,"(you) meet, (you) are expecting, trust"
+esperaré,"(I) will wait, I'll wait, keep"
+esperaron,(they) waited
+espero,"(I) hope, (I) am waiting for, (I) wait"
+esperó,"(she) waited for, (he) waited, (you) waited"
+hala,pull
+halar,pull
+círculo,"circle, round"
+círculos,circles
+venga,"come, come!, (I/he/she/it/you) come"
+graba,(you) record
+grabando,recording
+grabo,(I) record
+grabó,"cut, made"
+grabar,"recording, (to) record"
+déselo,give it to them
+molesta,"(you-formal) upset, (you-formal) disturb, (you-formal) bother"
+molestar,"bother, put"
+molesto,"(I) am a nuisance, (I) bother, (I) disturb"
+molestas,upset
+molestan,bother
+dígaselo,(you) say it to them
+repiten,repeat
+repito,(I) repeat
+repites,"repeat!, (I/he/she/it/you) repeat, (I/he/she/it/you) do … again"
+repite,"(you) repeat, (he) repeats"
+repetimos,repeat
+bautismo,baptism
+claro que sí,of course
+clase,"class, classroom, classes"
+darse prisa,hurry up
+lo lamento,I'm sorry
+partida,"departure, batch, broken"
+quedar,"(to) stay, (to) get together, keep"
+recoger,"(to) pick, (to) pick up, (to) clear up"
+siempre que,"whenever, as long as"
+yerno,son-in-law
+a la venta,for sale
+colección,collection
+costo,"cost, costs, hash"
+suficiente,enough
+lana,"wool, cash, dough"
+escojo,(I) choose
+escogiste,you chose
+escoger,"(to) choose, (to) pick, choose"
+escogió,pick
+escogieron,(they) took
+escoges,"(you) choose, pick"
+escogerás,(?) will you choose
+trozos,pieces
+trozo,"slice, piece"
+oferta,"offer, sale"
+salchicha,sausage
+salchichas,"sausages, sausage"
+mitad,"half, middle"
+propina,tip
+qué le gustaría para empezar,what would you like to start with
+gustarían,"liked, would like, like"
+pc,pc
+mezclar,"mixing, mix, (to) mix"
+mezcla,"(he) mixes, (you) mix"
+mezclan,"(they/you-plural) blend, (they/you-plural) get … mixed up, (they/you-plural) mix"
+mezclo,"(I) mix, (I) mix up, (I) merge"
+pagaré,"pay, (I) will pay, (I) will pay for"
+pagando,"paying, paying for, paying off"
+pagué,"pay, paid, I paid"
+pagado,paid
+sin embargo,"yet, although, however"
+quedarme con,stay with
+quedarte con,stay with
+quedarse con,"keep, stay"
+qué te traigo,what do I bring you
+seguras,"safe, sure"
+seguro,"sure, safe"
+segura,"safe, sure"
+seguros,"safe, self-confident, self-assured"
+me lo quedo,I'll take it
+agregué,"add, (I) added"
+descuento,"deal, discount"
+nos quedamos con,we stay with
+me quedo con,I prefer
+se queda con,you stay with
+te quedas con,you stay with
+se quedaron con,they stayed with
+se quedó con,he stayed with
+nos quedaremos con,we will stay with
+te quedarás con,you will stay with
+me quedaré con,I will stay with
+devolver,"returning, (to) give back, (to) return"
+qué le traigo,what do I bring you
+agregar,"add, (to) add, put"
+agrega,"(you-formal) add, (he/she/it) adds, add!"
+agregaré,(I) will add
+agrego,add
+me cae bien,I like (him/her/it)
+felicitaciones,congratulations
+asaremos,(we) will grill
+asarás,(?) will you grill
+asaré,(I) will grill
+asará,(she) will grill
+asarán,(they) will grill
+nos amamos,we love each other
+se amaron,they loved
+se amaban,they loved
+se aman,they love each other
+musicales,"musical, Music"
+musical,"musical, music"
+nos besaremos,we will kiss
+se besan,(they/you-plural)  kiss
+se besaron,they kissed
+nos besamos,we kissed
+instrumento,"instrument, musical instrument, (I) implement"
+instrumentos,"instruments, musical instruments, means"
+nos ayudamos,we help us
+se ayudaron,they helped each other
+se ayudan,they help each other
+me cae mal,I don't like him
+desde,"from, since, as"
+picando,snacking
+rebanadas,slices
+rebanada,slice
+nos conocemos,"(we) know each other, (we)have known each other"
+se conocen,they know each other
+el uno al otro,each other
+pertenezco,belong
+pertenecer,"(to) belong, belong, belonging"
+perteneces,(you) belong
+pertenece,"(?) does it belong, (it) belongs, belong"
+soul,"soul, souls, core"
+escenario,stage
+envía,"(you-formal) send, (he/she/it) dispatches, (you-formal) dispatch"
+envío,"(I) dispatch, (I) send, remittance"
+envían,(they) send
+envías,(you) send
+enviamos,(we) sent
+nos escribimos,we write
+se escriben,(they/you-plural)  write
+esquías,(you) ski
+esquía,(she) skis
+esquío,(I) ski
+esquiamos,we ski
+esquían,(they) ski
+mejor,"better, best, instead"
+ajo,garlic
+en línea,online
+parlantes,speakers
+se abrazan,they hug
+nos abrazamos,We hug
+se abrazaron,They embraced
+nos odiamos,we hate each other
+se odian,they hate each other
+se odiaron,they hated each other
+confesar,"answer, got, getting"
+darse por vencido,give up
+despido,shot
+fijo,"firm, flat, land"
+hora extra,overtime
+incompetente,incompetent
+indemnización,compensation
+supersticioso,superstitious
+susceptible,susceptible
+traer suerte,bring luck
+extranjeros,"foreigners, foreign"
+extranjero,foreign
+metros,"meters, subways, rulers"
+metro,"subway, meter, meters"
+efectivo,cash
+ascensor,elevator
+ascensores,elevators
+cancelaciones,cancellations
+cancelación,cancellation
+cruzar,"(to) cross, cross, crossing"
+cruzamos,"(we) went across, (we) go across, (we) came across"
+cruzaste,"cross, (?) did you cross"
+cruzaron,(they) crossed
+cruzan,(they) are crossing
+crucé,"(I) crossed, cross"
+fila,line
+neumático,"tire, pneumatic, tyre"
+neumáticos,tires
+contacté,(I) contacted
+contactó,(she) contacted
+contactar,"(to) contact, contact"
+contactaron,(they) contacted
+contacto,"contact, contacts"
+contactaste,(?) did you contact
+indicaciones,directions
+escalar,"climbing, (to) climb, climb"
+escalaron,"climbed, (they) climbed"
+escalaremos,we'll climb
+escalaste,"(?) did you climb, climb, (you) climbed"
+perdía,"(I/he/she/it/you) used to get into trouble, (I/he/she/it/you) ran, (I/he/she/it/you) missed"
+perdíamos,"(we) used to fade, (we) used to disappear, (we) were disappearing"
+perdimos,"(we) lost, (?) did we miss, (we) missed"
+pierden,"(they) are losing, (they) lose"
+perdí,"(I) lost, (I) got lost, (I) missed"
+pierdo,"(I) lose, (I) get lost, (I) fade"
+perdiste,"(you) lost, (?) did you lose, (you) missed"
+perderemos,"(we) will miss, lost"
+perdemos,"(we) lose, (we) miss"
+perdieron,(they) lost
+pierde,(he) loses
+pierdes,(you) lose
+perdió,"(?) did he lose, (?) did she lose, (?) did she miss"
+maneras,"ways, manner, manners"
+manera,"way, manner, so that"
+tráfico,traffic
+volamos,"(we) flew, (we) fly"
+alquiler,rent
+cinturones,belts
+subimos,"climbed, (we) climbed, (we) upload"
+subir,"up, (to) get on, (to) get in"
+sube,(you) go up
+subieron,"rose, up, (?) did they get on"
+subido,"walked up, climbed, deep"
+subió,"(he/she/it/you) took / turn up, (he/she/it/you) raised, (he/she/it/you) took up office/one's post"
+subes,up
+subí,"(I) went up, (I) was/were produced, get on!"
+subiste,"rose, up"
+almohada,pillow
+almohadas,pillows
+vuelan,"(they/you-plural) fly, (they/you-plural) up in the air, (they/you-plural) evaporate"
+vuela,(he) flies
+vuelas,"(you) go crazy, (you) play hooky, (you) escape"
+vuelo,"flight, (I) fly"
+volando,flying
+este,"this, east"
+pilas,"fountains, sinks, piles"
+pila,"battery, basin, bowl"
+plata,silver
+botas montañeras,mountaineering boots
+tenemos prisa,we are in a hurry
+tengo prisa,I am in a hurry
+tiene prisa,is in a hurry
+tienes prisa,hurry
+tienen prisa,they are in a hurry
+tenía prisa,I was in a hurry
+tenías prisa,you were in a hurry
+mezquitas,mosques
+mezquita,mosque
+oeste,west
+quise,"(I) wanted, (I) loved, I tried"
+quisiste,"(you) wanted, want"
+anduviste,"walked, walk"
+anduve,"(I) worked, (I) walked, (I) went"
+ven acá,come here
+describes,describes
+describiendo,writing
+describo,"(I) trace, (I) describe"
+describir,"(to) describe, (to) trace, describe"
+describió,(she) described
+describe,describe
+señala,"give, show"
+señalar,"point, gave, give"
+quiso,want
+quisimos,"want, (we) wanted, we tried"
+anduvo,"walked, walk"
+anduvimos,walked
+perdido,"lost, missing"
+perdida,"lost, missing"
+perdidas,"lost, missing"
+perdidos,"lost, missing"
+cadena,"chain, chain letter, grand chain"
+cadenas,chains
+quisieron,(they) wanted
+anduvieron,"walked, walk"
+retrasó,"delay, (it) was delayed"
+retrasamos,delay
+retrasaste,(you) were delayed
+retraso,delay
+red,red
+ten,ten
+estacionaré,(I) will park
+estacionaste,(?) did you park
+estacionar,"(to) park, park, parking"
+doblar,"turned, turn, goes"
+doblamos,"turn, turned"
+doblas,turn
+pudimos,(we) could
+pudieron,(they) could
+vete,"go, (I/he/she/it/you) veto, go away"
+aguacate,"avocados, avocado"
+aguacates,avocados
+pedazos,"pieces, to be shattered"
+pedazo,"piece, bit, to be shattered"
+sonar,"(to) thump, (to) fail, goes"
+clásicas,"classic, classical, standard"
+clásico,"classic, classical, standard"
+clásica,"classical, classic, standard"
+clásicos,"classic, classical, standard"
+albergue,hostel
+alojarse,"staying, to lodge, stayed"
+así,"so, like that, like this"
+chico,"boy, guy, kid"
+comodidades,mod cons
+cubierto,covered
+dicho sea de paso,incidentally
+inmenso,"huge, enormous, great"
+lujoso,"richer, rich"
+no está nada mal,it's not bad at all
+a distancia,from distance
+analizar,"(to) analyze, (to) examine, go"
+aprendizaje,"apprenticeship, learning, training period"
+astrología,astrology
+comenzar a,begin to
+comenzar por,start with
+intensivo,intensive
+modo de ver,way of seeing
+pensar de,to think of
+veo que,I see that
+querrás,love
+querrá,"(he/she/it/you) will want, love, want"
+querremos,"(we) will want, want"
+querré,"(I) will want, love, want"
+querrán,"want, (they/you-plural) will want, love"
+recibirán,"meet, take, get"
+recibiremos,"met, meet, we will receive"
+recibirás,(you) will get
+libres,"free, off"
+libre,"free, off"
+tipo,"type, guy, kind"
+tipos,"kinds, types, guys"
+común,"common, average, mutual"
+comunes,"common, commons, mutual"
+modelo,model
+modelos,"models, numbers"
+tumbarte,(to) lie down
+tumbarse,lie
+tumbarme,(to) lie down
+reservaré,(I) will reserve
+reservará,"(he/she/it/you) will reserve, (he/she/it/you) will keep … for oneself, (he/she/it/you) will book"
+reservaremos,"(we) will save oneself, book, (we) will book"
+reservarán,"they'll reserve, book, hold"
+reservarás,"(you) will save oneself, hold, (you) will reserve"
+compartiré,"(I) will share, I'll share"
+compartiremos,"we'll share, (we) will share"
+clic,click
+igual,"is, anyway, as"
+organizó,organized
+organizando,arranged
+organizas,(you) organize
+organizar,"(to) arrange, (to) cause, (to) organize"
+organizo,(you) organize
+organiza,"organize, organizes"
+organizaste,(?) did you organize
+organicé,(I) organized
+hoja,"leaf, sheet, blade"
+hojas,"leaves, sheets, blades"
+acompañaremos,see
+acompañará,(he) will go with you
+acompañaré,"see, walk"
+acompañarán,see
+conversarán,(they) will talk
+conversaré,"(I) will gab, (I) will talk, (I) will chat"
+conversarás,(you) will talk
+conversaremos,"(we) will gab, (we) will chat, (we) will talk"
+lado,side
+me veré,I'll see myself
+nos veremos,"(we)  will watch, (we)  will see, (we)  will imagine"
+te verás,you will see you
+se verá,look
+se tumban,they lie down
+nos tumbamos,we lay down
+se tumba,lies down
+me tumbo,I lie
+sino,"but, but rather, if not"
+exactamente,exactly
+construiremos,"(we) will build, (we) will construct"
+construiré,(I) will build
+construirán,"(they/you-plural) will construct, (they/you-plural) will build"
+construir,(to) build
+construirá,"(he/she/it/you) will construct, (he/she/it/you) will build"
+carrera,"career, race, degree"
+carreras,"races, careers, cart driver"
+la parte de abajo,the bottom
+ando,"(I) walk, ride, (I) go"
+andar,"going, (to) walk, ride"
+anda,"(he/she/it) walks, (he/she/it) works, (he/she/it) is"
+andamos,"(we) wear something, (we) are, (we) walk"
+andan,"(they/you-plural) go, (they/you-plural) wear something, (they/you-plural) work"
+felicidades,congratulations
+izquierdo,"left, nearest"
+izquierda,left
+diseña,"(he/she/it) designs, outline!, design!"
+diseñó,planned
+diseño,"(I) design, (I) plan, (I) outline"
+diseñé,planned
+diseñar,"design, planned, plan"
+absurdo,absurd
+alarma,"(we) lengthened, (we) continue, (we) drag out"
+confidencial,confidential
+fotocopiadora,copier
+fotocopiar,copier
+personal,"personal, staff"
+propuesta,"proposal, design, nominated"
+si mal no recuerdo,if I remember correctly
+subdirector,vice principal
+todo el día,all day
+hablar español,speak Spanish
+tomar el,take the
+trabajar en,work in
+tú hablas,you speak (with article)
+toma,she takes
+trabajamos,we work
+ellos hablan,they speak (with article)
+tomamos,we take
+trabajan,they work
+quiero beber,I want to drink
+comer una,eat one
+leer este,read this
+tú bebes,you drink (with article)
+ella come,she eats
+nosotros leemos,we read (with article)
+beben,they drink
+nosotros comemos,we eat (with article)
+ellos leen,they read (with article)
+necesita escribir,need to write
+vivir en,live in
+tú escribes,you write (with article)
+usted vive,you live (with article/honor)
+abrimos,we open
+ellas escriben,they write (with article)
+nosotras vivimos,we live (with article)
+abren,they open
+necesitamos abrir,we need to open
+necesito comprar,I need to buy
+quiere aprender,she wants to learn
+compramos,we buy
+aprendemos,we learn
+salimos,we leave
+compran,they buy
+aprenden,they learn
+salen,they leave
+salir,to leave
+conocer,to know
+conoce,she knows
+país,country
+conozco,I know
+visitar,to visit
+visita,she visits
+parte,part
+gente,people
+lugar,place
+diferentes,different
+llamar,to call
+llama,he calls
+ayudar,to help
+ayuda,she helps
+alguno,any
+usualmente,usually
+niñas,girls
+ver,to see
+veo,I see
+tele,tv
+enseñar,to teach
+amar,to love
+Alemania,Germany
+cursos,courses
+me,me
+me ama,she loves me
+me ayudas,you help me
+me compra,she buys me (she buys for me)
+me conoce,she knows me
+me enseña,she teaches me
+me escucha,she listens to me
+me llaman,they call me
+me necesita,she needs me
+muñeca,doll
+nos,we
+nos ayudan,they help us
+nos compra,she buys us (she buys for us)
+nos conocen,they know us
+nos escuchan,they listen to us
+nos llamas,you call us
+nos visita,she visits us
+te,you
+te amo,I love you
+te ayudo,I help you
+te compra,she buys you (she buys for you)
+te conozco,I know you
+te llamamos,we call you
+te necesito,I need you
+te visitan,they visit you
+me quiere, she loves me
+idoma,language
+felices,happy (pl)
+tristes,sad (pl)
+nervioso,nervous
+sorprendido,surprised
+emocionados,excited (pl)
+cansados,tired (pl)
+ocupado,busy
+sucio,dirty
+abierta,open (adj)
+enfermos,sick (pl)
+altas,tall (pl)
+es grande,is big
+guapo,handsome
+rubio,blond
+moreno,brunette
+amarilla,yellow
+negro,black
+es divertido,it's fun
+es muy simpático,Is very nice
+inteligentes,smart (pl)
+perezoso,lazy
+estudioso,studious
+persona,person
+responsable,responsible
+qué tal,what's up
+emocionar,to be excited
+enfermo,sick
+conmigo,with me
+contigo,with you
+siempre,always
+triste,sad
+preocupado,worried
+por qué,why
+aburrido,bored
+enojado,angry
+también,also
+a veces,sometimes
+contento,happy (moderately)
+disfrutar,to enjoy
+dormir,to sleep
+papá,dad
+mamá,mom
+nunca,never
+me siento,I feel
+te sientes,you feel
+se siente,she feels
+otra vez,again
+un poco,somewhat
+bebé,baby
+italiano,Italian (m)
+su,his/her
+hijos,children (sons)
+pequeña,small (f)
+simpático,nice (m)
+alta,tall (f)
+bajo,short (m)
+mascota,pet
+año,year
+años,years
+nueve,nine
+diez,ten
+
+nuestro,our
+nuestros,ours
+se llaman,their names are
+padres,parents
+familias,families
+hermanos,brothers
+simpático,nice
+le gusta,she likes
+le encanta,she loves
+baloncesto,basketball
+deportes,sports
+nos gusta,we like
+nos encanta,we love
+conciertos,concerts
+escuchar,to listen
+piano,piano
+tocar,to play (instrument)
+guitarra,guitar
+películas,movies
+mayor,older
+menor,younger
+toca,she plays (instrument)
+marido,husband
+carteras,purses
+grandes,big (pl)
+interesantes,interesting
+verdes,green (pl)
+usamos,we use
+necesitamos,we need
+zapatos,shoes
+estos,these (m)
+estas,these
+roja,red
+usan,they wear
+pantalones,pants
+necesitan,they need
+mis,my (plural)
+tus,your
+sus,his (pl)
+cómo,how
+bien,well
+estoy,I am
+estás,you are (temporary)
+está,she is (temporary)
+cansado,tired (m)
+cansada,tired (f)
+señor,Mr.
+señora,Mrs.
+señorita,miss
+hasta mañana,see you tomorrow
+cómo está,how are you doing (formal)
+buenas tardes,good evening
+hasta luego,see you later
+usted,you (formal)
+te llamas,your name is
+se llama,his name is
+feliz,happy
+mal,bad
+ocupado,busy (m)
+ocupada,busy (f)
+hay,there is (there are)
+cocina,kitchen
+nevera,fridge
+dormitorio,bedroom
+cama,bed
+sala,living room
+moderna,modern
+tenemos,we have
+habitación,bedroom (2)
+ventana,window
+tienen,they have
+reloj (2),clock
+estantería,bookshelf
+compra,she buys
+sillas,chairs
+sobre,on top of
+pintar,to paint
+limpiar,to clean
+jardín,garden
+planta,plant (n.)
+teléfonos,phones
+celulares,cellphones
+limpia,she cleans
+debajo,under
+queremos,(we) want
+caminar,"(to) walk, walking, (to) go for a walk"
+sándwiches,sandwiches
+periódico,"newspaper, daily newspaper"
+playa,"beach, beaches"
+comemos,"(we) eat, (?) do you eat, (?) should we eat"
+leemos,"(we) read, (we) are reading"
+escribimos,"(we) write, (we) wrote"
+correos electrónicos,"email, emails"
+tarde (2),"late, afternoon, evening"
+vivimos,"(we) live, (we) lived, (we) have lived"
+casas,"houses, homes"
+divertido,"fun, funny"
+aburrido,"boring, bored"
+quieren,"(?) do you want, (they) want, (you) want"
+comen,"(?) are you eating, (?) do you eat, (they) are eating"
+restaurantes,restaurants
+comida,"food, meal"
+pollo,chicken
+arroz,rice
+buenos,"good, great, nice"
+escriben,"(?) do you write, (they) are writing, (they) write"
+viven,"(?) do they live, (?) do you live, (they) live"
+leen,"(?) do you read, (they) read, (you) are reading"
+abrir,"open, (to) open, opened"
+verano,summer
+juntos,together
+mucho,"a lot, a lot of, much"
+camarero,waiter
+quisiera,(I) would like
+frijol,bean
+cerveza,beer
+menú,menu
+puede traer,can you bring
+cuchara,spoon
+cuchillo,knife
+tenedor,fork
+plato,plate
+bebida,drink
+blanca,white
+tinto,red (wine)
+otro,another
+botella,bottle
+sopa,soup
+patata,potato
+frito,fried
+pago,I pay
+postre,dessert
+habla,she speaks
+francés,French
+estudia,she studies
+hablar,to talk
+trabajo,I work
+trabajas,you work
+trabaja,she works
+oficina,office
+fábrica,factory
+trabajar,to work
+quién,who
+comer,to eat
+beber,to drink
+vino,wine
+vives,you live
+vive,she lives
+vivir,to live
+Inglaterra,England
+Francia,France
+Europa,Europe
+camarera,waitress
+maestra,teacher (f)
+portugués,Portuguese
+joven,young
+dirección,address
+número,number
+celular,cellphone
+amigo,friend (m)
+amiga,friend (f)
+ser,to be
+médico,doctor (m)
+médica,doctor (f)
+ciudad,city
+pueblo,town
+novio,boyfriend
+novia,girlfriend
+mujeres,women
+hombres,men
+nosotros,we
+somos,we are
+estudiamos,we study
+hablamos,we speak
+ellos,they
+son,they are
+hablan,they speak
+estudian,they study
+ciudades,cities
+universidades,universities
+ustedes,you all
+muchas,many (f)
+jugador,player
+fines de semana,weekends
+señores,gentlemen
+señoras,ladies
+cuánto,how much
+cuántas,how many
+unos,some
+vacaciones,vacations
+cuántos años,how old
+veintiún,21 (m. adj)
+veintiuno,21 (counting)
+veintidós,22
+jóvenes,young (pl)
+señoritas,young ladies
+adulto,adult
+veintitrés,23
+veinticuatro,24
+jugos,juices
+veinticinco,25
+sed,thirsty
+pizza,pizza
+hambre,hungry
+calor,hot
+frío,cold
+puesto,I have on
+largo,long
+sueño,dream
+ganas,you win
+miedo,scared
+de verdad,really (truly)
+bailar,to dance
+animal,animal
+me gusta,I like
+chocolate,chocolate
+pastel,cake
+favorito,favorite
+porque,because (why)
+te gusta,you like
+creo que,I believe that (I think)
+pero,but
+algo,something
+jugar,to play
+correr,to run
+me encanta,I love
+nadar,to swim
+te encanta,you love
+piscina,pool
+dibujar,to draw
+música,music
+chica,girl
+viejo,old
+perros,dogs
+les gusta,they like
+les encanta,they love
+para él,for him
+para ella,for her
+aquel,that
+a mí,to me
+a ti,you
+a él,to him
+zoológico,zoo
+a usted,to you
+tenis,tennis
+a nosotros,to us
+a ustedes,to you (all)
+tiempo,time
+para nosotros,for us
+pasar,to pass (to give)
+normalmente,normally
+pasa,shepasses (he gives)
+montar,to ride
+caballo,horse
+pelota,ball
+corre,(she) runs
+río,river
+camina,she walks
+almuerzo,lunch
+antes,before
+cada,every
+cena,dinner
+cosa,thing
+cosas,things
+desayuno,breakfast
+después,after
+diario,newspaper
+difíciles,difficult (pl)
+ducharse,to shower
+fáciles,easy (pl)
+hace,she makes
+hacemos,we make
+hacen,they make
+hacer, to make
+haces,you make
+hago,I make
+me pongo,I put on
+ponerse,to put on
+sale,she leaves
+sales,you leave
+salgo,I leave
+se pone,she puts on
+solo,only
+tarde,late
+levantarse, to get up
+tarea,homework
+te pones,you put on
+temprano,early
+toman,they take
+tomo,I take
+voy,I go
+vas,you go
+a menudo,often
+va,she goes
+todos,every (all)
+cine,movie theater
+noche,night
+vamos,we go
+días,days
+van,they go
+media,half (or thirty in time)
+televisión,tv
+sábados,Saturdays
+mirar,to watch
+tengo que,I have to
+domingos,Sundays
+tienes que,you have to
+tiene que,she has to
+me levanto,I get up
+me ducho,I shower
+hora,hour (time)
+a qué hora,at what time
+te levantas,you get up
+te duchas,you shower
+se levanta,she gets up
+se ducha,she showers
+once (Spanish),11
+doce,12
+hoy,today
+lunes,Monday
+mañana,tomorrow
+partido,game
+martes,Tuesday
+fútbol,soccer
+cuándo,when
+miércoles,Wednesday
+jueves,Thursday
+viernes,Friday
+día,day
+béisbol,baseball
+qué,what
+cumpleaños,birthday
+sábado,Saturday
+fiesta,party
+domingo,Sunday
+concierto,concert
+divertido,fun (m)
+divertida,fun (f)
+baile,dance
+favorito,favorite (m)
+favorita,favorite (f)
+película,movie
+semana,week
+fin de semana,weekend
+disfruta,enjoy
+cero,zero
+bolígrafos,pens
+libros,books
+cuatro,four
+biblioteca,library
+computadoras,computers
+bibliotecas,libraries
+aprendo,I learn
+aprendes,you learn
+aprende,he/she learns
+cinco,five
+aprender,to learn
+esta,this (f)
+preguntas,questions
+seis,six
+clases,classes
+siete,seven
+ocho,eight
+estudiantes,students
+de compras,shopping
+buscar,to look for
+abre,it opens
+cierra,it closes
+mí,me
+ti,you (non-subject)
+buscas,you look for
+precio,price
+talla,size
+me puedo probar,can I try on
+probador,fitting room
+cara,expensive (f)
+cuesta,it costs
+trece,thirteen
+quince,fifteen
+cuestan,they cost
+peso,money (a specific currency)
+dólares,dollars
+catorce,fourteen
+dieciséis,sixteen
+diecisiete,seventeen
+dieciocho,eighteen
+diecinueve,nineteen
+veinte,twenty
+en efectivo,in cash
+tarjeta de crédito,credit card
+banana,banana
+quieres,you want
+quiere,she wants
+más,more
+té,tea
+ayuda,help
+necesitas,you need
+necesita,he/she needs
+uso,I use
+usas,you use
+usa,she is using
+usar,to use
+cartera,wallet/purse
+viajar,to travel
+cerca de,close to
+cerca,near
+ir,to go
+estación,station
+estamos,we are (temporary/location)
+del,of the (or from the)
+parque,park
+al,to the
+están,they are (temporary/location)
+lejos,far
+al lado,next to
+parada,stop (as in bus stop)
+puerta,door
+tomar,to take
+derecha,right
+metro,subway
+los,the (plural)
+las,the (plural f.)
+jefe,boss
+mensaje,message
+secretaria,secretary
+escritorio,desk
+escribe,she writes
+tener,to have
+carta,letter
+cuál,which
+poco,little
+correo electrónico,email
+negocio,business
+ahora,now
+lee,she reads
+canciones,songs
+canción,song
+canta,"(he) sings, (she) sings"
+cantamos,"(we) sing, (we) sang"
+cantan,(you) sing
+cantar,"singing, (to) sing, sing"
+cantas,(?) do you sing
+canto,"(I) sing, singing"
+carnes,meats
+china,"China, chinese"
+chino,Chinese
+cocina,"kitchen, (he) is cooking, (she) cooks"
+cocinamos,"(we) cook, (we) cooked"
+cocinan,(they) cook
+cocinar,"cook, (to) cook, cooking"
+cocinas,"(you) cook, kitchens"
+cocino,(I) cook
+cómo se dice,(?) how do you say
+cómo se escribe,(?) how do you write
+edad,age
+lengua,language
+lenguas,languages
+maneja,"(he) is driving, (she) drives"
+manejamos,"(we) are driving, (we) drive"
+manejan,"sail, (they) drive"
+manejar,"(to) drive, driving"
+manejas,"(?) do you drive, sail"
+manejo,(I) drive
+misma,same
+mismas,same
+mismo,same
+mismos,same
+nada,"nothing, anything, (he) swims"
+nadan,"swim, (they) are swimming"
+nadas,(you) swim
+nado,(I) swim
+no lo sé,"I don't know, I do not know"
+palabra,word
+palabras,words
+respuesta,"answer, response"
+respuestas,"answers, answer"
+sabe,"know, (?) does he know, (he) knows"
+sabe usted,(?) do you know
+sabemos,"know, (we) know, (we) know how to"
+sabemos dónde,we know where
+saben,"(?) do you know, (?) do you know how to, (they) know"
+saber,"know, (to) know, hear"
+sabes,"(you) know, (?) do you know, (?) do you know how to"
+sabes cuándo,(?) do you know when
+sabes nadar,(you) know how to swim
+sabes quién,(?) do you know who
+sé,"(I) know, (I) know how to, (you) be"
+sé cuándo,I know when
+almuerza,"(he) eats lunch, (she) eats lunch, (you) eat lunch"
+almuerzo,"lunch, (I) eat lunch"
+cien,"hundred, 100, one hundred"
+dan,"give, (they) are giving, (they) give"
+dar,"give, (to) give, (to) have"
+decimos,"(we) say, (?) do we say, (we) tell"
+dice,"(he) says, (she) is saying"
+dicen,"say, (?) do they say, (they) say"
+dices,"(you) say, (?) can you tell, (?)do you say"
+digo,"say, (I) say, tell"
+doy,"(I) give, (I) am giving, I'm giving"
+hermoso,"beautiful, beautifully, lovely"
+inglesas,English
+ingleses,English
+le,"him, her, his"
+le hago,"I'm asking her, I'm asking him, (I) ask her"
+les,"they, you, hers"
+mandamos,"(we) send, (we) sent"
+mandar,"(to) send, send"
+mandas,(?) are you sending
+mesera,waitress
+mesero,waiter
+mil,"thousand, 1000, a thousand"
+millones,"million, millions"
+millón,million
+nada es,nothing is
+noventa,"ninety, 90"
+ochenta,"80, eighty"
+oficinas,offices
+portuguesa,Portuguese
+portuguesas,Portuguese
+portugueses,Portuguese
+pregunta,"question, (she) asks, questions"
+preguntamos,(we) ask
+preguntan,"(they) are asking, (they) ask"
+preguntar,"ask, (to) ask, (to) wonder"
+preguntas,"questions, (you) ask, question"
+pregunto,"(I) ask, (I) wonder"
+setenta,"70, seventy"
+abres la,you open the
+acá,here
+allá,"there, over there, past"
+caja,box
+cajas,boxes
+cierro la,I close the
+coges,"you're taking, (you) take, (?) can you take"
+cuartos,"rooms, bedrooms"
+césped,"lawn, grass"
+demasiada,"too, too much"
+demasiadas,"too, too much, too many"
+demasiado,"too, too much, a bit too"
+demasiados,"too, too much, too many"
+eso,"it, that"
+granja,farm
+levántate,(you) get up
+levántese,(you) get up
+lávate,"wash, (you) wash, (you) wash up"
+lávese,"wash, (you) wash"
+mirando,"looking at, watching"
+miro,"(I) look at, (I) am watching, (I) watch"
+nos ayudas,(?) can you help us
+pared,wall
+paredes,walls
+piso,"floor, ground"
+pisos,floors
+poca,"little, a few"
+pocas,"few, little"
+poco,"little, some, little bit"
+pocos,few
+sentarse,"sat, (to) sit, (to) sit down"
+siéntate,"(you) sit, (you) sit down"
+siéntese,(you) sit down
+toda,"all, whole, all of"
+todo,"everything, all, whole"
+traes,"(?) can you bring, (you) bring"
+traigo,"(?) should I bring, (I) bring, bringing"
+atrás,"back, ago, at the back"
+buscando,"looking for, getting"
+carretera,"road, highway"
+cercana,"close, near, nearby"
+cercano,"close, closed, nearby"
+dentro,"in, within, inside"
+derecho,"right, straight"
+detrás,"behind, after"
+direcciones,"directions, addresses"
+disculpa,excuse me
+disculpe, señor,excuse me sir
+enfrente,"in front, opposite, across"
+entre,"between, among, (he) enters"
+esperando,"waiting, waiting for"
+final,"final, finals, ultimate"
+fuera,"out, were, (she) go"
+gira,"(it) turns, (you) turn"
+giramos,"(we) turn, (?) do we turn, turned"
+girar,"turn, turned, (to) turn"
+giras,(you) turn
+gire,(you) turn
+giro,"(I) turn, (?) do I turn"
+perdona,pardon me
+perdone,"excuse me, pardon me"
+seguir,"(to) follow, (to) continue, (to) go on"
+siga,(you) continue
+sigue,"(you) continue, (you) follow, (you) go"
+tome,"(you) drink, (you) take"
+abrieron,"open, (they) opened, (?) did they open"
+abrió,"(?) did she open, (it) opened, (she) opened"
+aprendieron,"(they) learned, (?) did they learn, (?) did you learn"
+aprendió,"learn, (he) learned"
+búhos,owls
+cerdo,"pork, pig"
+cerdos,pigs
+cerraron,"(?) did they close, (they) closed, closed"
+cerró,"(?) did he shut, (he) closed, (she) shut"
+cocinaron,"cook, (you) cooked, (they) cooked"
+cocinó,"(?) did he cook, (he) cooked, (she) cooked"
+comieron,"(?) did you eat, (they) ate"
+comió,"eat, (?) did she eat, (?) did you eat"
+escribieron,"write, (?) did they write, (they) wrote"
+escribió,"write, (?) did you write, (he) wrote"
+estuvieron,"were, (they) were, (you) were"
+estuvo,"(he) was, (it) was, (she) was"
+fue,"(he) was, (he) went, (it) was"
+fueron,"were, (?) did they go, (they) left"
+lavaron,"wash, (they) washed"
+lavó,"wash, (he) washed"
+limpiaron,"(they) cleaned, (?) did they clean, clean"
+limpió,"(she) cleaned, clean"
+miraron,"(they) looked, (they) watched, (?) did they watch"
+miró,"(he) looked, (he) looked at, (he) watched"
+salieron,"go, (they) left, (?) did they leave"
+salió,"(he) left, (he) went out, (she) left"
+vaca,cow
+vacas,cows
+almorzamos,we have lunch
+almorzar,to have lunch
+almuerzan,they have lunch
+almuerzas,you have lunch
+poder,to be able
+podemos,we are able
+puedo,can I
+pueden,they can
+probamos,we try
+probar,to try
+prueba,he/she/it tries
+prueban,they try
+pruebo,I try
+bolsa,bag
+bolsas,bags
+centavos,cents
+chorizo,"chorizo, chorizos"
+chorizos,"chorizo, chorizos"
+cincuenta,"fifty, 50"
+compra,"(?) are you buying, (?) does she buy, (?) is he buying"
+cuarenta,"forty, 40"
+cuánta,"how many, how much"
+fruta,fruit
+frutas,"fruit, fruits"
+huevo,"egg, eggs, ball"
+kilo,"kilo, kilogram"
+lavamos,"(we) washed, (we) are washing, (we) wash"
+lavan,"(they) wash, (they) are washing"
+lavar,(to) wash
+lavas,"(you) wash, (?) are you washing, (?) do you wash"
+lleva,"(it) takes, (she) carries, (she) is carrying"
+llevamos,"(we) took, (we) are carrying"
+llevan,"(they) are carrying, (they) wear"
+llevar,"take, (to) take, (to) bring"
+llevas,"(?) can you carry, (?) do you carry, (you) are carrying"
+llevo,"(I) wear, (I) take, (I) am carrying"
+mantequilla,butter
+papa,potato
+picante,"hot, spicy"
+picantes,spicy
+plátano,banana
+plátanos,bananas
+pone,"(?) do you put, (he) is putting, (he) puts"
+ponemos,"(?) do we put, (we) are putting, start"
+ponen,"(they) are putting, start"
+poner,"put, (to) put, (to) set"
+pones,"(you) put, (?) do you put, start"
+pongo,"(I) put, (?) do I put, (I) am putting"
+refrigerador,"fridge, refrigerator, refrigerators"
+refrigeradores,refrigerators
+sesenta,"60, sixty"
+tenemos que,"(we) have to, (?) do we need to"
+tienen que,"(?) do you need to go, (they) have to, has to"
+vegetal,"vegetable, plant"
+vegetales,vegetables
+ayudamos,"(we) help, (we) helped"
+ayudaste,(you) helped
+bailaron,(they) danced
+bailaste,"dance, (you) danced, (?) did you dance"
+bailé,(I) danced
+bailó,(she) danced
+cambiaron,(they) changed
+comencé,"(I) started, (I) began"
+comenzaron,(they) started
+comenzó,"(?) did it begin, (he) started, (it) started"
+comprender,"(to) understand, understand"
+comprendieron,"(?) did you understand, understand, (you) understood"
+comprendimos,"understand, (we) understood"
+comprendiste,"(?) did you understand, understand, (you) understood"
+comprendió,(she) understood
+invitó,"(you) invited, (she) invited, invite"
+llegaron,"(?) did you arrive, (they) arrived, (they) got"
+llegué,"(I) arrived, (I) came, (I) was"
+llegó,"(he) arrived, (he) was, (she) came"
+mandaste,"(?) did you send, (you) sent"
+mandé,(I) sent
+mandó,"(he) sent, (she) sent, (you) sent"
+miraste,"(you) saw, (?) did you look at, (?) did you see"
+morir,(to) die
+nosotros fuimos,we went
+novecientos,"nine hundred, 900"
+ochocientos,"eight hundred, 800"
+pensaron,(they) thought
+pensaste,"(?) did you think, (you) thought"
+pensé,(I) thought
+pensó,"(he) thought, (she) thought"
+pintaron,(they) painted
+pintaste,"(you) painted, (?) did you paint"
+pinté,painted
+practicaron,"(they) played, played"
+practicaste,"play, (you) played, (?) did you play"
+practicó,"(he) played, (she) played, (you) played"
+practiqué,"play, (I) played, (I) practiced"
+recordamos,"(we) remember, (we) remembered"
+recuerda,"remember, (she) remembers"
+recuerdo,"(I) remember, memory"
+setecientos,"seven hundred, 700"
+tú fuiste,you went
+usaron,"(they) used, (they) wore"
+usaste,"(you) wore, use, (you) used"
+usé,"use, (I) used, (I) wore"
+vivieron,(they) lived
+vivió,"(?) did he live, (he) lived, (she) lived"
+yo fui,I went
+acabar,"(to) finish, finish"
+acordarme,remember
+acordarnos,remember
+acordarte,remember
+ah,"ah, oh"
+barba,"beard, beards"
+boca,mouth
+brazo,arm
+brazos,arms
+cabeza,head
+cabezas,"heads, bunches, hairs"
+cerré,"(I) closed, close, (I) shut"
+cuerpo,body
+cuerpos,"bodies, to have something to drink, corpses"
+despertarme,(to) wake up
+despertarnos,"(to) wake up, waking up, waking"
+despertarse,(to) wake up
+despertarte,(to) wake up
+despiertas,"(you) wake up, (?) do you wake up"
+encima,"on, above, on top of"
+gustó,like
+lleva puesto,"he's wearing, (he) is wearing, (?) is he wearing"
+me acuerdo,I remember
+me despierto,I wake up
+me levanté,I got up
+narices,noses
+nariz,nose
+nos acordamos,"(we) remembered, remember, (we) remember"
+nos despertamos,"(?) are we waking up, (we) wake up"
+nos levantamos,"(we) got up, (?) are we getting up, (we) get up"
+oigo,"(I) hear, (I) listen"
+oye,"hey, (you) hear"
+oyen,(they) hear
+oyes,"(you) hear, (?) do you hear"
+oímos,"(we) hear, (we) heard"
+oír,"(to) hear, (to) listen, hear"
+pierna,leg
+piernas,legs
+queda,"remains, (she) gets together, is"
+quedamos,are we getting together
+quedan,"(they/you-plural) are left, (they) get together, (they/you-plural) stay"
+quedas,you meet
+quedo,(I) get together
+se acuerda,he remembers
+se acuerdan,remember
+se despierta,"(he/she/it)  arouses, (he/she/it)  whets, (he/she/it)  wakes (up)"
+se despiertan,"(they/you-plural)  wake (up), (they/you-plural)  whet, (they/you-plural)  arouse"
+se levantaron,they rose
+se levantó,"(?) did he get up, (she) got up"
+sentirnos,"feel, (to) feel"
+sentirse,"(to) feel, be, feeling"
+sentirte,"feel, (to) feel"
+soñar,"(to) dream, dream, dreaming"
+te acuerdas,do you remember
+te despiertas,you wake up
+te levantaste,you got up
+bello,"beautiful, pretty"
+blusa,blouse
+como,"(I) eat, as, (I) am eating"
+cómodo,"comfortable, comfy, convenient"
+gorra,"cap, hat"
+menos,"less, minus, fewer"
+más,"more, most, above"
+tan,"so, as, that"
+ambas,both
+ambos,both
+bailes,"dances, dancing"
+bananas,bananas
+bota,boot
+botas,boots
+calientes,"hot, warm"
+chilena,Chilean
+chileno,Chilean
+chilenos,Chilean
+color,"colorful, color, coloring"
+colores,"colors, color"
+cubanas,Cuban
+cubanos,"Cubans, Cuban"
+dulce,"sweet, candy"
+dulces,"sweets, candy, candies"
+encantan,"(I) love, (we) love"
+ensaladas,salads
+flor,flower
+flores,"flowers, Flores, flower"
+francesa,French
+franceses,French
+gustan,"(?) do they like, (I) like, (we) like"
+interesan,"interest, (we) are interested"
+italianas,Italian
+italiano,Italian
+juegos,"games, game"
+latina,Latin
+latinas,Latin
+latinos,Latin
+lentes,glasses
+naranjas,"oranges, orange"
+ojo,eye
+ojos,eyes
+par,"pair, couple"
+pares,pairs
+pájaro,bird
+pájaros,birds
+rápida,"fast, quick"
+rápidas,"quick, fast"
+rápido,"fast, quickly, quick"
+rápidos,"quick, fast"
+sitio,"site, place, stand"
+sitios,"places, sites"
+vaqueros,jeans
+vinos,wines
+arte,art
+artes,"arts, art"
+asignatura,subject
+asignaturas,subjects
+conversaciones,conversations
+conversación,conversation
+cuáles,"which, what"
+dibujamos,"(we) drew, (we) draw"
+dibujan,"(they) draw, drawing, (they) are drawing"
+dibujas,(you) draw
+esto,this
+europea,European
+europeas,European
+europeo,European
+europeos,European
+fiestas,"parties, holidays"
+foto,"photo, picture, photos"
+fotos,"photos, pictures"
+grupo,"group, band"
+importantes,important
+interesa jugar,interested in playing
+juega,"(?) does he play, (he) is playing, (she) plays"
+juegan,"(?) do they play, (they) are playing, (they) play"
+juegas,"(you) play, (?) do you play"
+jugamos,"(we) played, (we) play, (we) are playing"
+le interesa,"(he) is interested in, (she) is interested in"
+les interesa,"(they) are interested in, (?) are you interested in"
+me interesa,"I am interested in, (it) interests me, I'm interested in"
+museos,museums
+nos interesa,(we) are interested in
+otras,other
+otros,"others, other"
+partidos,"matches, games"
+pintura,"paint, painting"
+pinturas,paintings
+practicar,"(to) play, (to) practice, play"
+preferida,favorite
+preferido,"favorite, preferred"
+radio,radio
+te interesa,"(?) does it interest you, (?) are you interested in"
+viajas,"(?) are you traveling, (you) travel"
+aprendiste,"(you) learned, (?) did you learn, learn"
+aprendí,(I) learned
+ayer,yesterday
+bebiste,"drink, (you) drank, (?) did you drink"
+bebí,"(I) drank, drink, (I) had"
+comiste,"eat, (you) ate, (?) did you eat"
+comí,"(I) ate, eat, (I) had"
+conociste,"(you) met, (you) knew, (?) did you meet"
+conocí,"(I) knew, knew, know"
+estudiaste,"(?) did you study, (you) studied"
+estudié,"(I) studied, study"
+estuve,(I) was
+estuviste,"(you) were, (you) stayed"
+fui,"(I) went, (I) was, (I) left"
+fuiste,"were, (you) were, (you) went"
+hablaste,"(you) talked, (?) did you speak, (you) spoke"
+hablé,"(I) spoke, (I) talked, talk"
+hace mucho tiempo,a long time ago
+pasada,last
+pasadas,runs
+pasado,"last, past, given"
+pasados,"pasts, stoned, overripe"
+probaste,"try, touch, (you) tried"
+probé,"try, (I) tried"
+viajaste,"(?) did you travel, travel, (you) traveled"
+viaje,"trip, journey"
+viajes,"travels, trips, (you) travel"
+viajé,"(I) traveled, travel"
+visitaste,"visit, (?) did you visit, (you) visited"
+visité,(I) visited
+viviste,"(?) did you live, live, lived"
+viví,(I) lived
+calurosa,"hot, warm"
+caluroso,"hot, warm"
+calurosos,"hot, warm"
+caminó,"(she) walked, walk, (?) did you walk"
+clima,weather
+comenzamos,"(we) started, (?) do we start, (we) begin"
+comenzar,"start, starting, (to) begin"
+comienza,"(?) does it start, (she) begins, (she) starts"
+comienzas,"(you) begin, (?) do you start, start"
+corrió,"(she) ran, run, (you) ran"
+dormimos,"(we) sleep, (we) slept"
+duermen,"(?) do you sleep, (they) sleep"
+duermes,"sleep, (you) sleep, (?) do you sleep"
+duermo,"sleep, (I) sleep, (I) fall asleep"
+encantar,"(to) love, love"
+encontrarnos,(to) meet up
+encontrarse,(to) meet up
+frío,"cold, cold weather"
+fue un,was a
+fueron unos,they were about
+haber,"(to) have, (to) be, be"
+llover,"(to) rain, raining"
+lloviendo,raining
+llovió,"(it) rained, rain"
+lluvia,rain
+me encuentro,(I) meet up
+montaste,"(?) did you ride, start, ride"
+nevando,snowing
+nevar,"(to) snow, snowing, snow"
+nevó,"(it) snowed, snow"
+nos encontramos,"(we) are meeting up, meeting, (?) are we meeting up"
+primera,first
+primeras,"first (plural), first gear (plural), first class (plural)"
+primero,"first, 1, 1st"
+primeros,first
+se encuentra,he's meeting up
+se encuentran,(they) meet up
+te encuentras,(?) are you meeting up
+árbol,tree
+árboles,trees
+objects1,"object, (I) object"
+objects2,"object, (I) object"
+objects3,"object, (I) object"
+objects,objects
+pasttense11,pasttense11
+pasttense12,pasttense12
+pasttense13,pasttense13
+pasttense,pasttense
+cambiamos,we change
+cambiando,changing
+cambiar,to change
+decir,to say
+empieza,he/she/it starts
+empiezas,you start
+empezamos,we start
+empiezan,they start
+empezar,to start
+fecha,date
+fechas,"dates, (you) date"
+gustar,"like, (to) like"
+gustaría,"like, (?) would you like"
+invitan,"ask, (they) are inviting, (they) invite"
+invitar,"(to) invite, (to) ask, invite"
+invitas,"ask, (you) are inviting, (you) ask"
+invito,"(I) ask, (I) invite, (I) am inviting"
+luego,"then, later, after"
+me quedo,"(I)  stay, I'm staying"
+nos quedamos,"(we)  stay, (we) are staying, (we) stayed"
+pensamos,"(we) think, (we) thought, (we) are thinking"
+pensando,thinking
+pensar,"(to) think, think"
+piensa,"(he) thinks, (you) think, think"
+pienso,"(I) think, (I) am thinking, plan"
+plan,"plan, planned"
+planes,"planes, airplanes"
+por supuesto,"of course, sure"
+puedes,"(you) can, (?) can you, (?) could you"
+que viene,next
+quedarse,"stay, (to) stay, staying"
+se queda,"remains, (he/she/it)  is, (he/she/it)  stays"
+se quedan,"(they/you-plural)  keep, (they/you-plural)  stay, (they/you-plural)  are"
+sobre,"about, on, on top of"
+te quedas,"(?) are you staying, (you) stay"
+todo el mundo,"everybody, everyone"
+vengo,"(I) come, I'm coming"
+venimos,"(we) come, (we) arrive, (we) are coming"
+venir,"come, (to) come, coming"
+viene,"(?) does she come, (he) comes, (she) is coming"
+vienen,"come, (?) do they come, (they) are coming"
+vienes,"(you) come, (?) are you coming, (?) do you come"
+vuelvo,I go back
+volvemos,we go back
+volver,to go back
+vuelves,you go back
+cerramos,we are closing
+cierran,they close
+abre,"(?) are you open, (?) does it open, (?) is it open"
+abres,"(?) can you open, (you) open, (you) are opening"
+alto,"tall, high, loud"
+beba,(you) drink
+cierra,"(?) does it close, (it) closes, (you) close"
+cierras la,you close the
+despacio,"slowly, slow"
+escriba,(you) write
+estudia,"(?) do you study, (?) does he study, (he) studies"
+estudias en,you study in
+habla,"(?) do you speak, (?) does he speak, (he) is speaking"
+hablas con,you speak with
+hable,(you) speak
+lee,"(he) reads, (she) is reading, (she) reads"
+pruebe,(you) try
+página,page
+páginas,pages
+trabaje,(you) work
+tú lees,you read
+tú vuelves,you return
+usted bebe,you drink
+usted escribe,you write
+usted habla,you speak
+usted prueba,you test
+usted trabaja,you work
+usted vuelve,you come back
+vuelva,"(you) come back, (you) return"
+vuelve,"(?) are you coming back, (?) are you returning, (?) do you return"
+cara,"face, expensive, faces"
+caras,expensive
+cepillarse,(to) brush
+cepillo,"brush, hair"
+cepillo de dientes,"toothbrush, toothbrushes"
+cepillos,brushes
+diente,tooth
+dientes,teeth
+lavarse,"wash, (to) wash, (to) wash itself"
+llave,key
+llaves,keys
+mano,hand
+manos,hands
+me cepillo,(I) brush
+me lavo,(I)  wash
+mía,mine
+mío,mine
+nos cepillamos,"(we) are brushing, (we) brush"
+nos duchamos,"(we) are showering, we shower"
+nos lavamos,we wash
+nos llamamos,our names are
+nos ponemos,(we) put on
+nos sentimos,we feel
+nuestra,"our, ours"
+nuestras,"our, ours"
+nuestro,"our, ours"
+nuestros,"our, ours"
+se cepilla,"(she) brushes, (she) is brushing"
+se cepillan,"(they) brush, (you) brush"
+se duchan,"shower, (they) shower, (?) are they showering"
+se lava,"(he) washes, (she) washes"
+se lavan,"(you) wash, (they) wash themselves"
+se levantan,"(?) do you get up, (they) get up"
+se ponen,"(they) put on, (you) put on, (you) are putting on"
+se sienten,"(?) do you feel, (they) feel"
+suyas,"hers, theirs, his"
+suyo,"yours, his, theirs"
+te cepillas,you brush
+abriendo,opening
+aprendiendo,learning
+aula,classroom
+bebiendo,"drinking, he's having"
+comiendo,"eating, having, taking"
+dibujando,drawing
+escribiendo,writing
+escuchando,"listening, listening to, hearing"
+escuelas,schools
+estudiando,studying
+hablando,"talking, speaking"
+hablar con,talk to
+haciendo,"doing, making, asking"
+lección,lesson
+leyendo,reading
+nota,"note, grade"
+notas,grades
+pizarra,"board, blackboard, chalkboard"
+pizarras,"blackboards, boards, chalkboards"
+que escribir,what to write
+que estudiar,what to study
+que hacer,to do
+que leer,what to read
+queremos abrir,we want to open
+quiere dibujar,wants to draw
+quieren beber,they want to drink
+quiero aprender,I want to learn
+saliendo,"going out, leaving, seeing"
+canté,(I) sang
+cantó,"sang, (?) did he sing, (he) sang"
+cogieron,(they) took
+cogiste,"(?) did you take, get, (you) took"
+cogió,(he) took
+cogí,"got, get, made"
+comprende,(he) understands
+comprenden,(they) understand
+comprendes,(?) do you understand
+dibujaron,"(you) drew, (?) did you draw, draw"
+dibujé,(I) drew
+dibujó,"(he) drew, (she) drew"
+ejemplo,example
+ejemplos,examples
+empecé,"(I) started, (I) began"
+empezaron,"(?) did you start, (they) started, start"
+empezaste,"(you) started, (?) did you start"
+empezó,"(?) did it start, (he) began, (he) started"
+encuentran,(they) find
+enseñamos,"(we) are teaching, (we) taught, (we) teach"
+enseñando,teaching
+enseñar,"teaching, (to) teach, taught"
+enseñaron,"(they) taught, taught"
+enseñaste,"(you) taught, (?) did you teach"
+enseñé,"taught, (I) taught"
+estudiaron,"study, (?) did you study, (they) studied"
+estudió,"study, studied, (he) studied"
+habló,"(he) spoke, (he) talked, speak"
+me preocupo,"I'm worried, (I) worry"
+me siento,feel
+necesitar,"need, (to) need, needed"
+nos sentamos,"(we)  sit, (?) should we sit"
+olvidamos,"(we) forget, (we) forgot, forget"
+olvidaron,"forgot, (they) forgot"
+olvidaste,(?) did you forget
+parar,(to) stop
+preocupar+prpers,worry + prpers
+preocuparme,"(to) worry, worrying, worry"
+preocuparnos,"(to) worry, worry"
+preocuparse,"(to) worry (oneself), worry, worried"
+preocuparte,"(to) worry, worry"
+responde,"(he) answers, (he) is answering, (you) answer"
+respondemos,(we) answer
+responden,(they) answer
+responder,"answer, (to) answer"
+respondes,(you) answer
+respondieron,"answer, (they) answered"
+respondimos,(we) answered
+respondiste,"answer, (you) answered"
+respondió,"answer, (he) answered, (she) answered"
+respondo,(I) answer
+se preocupan,"(they) worry, (they) care about"
+se sientan,"(they/you-plural)  feel, (they/you-plural)  seat, (they/you-plural)  sit"
+sentarnos,"(to) sit, sit"
+te preocupas,(you) worry
+te sientas,"(?) are you sitting, (you)  seat, (you)  sit"
+tomaron,"(?) did you drink, (they) had, (they) took"
+tomaste,"take, (?) did you drink, (you) ate"
+tomé,"(I) took, (I) had, take"
+tomó,"(?) did it take, (he) took, (it) took"
+vi,"(I) saw, see, (I) watched"
+vieron,"(they) saw, (they) watched"
+vio,"(?) did you see, (he) watched, (she) saw"
+viste,"(you) saw, (?) did you see, (?) did you watch"
+abro,"(?) should I open, (I) open, I'm opening"
+bebemos,(we) drink
+bici,bike
+cafés,"brown, cafés, coffees"
+cierro,"close, (I) close, (?) should I close"
+gatos,cats
+imagen,"image, picture"
+imágenes,"images, pictures"
+la,"the, her, his"
+la quiero,(I) want it
+las,"the, his, my"
+las comen,(they) eat them
+las necesita,needs them
+ligeras,light
+lo,"it, you, him"
+lo compro,I'm buying it
+lo quiero,(I) want it
+los,"the, them, her"
+los comen,they eat them
+los necesita,"(she) needs them, (he) needs them"
+mala,"bad, wrong"
+malo,"bad, wrong"
+malos,bad
+paquete,package
+paquetes,packages
+pruebas,"(you) taste, tests, (?) are you trying"
+salsa,"sauce, salsa"
+todas,"all, every, everybody"
+todo el tiempo,all the time
+todos,"all, all of, every"
+tés,teas
+ya,"already, now, anymore"
+alguno,"one, any, some (people)"
+algún,"any, one, some"
+ay,"ouch, oh"
+buen,"good, nice"
+ciento,"a hundred, one hundred, percent"
+completamente,completely
+compré,"(I) bought, (I) got, buy"
+compró,"(?) did she buy, (he) bought, (she) bought"
+con nadie,with nobody
+doscientos,"200, two hundred"
+elegir,"(to) choose, (to) pick, choose"
+mal,"bad, wrong, badly"
+mi nuevo,my new
+nadie,"nobody, no one, anybody"
+ninguna,"any, no, neither"
+ninguno,"none, any, neither"
+ninguno de,none
+ningunos,"none, no one, neither"
+ningún,"no, any"
+olvidar,"(to) forget, forget, forgot"
+olvido,"(I) forget, forget"
+pagamos,"(we) pay, (we) are paying for, (we) paid"
+pagó,"(she) paid for, pay, (?) did you pay"
+pobre,poor
+pobres,poor
+primer,first
+segundo,"second, 2"
+tercer,third
+última,"last, latest, final"
+últimas,"last, lasts, last ones"
+último,"last, latest, final"
+últimos,"last, final"
+stemchanges1,stemchanges1
+stemchanges2,stemchanges2
+stemchanges3,stemchanges3
+stemchanges,stemchanges
+aprendiendo a,learning to
+ayudo a,helped
+cenar,"dinner, (to) eat dinner, (to) have dinner"
+desayunar,"(to) eat breakfast, (to) have breakfast"
+empezamos a,we started to
+encontrar,(to) find
+enseña a,teach to
+entrada,"entrance, ticket, gate"
+entradas,"entrances, gates, tickets"
+lavarnos,"wash, (to) wash"
+levantarme,"(to) get up, getting up"
+levantarte,(you) get up
+papel,"paper, role"
+papeles,papers
+pie,pie
+pies,feet
+ponerme,"put, (to) put on, (to) wear"
+ponerte,"put, (to) put on, putting on"
+probarse,(to) try on
+probarte,(to) try on
+quedarme,(to) stay
+quedarnos,"stay, (to) stay, staying"
+recordar,"remember, (to) remember, remembering"
+salir a,go to
+taza,"cup, mug, bowl"
+tazas,"cups, mugs, bowls"
+volar,"(to) fly, fly, flying"
+tolike1,tolike1
+tolike2,tolike2
+tolike3,tolike3
+tolike,"liked, like"
+adónde,where
+aviones,"planes, airplanes"
+avión,"plane, airplane"
+boletos,tickets
+carros,cars
+cuarto,"room, bedroom, quarter"
+cámara,camera
+cámaras,cameras
+estar,"be, (to) be, (to) stay"
+llega,"(?) does it arrive, (he) arrives, (it) arrives"
+llegamos,"(we) arrived, (we) arrive, (?) do we arrive"
+llegan,(they) arrive
+llegar,"(to) arrive, (to) be, (to) get"
+llegas,"(you) arrive, (?) do you arrive"
+llego,"(?) do I get, (I) arrive"
+maletas,"suitcases, bags"
+minuto,minute
+minutos,minutes
+pasaportes,passports
+por,"for, in, by"
+pronto,soon
+próxima,next
+próximas,"next, closes, nears"
+próximo,"next, nearest"
+taxis,taxis
+treinta,"30, thirty"
+va a,will
+vamos a,we are going to
+van a,going to
+vas a,you'll
+veintinueve,"29, twenty-nine"
+veintiocho,"28, twenty-eight"
+veintisiete,"27, twenty-seven"
+veintiséis,"26, twenty-six"
+voy a,I will
+algo de,some
+alguien,"someone, somebody, anyone"
+caminaron,"(?) did you walk, (they) walked, walk"
+compraron,"(?) did you buy, (they) got, (?) did they buy"
+compraste,"buy, (?) did you buy, (?) did you get"
+cuatrocientos,"four hundred, 400"
+disfrutando,enjoying
+encontramos,"(we) find, (we) found"
+encontraron,"(?) did you find, (they) found, find"
+entonces,"then, so"
+espere,(you) wait
+fumar,"smoking, (to) smoke"
+hay alguna,There are some
+hay algún,is there any
+nacionalidad,nationality
+nos vemos,see you
+posible,possible
+querría,(I) would like
+quinientos,"500, five hundred"
+ruido,"noise, noisy"
+seiscientos,"600, six hundred"
+siguiente,"next, following"
+siguientes,"following, next, followings"
+trescientos,"three hundred, 300"
+vine,"(I) came, (I) arrived, come"
+vinieron,"(?) did you come, (they) came, come"
+vinimos,"(we) came, (we) arrived, come"
+viniste,"come, (you) arrived, (you) came"
+vino,"wine, (?) did he come, (he) came"
+abriste,"start, bored, open"
+abrí,"(I) opened, bored, get"
+bebieron,"drink, (?) did you drink, (they) drank"
+bebió,"(?) did you drink, (he) drank, (she) drank"
+caminaste,"(?) did you walk, (you) walked, walk"
+caminé,"(I) walked, walk"
+cogimos,"got, get, made"
+conocieron,"(?) did you meet, (they) met, meet"
+conoció,"meet, (?) did they meet, (he) knew"
+disfrutaron,"(?) did you enjoy, (you) enjoyed, enjoy"
+disfrutaste,(?) did you enjoy
+disfruté,(I) enjoyed
+disfrutó,"(he) enjoyed, (it) enjoyed, (she) enjoyed"
+escribiste,"(you) wrote, (?) did you write, write"
+escribí,"(I) wrote, write"
+hice,"(I) did, (I) made, (I) asked"
+hicieron,"(?) did they do, (?) did you make, (they) asked"
+hicimos,"made, (we) made, (?) did we do"
+hiciste,"(you) did, (you) made, (?) did you do"
+hizo,"(?) did he do, (he) asked, (he) made"
+miramos,"look, (we) watched, (we) are looking"
+saliste,"(?) did you leave, (you) went out, (?) did you go out"
+salí,"(I) went out, (I) left"
+viajaron,"(?) did you travel, (they) traveled, travel"
+viajó,"(?) did you travel, (she) traveled, travel"
+visitaron,"(?) did you visit, visit, (they) visited"
+visitó,"(she) visited, (?) did you visit, visit"
+abril,April
+agosto,August
+buen tiempo,good time
+cómo está el tiempo,how's the weather
+diciembre,December
+enero,January
+febrero,February
+hace calor,Is it hot
+hace frío,it's cold
+invierno,winter
+inviernos,"winter, winters"
+julio,"July, Julio"
+junio,June
+llueve,"(?) does it rain, (it) rains, it's raining"
+mal tiempo,bad weather
+marzo,March
+mayo,May
+mes,month
+meses,"months, month"
+nieva,"(?) is it snowing, snow, (it) snows"
+noviembre,November
+nublado,cloudy
+octubre,October
+oscuro,dark
+oscuros,dark
+otoños,"autumns, falls"
+primavera,spring
+primaveras,spring
+qué tiempo hace,what's the weather like
+septiembre,September
+sol,"sun, sunny"
+viento,"wind, windy"
+vientos,"winds, guy rope, guys"
+anoche,last night
+aprendimos,"(we) learned, learn"
+bailamos,"(we) dance, (we) danced"
+barco,"boat, ship"
+barcos,"boats, ships, shallow ravine"
+bebimos,(we) drank
+caminamos,"(we) walk, (we) walked, (we) are walking"
+cenamos,"(we) ate dinner, (we) eat dinner, (we) had dinner"
+comimos,"(we) ate, (we) had"
+conocimos,"(we) met, (we) knew, knew"
+corrimos,"run, (we) went running, (we) ran"
+después,"after, later, next"
+disfrutamos,"(we) enjoy, (we) are enjoying, (we) enjoyed"
+escuchamos,"(we) listened to, (?) did we listen to, (we) are are listening to"
+estuvimos,(we) were
+fuimos,"(we) went, (we) were, go"
+montamos,"(we) ride, (we) rode, start"
+nadamos,"(we) swim, (we) swam"
+nieve,snow
+pasamos,"spend, (we) spent, (we) are spending"
+practicamos,"(we) played, (we) practice, (we) practiced"
+queridos,dear
+salimos,"(we) went out, (we) go out, (we) are leaving"
+viajamos,"(we) travel, (we) traveled, we're traveling"
+vimos,"(we) saw, (we) watched"
+visitamos,"(we) visit, (we) visited"
+coger,"take, (to) take, catch"
+cojo,"(I) take, I'm taking, get"
+el azul,the blue one
+el mío,mine
+el rojo,the red one
+encontraste,"(?) did you find, (you) found"
+encontré,"(I) found, find"
+la amarilla,the yellow one
+la tuya,yours
+sí,"yes, yeah, does"
+asaba,roasted
+asabas,asabas
+cafetería,coffee shop
+cafeterías,coffee shops
+carretera,road
+ciencias,sciences
+cocinaba,cooked
+desayunaba,had breakfast
+desayunaban,they had breakfast
+desayunábamos,we had breakfast
+diario,diary
+dibujaba,drew
+dibujaban,they drew
+dibujabas,you drew
+dibujábamos,we were drawing
+disfrutaba,enjoyed
+disfrutábamos,we enjoyed
+entra,enters
+entrar,get in
+entras,you enter
+entró,I enter
+limonada,lemonade
+manejaba,was driving
+manejaban,they drove
+manejar,handle
+mercado,market
+mercados,markets
+miraba,looked
+miraban,they looked
+monas,cute
+mono,bow
+monos,monkeys
+océano,ocean
+pescaba,fished
+pescaban,they fished
+pescar,to fish
+rata,rat
+ratas,rats
+reparaba,repaired
+reparaban,repaired
+reparar,fix
+reparó,repair
+rugby,rugby
+tambor,drum
+tambores,drums
+tía,aunt
+tías,aunts
+tíos,uncles
+usaba,used
+video,video
+videos,videos
+alfombras,carpets
+apaga,turns off
+apagada,off
+apagadas,turned off
+apagado,switched off
+apagados,turned off
+apagar,to turn off
+apagas,you turn off
+apagaste,you turned off
+apagó,turned off
+cafetera,coffee maker
+creo que debería,I think I should
+creo que deberías,I think you should
+cómodas,comfortable
+dormida,asleep
+dormidas,asleep
+dormido,asleep
+dormidos,asleep
+encendemos,we turn on
+encender,light
+encendida,turned on
+encendidas,lit
+encendido,switched on
+encendidos,turned on
+encendieron,they turned on
+encendí,I turned on
+espejo,mirror
+espejos,Mirrors
+estufas,stoves
+lavadora,washer
+lavadoras,washing machines
+luces,lights
+luz,light
+lámpara,lamp
+lámparas,lamps
+muebles,furniture
+perder,to lose
+perdida,loss
+perdidas,losses
+perdido,lost
+pintada,graffiti
+pintadas,painted
+pintado,painted
+pintados,painted
+portátil,portable
+portátiles,laptops
+sillones,armchairs
+sillón,armchair
+sofá,sofa
+televisor,television
+televisores,televisions
+alumnos,students
+amables,kind
+bosque,forest
+cereal,cereal
+cereales,cereals
+comía,I used to eat
+comías,you ate
+de
+                    niña,of girl
+de niño,as a child
+era,it was
+eras,ages
+estudiaba,studied
+estudiabas,you studied
+jugaba,played
+jugabas,you played
+leía,read
+leías,you read
+montaba,rode
+montabas,you rode
+nadaba,swam
+nadabas,you swam
+tenías,you had
+tranquila,peaceful
+tranquilas,calm down
+tranquilo,calm
+tranquilos,quiet
+vivía,she lived
+vivías,you lived
+vóleibol,volleyball
+acostar+prpers,lay down+prpers
+acostarme,lie down
+acostarse,lie down
+acostarte,lie down
+ajedrez,Chess
+allí,over there
+cansadísimo,very tired
+cuando,when
+de vez en cuando,once in a while
+dificilísimo,very difficult
+encantaron,they loved
+encantó,charm
+fantástica,fantastic
+fantásticas,fantastic
+fantástico,fantastic
+fantásticos,fantastic
+frecuentemente,frequently
+generalmente,usually
+gimnasios,gyms
+golf,Golf
+grandísimo,great
+gustaron,they liked
+me acuesto,I lay
+morada,dwelling
+morado,purple
+nos acostamos,we go to bed
+odia,hates
+odiar,hate
+odiaron,they hated
+odiaste,you hated
+odio,hatred
+preferimos,we prefer
+preferir,to prefer
+prefieren,prefer
+se acuesta,lies down
+se acuestan,they lie down
+te acuestas,you lie down
+tomar,drink
+un poco,a little
+almorcé,I lunched
+bufanda,scarf
+bufandas,scarves
+calcetines,socks
+calcetín,sock
+corbata,tie
+corbatas,ties
+diaria,daily
+diarias,daily
+dormiste,you slept
+durmieron,they slept
+durmió,slept
+maquillaje,make-up
+me acosté,I went to bed
+me desperté,I woke up
+me
+                    duché,I showered
+me lavé,I washed
+me probé,i tried myself
+me quedé,I stayed
+me reuní,I met
+mermelada,jam
+nos despertamos,we wake up
+nos duchamos,we showered
+nos preocupamos,we care
+nos probamos,we tried ourselves
+nos quedamos,we stayed
+nos reunimos,we met
+pasta,pasta
+peine,comb
+perfecta,perfect
+perfectos,perfect
+se acostaron,they went to bed
+se acostó,went to bed
+se despertaron,they woke up
+se despertó,he woke up
+se ducharon,they showered
+se duchó,took a shower
+se lavaron,They were washed
+se lavó,He washed
+se preocuparon,they worried
+se preocupó,he worried
+se probaron,they tried
+se probó,it was tried
+se quedaron,they remained
+se quedó,he stayed
+se reunieron,They met
+se reunió,met
+suaves,soft
+suéter,sweater
+suéters,sweaters
+te acostaste,you went to bed
+te despertaste,you woke up
+te duchaste,you showered
+te lavaste,you washed
+te probaste,you tried
+te quedaste,you stayed
+te reuniste,you met
+tostada,toast
+tostadas,toasts
+traje,costume
+trajes,suits
+uniforme,uniform
+uniformes,uniforms
+vestirse,get dressed
+aceite,oil
+aceites,oils
+alcohol,alcohol
+algo más,anything else
+asada,roast
+asado,roast
+buen provecho,Bon Appetite
+cenan,have dinner
+cenaron,they dined
+cenas,dinners
+cenó,frown
+champanes,champagnes
+champán,champagne
+chef,Chef
+cocinar,cook
+cocinaste,you cooked
+desayunamos,we had breakfast
+desayunan,have breakfast
+desayunó,breakfast
+especial del día,day's special
+estupenda,great
+estupendas,great
+estupendo,great
+estupendos,great
+excelente,Excellent
+excelentes,excellent
+extra,extra
+extras,Additional features
+hielo,ice
+llenas,full
+me puede traer,Can you bring me
+panes,breads
+pedimos,we ask
+pedir,ask for
+pide,requests
+piden,they ask
+probaron,they tried
+saludable,healthy
+saludables,healthy
+servimos,we serve
+servir,to serve
+sirve,it serves
+sirves,you serve
+sirvo,I serve
+traemos,we bring
+vegetariana,vegetarian
+vegetariano,vegetarian
+vegetarianos,vegetarians
+a lo mejor,maybe
+aburridísima,boring
+aburridísimas,very boring
+aburridísimo,boring
+aburridísimos,very boring
+bellísima,Beautifull
+bellísimas,beautiful
+bellísimo,beautiful
+bellísimos,beautiful
+bueno,well
+buenísimas,very good
+buenísimos,very good
+carísima,very expensive
+carísimas,very expensive
+carísimo,very expensive
+carísimos,very expensive
+ciclismo,cycling
+correr,rush
+corrieron,they ran
+corriste,you ran
+corrí,i ran
+cómics,comics
+desafortunadamente,unfortunately
+descansos,breaks
+divertido,funny
+divertidísima,hilarious
+divertidísimas,hilarious
+divertidísimo,hilarious
+divertidísimos,hilarious
+espectáculo,show
+espectáculos,shows
+excursiones,excursions
+excursión,excursion
+grande,great
+grandísima,great
+grandísimas,very big
+grandísimos,great
+hermosísima,most beautiful
+hermosísimas,very beautiful
+hermosísimo,very beautiful
+hermosísimos,very beautiful
+hip-hop,hip hop
+hobbies,hobbies
+hobby,hobby
+invita,invites
+invite,invite
+jazz,jazz
+lagos,lakes
+malo,evil
+malísima,lousy
+malísimo,lousy
+malísimos,lousy
+montar,mount
+montaron,they rode
+monté,mountain
+montó,amount
+motocicletas,motorcycles
+nadaron,they swam
+nadaste,you swam
+nadé,swim
+nadó,I swim
+obra de teatro,play
+qué hacemos,what do we do
+qué tal si,what if
+teatro,theater
+teatros,theaters
+abrirla,open it
+abrirlo,open it
+abrirlos,open them
+beberla,drink it
+beberlas,drink them
+beberlo,drink it
+beberlos,drink them
+cebolla,onion
+cebollas,onions
+champiñones,mushrooms
+comerla,eat it
+comerlas,eat them
+comerlo,eat it
+comerlos,eat them
+comprar,purchase
+comprarlas,buy them
+comprarlo,buy
+comprarlos,buy them
+en oferta,in offer
+gastar,to spend
+jamones,hams
+jamón,ham
+kilogramo,kilogram
+lata,can
+lavarlas,wash them
+lavarlo,wash it
+lavarlos,wash them
+limón,lemon
+lista,list
+litro,liter
+necesitar,need
+necesitarla,need her
+necesitarlas,need them
+necesitarlo,need it
+necesitarlos,need them
+pedirla,ask for it
+pedirlas,ask for them
+pedirlo,asking for it
+pera,pear
+peras,pears
+pimienta,Pepper
+prepararla,prepare it
+prepararlo,set it up
+prepararlos,prepare them
+variedad,variety
+variedades,varieties
+y
+                    medio,and a half
+yogur,yogurt
+yogures,yogurts
+actividad,exercise
+actividades,activities
+cigarrillos,cigarettes
+cita,appointment
+cuello,neck
+cuellos,necks
+cuida,takes care
+cuidan,take care
+cuidar,look after
+cuidas,take care
+debería,ought
+deberías,you should
+dedo,finger
+dedos,fingers
+descansar,to rest
+descansaron,rested
+descansas,you rest
+descansaste,you rested
+descanso,break
+descansó,break
+doler,to hurt
+dolor,pain
+dr.,dr.
+dra.,dr.
+duele,hurts
+duelen,they hurt
+ejercicio,exercise
+enfermeras,nurses
+enfermeros,nurses
+espalda,back
+espaldas,backs
+estómago,stomach
+estómagos,stomachs
+hay que,must
+jabones,soaps
+jabón,soap
+me cepillé,I brushed
+mover,move
+nos cepillamos,we brush
+pálida,pale
+pálido,Pale
+salud,Health
+se cepillaron,they brushed
+se cepilló,brushed
+te cepillaste,you brushed
+colinas,hills
+conocida,known
+conocido,acquaintance
+conocidos,acquaintances
+de acuerdo,ok
+decidir,to decide
+decidiste,you decided
+decidió,He decided
+decidí,I decided
+miles,Thousands
+ocurrieron,occurred
+ocurrir,to occure
+ocurrió,It occurred
+por fin,finally
+preparamos,we prepare
+preparar,set up
+prepararon,prepared
+preparaste,you prepared
+preparé,I prepared
+preparó,prepared
+principio,principle
+principios,beginning
+pude,could
+pudiste,you could
+pudo,could
+puse,I put
+pusiste,you put
+puso,put
+razones,reasons
+razón,reason
+siglo,century
+supe,I knew
+supiste,did you know
+supo,he knew
+veces,times
+vez,time
+área,area
+áreas,areas
+ayudamos,we help
+ayudaste,you helped
+bailaron,they danced
+bailaste,you danced
+bailé,dance
+bailó,I danced
+cambiaron,they changed
+comencé,I started
+comenzaron,started
+comenzó,started
+comprender,grasp
+comprendieron,they understood
+comprendimos,we understood
+comprendiste,did you understand
+comprendió,understood
+esperamos,we wait
+esperaste,did you wait
+invitó,invited
+llegaron,they arrived
+llegué,I arrived
+llegó,I arrive
+mandamos,we sent
+mandaste,did you send
+mandé,What
+mandó,command
+miraste,you looked
+morir,To die
+novecientos,nine hundred
+ochocientos,eight hundred
+pensaron,they thought
+pensaste,Thought
+pensé,I thought
+pensó,thought
+pintaron,they painted
+pintaste,you painted
+pinté,I painted
+practicaron,they practiced
+practicaste,you practiced
+practicó,practical
+practiqué,I practiced
+recordamos,we remember
+recuerda,remember
+recuerdo,memory
+setecientos,seven hundred
+usaron,they used
+usaste,you used
+usé,i used
+vivieron,they lived
+vivió,lived
+a lo largo de,throughout
+a lo largo del,along the
+acampaba,he was camping
+acampando,camping
+acampas,you camp
+bádminton,badminton
+cartas,cards
+colecciona,collect
+coleccionaba,collected
+coleccionabas,you collected
+coleccionan,collect
+cometa,kite
+cometas,kites
+dibujos,drawings
+esquiar,ski
+estampillas,stamps
+gorra,Cap
+hockey,hockey
+maravillosas,wonderful
+maravilloso,marvelous
+me,I
+navegaba,was sailing
+navegamos,we sail
+navegué,I sailed
+pop,pop
+postal,Postcard
+prestar,to loan
+prestas,lend
+prestaste,you lent
+presto,presto
+presté,lent
+raqueta,racket
+rompecabezas,puzzle
+tanto,so much
+tantos,so many
+te,tea
+velero,sailboat
+acabar,finish
+ah,oh
+barba,beard
+cabezas,heads
+cerré,I closed
+cuerpos,bodies
+despertarme,wake up
+despertarnos,wake us up
+despertarse,wake up
+despertarte,wake you
+despiertas,wake up
+encima,above
+gustó,taste
+lleva puesto,wearing
+narices,nose
+nos acordamos,we remember
+nos levantamos,we got up
+oigo,i hear
+oye,hears
+oyen,hear
+oyes,you hear
+oímos,we heard
+oír,hear
+queda,is left over
+quedamos,we stay
+quedan,remain
+quedar,stay
+quedas,stay
+quedo,I stay
+se despierta,wakes up
+se despiertan,they wake up
+se levantó,got up
+sentirnos,feel us
+sentirse,feel
+sentirte,feel you
+soñar,Sound
+almorzaron,they had lunch
+almorzaste,did you have lunch
+aprobamos,we approve
+aprobar,Approve
+aprobaron,approved
+aprobaste,you passed
+aprobé,I approved
+balonmano,handball
+carreras,careers
+copa,Cup
+corredora,runner
+corredoras,runners
+cuaderno,notebook
+dormí,I slept
+entendimos,we understood
+entendiste,you understood
+equipo,equipment
+equipos,teams
+gana,win
+ganar,win
+ganas,desire
+ganaste,Won
+historia,history
+kilómetro,kilometer
+kilómetros,kilometres
+lavamos,we wash
+lavar,wash
+lavaste,you washed
+lavé,washed
+leyeron,they read
+leyó,read
+leímos,we read
+leíste,did you read
+libro de texto,Text book
+libros de texto,textbooks
+limpiamos,we clean
+limpiar,clean up
+limpiaste,you cleaned
+limpié,I cleaned
+química,chemistry
+tazón,mug
+tocamos,we touch
+tocar,touch
+tocó,touched
+tomaron,they took
+tomaste,do you drink tea
+tomé,take
+tomó,I take
+varias,several
+varios,several
+agricultor,farmer
+agricultores,farmers
+conejo,rabbit
+conejos,rabbits
+dinosaurio,dinosaur
+dinosaurios,dinosaurs
+el ajedrez,the chess
+el baloncesto,basketball
+el ciclismo,cycling
+el español,the Spanish
+el fútbol,football
+el inglés,English
+elefante,elephant
+elefantes,elephants
+fuerte,strong
+fuertes,powerful
+gramática,grammar
+las frutas,the fruits
+los deportes,sports
+los gatos,the cats
+los lunes,on Monday
+los maestros,teachers
+los médicos,the doctors
+los padres,parents
+los
+                    perros,dogs
+oso,bear
+peligroso,dangerous
+pesadas,heavy
+pesados,heavy
+rápido,Quick
+útil,Useful
+útiles,tools
+anuncio,advertisement
+archivo,File, Archive
+canal,channel
+canales,channels
+dijeron,they said
+dijimos,we said
+documento,document
+documentos,documents
+entiendes,you understand
+enviar,send
+fábricas,factories
+información,information
+ingeniera,engineer
+ingenieras,engineers
+ingeniero,engineer
+ingenieros,engineers
+internet,Internet
+leí,I read
+mensajes,posts
+máquina,machine
+máquinas,machines
+noticia,News
+noticias,news
+preguntaron,they asked
+preguntaste,Asked
+pregunté,I asked for
+preguntó,I ask
+que,what
+revista,magazine
+revistas,journals
+semanal,weekly
+sitios,sites
+trajeron,they brought
+trajimos,we brought
+tuvieron,they had
+tuvimos,we had
+verdad,TRUE
+amaban,they loved
+collar,necklace
+conocer,know
+conocía,knew
+conocían,they knew
+corazones,hearts
+corazón,heart
+cree,believe
+creemos,we believe
+creen,believe
+creer,to believe
+creo,I believe
+creía,believed
+creíamos,we believed
+creías,did you believe
+encantaba,loved
+encantaban,they loved
+estar de acuerdo,agree
+interesaba,interested
+interesarse,interest
+leones,lions
+león,Lion
+magia,Magic
+me llamaba,called me
+naturaleza,nature
+naturalezas,natures
+necesitaba,needed
+necesitaban,they needed
+odiaba,I hated
+odiaban,they hated
+oro,Prayed
+pato,duck
+patos,Ducks
+prefería,preferred
+preferían,they preferred
+preferías,you preferred
+propia,own
+propias,own
+propio,own
+propios,own
+puente,bridge
+puentes,bridges
+querer,want
+quería,wanted
+se llamaba,it was called
+se llamaban,They were called
+serpiente,snake
+serpientes,snakes
+silvestres,wild
+simple,simple
+visitantes,visitors
+abuelito,Grandpa
+aventura,adventure
+aventuras,adventure
+campamento,camp
+campamentos,camps
+compañera de cuarto,roommate
+compañeras de clase,classmates
+compañeras de cuarto,Roommates
+compañero de clase,classmate
+compañero de cuarto,Roommate
+compañeros de clase,classmates
+compañeros de cuarto,roommates
+cuentos,stories
+dije,I said
+dijiste,said
+dijo,said
+hace,make
+juego de mesa,board game
+juegos de mesa,table games
+llevamos,we carry
+llevó,I have
+me acordé,I remembered
+momento,moment
+momentos,moments
+nota,note
+notas,notes
+premio,prize
+premios,awards
+prima,cousin
+primas,cousins
+primo,cousin
+primos,cousins
+recibe,receives
+recibimos,We received
+recibir,to receive
+recibió,He received
+se acordaron,they agreed
+se acordó,he remembered
+te acordaste,did you remember
+trajiste,you brought
+trajo,He brought
+tuve,I had
+tuviste,You saw
+tuvo,had
+cajones,drawers
+cajón,drawer
+casada,married
+casado,married
+enfadadas,angry
+enfadado,angry
+enfadados,angry
+estaba,was
+estaban,They were
+estabas,you were
+estar,to be
+estábamos,we were
+excepto,except
+fresca,fresh
+frescas,fresh
+frescos,fresh
+gafas de sol,Sunglasses
+interesadas,interested
+interesado,interested
+interesados,interested
+invitada,guest
+invitado,guest
+invitados,guests
+loco,crazy
+locos,crazy
+mangos,mangoes
+mojada,wet
+mojadas,wet
+mojado,wet
+mojados,wet
+motor,engine
+motores,engines
+nietas,granddaughters
+nieto,grandchild
+paraguas,umbrella
+probablemente,probably
+romper,break
+rompieron,broke up
+rompiste,you broke
+rompí,I broke up
+rota,broken
+rotas,broken
+roto,broken
+satisfecha,satisfied
+satisfechas,satisfied
+satisfecho,satisfied
+satisfechos,satisfied
+secas,dry
+secos,dry
+sin duda,undoubtedly
+soleada,sunny
+soleadas,sunny
+soleados,sunny
+traje de baño,Swimwear
+trajes de baño,swimsuits
+vecina,neighbor
+vecinas,neighbors
+vecinos,neighbours
+acompañaba,accompanied
+acompañaban,accompanied
+almorzaban,they had lunch
+almorzabas,you had lunch
+almorzábamos,we had lunch
+caminaba,walked
+caminaban,they walked
+caminábamos,we were walking
+compraba,bought
+compraban,they bought
+comprabas,you bought
+comprábamos,we bought
+conversaba,talked
+conversaban,they talked
+corría,ran
+corríamos,we ran
+corrían,they ran
+corrías,you ran
+cuidaba,cared
+cuidabas,you took care
+descansaba,rested
+descansaban,rested
+descansábamos,we rested
+dibujos animados,Cartoon
+dormíamos,we slept
+dormías,you were sleeping
+dulces,sweets
+escribía,wrote
+escribían,were writing
+escribías,you wrote
+estudiaban,they studied
+estudiábamos,we studied
+geografía,geography
+gustaba,liked
+gustaban,they liked
+gustar,like
+iba,I was going
+iban,were going
+ibas,you were going
+lavaba,washed
+lavábamos,we washed
+limpiaban,they cleaned
+limpiabas,you cleaned
+limpiábamos,we cleaned
+mecánica,mechanics
+mecánicas,mechanical
+mecánico,mechanic
+mecánicos,mechanics
+patio de juego,play ground
+patios de juego,playgrounds
+recibía,received
+recibían,received
+refresco,soft drink
+refrescos,refreshments
+tomaban,they drank
+tomabas,you drank
+tomábamos,we drank
+trabajabas,you worked
+trabajando,working
+íbamos,we were going
+pasttense21,pasttense21
+pasttense22,pasttense22
+pasttense23,pasttense23
+pasttense31,pasttense31
+pasttense32,pasttense32
+pasttense33,pasttense33
+pasttense41,pasttense41
+pasttense42,pasttense42
+pasttense43,pasttense43
+avanzada,advanced
+avanzado,advanced
+calendario,calendar
+calendarios,calendars
+claramente,clearly
+compañera,partner
+compañeras,companions
+compañero,companion
+compañeros,classmates
+consejo,tip
+consejos,tips
+dar,give
+darle,give him
+darme,give me
+darte,to give you
+decirles,tell them
+decirme,tell me
+decirnos,tell us
+detalle,detail
+detalles,details
+diferencia,difference
+diferencias,differences
+estuche,case
+explica,Explain
+explicando,explaining
+explicar,explain
+explicaron,they explained
+explicas,you explain
+explicó,explained
+expliqué,I explained
+les,them
+libro de ejercicios,workbook
+libros de ejercicios,exercise books
+mochila,backpack
+mochilas,backpacks
+nivel,level
+niveles,levels
+regla,ruler
+reglas,rules
+acompañar,accompany
+acompañas,you accompany
+acompaño,accompany
+acompañó,accompanied
+baila,dance
+bar,Pub
+bares,pubs
+centro,center
+centros,centers
+conversamos,we talk
+conversar,discuss
+conversaron,they talked
+conversaste,you talked
+converso,convert
+conversé,I talked
+conversó,convert
+cómo
+                    le va,how are you
+cómo te va,how's it going
+donde,where
+invitaciones,invitations
+invitación,invitation
+llamamos,we call
+llamaron,they called
+llamaste,called
+llamé,I called
+llamó,I call
+llega,arrives
+llegue,I arrived
+medianoche,midnight
+mediodía,midday
+mira,sight
+parece,It seems
+parrilla,grill
+patio,courtyard
+patios,patios
+pena,pain
+quiénes,Who is it
+qué le parece,what do you think
+qué te parece,how about
+sorpresa,surprise
+ven,come
+artista,artist
+artistas,artists
+ayudaba,helped
+ayudaban,they helped
+ayudabas,you helped
+ayudábamos,we helped
+bailaba,danced
+bailaban,they danced
+bailabas,you danced
+bailarina,dancer
+bailarinas,ballerinas
+bailarín,dancer
+bailábamos,we danced
+campo,countryside
+campos,fields
+castillo,castle
+cenaba,dined
+cenaban,dined
+cenábamos,we had dinner
+guerra,war
+guerras,wars
+hablaba,she spoke
+hablábamos,we talked
+había una vez,once Upon a time
+hasta,until
+intenta,try
+intentaba,tried
+intentaban,they were trying
+intentabas,you were trying
+intentar,attempt
+intentábamos,we tried
+lentamente,slowly
+lloraba,cried
+lloraban,they cried
+llorabas,you cried
+llorar,cry
+mar,sea
+mares,seas
+montaña,mountain
+montañas,mountains
+oveja,sheep
+ovejas,sheep
+reina,Queen
+reinas,queens
+rey,king
+reyes,Kings
+rezaba,prayed
+rezaban,they prayed
+rezabas,you prayed
+rezar,pray
+rezábamos,we prayed
+salones,halls
+salón,living room
+sola,alone
+solas,alone
+solos,alone
+sortija,ring
+sortijas,rings
+tocaba,touched
+tocaban,they touched
+tocabas,you touched
+tocábamos,we played
+violines,violins
+violín,fiddle
+año nuevo,new Year
+comíamos,we ate
+comían,they ate
+durante,during
+día de acción de gracias,Thanksgiving Day
+eran,they were
+especial,special
+especiales,specials
+iglesia,church
+iglesias,churches
+jugaban,they played
+jugábamos,we played
+navidad,Christmas
+nochebuena,good night
+nochevieja,New Years Eve
+tenía,I had
+teníamos,we had
+tenían,They had
+tradiciones,traditions
+tradición,tradition
+visitaba,visited
+visitaban,they visited
+vivíamos,we lived
+vivían,they lived
+éramos,we were
+agradables,nice
+asientos,seating
+bienvenida,welcome
+bienvenido,Welcome
+capital,capital
+capitales,capitals
+catedral,Cathedral
+coche,car
+coches,cars
+confortable,comfortable
+confortables,comfortable
+en todas partes,everywhere
+equipaje,Baggage
+estadio,stadium
+estadios,stadiums
+helicóptero,helicopter
+idea,idea
+ideas,ideas
+identificación,ID
+internacional,international
+internacionales,international
+isla,island
+islas,islands
+planea,plan
+planeamos,we plan
+planean,plan
+planear,to plan
+planeas,you plan
+planeo,glide
+regresamos,we came back
+regresan,return
+regresaron,they returned
+regresaste,You come back
+regreso,he came back
+reserva,booking
+reservamos,we reserve
+reservan,reserve
+reservar,Reserve
+reservaron,reserved
+reservas,Bookings
+reservaste,you booked
+reservo,reserve
+reservó,booked
+servicios,services
+tranvía,trolley car
+turista,tourist
+vuelos,flights
+ópera,Opera
+ayude,help
+disponible,available
+disponibles,available
+empresa,business
+escuche,I listened
+espera,wait
+haga,make
+haz,make
+jamás,Never
+pon,put
+ponga,put
+proyecto,Project
+reuniones,meetings
+reunión,meeting
+tampoco,neither
+trabaja,works
+tú haces,you do
+tú pones,you put
+tú vas,you go
+usa,uses
+use,use
+usted hace,you do
+usted pone,you put
+usted va,you go
+vaya,wow
+ve,go
+adentro,inside
+afuera,outside
+carpeta,file
+carpetas,folders
+cocinera,cook
+cocinero,Cook
+cocineros,chefs
+compañía,company
+compañías,companies
+completando,completing
+completaron,completed
+completaste,you completed
+diciendo,saying
+director,director
+directoras,directors
+durmiendo,sleeping
+edificio,building
+edificios,buildings
+empresaria,businesswoman
+empresarias,businesswomen
+empresario,entrepreneur
+empresarios,businessmen
+gerente,manager
+gerentes,managers
+horario,schedule
+llamada,call
+llamadas,calls
+muriendo,dying
+oyendo,hearing
+pidiendo,asking
+pintor,painter
+pintora,painter
+pintoras,female painters
+pintores,painters
+presidenta,Chairwoman
+presidentas,female presidents
+presidente,President
+presidentes,presidents
+programa,Program
+programas,programs
+repetir,to repeat
+repitiendo,repeating
+trabajadora,worker
+trabajadoras,workers
+trabajadores,workers
+trayendo,bringing
+yendo,going
+anillo,ring
+anillos,rings
+apagaba,turned off
+apagaban,turned off
+apagábamos,we turned off
+atractivo,attractive
+atractivos,attractive
+beberemos,we will drink
+beberá,will drink
+beberán,they will drink
+beberás,you will drink
+beberé,I will drink
+bebía,drank
+bebíamos,we drank
+bebían,drank
+bebías,drank
+cantaba,sang
+cantabas,you sang
+conducir,to drive
+doble,double
+dorada,golden
+doradas,golden
+dorado,golden
+encendía,turned on
+encendíamos,we lit
+encendían,lit
+encendías,you lit
+entraba,came in
+entrábamos,we entered
+enviamos,we send
+envié,I sent
+escuchábamos,we listened
+esperaba,I expected
+esquiaba,skied
+esquiaban,they skied
+esquiábamos,we skied
+fumaba,used to smoke
+fumó,smoked
+gastamos,We spend
+gastaste,you spent
+gasto,spent
+gastó,spent
+me acostaba,I went to bed
+me acostaré,i will lie down
+                    fui,I left
+me iba,I was leaving
+me iré,I will go
+menos mal,goodness
+nadando,swimming
+nadábamos,we swam
+nos acostaremos,we will lie down
+nos iremos,we will go
+rap,rap
+real,real
+reales,real
+rock,rock
+se acostaban,they slept
+se fue,he went away
+se iba,was going
+se iban,They were leaving
+se irá,it will go
+te acostabas,you lay down
+te acostarás,you will lie down
+te fuiste,you left
+te ibas,you were leaving
+te irás,you will leave
+verdadera,true
+verdaderas,true
+verdadero,true
+verdaderos,true
+vestir,wear
+vestíbulo,lobby
+commands1,commands1
+commands2,commands2
+commands3,commands3
+commands,commands
+aprendido,learned
+bastante,pretty
+comido,Eaten
+electricidad,electricity
+estado,condition
+estudiado,studied
+extraña,strange
+extraño,weird
+fuego,fire
+fuegos,fires
+ha,ha
+has,have you
+he,I have
+nacional,national
+nacionales,national
+obrera,worker
+obrero,worker
+peligro,hazard
+peligros,dangers
+recibido,received
+salvajes,wild
+terrible,terrible
+todavía,yet
+trabajado,worked up
+abuelita,granny
+abuelitos,grandparents
+aconseja,advise
+aconsejan,advise
+aconsejas,do you advise
+aconsejo,I advise
+adulta,adult
+bajita,short
+bajitas,short
+bajito,short
+bistec,steak
+casaron,got married
+crecieron,they grew up
+crecimos,we grew up
+creciste,you grew up
+creció,grew up
+crecí,I grew up
+gatito,little cat
+genial,brilliant
+graduada,graduated
+graduado,graduate
+graduados,graduates
+hermanito,little brother
+igual,Same
+iguales,equal
+jalea,jelly
+llevarme bien,get along
+llevarnos bien,to get along
+llevarse bien,get along
+llevarte bien,get along
+me llevaba bien,I got along
+me llevo
+                    bien,I get on well
+mesita,small table
+normal,normal
+nos casamos,We married
+nos llevamos bien,we get along
+pequeñita,tiny
+pequeñito,tiny
+pequeñitos,little ones
+perrito,puppy
+poquito,a little
+ratones,mice
+ratón,mouse
+rosa,pink
+se casan,they marry
+se casó,got married
+se llevan bien,get along
+se llevaron bien,They got along well
+se llevó bien,got along
+soltera,single
+soltero,single
+solteros,singles
+te casas,You get married
+te llevabas bien,you got along
+te llevas bien,you get along
+amaron,they loved
+amaste,you loved
+amé,I loved
+amó,love
+construimos,we build
+construir,build up
+construye,build
+construyen,build
+construyes,you build
+construyo,I build
+costaron,they cost
+costó,cost
+decir,say
+decía,He said
+decíamos,we said
+decían,they were saying
+decías,you said
+dejaste,you left
+dejé,leave
+dejó,let
+deliciosa,delicious
+destruimos,we destroy
+destruir,destroy
+destruirán,will destroy
+destruye,destroy
+destruyen,destroy
+destruyes,you destroy
+destruyo,He destroyed
+golpea,hit
+golpear,beat
+golpeas,you hit
+incluimos,we include
+incluyen,include
+incluyes,you include
+incluyo,I include
+individual,individual
+individuales,individual
+mantenemos,we keep
+mantener,hold
+mantengo,I keep
+mantiene,maintains
+mantienen,keep
+mantienes,you keep
+matar,to kill
+matarán,they will kill
+mataré,i will kill
+mató,killed
+muchacha,girl
+muchachas,Girls
+muchacho,young guy
+muchachos,boys
+murió,died
+podía,could
+podían,they could
+puesta,put
+puestas,on
+puestos,stalls
+sabía,knew
+sabían,they knew
+soñaron,they dreamed
+soñaste,you dreamed
+soñé,i dreamed
+soñó,dreamed
+suceder,happen
+sucederá,will happen
+suponemos,we suppose
+suponer,suppose
+supongo,I suppose
+asunto,affair
+asuntos,affairs
+añade,Add
+añadir,Add
+añado,I add
+clara,clear
+claras,clear
+claro,Clear
+contacto,Contact
+contactos,contacts
+di,gave
+dieron,they gave
+digital,digital
+digitales,digital
+dimos,we gave
+dio,gave
+diste,you gave
+e,and
+ellas se,they know
+ellos se,they know
+enteramos,we found out
+enteraron,found out
+enterarse,find out
+enteraste,did you find out
+enteré,I found out
+enteró,whole
+estudio,study
+estudios,studies
+formulario,form
+querer decir,mean
+quería decir,I wanted to say
+quiere decir,means
+quieren decir,They mean
+quieres decir,you mean
+salida,exit
+salidas,Departures
+se,I know
+se la,I know the
+se las,I know them
+se los,I know them
+software,software
+tú
+                    se,you know
+web,Web
+él se,he knows
+acaba de,just
+acabamos de,we just
+acaban de,just finished
+acabas de,you just
+acabo de,just
+boles,bowls
+cancelar,Cancel
+estante,shelf
+estantes,shelves
+fregadero,sink
+garaje,garage
+gritando,Screaming
+hablar de,talk about
+joyas,jewels
+lavamanos,handwash
+melones,melons
+melón,cantaloupe
+pararme,stop
+pararnos,stop
+pararse,stop
+pararte,stop
+recién,newly
+rosadas,pink
+secar,dry off
+secaste,you dried up
+seco,dried
+secó,dried
+sequé,I know that
+techo,ceiling
+techos,roofs
+termina,ends
+terminar,end up
+terminaron,finished
+terminaste,You finished
+termino,term
+terminé,I finished
+terminó,term
+tortillas,tortillas
+vender,sell
+vendieron,sold
+ventilador,fan
+vestida,clothed
+vestidas,clothed
+vestir+prpers,dress+prpers
+vestirme,get dressed
+vestirnos,get dressed
+vestirte,get dressed
+futuretense1,futuretense1
+futuretense2,futuretense2
+futuretense3,futuretense3
+futuretense,futuretense
+adivinaremos,we will guess
+cierto,certain
+comer,eat
+comeremos,we will eat
+comerá,will eat
+comerán,will eat
+comerás,you will eat
+comeré,I will eat
+competencia,competence
+competencias,skills
+de moda,Fashion
+de todas formas,anyway
+eléctrica,electrical
+eléctricas,electrical
+eléctrico,electric
+eléctricos,electrical
+en realidad,in reality
+error,mistake
+errores,mistakes
+estaremos,we will be
+estará,will be
+estarán,they will be
+estarás,you will be
+estaré,I will be
+etcétera,and so on
+finalmente,Finally
+futuro,future
+ganador,winner
+ganadora,winner
+hablaré,I'll talk
+irán,Iran
+irás,you will go
+mejorar,improve
+mejoraremos,we will improve
+mejorará,upgrade to
+mejorarán,will improve
+nos volveremos,we will return
+objetivo,target
+objetivos,objectives
+posiblemente,possibly
+se volverá,It will become in
+se volverán,they will become
+seremos,we will be
+será,will be
+serán,will be
+serás,you will
+seré,I will be
+suerte,lucky
+tal vez,maybe
+te volverás,you will become
+trata,treats
+trataba,tried
+tratando,treating
+trataremos,we will try
+tratarán,will try
+tratarás,you will try
+trato,deal
+título,title
+títulos,Titles
+vivirás,you will live
+viviré,I will live
+volverme,turn me back
+volvernos,turn
+volverse,become
+volverte,turn you back
+alejada,far away
+alejadas,far away
+alejado,away
+alejados,away
+auxilio,help
+caernos,fall down
+caerte,fall down
+cambio,change
+cambios,changes
+cerebro,brain
+cerebros,brains
+comer mucho,eat a lot
+en forma,fit
+fácilmente,easily
+gravemente,seriously
+horrible,horrible
+inmediatamente,immediately
+me olvido,I forget
+me veo,I look
+medicinas,medicines
+molesta,upset
+molestas,annoying
+molesto,annoying
+molestos,annoying
+muerta,dead
+muertas,dead
+muerto,dead
+muertos,dead
+nacer,be born
+nos olvidamos,we forgot
+nos vemos,See ya
+olvidarnos,forget us
+olvidarse,forget
+pelo,hair
+reírme,laugh
+reírnos,laugh
+reírse,laugh
+reírte,laugh
+rápidamente,quickly
+sangre,blood
+se olvida,forget
+se olvidaron,they forgot
+se ve,it looks
+se ven,they look
+te olvidas,you forget
+te ves,you look
+trabajar mucho,work a lot
+usual,usual
+vendaje,bandage
+vernos,see us
+verse,see each other
+abajo,below
+arriba,up
+cuadrada,square
+de todas maneras,anyway
+dirán,they will say
+frente,front
+habrá,there will be
+harán,they will
+haré,I will do
+importa,matter
+importar,to import
+importará,will matter
+juego,play
+lavaplatos,dishwasher
+podremos,we will can
+podrá,may
+podrán,will be able
+podrás,you can
+podré,I will be able
+pondrás,You will put
+pondré,I will put
+poner,place
+redonda,round
+redondo,round
+redondos,round
+sabremos,we will know
+sabrá,will know
+sabrán,will know
+sabrás,you will know
+sabré,i will know
+saldremos,we will go out
+saldrá,will come out
+salir,go out
+tendrán,will have
+tendrás,you will have
+tendré,I will have
+tener,have
+trasera,rear
+trasero,rear
+vendremos,we will come
+vendrá,will come
+venir,to come
+vivo,alive
+vivos,alive
+acamparemos,we will camp
+acamparán,they will camp
+acamparé,I will camp
+aire,air
+cielo,sky
+conduje,Drove
+cubre,it covers
+cubrieron,covered
+cubrió,covered
+descansaremos,we will rest
+descansarán,they will rest
+descansaré,I will rest
+grados,degrees
+impermeable,raincoat
+llover,rain
+me quito,I take off
+navegaremos,we will sail
+navegará,will navigate
+navegarán,they will navigate
+navegaré,i will sail
+nevar,to snow
+nevará,it will snow
+nube,cloud
+pantalones cortos,Shorts
+patada,kick
+patadas,kicks
+pescamos,we fish
+pescó,fished
+pesqué,I fished
+quitarme,take me away
+quitarnos,take away from us
+quitarse,take off
+quitarte,take away
+quizás,maybe
+rueda,wheel
+ruidosa,noisy
+ruidoso,noisy
+salta,jump
+saltan,they jump
+salto,jump
+se quita,it is removed
+se quitan,are removed
+temperatura,temperature
+objects21,objects21
+objects22,objects22
+objects23,objects23
+past tense 51,past tense 51
+past tense 52,past tense 52
+past tense 53,past tense 53
+past tense,past tense
+agradecer,to thank
+agradezco,I appreciate
+aviso,warning
+bébela,drink it
+bébelo,drink it
+bébelos,drink them
+conduzco,I drive
+corredor,runner
+dame,give to me
+desea,want
+desean,wish
+deseas,you want
+deseo,wish
+deseos,wishes
+dime,tell me
+dímelo,tell me
+guardar,save
+guardas,you keep
+guardaste,you saved
+guardo,I keep
+guardó,saved
+hacia,towards
+llené,I filled
+límpiala,clean it up
+límpialas,clean them
+límpialo,clean it up
+límpialos,clean them
+ofrecer,to offer
+ofrecieron,offered
+ofrezco,I offer
+pedir prestado,borrow
+tocaste,you touched
+toqué,touch
+visita,visit
+círculo,circle
+devolvemos,we give back
+devuelven,return
+devuelves,you return
+devuelvo,I return
+dáselo,give it to him
+déselo,give it to him
+dígame,tell me
+dígamelo,tell me
+dígaselo,tell him
+díselo,tell her
+empujar,Push
+espero,wait
+graba,record
+grabo,I record
+hala,hello
+incluir,include
+lancé,throw
+lanzamos,we launch
+lanzar,launch
+lanzas,spears
+medio,medium
+pusieron,they put
+pusimos,we put
+repetimos,we repeat
+repite,repeat
+repito,I repeat
+salga,out
+supieron,they knew
+supimos,we found out
+venga,come on
+basurero,garbage collector
+borrador,draft
+borradores,erasers
+básica,basic
+básicas,basic
+básico,essential
+básicos,basic
+corta,short
+cortan,they cut
+cortaré,i will cut
+corto,short
+cuadrados,squares
+curso,grade
+deletrear,spell out
+espacio,space
+espacios,spaces
+estantería,shelving
+incluso,even
+matemáticas,math
+me apuro,I hurry
+medias,tights
+menos,less
+nos apuramos,we hurry
+ortografía,orthography
+principiante,beginner
+principiantes,beginners
+reprobamos,we fail
+reprobar,fail
+reprobé,I failed
+reprobó,reprobate
+reprueban,fail
+repruebas,fail
+repruebo,I fail
+se apura,he hurries
+se apuran,they hurry up
+segundo,second
+segundos,seconds
+si,Yeah
+suficientes,enough
+suma,addition
+te apuras,hurry up
+tijeras,pair of scissors
+vocabulario,vocabulary
+abran,open
+abren,open
+beban,drink
+brazalete,bracelet
+brazaletes,bangles
+cheque,check
+coman,eat
+comen,eat
+compren,buy
+cuál quiere,which one do you want
+cuál quieres,which one do you want
+cuáles quiere,which ones do you want
+cómo quiere
+                    pagar,how would you like to pay
+cómo quieres pagar,how do you want to pay
+decidan,decide
+deciden,decide
+gratis,free
+hacen,make
+hagan,do
+me la llevo,I'll take it
+me las llevo,I'll take them
+me lo llevo,I'll take it
+me los llevo,I will take them
+otra,other
+otras,others
+otro,other
+otros,others
+perfume,fragrance
+perfumes,perfume
+pijama,Pijama
+pijamas,pajamas
+recibo,receipt
+recibos,receipts
+trabajen,work
+van,go
+vayan,go
+vendedoras,saleswomen
+vendedores,sellers
+agregar,add
+agregué,I added
+costo,cost
+descuento,discount
+devolver,return
+escoger,choose
+escogerás,you will choose
+escojo,I choose
+gustarían,would like
+lana,wool
+me quedaré con,i will stay with
+mezclar,Mix
+mitad,half
+oferta,offer
+pagué,i paid
+quedarse con,stay with
+qué le gustaría para empezar,what would you like to start
+qué te traigo,what can i bring you
+salchicha,hot dog
+salchichas,sausages
+segura,safe
+sin embargo,however
+trozo,piece
+trozos,chunks
+biología,biology
+comprado,bought
+cualquier lugar,any place
+dicho,saying
+estrella,star
+estrellas,stars
+guía,guide
+hecho,done
+luna,Moon
+metas,goals
+multitud,crew
+negativa,negative
+negativo,negative
+pedido,order
+policía,policeman
+por cierto,by the way
+ruta,route
+rutas,routes
+señal,sign
+señales,signs
+sonido,sound
+surfea,surf
+surfean,surf
+surfear,to surf
+surfeo,I surf
+tal,such
+tales,such
+tenido,Dyed
+ajo,Garlic
+asar,roast
+asaremos,we will roast
+asará,will roast
+asarán,they will roast
+asarás,you will roast
+asaré,I will roast
+desde,since
+envía,send
+envías,you send
+envío,Shipping
+escenario,scenery
+esquía,ski
+esquían,they ski
+esquías,you ski
+esquío,I ski
+felicitaciones,Congratulations
+instrumento,instrument
+instrumentos,instruments
+me cae
+                    bien,I like him
+me cae mal,I dislike
+mejor,better
+musical,musical
+musicales,musicals
+nos conocemos,we know each other
+nos escribimos,we write to each other
+pertenecer,to belong
+pertenezco,i belong
+picando,stinging
+picar,sting
+rica,delicious
+ricas,rich
+rico,rich
+se abrazan,they embrace
+se amaron,they loved each other
+se escriben,are written
+soul,soul
+anchas,wide
+anchos,widths
+andén,platform
+cuadra,block
+cuadras,blocks
+cuero,leather
+escaleras,stairs
+esquina,corner
+ferrocarril,railway
+me perdí,i got lost
+me subo,I get on
+norte,north
+nos perdimos,we got lost
+nos subimos,we got on
+paramos,we stopped
+paras,stop
+paro,unemployment
+perderme,lose myself
+perdernos,get lost
+perderse,be lost
+perderte,lose you
+plástico,plastic
+se cree,It is believed
+se dice,It is said that
+se habla,is spoken
+se hacen,are made
+se necesitan,are needed
+se ofrece,is offered
+se ofrecen,are offered
+se usa,it's used
+se vende,for Sale
+se venden,for sale
+subirme,get on
+subirnos,get on
+subirse,get on
+subirte,get on
+subiste,you went up
+sur,south
+te perdiste,you got lost
+te subes,you climb
+toallas,towels
+turismo,sightseeing
+alquiler,rental
+ascensor,lift
+contactar,contact
+contactaron,contacted
+contacté,contacted
+contactó,Contact
+crucé,crossing
+cruzar,Cross
+cruzaron,crossed
+cruzaste,you crossed
+escalar,climb
+escalaremos,we will climb
+escalaron,they climbed
+escalaste,you climbed
+este,East
+extranjero,Foreign
+extranjeros,foreign
+indicaciones,indications
+manera,way
+metro,meter
+neumático,tire
+oeste,West
+perderemos,we will lose
+perdimos,we lost
+perdió,lost
+perdí,I missed
+sube,goes up
+subimos,we climb
+subir,increase
+tenemos prisa,We are in a hurry
+tengo prisa,I'm in a hurry
+tiene prisa,in a hurry
+volamos,we fly
+vuela,Flying
+vuelan,they fly
+vuelo,flight
+aguacate,avocado
+anduve,I walked
+anduvieron,they walked
+anduvimos,We walked
+anduviste,you walked
+anduvo,walked
+cadena,string
+clásica,classical
+describir,to describe
+doblamos,we fold
+doblar,Bend
+doblas,you fold
+estacionar,park
+estacionaré,i will park
+estacionaste,you parked
+perdidos,lost
+pudieron,could
+pudimos,we could
+quise,I wanted
+quisieron,they wanted
+quisimos,we wanted
+quisiste,did you want
+quiso,wanted
+red,grid
+retrasamos,we delay
+retrasaste,you delayed
+retrasó,delay
+sal,Salt
+señala,points
+señalar,point
+sonar,Dream
+ten,have
+ven
+                    acá,come here
+vete,go away
+ahorrar,save
+alquilar,rent
+alrededor del,around the
+así que,so
+autopista,highway
+avenida,avenue
+avenidas,avenues
+cálido,warm
+empaqué,packing
+encantaría,would love
+encantarían,they would love
+euro,euro
+gasolina,gasoline
+irte,go away
+mapa,Map
+mapas,maps
+me voy,leave
+nos vamos,Let's go
+profunda,deep
+profundo,deep
+resto,rest
+se va,it goes
+se van,they go
+sería una buena idea,It would be a good idea
+soñamos,we dream
+sueña,it sounds
+sueño,sleep
+te vas,you go
+a mí
+                    me gusta,I like it
+a él le gustan,he likes
+centímetros,centimeters
+es segura,it is safe
+es verde,It is green
+gramo,gram
+gramos,grams
+le das,you give
+le gusta,likes
+le gustan,Likes
+listo,clever
+listos,ready
+me dice,tells me
+profesora,professor
+profesoras,teachers
+profesores,teachers
+recto,right
+ricos,rich
+te gustan,you like them
+actriz,actress
+cantantes,singers
+cliente,customer
+concejo municipal,city Council
+conductor,driver
+conductora,driver
+conductoras,drivers
+conductores,drivers
+copiaba,copied
+copiamos,we copied
+copiando,copying
+copiaste,you copied
+correo,mail
+departamento,department
+departamentos,departments
+descargamos,we download
+descargando,downloading
+descargaste,you downloaded
+descargué,downloaded
+descargó,discharge
+fotógrafa,photographer
+fotógrafas,female photographers
+fotógrafo,photographer
+fotógrafos,photographers
+física,physical
+ganaba,won
+ganaban,they won
+ganabas,you won
+ganó,won
+impresora,printing machine
+limpiador,cleaner
+limpiadora,cleaner
+limpiadoras,cleaners
+limpiadores,cleaners
+limpiando,Cleaning
+madera,wood
+ocupación,occupation
+personal,staff
+pienso que deberías,i think you should
+recepcionista,receptionist
+acompañaremos,we will accompany
+acompañará,will accompany
+acompañarán,will accompany
+acompañaré,I will accompany
+anda,go
+andamos,we walk
+andan,they walk
+andar,walk
+carrera,career
+compartir,to share
+compartiremos,we will share
+compartiré,i will share
+común,common
+construiremos,we will build
+construirá,will build
+construirán,will build
+construiré,i will build
+conversaremos,we will talk
+conversarán,they will talk
+conversarás,you will talk
+conversaré,I will talk
+diseña,designs
+diseñar,design
+diseñé,i designed
+diseñó,design
+felicidades,Congratulations
+hoja,leaf
+hojas,sheets
+libre,free
+modelos,Models
+nos veremos,see you later
+organicé,organized
+organizar,organize
+organizas,you organize
+organizaste,you organized
+querremos,we will want
+querrá,will want
+querrán,they will want
+querrás,you will want
+querré,I will want
+recibiremos,we will receive
+recibirán,will receive
+recibirás,you will receive
+reservaremos,we will reserve
+reservará,will reserve
+reservarán,they will reserve
+reservarás,you will reserve
+reservaré,I will book
+se verá,it will be seen
+sino,otherwise
+tipo,type
+tumbarme,lie down
+ama de casa,Housewife
+amas de casa,Housewives
+armario,cupboard
+batería,drums
+baterías,batteries
+casi,almost
+castaño,Brown
+escúter,scooter
+fútbol americano,football
+globo,balloon
+globos,balloons
+había,there was
+hacía,towards
+hacíamos,we did
+hacían,they did
+hacías,you did
+liso,smooth
+luego,later
+mientras,While
+patinaba,skated
+patinaban,they skated
+patinabas,you skated
+patinar,rollerblading
+patines,roller skates
+patinábamos,we skated
+patín,roller skate
+payaso,clown
+payasos,clowns
+póster,poster
+pósteres,posters
+veía,saw
+veíamos,we saw
+veían,they saw
+veías,you saw
+zanahorias,carrots
+abras,open
+bebas,drink
+comas,commas
+compres,buy
+contaminada,polluted
+contaminado,contaminated
+currículum,resume
+embajada,embassy
+entrevista,interview
+floreros,vases
+fuente,fountain
+fuentes,sources
+hables,talk
+huracanes,hurricanes
+huracán,hurricane
+lleves,take
+lluvias,rainy
+presentación,presentation
+rosas,roses
+subas,go up
+temporada,season
+temporadas,seasons
+viajes,travels
+visa,visa
+visites,visit
+aspiradora,Vacuum cleaner
+congelador,freezer
+escalera,ladder
+grifo,tap
+lavavajillas,dishwasher
+me la,me the
+me lo,I got it
+me los,me them
+se lo,I know
+te lo,you
+adicional,additional
+adicionales,additional
+aire acondicionado,air conditioner
+alfombra,carpet
+bien,good
+botón,button
+calefacción,heating
+cantidad,amount
+clásicas,classic
+clásico,classic
+clásicos,classics
+cobrar,collect
+cobraron,charged
+comedor,dining room
+deben,must
+debo,I shall
+electrodomésticos,home appliances
+entonces,then
+estilo,style
+estilos,styles
+forma,form
+formas,shapes
+material,material
+mediana,median
+medianas,medians
+mediano,medium
+medianos,medium
+mesa de noche,nightstand
+mesas de noche,Night tables
+objeto,object
+objetos,objects
+por ciento,percent
+renovaste,you renewed
+secciones,sections
+sección,section
+abogada,a lawyer
+abogadas,lawyers
+abogado,attorney
+abogados,lawyers
+asistente,attendee
+beneficio,benefit
+beneficios,Benefits
+búsqueda,search
+búsquedas,searches
+calculadora,calculator
+calculadoras,calculators
+contabilidad,accounting
+copia,copy
+copias,do you copy
+dedicado,dedicated
+dedicarse,dedicate
+desorganizada,disorganized
+desorganizadas,disorganized
+desorganizados,disorganized
+empleada,employee
+empleadas,employees
+empleado,employee
+empleados,staff
+exporta,export
+firma,signature
+ley,law
+leyes,laws
+me dedico,I dedicate myself
+nos dedicamos,Our services are
+producción,production
+producto,product
+productos,products
+profesional,professional
+profesionales,professionals
+profesiones,Professions
+profesión,profession
+quien,who
+rol,role
+roles,roles
+se dedica,is dedicated
+tercios,thirds
+valor,worth
+valores,values
+algodón,cotton
+apretadas,tight
+apretados,tight
+caja registradora,cash register
+cajero automático,ATM
+cajeros automáticos,ATMs
+calidad,quality
+calidades,qualities
+centro comercial,mall
+centros comerciales,malls
+de talla única,one size fits all
+diseño,design
+falta,lack
+faltan,missing
+fea,ugly
+feas,ugly
+feo,ugly
+feos,ugly
+gorro,hat
+gorros,caps
+importamos,we matter
+importan,matter
+importo,I import
+informal,informal
+informales,informal
+llevan,They carry
+llevar,wear
+llevas,you carry
+llevo,he took
+original,original
+originales,original
+por,for
+ropa interior,underwear
+sudadera,hoodie
+sudaderas,sweatshirts
+tamaño,size
+tamaños,sizes
+total,total
+commands21,commands21
+commands22,commands22
+commands23,commands23
+commands31,commands31
+commands32,commands32
+commands33,commands33
+atún,tuna
+batir,shake
+cereza,cherry
+compra,purchase
+durazno,peach
+duraznos,peaches
+especias,spices
+fresa,strawberry
+fresas,strawberries
+freír,fry
+helado,ice cream
+ingrediente,ingredient
+ingredientes,ingredients
+lechuga,lettuce
+libra,pound
+libras,pounds
+mayonesa,Mayonnaise
+maíz,corn
+meriendas,snacks
+mezcla,mixture
+microondas,microwave oven
+mostaza,mustard
+receta,recipe
+sabor,taste
+sabores,flavors
+vainilla,vanilla
+vinagre,vinegar
+a,a
+activas,active
+activo,active
+activos,active
+al mismo tiempo,at the same time
+basura,trash
+cepillabas,you brushed
+despertador,alarm clock
+divertirme,have fun
+divertirte,have fun
+ducharse,get a shower
+gemela,twin
+gemelo,twin
+lavarme,wash myself
+lavarse,wash up
+lavarte,wash yourself
+me maquillo,I put on make up
+me preocupaba,it worried me
+menos que,less than
+más que,more than
+nos cepillábamos,we brushed
+nos divertimos,we had fun
+nos levantábamos,we got up
+nos relajamos,we relax
+relajarse,relax
+rutina,routine
+sacarla,take it out
+sacas,you take out
+se cepillaban,they brushed
+se divierte,have fun
+se levantaban,they got up
+se preocupaba,He cared
+se preocupaban,they cared
+tanto como,as much as
+te diviertes,do you have fun
+te maquillas,do you make up
+tiempo libre,leisure
+antibiótico,antibiotic
+antibióticos,antibiotics
+análisis de sangre,blood test
+así,So
+bastantes,quite a few
+clínica,clinic
+clínicas,clinics
+codo,elbow
+codos,elbows
+dieta,diet
+dietas,subsistence allowance
+doctor,doctor
+doctora,doctor
+doctoras,female doctors
+doctores,doctors
+estrés,stress
+evitar,to avoid
+farmacia,pharmacy
+farmacias,pharmacy
+lo,it
+mareada,dizzy
+mareado,dizzy
+mayor,higher
+me enfermo,I get sick
+me quemo,I'm burning
+paciente,patient
+pacientes,patients
+peor,worse
+peso,weight
+piel,skin
+por suerte,Fortunately
+resfriadas,colds
+resfriado,a cold
+se enferma,gets sick
+se quemaron,they burned
+se quemó,it burned
+tos,cough
+arena,sand
+gigante,huge
+hacer,to do
+invisible,invisible
+mágico,magical
+poder,can
+saber,know
+sabrías,You'd know
+aprenderíamos,we would learn
+aprenderían,they would learn
+comería,would eat
+comerían,would eat
+comerías,would you eat
+competir,compete
+competiría,would compete
+competirías,would you compete
+concurso,contest
+conocerían,they would know
+cultura,culture
+culturas,cultures
+dormiríamos,we would sleep
+dormirían,they would sleep
+en
+                    mi lugar,in my place
+en su lugar,instead
+en tu lugar,in your place
+entre,Come in
+escribiría,would write
+imaginan,imagine
+imaginarias,imaginary
+imaginario,imaginary
+imaginas,imagine
+leerían,would read
+maravillosa,wonderful
+planeta,planet
+preferiría,I'd prefer
+secreta,secret
+secretas,secret
+secreto,secret
+secretos,secrets
+trabajarías,would you work
+u,or
+viajaríamos,we would travel
+viajarías,would you travel
+visitaría,would visit
+visitarías,would you visit
+viviría,would live
+éxito,success
+éxitos,hits
+abrazo,hug
+acepta,you accept
+aceptar,to accept
+aceptaste,you accepted
+acepto,I agree
+aceptó,I agree
+alegre,cheerful
+alegres,happy
+beso,kiss
+bodas,wedding
+caracteres,characters
+carácter,character
+carácteres,characters
+celebramos,we celebrated
+discoteca,discotheque
+divorcio,divorce
+en el,in it
+encantada,Haunted
+encantadas,enchanted
+encantados,delighted
+estado civil,marital status
+ex,ex
+excusa,excuse
+excusas,excuses
+hubo,was
+humor,humor
+me puse,i put on
+pareja,couple
+parejas,couples
+paseo,ride
+regalar,give a present
+regaló,present
+relación,relationship
+romance,Romance
+se puso,put on
+te pusiste,you put on
+a pie,walking
+anual,annual
+barrio,neighborhood
+barrios,neighborhoods
+circo,circus
+cola,line
+enorme,enormous
+enormes,huge
+entera,whole
+festival,festival
+festivales,festivals
+frutería,fruit store
+habitante,habitant
+las afueras,the outskirts
+mayoría,most
+monumento,monument
+monumentos,monuments
+parque de atracciones,theme park
+pasado mañana,day after tomorrow
+pasando,going
+pasar,happen
+pensar,to think
+piensan,think
+piensas,do you think
+plaza,square
+plazas,plazas
+principal,major
+principales,main
+quiosco,kiosk
+solamente,only
+terraza,terrace
+actual,current
+actualmente,at the moment
+artículo,Article
+artículos,articles
+causa,cause
+causas,Causes
+causó,caused
+crisis,crisis
+curiosa,curious
+curioso,curious
+daña,hurts
+daño,damage
+daños,damage
+escapen,escape
+escapó,escaped
+frecuente,frequent
+mundial,world
+paz,peace
+población,population
+por el momento,for the moment
+publicaron,published
+publicó,public
+reciente,recent
+recientemente,Recently
+recientes,recent
+según,according to
+silenciosa,silent
+silenciosamente,silently
+silenciosas,silent
+silencioso,silent
+silenciosos,silent
+situaciones,situations
+situación,situation
+zona,zone
+zonas,zones
+contestar,answer
+continuar,continue
+ratos,rats
+respuesta,reply
+seguimos,we continue
+seguir,continue
+sigo,I follow
+sigues,are you still
+anteayer,the day before yesterday
+arroba,at sign
+blog,Blog
+borramos,we delete
+borraste,you erased
+borré,I deleted
+buzón de
+                    voz,voicemail
+cable,wire
+chateamos,we chat
+chatear,chat
+chatearon,they chatted
+chateaste,you chatted
+chateó,chatted
+comunicarse,communicate
+conectamos,we connect
+conectar,connect
+conectarme,connect me
+conectaron,connected
+conecté,i connected
+conectó,connected
+crea,creates
+creamos,we create
+crean,create
+crear,create
+creas,you believe
+creé,i created
+creó,I believe
+exacta,exact
+exactas,exact
+experto,expert
+foro,forum
+informática,computing
+instalamos,we install
+instalar,to install
+instalaron,installed
+instalaste,you installed
+instaló,installed
+intentaste,you tried
+intentó,tried
+me conecté,I connected
+publicidad,advertising
+publicidades,advertisements
+página web,Web page
+páginas web,websites
+quedaron,were left
+quedé,I stayed
+quedó,stayed
+recordó,remembered
+se comunicaron,they communicated
+se comunicó,he has communicated
+se conectaron,they connected
+soluciones,solutions
+solución,solution
+subieron,went up
+subió,went up
+subí,I went up
+tableta,Tablet
+te comunicas,you communicate
+tecnología,technology
+tecnologías,technologies
+tema,theme
+temas,topics
+videojuego,videogame
+videojuegos,video game
+volvió,went back
+decisiones,decisions
+descripciones,descriptions
+descripción,description
+discutir,argue
+distinta,different
+distintas,different
+distinto,distinct
+distintos,different
+experiencia,experience
+experiencias,experiences
+honesto,honest
+importancia,importance
+imposible,impossible
+incorrecto,incorrect
+necesaria,necessary
+necesarias,necessary
+necesario,necessary
+necesarios,necessary
+o,either
+opciones,options
+opción,option
+opiniones,opinions
+opinión,opinion
+oportunidad,chance
+oportunidades,opportunities
+personales,personal
+progreso,progress
+ventaja,advantage
+ventajas,advantage
+única,only
+único,unique
+pasttense61,pasttense61
+pasttense62,pasttense62
+pasttense63,pasttense63
+alguien,someone
+amistad,friendship
+audiencia,audience
+caballero,Knight
+campesino,farmer
+campesinos,farmers
+ciudadana,citizen
+ciudadano,citizen
+ciudadanos,citizens
+con calma,calmly
+confiar,rely
+costumbre,custom
+costumbres,customs
+enemigo,enemy
+enemigos,enemies
+feria,fair
+gentes,people
+humanidad,humanity
+individuo,individual
+individuos,individuals
+matrimonio,marriage
+mil,one thousand
+nadie,no one
+ni,neither
+personalidad,personality
+revolución,revolution
+tercera,third
+tercero,third
+testigo,witness
+testigos,witnesses
+todos,everyone
+toneladas,tons
+trabajador,employee
+turismos,passenger cars
+tímido,shy
+vecino,neighbour
+víctima,victim
+víctimas,victims
+ayuntamiento,town hall
+colonia,Suburb
+colonias,colonies
+continente,continent
+continentes,continents
+criar,breed
+cárcel,jail
+estrecho,narrow
+hacienda,tax authorities
+hogar,home
+hogares,homes
+instituciones,institutions
+institución,institution
+instituto,Institute
+nación,nation
+oestes,wests
+palacio,palace
+parecer,seem
+pasado,last
+pasear,sightseeing
+patria,homeland
+pista,clue
+pistas,tracks
+puerto,port
+terreno,ground
+territorio,territory
+torre,tower
+torres,towers
+acuerdo,agreement
+acuerdos,agreements
+administración,administration
+agricultura,farming
+alcalde,mayor
+alcaldesa,mayoress
+arresto,arrest
+arrestos,arrests
+campaña,campaign
+candidata,candidate
+candidato,candidate
+candidatos,candidates
+civil,civil
+civiles,civilians
+comunidad,community
+conflicto,conflict
+conflictos,conflicts
+congreso,congress
+constitución,Constitution
+cooperación,cooperation
+corrupción,corruption
+crimen,crime
+debate,debate
+declaraciones,statements
+declaración,declaration
+defensa,defending
+democracia,democracy
+democrática,democratic
+democrático,democratic
+demócrata,democrat
+derecho,right
+derechos,Rights
+dictadura,dictatorship
+dictaduras,dictatorships
+discurso,speech
+diálogo,dialogue
+déficit,deficit
+ejército,army
+elecciones,elections
+elección,choice
+electoral,electoral
+electorales,electoral
+embajador,ambassador
+embajadora,ambassador
+estabilidad,stability
+estrategia,strategy
+federación,federation
+federal,federal
+gobernador,governor
+gobierno,government
+humano,human
+ilegal,illegal
+imperio,empire
+imperios,empires
+impuesto,tax
+impuestos,taxes
+independencia,independence
+justicia,Justice
+legislación,legislation
+libertad,Liberty
+líder,Leader
+líderes,leaders
+manifestaciones,demonstrations
+manifestación,manifestation
+ministerio,ministry
+ministra,minister
+ministro,Minister
+oposición,opposition
+organismo,organism
+organismos,organisms
+organizaciones,organizations
+organización,organization
+pobreza,poverty
+poderes,powers
+política,politics
+políticas,policies
+político,political
+políticos,politicians
+presidencia,presidency
+presidencial,presidential
+presupuesto,budget
+pública,public
+públicas,public
+público,public
+públicos,public
+republicano,republican
+república,republic
+riqueza,wealth
+riquezas,riches
+seguridad,safety
+senador,senator
+senadores,senators
+social,Social
+socialista,socialist
+sociedad,society
+violencia,violence
+amor,love
+autobiografía,autobiography
+breve,brief
+breves,brief
+capítulo,chapter
+capítulos,chapters
+charlar,to chat
+ciencia ficción,Science fiction
+creativa,creative
+creativo,creative
+empezarán,they will start
+escribiremos,we will write
+escribirás,you will write
+escritor,writer
+estudiaremos,will study
+estudiarán,they will study
+firmamos,we sign
+firman,sign
+firmará,will sign
+firmas,firms
+firme,sign
+firmo,I sign
+hispana,hispanic
+hispanos,hispanic
+leerlo,reading it
+leerán,they will read
+literatura,literature
+llamarse,called
+llamará,call to
+llamaré,I will call
+llegaremos,we will arrive
+llegará,reach
+llegaré,I will arrive
+novela,novel
+novelas,novels
+poema,poem
+protagonistas,protagonists
+párrafo,paragraph
+párrafos,paragraphs
+quedaremos,we will stay
+quedará,will remain
+quedarás,you will stay
+quedaré,I will stay
+romántica,romantic
+romántico,Romantic
+románticos,romantic
+se llamará,Will be called
+se llamarán,they will be called
+terminarás,you will finish
+terminaré,I will finish
+textos,texts
+traducirán,will translate
+traduciré,I will translate
+veremos,we will see
+verá,you will see
+verán,they will see
+verás,you will see
+veré,I will see
+a través de,via
+a través del,through the
+agrega,add
+asa,handle
+compre,I bought
+corte,court
+descanse,rest
+empuje,push
+envíe,send
+estacione,park
+llene,fill
+oigan,listen
+organiza,organize
+pasa,happens
+pongan,put
+prepara,prepare
+prepare,prepare
+regrese,I am back
+repare,I fixed
+reserve,reserve
+salgan,come out
+seca,dry
+tengan,have
+traigan,bring
+uso,use
+vengan,come
+zapatos deportivos,sports shoes
+academia,academy
+academias,academies
+acento,accent
+autor,Author
+autora,author
+autoras,authors
+biografía,Biography
+caminando,walking
+cocinando,cooking
+corriendo,in a hurry
+corrigiendo,correcting
+eligiendo,picking out
+en este momento,at this time
+ficción,fiction
+heroína,heroin
+heroínas,heroines
+héroe,hero
+llamando,calling
+llamándolo,calling him
+línea,line
+líneas,lines
+multiplicar,multiply
+multiplicarlos,multiply them
+números,numbers
+respondiendo,answering
+siguiendo,Following
+tomando,taking
+viendo,watching
+visitando,visiting
+visitándolos,visiting them
+aprobarás,you will approve
+apruebas,you approve
+apruebo,I approve
+apuntes,notes
+contar,count
+contaste,did you count
+contenido,content
+contenidos,contents
+conté,counted
+corregirlas,correct them
+corrige,correct
+corrigen,correct
+corriges,you correct
+corrijo,I correct
+cuentan,count
+frase,sentence
+frases,phrases
+instructor,instructor
+instructoras,instructors
+instructores,instructors
+lecciones,lessons
+memorizan,they memorize
+memorizarla,memorize it
+recordar,remind
+repaso,review
+resultado,Outcome
+resultados,results
+resumen,resume
+significado,meaning
+traducen,translate
+traduzco,I translate
+atletas,athletes
+histórica,historical
+infancias,childhoods
+los años,the years
+personajes,characters
+período,period
+torneos,tournaments
+árbitro,referee
+agencia,agency
+antigua,ancient
+antiguas,ancient
+antiguo,ancient
+antiguos,ancient
+conexión,Connection
+código postal,Postal Code
+códigos postales,zip codes
+destino,destiny
+dirección,direction
+directo,straight
+directos,direct
+distancia,distance
+distancias,distances
+dueña,owner
+dueñas,owners
+dueño,owner
+dueños,owners
+espectacular,spectacular
+espectaculares,spectacular
+estaciones,seasons
+frontera,border
+fronteras,borders
+hispanohablante,Spanish-speaking
+hispanohablantes,Spanish speakers
+itinerario,itinerary
+llegada,arrival
+llegadas,Arrivals
+milla,mile
+millas,miles
+ruinas,ruins
+tour,tour
+típica,typical
+típicos,typical
+al conducir,when driving
+al cruzar,to cross
+al entrar,to enter
+al escuchar,when listening
+al llegar,arriving
+al regresar,when returning
+al salir,Upon leaving
+al ver,seeing
+bajarse,Get down
+bajarte,get off
+cómo puedo ir,How can I go
+funcionan,do they work
+funcionar,function
+me bajo,I get off
+me caigo,I fall down
+me puede cambiar,can you change me
+me río,I laugh
+nos bajamos,we down
+nos caemos,we fall
+nos reímos,we laugh
+pediré,I will ask
+pediste,you asked
+pedí,I asked
+pidieron,they asked
+pidió,asked
+se bajan,they get off
+se cae,it falls
+se caen,they fall
+se ríe,Serie
+se ríen,They laugh
+suena,dream
+te caes,you fall
+te ríes,you laugh
+caer,fall out
+costa,coast
+costas,coasts
+des,des
+desconocida,unknown
+desconocido,a stranger
+despertar,wake
+digas,you say
+exploras,you explore
+frágil,fragile
+frágiles,fragile
+galería,Gallery
+grupo,cluster
+hagas,you do
+local,local
+locales,local
+oficina de correos,post Office
+polvo,dust
+polvos,powder
+pongas,put
+regiones,regions
+región,region
+salgas,come out
+sentir,to feel
+suelo,I usually
+taxista,cabbie
+taxistas,taxi drivers
+tengas,have
+terremoto,earthquake
+terremotos,earthquakes
+tigre,tiger
+vayas,go
+vengas,come on
+aburrirse,get bored
+anteriormente,previously
+banda,band
+recomendado,recommended
+vendido,sold out
+versión,version
+último,latest
+arrogante,arrogant
+desempleado,unemployed
+fotocopia,photocopy
+las afueras de la
+                    ciudad,the outskirts of the city
+llevarse,carry off
+primer piso,first floor
+sala de reunión,Conference room
+sincero,sincere
+ayúdala,help her
+billete,ticket
+cajero,cashier
+cuenta,bill
+depositar,to deposit
+léalo,read it
+moneda,coin
+requisito,requirement
+sucursal,branch office
+aprendan,learn
+completar,to complete
+economía,economy
+escribas,write
+estudies,study
+hablen,talk
+leas,read
+método,method
+sociología,sociology
+fuera,outside
+se almuerza,Have lunch
+se desayuna,have breakfast
+se puede
+                    cenar,you can have dinner
+se puede ir,you can go
+se trabaja,you work
+se vive,you live
+tradicionales,traditional
+elegí,I chose
+eligió,elected
+entrada,entrance
+plato principal,main dish
+preferí,I preferred
+prefirió,preferred
+repetí,I repeated
+repitió,repeated
+serví,I served
+sirvió,served
+callado,reserved
+conversador,talkative
+cuadro,picture
+deprimido,depressed
+exposición,exposition
+extrovertido,outgoing
+fotografía,Photography
+obra de arte,artwork
+arreglar,arrange
+cargador,charger
+control remoto,remote control
+mensaje de voz,voicemail
+red social,social network
+reenviar,Resend
+sin
+                    querer,unintentionally
+wifi,Wifi
+conseguir,get
+dar igual,don't care
+habías,you had
+olvidado,forgotten
+prometido,fiance
+serie,Serie
+aspirina,aspirin
+fiebre,fever
+garganta,throat
+gripe,flu
+hombro,shoulder
+lastimarse,injure
+llame,I called
+mucho,a lot of
+rodilla,knee
+se preocupe,worry
+en contra de,against
+en serio,really
+enojarse,get angry
+equivocarse,make a mistake
+lo que,what
+locura,craziness
+opuesto,opposite
+sinceramente,to be honest
+tontería,nuisance
+ayúdame,Help me
+dale,Go ahead
+dile,tell him
+equivocado,wrong
+explícame,explain to me
+explícamelo,explain it to me
+préstame,Lend me
+préstamelo,lend me
+pídele,ask him
+pídeselo,ask him
+aumentar,increase
+avisar,warn
+iba a,was going to
+iban a,They went to
+nunca más,never more
+portarse,behave
+prometer,pledge
+sueldo,salary
+asesino,killer
+daba,gave
+de terror,Horror
+el otro día,the other day
+esconderse,hide
+grito,scream
+oscuridad,darkness
+pesadilla,nightmare
+sombra,shadow
+campeonato,championship
+desempleo,unemployment
+enterado,aware
+final,final
+liga,league
+medida,measure
+publicado,published
+tomado,taken
+conferencia,conference
+contrato,contract
+es bueno que,It's good that
+es mejor que,is better than
+por mi parte,for me
+preferir que,prefer that
+proponer,propose
+revisar,check
+pasttense71,pasttense71
+pasttense72,pasttense72
+pasttense73,pasttense73
+alojamiento,accommodation
+caribe,Caribbean
+compremos,let's buy
+decidamos,let's decide
+hostal,lodging house
+lujo,luxury
+pasarla bien,have fun
+veamos,let's see
+y si,and yes
+pronouns1,pronouns1
+pronouns2,pronouns2
+pronouns3,pronouns3
+pronouns,pronouns
+abrazar,hug
+ansioso,anxious
+divorciarse,divorce
+enamorarse,fell in love
+luna de miel,Honeymoon
+para siempre,forever
+por amor,for love
+por mi culpa,because of me
+pulsera,bracelet
+voz,voice
+cabaña,cabin
+comienzo,start
+desde que,since
+despierto,awake
+durar,to last
+en punto,o'clock
+extrañar,miss
+sin parar,non-stop
+campeonas,champions
+campeón,champion
+cancha,court
+de pie,standing
+descenso,decline
+entrenamiento,training
+futbolista,soccer player
+gol,goal
+goles,goals
+golfista,golfer
+haya,is
+juntarse,get together
+tenista,tennis player
+torneo,tournament
+subj11,subj11
+subj12,subj12
+subj13,subj13
+subj,subj
+subj21,subj21
+subj22,subj22
+subj23,subj23
+auto,auto
+cruces,crosses
+dobles,double
+prohibido,forbidden
+semáforo,traffic lights
+toma,taking
+tránsito,transit
+ubicación,Location
+buscar,seek
+busqué,I searched
+de vacaciones,vacation
+jugar,play
+jugué,i played
+madrastra,stepmother
+padrastro,stepfather
+sobrino,nephew
+tiburón,shark
+despejado,clear
+humedad,humidity
+llegar,arrive
+pronóstico,forecast
+rayo,lightning
+templado,tempered
+tiempo,weather
+tormenta eléctrica,electric storm
+trueno,thunder
+aprenda,learn
+comamos,let's eat
+comedia,comedy
+en vez de,instead of
+graduación,graduation
+trabajes,you work
+turístico,tourist
+viajen,travel
+vivan,live
+anterior,former
+celebridad,celebrity
+entrevistar,to interview
+episodio,episode
+espectador,viewer
+estreno,premiere
+exhibición,exhibition
+presentador,presenter
+retrato,portrait
+subtítulo,caption
+concentrarse,concentrate
+correctamente,correctly
+desaprobar,disapprove
+duro,Lasted
+experimento,experiment
+laboratorios,laboratories
+lento,slow
+promedios,averages
+totalmente,completely
+algunos de,some of
+arma,weapon
+atacar,attack
+bombas,bombs
+delincuente,offender
+explotar,blow
+la mitad de,half of
+terrorista,terrorist
+un tercio de,a third of
+uno de,one of
+mariscos,seafood
+puede ser,could be
+servilleta,napkin
+sería posible,it would be possible
+tocino,bacon
+traería,bring
+aro,ring
+chaleco,vest
+colorido,colorful
+combinar,combine
+lino,linen
+raya,stripe
+saco,coat
+suelto,loose
+zapatilla,shoe
+avena,oatmeal
+calentar,to warm
+cocinemos,let's cook
+despierte,wake up
+huevos revueltos,scrambled eggs
+lasaña,lasagna
+merendar,to snack
+quiera,want
+recordar a,will remember
+recuerde,remember
+aceptable,acceptable
+atender,attend
+lógicas,logical
+manchado,stained
+plazo,term
+promoción,promotion
+quejarse,to complain
+vencido,defeated
+atención,attention
+negocio,deal
+ni siquiera,not even
+queja,complaint
+supervisor,supervisor
+algún día,someday
+cara a cara,face to face
+cuanto antes,sooner
+dudar,dude
+dudar que,doubt that
+perdonar,forgive
+sensato,sensible
+arroyo,stream
+atracción,attraction
+bahía,bay
+ballena,whale
+cultivo,crop
+delfín,Dolphin
+desastre,disaster
+esencial,essential
+marino,Marine
+ola,wave
+bucear,Diving
+debe haber,there must be
+debe haber sido,must have been
+desafío,challenge
+dolido,hurt
+doloroso,painful
+justos,fair
+sucedido,happened
+victoria,victory
+echar,throw
+entrenador,coach
+escúchalo,listen to it
+grites,scream
+lancen,throw
+pegar,paste
+penal,penal
+portero,goalie
+pásame,pass me
+tírame,throw me
+dar las gracias,give the thanks
+de nada,you are welcome
+gracias a,thanks to
+gracias por,thank you for
+gusto,taste
+mil gracias,thank you
+muchas gracias,Thanks a lot
+no hay de qué,you `re welcome
+no hay
+                    problema,No problem
+ramo,bouquet
+comenzado,started
+considerar,to consider
+construcción,building
+dificultad,difficulty
+                    total,total
+financiero,financial
+industrias,industries
+producir,produce
+reunido,gathered
+trimestre,trimester
+dentro de,within
+embarazado,pregnant
+estricto,strict
+fallecer,die
+internar,intern
+pechos,breasts
+pesar,weigh
+urgentemente,urgently
+afeitador,shaver
+afeitarse,shave
+cambiar,change
+corporal,bodily
+desodorante,deodorant
+loción,lotion
+peluquero,hairdresser
+protector solar,sunscreen
+rizado,curly
+secador de
+                    pelo,hair dryer
+admitir,to admit
+alcaldesas,female mayors
+económico,economic
+intercambiar,to exchange
+ministras,ministers
+podría ser,could be
+punto,point
+yo diría,I would say
+bajémonos,let's get off
+doblemos,let's fold
+embotellamiento,traffic jam
+hora pico,rush hour
+motos,motorcycles
+parada,stop
+rotonda,roundabout
+vámonos,Let's go
+pasttense81,pasttense81
+pasttense82,pasttense82
+pasttense83,pasttense83
+cariñoso,affectionate
+celoso,jealous
+es posible que,It is possible that
+furioso,furious
+hacer una
+                    broma,make a joke
+nada más,nothing more
+tomar con
+                    calma,take it easy
+pronouns21,pronouns21
+pronouns22,pronouns22
+pronouns23,pronouns23
+cosmético,cosmetic
+formal,formal
+mostrar,to show
+perla,pearl
+regalártelo,give it to you
+salón de belleza,beauty salon
+sofisticado,sophisticated
+tacón,heel
+unos cuantos,some
+a dónde,where
+carta de presentación,presentation letter
+desde cuándo,since when
+hasta dónde,until where
+ingeniería,engineering
+multinacional,multinational
+periodista,journalist
+por dónde,where
+renunciar,resign
+secretario,secretary
+apenas,barely
+bombilla,lightbulb
+enseguida,right away
+garantía,warranty
+prender,turn on
+reparación,repair
+se paga,it is paid
+se puede,It can
+similares,Similar
+ciudad natal,native city
+cumplir,comply
+menor,minor
+pariente,relative
+sexto,sixth
+valer la pena,worth
+visitado,visited
+subj31,subj31
+subj32,subj32
+subj33,subj33
+subj41,subj41
+subj42,subj42
+subj43,subj43
+amanecer,dawn
+aterrizar,to land
+bañarse,bath
+casi nunca,rarely
+despegar,take off
+dormirse,fall sleep
+embarcar,embark
+escala,scale
+leyenda,legend
+viajero,traveler
+apurarse,hurry
+bombero,fireman
+cargar gasolina,refuel
+disminuir,diminish
+humos,fumes
+parabrisas,windshield
+socorro,Help
+tardar,delay
+velocidades,speeds
+armar,to assemble
+carpa,large tent
+mochilero,backpacker
+punto de encuentro,meeting point
+senderismo,trekking
+sí,Yeah
+sí o sí,Yes or yes
+yo no,I do not
+yo sí,I do
+acercarse,getting closer
+asustarse,get scared
+gata,cat
+gatas,cats
+lobo,wolf
+mosca,fly
+orilla,bank
+oíste que,did you hear that
+permitir,let
+tortuga,turtle
+tortugas,turtles
+al aire libre,outdoor
+desilusionado,disappointed
+discusiones,discussions
+estuviera,I was
+evidente,evident
+fuéramos,let's go
+introvertido,introvert
+ojalá,I wish
+tuviera,had
+ahorra,save
+comercial,commercial
+cómpralo,buy it
+cómprelo,buy it
+encuentre,find
+fenomenal,phenomenal
+novedad,novelty
+suscribirse,to subscribe
+atraer,Attract
+día de los muertos,Day of the Dead
+festejar,celebrate
+fuegos artificiales,Fireworks
+janucá,hanukkah
+judío,Jewish
+se festeja,is celebrated
+democracias,democracies
+ecología,ecology
+educación,education
+esperanzas,hopes
+haber,to have
+investigar,investigate
+noticiero,news
+adolescencia,adolescence
+brevemente,briefly
+comportamientos,behaviors
+controlar,check
+familiares,relatives
+meterse en problemas,get into trouble
+trabajara,will work
+¿no crees?,don't you think?
+bandeja,tray
+colgar,hang
+de alto,High
+de largo,long
+de madera,of wood
+decorar,decorate
+medir,to size
+metal,metal
+persiana,blind
+remodelar,remodel
+esconder,hide
+estatua,statue
+inevitable,inevitable
+mil millones,billion
+no puedo creer que,I can not believe that
+princesa,princess
+príncipes,princes
+robar,Steal
+cartón,paperboard
+grado,degree
+guardería,kindergarten
+jardín de infantes,Kinder garden
+noveno,nineth
+odiar que...,hate that...
+pronunciar,to pronounce
+qué raro que,how strange that
+rectángulo,rectangle
+antes de que,before
+aproximado,approximate
+cortar,cut
+desenchufar,unplug
+electricista,electrical technician
+gases,gases
+plomero,plumber
+pérdida,lost
+adjuntar,to attach
+buscador,seeker
+celular,mobile
+estafar,cheat
+los de,those of
+nombre de usuario,Username
+rúter,router
+arruinar,spoil
+crecer,grow up
+cultivar,cultivate
+frutal,fruity
+helada,frost
+llovido,rained
+plantar,plant
+terrenos,land
+trigo,wheat
+atención médica,medical care
+inscribirse,register
+mayor de,greater than
+menor de,less than
+médico,medical
+obtener,get
+seguro,sure
+seguro social,social Security
+solicitar,apply for
+tarifa,fee
+aparentemente,apparently
+astronauta,astronaut
+colaborar,to collaborate
+detective,detective
+dirigir,lead
+estar a cargo,be in charge
+lo interesante,the interesting
+lo más importante,the most important
+se supone que,be supposed to
+bigote,mustache
+en voz baja,quietly
+lo es,it is
+lo está,it is
+mellizo,twin
+pianista,Pianist
+soportar,put up with
+séptimo,seventh
+passive1,passive1
+passive2,passive2
+passive3,passive3
+passive,passive
+acostado,lying down
+comiera,eat
+diabético,diabetic
+fibra,fiber
+gota,gout
+muñeca,wrist
+primeros auxilios,first aid
+tobillo,ankle
+urgencia,urgency
+vitamina,vitamin
+calabacín,zucchini
+docena,dozen
+espinaca,spinach
+guisante,pea
+líquido,liquid
+olla,cooking pot
+pimiento,pepper
+verdulería,greengrocery
+al revés,upside down
+disculparse,apologize
+echar una mano,give a helping hand
+es una
+                    pena que,it's a pity that
+mantel,tablecloth
+poner la mesa,set the table
+qué mala
+                    suerte,What a bad luck
+regar,water
+asiático,Asian
+ayudante,assistant
+de tiempo parcial,part time
+estadía,stay
+guiar,guide
+químico,chemical
+sudeste,southeast
+valle,Valley
+subj51,subj51
+subj52,subj52
+subj53,subj53
+subj61,subj61
+subj62,subj62
+subj63,subj63
+calzoncillos,underpants
+casco,helmet
+corte de pelo,haircut
+derramar,to spill
+maletero,trunk
+no me digas,do not tell me
+no puede ser,can not be
+peinarse,to comb
+tomar el
+                    pelo,Pull the leg
+batiendo,beating
+calabaza,pumpkin
+cantando,singing
+hervir,to boil
+hirviendo,boiling
+leche descremada,skim milk
+participante,competitor
+programa de cocina,Cooking show
+a continuación,then
+aparecer,Appear
+apodo,Nickname
+diseñador,designer
+estilista,stylist
+peinado,hairstyle
+presentar,present
+volviendo al
+                    tema,Back to the topic
+ambiente,ambient
+condición,condition
+decidieran,they decided
+hablaran,they will talk
+llamara,call to
+medidas,measures
+viera,saw
+británica,british
+embajadores,ambassadors
+monarquía,monarchy
+organizarse,get organized
+partido,match
+primer ministro,Prime Minister
+protestar,to protest
+publicarse,be published
+sudamericano,South American

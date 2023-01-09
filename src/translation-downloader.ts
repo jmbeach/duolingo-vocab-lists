@@ -1,65 +1,74 @@
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
-import WordParser from './wordparser';
-import DuolingoClient from './duolingoclient';
-import * as GoogleTranslate from 'google-translate';
-import * as fs from 'fs';
-
+import DuolingoClient from './duolingoclient.ts';
+import googleTranslate from './google-translate.ts';
+import CourseDataParser from './course-data-parser.ts';
+import DownloadedWordParser from './downloaded-word-parser.ts';
 
 export default class TranslationDownloader {
-    htmlPagePath: string;
-    googleApiKey: string;
-    skillTreePath: string
-    constructor(skillTreePath: string, htmlPagePath: string, googleApiKey: string) {
-        this.htmlPagePath = htmlPagePath;
-        this.googleApiKey = googleApiKey;
-        this.skillTreePath = skillTreePath;
-    }
+  htmlPagePath: string;
+  googleApiKey: string;
+  courseDataPath: string;
+  fromLanguage = 'es';
+  toLanguage = 'en';
+  constructor(
+    courseDataPath: string,
+    htmlPagePath: string,
+    googleApiKey: string
+  ) {
+    this.htmlPagePath = htmlPagePath;
+    this.googleApiKey = googleApiKey;
+    this.courseDataPath = courseDataPath;
+  }
 
-    downloadTranslation() {
-        const fileBody = fs.readFileSync(this.htmlPagePath, {
-            encoding: 'utf8'
-        });
-        const skillTree = JSON.parse(fs.readFileSync(this.skillTreePath, 'utf-8'))
-        const parser = new WordParser(fileBody, skillTree);
-        const client = new DuolingoClient();
-        const parsedCourse = parser.parse();
-        const translateClient = GoogleTranslate(this.googleApiKey);
+  downloadTranslation() {
+    const fileBody = Deno.readTextFileSync(this.htmlPagePath);
+    const rawCourseData = JSON.parse(
+      Deno.readTextFileSync(this.courseDataPath)
+    );
+    const courseData = new CourseDataParser(rawCourseData).parse();
+    const parser = new DownloadedWordParser(fileBody, courseData);
+    const client = new DuolingoClient();
+    const parsedCourse = parser.parse();
 
-        const translate = async () => {
-            for (let partName in parsedCourse) {
-                const part = parsedCourse[partName];
-                for (let skillName in part) {
-                    const skill = part[skillName];
-                    for (let word in skill.words) {
-                        const translation = await client.getDefinition('es', 'en', encodeURI(word))
-                            .catch(err => {
-                                console.error('could not translate word from duolingo. trying google translate', word);
-                                const p = new Promise((resolve, reject) => {
-                                    translateClient.translate(word, 'es', 'en', (err, result) => {
-                                        if (err) {
-                                            console.error(err);
-                                            throw err;
-                                        }
+    const translate = async () => {
+      for (const sectionName in parsedCourse.sections) {
+        const part = parsedCourse.sections[sectionName];
+        for (const skillId of part) {
+          const skill = parsedCourse.skills[skillId];
+          for (const word in skill.words) {
+            let translation;
+            try {
+              translation = await client.getDefinition(
+                this.fromLanguage,
+                this.toLanguage,
+                encodeURI(word)
+              );
+            } catch (err) {
+              console.error(
+                'could not translate word from duolingo. trying google translate',
+                word
+              );
 
-                                        let translations = [];
-                                        translations.push(result.translatedText);
-                                        resolve(translations);
-                                    });
-                                });
-
-                                return p;
-                            });
-                        console.log(word, translation);
-                        parsedCourse[partName][skillName].words[word].translations = translation;
-                    }
-                }
+              translation = (
+                await googleTranslate({
+                  key: this.googleApiKey,
+                  q: word,
+                  source: this.fromLanguage,
+                  target: this.toLanguage,
+                })
+              ).data.data.translations.map(x => x.translatedText);
             }
-
-            fs.writeFileSync(this.htmlPagePath.replace('.html', '.json'), JSON.stringify(parsedCourse));
+            console.log(word, translation);
+            parsedCourse.skills[skillId].words[word].translations = translation;
+          }
         }
+      }
 
-        translate();
-    }
+      Deno.writeTextFileSync(
+        this.htmlPagePath.replace('.html', '.json'),
+        JSON.stringify(parsedCourse)
+      );
+    };
+
+    translate();
+  }
 }
-
