@@ -1902,7 +1902,7 @@ derecho,"right, straight"
 detrás,"behind, after"
 direcciones,"directions, addresses"
 disculpa,excuse me
-disculpe, señor,excuse me sir
+"disculpe, señor",excuse me sir
 enfrente,"in front, opposite, across"
 entre,"between, among, (he) enters"
 esperando,"waiting, waiting for"
@@ -2858,8 +2858,7 @@ cereal,cereal
 cereales,cereals
 comía,I used to eat
 comías,you ate
-de
-                    niña,of girl
+de niña,of girl
 de niño,as a child
 era,it was
 eras,ages
@@ -2935,8 +2934,7 @@ durmió,slept
 maquillaje,make-up
 me acosté,I went to bed
 me desperté,I woke up
-me
-                    duché,I showered
+me duché,I showered
 me lavé,I washed
 me probé,i tried myself
 me quedé,I stayed
@@ -3145,8 +3143,7 @@ prepararlo,set it up
 prepararlos,prepare them
 variedad,variety
 variedades,varieties
-y
-                    medio,and a half
+y medio,and a half
 yogur,yogurt
 yogures,yogurts
 actividad,exercise
@@ -3428,8 +3425,7 @@ los lunes,on Monday
 los maestros,teachers
 los médicos,the doctors
 los padres,parents
-los
-                    perros,dogs
+los perros,dogs
 oso,bear
 peligroso,dangerous
 pesadas,heavy
@@ -3438,7 +3434,7 @@ rápido,Quick
 útil,Useful
 útiles,tools
 anuncio,advertisement
-archivo,File, Archive
+archivo,"File, Archive"
 canal,channel
 canales,channels
 dijeron,they said
@@ -3751,8 +3747,7 @@ conversaste,you talked
 converso,convert
 conversé,I talked
 conversó,convert
-cómo
-                    le va,how are you
+cómo le va,how are you
 cómo te va,how's it going
 donde,where
 invitaciones,invitations
@@ -4030,8 +4025,8 @@ gastaste,you spent
 gasto,spent
 gastó,spent
 me acostaba,I went to bed
-me acostaré,i will lie down
-                    fui,I left
+me acostaré,i will lie down 
+fui,I left
 me iba,I was leaving
 me iré,I will go
 menos mal,goodness
@@ -4118,8 +4113,7 @@ llevarnos bien,to get along
 llevarse bien,get along
 llevarte bien,get along
 me llevaba bien,I got along
-me llevo
-                    bien,I get on well
+me llevo bien,I get on well
 mesita,small table
 normal,normal
 nos casamos,We married
@@ -4252,8 +4246,7 @@ se la,I know the
 se las,I know them
 se los,I know them
 software,software
-tú
-                    se,you know
+tú se,you know
 web,Web
 él se,he knows
 acaba de,just
@@ -4637,8 +4630,7 @@ compren,buy
 cuál quiere,which one do you want
 cuál quieres,which one do you want
 cuáles quiere,which ones do you want
-cómo quiere
-                    pagar,how would you like to pay
+cómo quiere pagar,how would you like to pay
 cómo quieres pagar,how do you want to pay
 decidan,decide
 deciden,decide
@@ -4735,8 +4727,7 @@ esquío,I ski
 felicitaciones,Congratulations
 instrumento,instrument
 instrumentos,instruments
-me cae
-                    bien,I like him
+me cae bien,I like him
 me cae mal,I dislike
 mejor,better
 musical,musical
@@ -4864,8 +4855,7 @@ señala,points
 señalar,point
 sonar,Dream
 ten,have
-ven
-                    acá,come here
+ven acá,come here
 vete,go away
 ahorrar,save
 alquilar,rent
@@ -4895,8 +4885,7 @@ soñamos,we dream
 sueña,it sounds
 sueño,sleep
 te vas,you go
-a mí
-                    me gusta,I like it
+a mí me gusta,I like it
 a él le gustan,he likes
 centímetros,centimeters
 es segura,it is safe
@@ -5322,8 +5311,7 @@ cultura,culture
 culturas,cultures
 dormiríamos,we would sleep
 dormirían,they would sleep
-en
-                    mi lugar,in my place
+en mi lugar,in my place
 en su lugar,instead
 en tu lugar,in your place
 entre,Come in
@@ -5465,8 +5453,7 @@ blog,Blog
 borramos,we delete
 borraste,you erased
 borré,I deleted
-buzón de
-                    voz,voicemail
+buzón de voz,voicemail
 cable,wire
 chateamos,we chat
 chatear,chat
@@ -5985,8 +5972,7 @@ versión,version
 arrogante,arrogant
 desempleado,unemployed
 fotocopia,photocopy
-las afueras de la
-                    ciudad,the outskirts of the city
+las afueras de la ciudad,the outskirts of the city
 llevarse,carry off
 primer piso,first floor
 sala de reunión,Conference room
@@ -6012,8 +5998,7 @@ sociología,sociology
 fuera,outside
 se almuerza,Have lunch
 se desayuna,have breakfast
-se puede
-                    cenar,you can have dinner
+se puede cenar,you can have dinner
 se puede ir,you can go
 se trabaja,you work
 se vive,you live
@@ -6042,8 +6027,7 @@ control remoto,remote control
 mensaje de voz,voicemail
 red social,social network
 reenviar,Resend
-sin
-                    querer,unintentionally
+sin querer,unintentionally
 wifi,Wifi
 conseguir,get
 dar igual,don't care
@@ -6314,14 +6298,13 @@ gusto,taste
 mil gracias,thank you
 muchas gracias,Thanks a lot
 no hay de qué,you `re welcome
-no hay
-                    problema,No problem
+no hay problema,No problem
 ramo,bouquet
 comenzado,started
 considerar,to consider
 construcción,building
-dificultad,difficulty
-                    total,total
+dificultad,difficulty 
+total,total
 financiero,financial
 industrias,industries
 producir,produce
@@ -6344,8 +6327,7 @@ loción,lotion
 peluquero,hairdresser
 protector solar,sunscreen
 rizado,curly
-secador de
-                    pelo,hair dryer
+secador de pelo,hair dryer
 admitir,to admit
 alcaldesas,female mayors
 económico,economic
@@ -6369,11 +6351,9 @@ cariñoso,affectionate
 celoso,jealous
 es posible que,It is possible that
 furioso,furious
-hacer una
-                    broma,make a joke
+hacer una broma,make a joke
 nada más,nothing more
-tomar con
-                    calma,take it easy
+tomar con calma,take it easy
 pronouns21,pronouns21
 pronouns22,pronouns22
 pronouns23,pronouns23
@@ -6599,12 +6579,10 @@ verdulería,greengrocery
 al revés,upside down
 disculparse,apologize
 echar una mano,give a helping hand
-es una
-                    pena que,it's a pity that
+es una pena que,it's a pity that
 mantel,tablecloth
 poner la mesa,set the table
-qué mala
-                    suerte,What a bad luck
+qué mala suerte,What a bad luck
 regar,water
 asiático,Asian
 ayudante,assistant
@@ -6628,8 +6606,7 @@ maletero,trunk
 no me digas,do not tell me
 no puede ser,can not be
 peinarse,to comb
-tomar el
-                    pelo,Pull the leg
+tomar el pelo,Pull the leg
 batiendo,beating
 calabaza,pumpkin
 cantando,singing
@@ -6645,8 +6622,7 @@ diseñador,designer
 estilista,stylist
 peinado,hairstyle
 presentar,present
-volviendo al
-                    tema,Back to the topic
+volviendo al tema,Back to the topic
 ambiente,ambient
 condición,condition
 decidieran,they decided
